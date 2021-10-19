@@ -17,3 +17,13 @@ linkSelector = "span.show_title a"
 contentSelector = "td.show_date"
 imageSelector = "div.thumb_90x125.img a img"
 waitUntil = "networkidle"
+
+[veloso]
+title = "멜론 티켓 ─ 벨로주"
+url = "https://ticket.melon.com/place/index.htm?placeId=12"
+entrySelector = "tbody[id='list_list'] tr"
+titleSelector = "span.show_title"
+linkSelector = "span.show_title a"
+contentSelector = "td.show_date"
+imageSelector = "div.thumb_90x125.img a img"
+waitUntil = "networkidle"
