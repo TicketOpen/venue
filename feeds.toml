@@ -1,0 +1,9 @@
+[rollinghall]
+title = "멜론 티켓 ─ 롤링홀"
+url = "https://ticket.melon.com/place/index.htm?placeId=43"
+entrySelector = "tbody[id='list_list'] tr"
+titleSelector = "span.show_title"
+linkSelector = "span.show_title a"
+contentSelector = "td.show_date"
+imageSelector = "div.thumb_90x125.img a img"
+waitUntil = "networkidle"
