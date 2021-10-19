@@ -5,3 +5,4 @@
 - 프리즘홀: https://ticketopen.github.io/venue/prismhall.xml
 - 벨로주: https://ticketopen.github.io/venue/veloso.xml
 - 구름아래소극장: https://ticketopen.github.io/venue/gurumare.xml
+- 상상마당: https://ticketopen.github.io/venue/sangsangmadang.xml
