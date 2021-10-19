@@ -17,3 +17,13 @@ linkSelector = "span.show_title a"
 contentSelector = "td.show_date"
 imageSelector = "div.thumb_90x125.img a img"
 waitUntil = "networkidle"
+
+[prismhall]
+title = "프리즘홀"
+url = "https://www.kamimusic.com/tobe"
+entrySelector = "//div[@class='info-element-text']"
+titleSelector = "//div[@class='info-member info-element-title']/span"
+linkSelector = "a"
+contentSelector = "//div[@class='info-member info-element-description']/span"
+imageSelector = "//div[1]/picture/img"
+waitUntil = "networkidle"
