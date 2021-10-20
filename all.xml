@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Oct 2021 04:17:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Oct 2021 05:12:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -86,6 +86,14 @@
             <pubDate>Tue, 19 Oct 2021 15:44:11 GMT</pubDate>
             <content:encoded><![CDATA[2021.11.07  ~<br> 2021.11.07]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2021/10/202110081528173f286a32-c7ca-4728-9012-f4d84bfd80e0.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[마포Fm 스틸 얼라이브 4주년 콘서트 김훨＆정우 (멜론 티켓 ─ 프리즘홀)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=206280</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=206280</guid>
+            <pubDate>Wed, 20 Oct 2021 05:11:58 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.20  ~<br> 2021.11.20]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2021/10/2021101910100510872826-5bac-4600-bcaa-dd07fca2dfc2.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[다린 세번째 미니앨범 〈갈래〉 발매 기념 콘서트 (멜론 티켓 ─ 벨로주)]]></title>
