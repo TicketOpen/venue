@@ -4,7 +4,7 @@
         <title>멜론 티켓 ─ 프리즘홀</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Oct 2021 02:33:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Oct 2021 03:14:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Tue, 19 Oct 2021 15:44:11 GMT</pubDate>
             <content:encoded><![CDATA[2021.11.07  ~<br> 2021.11.07]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2021/10/202110081528173f286a32-c7ca-4728-9012-f4d84bfd80e0.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[아티스트를 위한 엑셀러레이팅 콘서트 ［로．프．스］]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=206287</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=206287</guid>
+            <pubDate>Mon, 25 Oct 2021 03:14:13 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.13  ~<br> 2021.11.14]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2021/10/2021102109153306faa3e6-790f-4a71-9ebb-9885e93685dd.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[먼데이프로젝트 시즌4［차세대 단독 콘서트］]]></title>
