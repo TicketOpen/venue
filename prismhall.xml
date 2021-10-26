@@ -4,7 +4,7 @@
         <title>멜론 티켓 ─ 프리즘홀</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Oct 2021 14:13:21 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Oct 2021 15:15:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -54,6 +54,14 @@
             <pubDate>Wed, 20 Oct 2021 05:11:58 GMT</pubDate>
             <content:encoded><![CDATA[2021.11.20  ~<br> 2021.11.20]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2021/10/2021101910100510872826-5bac-4600-bcaa-dd07fca2dfc2.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[Jump in－to－the－universe]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=206305</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=206305</guid>
+            <pubDate>Tue, 26 Oct 2021 15:14:35 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.12  ~<br> 2021.12.12]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2021/10/202110261509112e032164-dd6d-45ad-805b-6ec9853b4121.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
