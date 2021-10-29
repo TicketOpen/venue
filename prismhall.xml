@@ -4,17 +4,9 @@
         <title>멜론 티켓 ─ 프리즘홀</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Oct 2021 14:13:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Oct 2021 15:14:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[흐름 流  flow：가을]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=206230</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=206230</guid>
-            <pubDate>Tue, 19 Oct 2021 15:44:11 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.29  ~<br> 2021.10.29]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2021/09/202109301518029be6d868-03db-4d1e-8467-b4d0afbef532.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
         <item>
             <title><![CDATA[먼데이프로젝트 시즌4［히미츠 단독 콘서트］]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=206242</link>
