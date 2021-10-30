@@ -38,9 +38,19 @@ contentSelector = "td.show_date"
 imageSelector = "div.thumb_90x125.img a img"
 waitUntil = "networkidle"
 
-[sangsangmadang]
-title = "멜론 티켓 ─ 상상마당"
+[sangsangmadang_hd]
+title = "멜론 티켓 ─ KT&G 상상마당 라이브홀"
 url = "https://ticket.melon.com/place/index.htm?placeId=913"
+entrySelector = "tbody[id='list_list'] tr"
+titleSelector = "span.show_title"
+linkSelector = "span.show_title a"
+contentSelector = "td.show_date"
+imageSelector = "div.thumb_90x125.img a img"
+waitUntil = "networkidle"
+
+[sangsangmadang_dc]
+title = "멜론 티켓 ─ KT&G 상상마당 대치아트홀"
+url = "https://ticket.melon.com/place/index.htm?placeId=904"
 entrySelector = "tbody[id='list_list'] tr"
 titleSelector = "span.show_title"
 linkSelector = "span.show_title a"
@@ -88,7 +98,6 @@ linkSelector = "span.show_title a"
 contentSelector = "td.show_date"
 imageSelector = "div.thumb_90x125.img a img"
 waitUntil = "networkidle"
-
 
 [danchutv]
 title = "멜론 티켓 ─ 단추TV"
