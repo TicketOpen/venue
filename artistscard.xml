@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>멜론 티켓 ─ 아티스츠카드 앱＆웹 서비스</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sat, 30 Oct 2021 16:30:37 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[온스타인웨이 Vol．8 〈박소은〉－온라인]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=206295</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=206295</guid>
+            <pubDate>Sat, 30 Oct 2021 16:30:36 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.05  ~<br> 2021.11.05]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2021/10/20211022164158ef65c551-cd85-4bf7-a166-523df23e3d79.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[온스타인웨이 Vol．9 〈BOYHOOD〉－온라인]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=206302</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=206302</guid>
+            <pubDate>Sat, 30 Oct 2021 16:30:36 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.07  ~<br> 2021.11.07]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2021/10/20211025162400367d1dfc-86e6-4637-99c0-f09bb84d0861.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[온스타인웨이 Vol．10 〈임세모〉－온라인]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=206255</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=206255</guid>
+            <pubDate>Sat, 30 Oct 2021 16:30:36 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.14  ~<br> 2021.11.14]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2021/10/20211020163923354f3efe-c25f-41db-8227-91bcf1a06ae5.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[온스타인웨이 Vol．12 〈케빈오〉－온라인]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=206278</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=206278</guid>
+            <pubDate>Sat, 30 Oct 2021 16:30:36 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.21  ~<br> 2021.11.21]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2021/10/20211021093707a1c19c0e-6d82-4cd7-9a70-db57e4300b26.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[온스타인웨이 Vol．14 〈권순관〉－온라인]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=206288</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=206288</guid>
+            <pubDate>Sat, 30 Oct 2021 16:30:36 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.27  ~<br> 2021.11.27]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2021/10/202110211013103d38536d-dd39-4c7b-a28f-8ff33df94ff7.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+    </channel>
+</rss>
