@@ -58,9 +58,51 @@ contentSelector = "td.show_date"
 imageSelector = "div.thumb_90x125.img a img"
 waitUntil = "networkidle"
 
+
+[cjazit]
+title = "멜론 티켓 ─ CJ아지트 광흥창"
+url = "https://ticket.melon.com/place/index.htm?placeId=329"
+entrySelector = "tbody[id='list_list'] tr"
+titleSelector = "span.show_title"
+linkSelector = "span.show_title a"
+contentSelector = "td.show_date"
+imageSelector = "div.thumb_90x125.img a img"
+waitUntil = "networkidle"
+
+[wadiz]
+title = "멜론 티켓 ─ 공간 와디즈"
+url = "https://ticket.melon.com/place/index.htm?placeId=1083"
+entrySelector = "tbody[id='list_list'] tr"
+titleSelector = "span.show_title"
+linkSelector = "span.show_title a"
+contentSelector = "td.show_date"
+imageSelector = "div.thumb_90x125.img a img"
+waitUntil = "networkidle"
+
+[bbangyatv]
+title = "멜론 티켓 ─ 빵야TV"
+url = "https://ticket.melon.com/place/index.htm?placeId=1035"
+entrySelector = "tbody[id='list_list'] tr"
+titleSelector = "span.show_title"
+linkSelector = "span.show_title a"
+contentSelector = "td.show_date"
+imageSelector = "div.thumb_90x125.img a img"
+waitUntil = "networkidle"
+
+
 [danchutv]
 title = "멜론 티켓 ─ 단추TV"
 url = "https://ticket.melon.com/place/index.htm?placeId=1055"
+entrySelector = "tbody[id='list_list'] tr"
+titleSelector = "span.show_title"
+linkSelector = "span.show_title a"
+contentSelector = "td.show_date"
+imageSelector = "div.thumb_90x125.img a img"
+waitUntil = "networkidle"
+
+[artistscard]
+title = "멜론 티켓 ─ 아티스츠카드 앱＆웹 서비스"
+url = "https://ticket.melon.com/place/index.htm?placeId=1074"
 entrySelector = "tbody[id='list_list'] tr"
 titleSelector = "span.show_title"
 linkSelector = "span.show_title a"
