@@ -48,3 +48,22 @@ contentSelector = "td.show_date"
 imageSelector = "div.thumb_90x125.img a img"
 waitUntil = "networkidle"
 
+[nestnada]
+title = "멜론 티켓 ─ 네스트 나다"
+url = "https://ticket.melon.com/place/index.htm?placeId=546"
+entrySelector = "tbody[id='list_list'] tr"
+titleSelector = "span.show_title"
+linkSelector = "span.show_title a"
+contentSelector = "td.show_date"
+imageSelector = "div.thumb_90x125.img a img"
+waitUntil = "networkidle"
+
+[danchutv]
+title = "멜론 티켓 ─ 단추TV"
+url = "https://ticket.melon.com/place/index.htm?placeId=1055"
+entrySelector = "tbody[id='list_list'] tr"
+titleSelector = "span.show_title"
+linkSelector = "span.show_title a"
+contentSelector = "td.show_date"
+imageSelector = "div.thumb_90x125.img a img"
+waitUntil = "networkidle"
