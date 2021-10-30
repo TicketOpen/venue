@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>멜론 티켓 ─ KT&amp;G 상상마당 대치아트홀</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sat, 30 Oct 2021 16:40:29 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[최유리 EP 앨범 발매기념 콘서트 ‘여정’]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=206243</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=206243</guid>
+            <pubDate>Sat, 30 Oct 2021 16:39:30 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.28  ~<br> 2021.11.28]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2021/10/202110080916575b3c5f81-0e7a-4937-bf30-7a6e8f70e3b7.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+    </channel>
+</rss>
