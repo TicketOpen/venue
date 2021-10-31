@@ -1,9 +1,9 @@
 # 공연장
 
 ## 온라인
-- https://ticketopen.github.io/venue/bbangyatv.xml
-- https://ticketopen.github.io/venue/danchutv.xml
-- https://ticketopen.github.io/venue/artistscard.xml
+- 빵야TV: https://ticketopen.github.io/venue/bbangyatv.xml
+- 단추TV: https://ticketopen.github.io/venue/danchutv.xml
+- 아티스츠카드: https://ticketopen.github.io/venue/artistscard.xml
 
 ## 오프라인
 - 롤링홀: https://ticketopen.github.io/venue/rollinghall.xml
