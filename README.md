@@ -12,7 +12,7 @@
 - 구름아래소극장: https://ticketopen.github.io/venue/gurumare.xml
 - 상상마당: https://ticketopen.github.io/venue/sangsangmadang.xml
 - 상상마당 홍대 라이브홀: https://ticketopen.github.io/venue/sangsangmadang_hd.xml
-- 상상맏당 대치 아트홀: https://ticketopen.github.io/venue/sangsangmadang_dc.xml
+- 상상마당 대치 아트홀: https://ticketopen.github.io/venue/sangsangmadang_dc.xml
 - 네스트나다: https://ticketopen.github.io/venue/nestnada.xml
 - CJ아지트: https://ticketopen.github.io/venue/cjazit.xml
 - 공간 와디즈: https://ticketopen.github.io/venue/wadiz.xml
