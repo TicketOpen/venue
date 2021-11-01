@@ -4,7 +4,7 @@
         <title>멜론 티켓 ─ KT&amp;G 상상마당 라이브홀</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Nov 2021 03:15:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Nov 2021 04:18:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Sat, 30 Oct 2021 16:39:19 GMT</pubDate>
             <content:encoded><![CDATA[2021.11.17  ~<br> 2021.11.17]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2021/10/20211022160234ebeb3c98-7570-44cc-9500-351d778f564b.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[웃음꽃 가든]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=206306</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=206306</guid>
+            <pubDate>Mon, 01 Nov 2021 04:17:33 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.20  ~<br> 2021.11.21]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2021/10/20211028141059e177948f-bdaf-4297-b9e7-b473e0ea9e4b.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
