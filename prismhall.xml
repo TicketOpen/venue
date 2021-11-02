@@ -1,51 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>멜론 티켓 ─ 프리즘홀</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Tue, 02 Nov 2021 18:16:30 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[프리즘브레이크 vol．11：권나무 x 이설아]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=206251</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=206251</guid>
-            <pubDate>Tue, 19 Oct 2021 15:44:11 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.07  ~<br> 2021.11.07]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2021/10/202110081528173f286a32-c7ca-4728-9012-f4d84bfd80e0.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[아티스트를 위한 엑셀러레이팅 콘서트 ［로．프．스］]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=206287</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=206287</guid>
-            <pubDate>Mon, 25 Oct 2021 03:14:13 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.13  ~<br> 2021.11.14]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2021/10/2021102109153306faa3e6-790f-4a71-9ebb-9885e93685dd.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[먼데이프로젝트 시즌4［차세대 단독 콘서트］]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=206282</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=206282</guid>
-            <pubDate>Thu, 21 Oct 2021 03:13:37 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.15  ~<br> 2021.11.15]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2021/10/20211019112107a89f5ce3-1ef6-47f3-af41-ad366da8ddaf.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[마포Fm 스틸 얼라이브 4주년 콘서트 김훨＆정우]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=206280</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=206280</guid>
-            <pubDate>Wed, 20 Oct 2021 05:11:58 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.20  ~<br> 2021.11.20]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2021/10/2021101910100510872826-5bac-4600-bcaa-dd07fca2dfc2.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[Jump in－to－the－universe]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=206305</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=206305</guid>
-            <pubDate>Tue, 26 Oct 2021 15:14:35 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.12  ~<br> 2021.12.12]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2021/10/202110261509112e032164-dd6d-45ad-805b-6ec9853b4121.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://ticket.melon.com/place/index.htm?placeId=731</id>
+    <title>멜론 티켓 ─ 프리즘홀</title>
+    <updated>2021-11-02T19:18:28.480Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://ticket.melon.com/place/favicon.ico</icon>
+</feed>
