@@ -4,17 +4,9 @@
         <title>멜론 티켓 ─ 구름아래소극장</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Nov 2021 14:14:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Nov 2021 15:15:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[먼데이프로젝트 시즌4［음악여행，쉼］그＿냥 단독 콘서트]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=206267</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=206267</guid>
-            <pubDate>Tue, 19 Oct 2021 16:11:16 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.08  ~<br> 2021.11.08]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2021/10/202110131312160b5dd2fe-2802-4078-9069-253509d8d656.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
         <item>
             <title><![CDATA[Flight1120：Bandage편]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=206294</link>
