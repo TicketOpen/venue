@@ -4,7 +4,7 @@
         <title>멜론 티켓 ─ KT&amp;G 상상마당 라이브홀</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Nov 2021 06:18:06 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Nov 2021 07:15:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Tue, 02 Nov 2021 20:14:07 GMT</pubDate>
             <content:encoded><![CDATA[2021.11.20  ~<br> 2021.11.21]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2021/11/20211104181736f61340b3-4418-469a-9f2f-2af97f528040.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[잠비나이 단독공연 New songs Premiere]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=206335</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=206335</guid>
+            <pubDate>Mon, 08 Nov 2021 07:14:19 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.10  ~<br> 2021.12.11]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2021/11/20211103170206501e1ef9-955f-4292-a65d-f87379ef7b6e.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[에이프릴 세컨드 단독 공연 〈12월의 돌고래：somewhere〉]]></title>
