@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Nov 2021 08:17:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Nov 2021 09:16:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -102,6 +102,14 @@
             <pubDate>Mon, 01 Nov 2021 05:12:25 GMT</pubDate>
             <content:encoded><![CDATA[2021.11.20  ~<br> 2021.11.20]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2021/10/202110291151319a46cbeb-dafe-4a90-9efe-5df5a9cc8a43.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[지윤해 단독 공연 〈And‥？〉 (멜론 티켓 ─ 벨로주)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=206348</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=206348</guid>
+            <pubDate>Wed, 10 Nov 2021 09:14:43 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.27  ~<br> 2021.11.27]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2021/11/202111061837132b83a3c4-d448-4169-8391-559eb7461962.png/melon/resize/90x125/strip/true" length="0" type="image/png/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[초승（CHOSNG）소극장 단독공연 ‘아파하는 꽃들에게’ (멜론 티켓 ─ 벨로주)]]></title>
