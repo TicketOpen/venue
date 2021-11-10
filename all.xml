@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Nov 2021 05:13:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Nov 2021 06:17:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -88,7 +88,7 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2021/11/202111091412010995a029-c3b6-40c6-830b-83d81bd0bac1.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
-            <title><![CDATA[Jump in－to－the－universe (멜론 티켓 ─ 프리즘홀)]]></title>
+            <title><![CDATA[Jump in－to－the－universe（몬구＋돌연한출발＋까데호） (멜론 티켓 ─ 프리즘홀)]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=206305</link>
             <guid>https://ticket.melon.com/performance/index.htm?prodId=206305</guid>
             <pubDate>Tue, 02 Nov 2021 20:13:39 GMT</pubDate>
