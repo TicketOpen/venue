@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Nov 2021 01:58:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Nov 2021 02:29:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -190,6 +190,14 @@
             <pubDate>Sat, 30 Oct 2021 16:39:30 GMT</pubDate>
             <content:encoded><![CDATA[2021.11.28  ~<br> 2021.11.28]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2021/10/202110080916575b3c5f81-0e7a-4937-bf30-7a6e8f70e3b7.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[소수빈 X 구원찬［TUNE UP STAGE with Friends＃8］ (멜론 티켓 ─ CJ아지트 광흥창)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=206355</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=206355</guid>
+            <pubDate>Thu, 11 Nov 2021 02:28:52 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.26  ~<br> 2021.11.26]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2021/11/20211109180016b18ac006-ff08-4f0d-b0f2-b93535b1521c.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[먼데이프로젝트 IN 라이브클럽［허드 단독 콘서트］ (멜론 티켓 ─ 네스트 나다)]]></title>
