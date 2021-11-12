@@ -4,7 +4,7 @@
         <title>멜론 티켓 ─ KT&amp;G 상상마당 라이브홀</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Nov 2021 00:45:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Nov 2021 01:58:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,6 +24,22 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2021/11/20211104181736f61340b3-4418-469a-9f2f-2af97f528040.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
+            <title><![CDATA[Play NuPlay［＃1 일단 공연 올때 다 알려줌（19금）］]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=206344</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=206344</guid>
+            <pubDate>Fri, 12 Nov 2021 01:57:07 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.01  ~<br> 2021.12.01]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2021/11/2021110918315697691bd2-898d-4451-a489-af33bb90241a.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[Play NuPlay［＃2 THE CHIMMI］]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=206345</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=206345</guid>
+            <pubDate>Fri, 12 Nov 2021 01:57:07 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.08  ~<br> 2021.12.08]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2021/11/202111091844155e408359-0adb-4b04-a1e0-bc2ce3962fa6.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
             <title><![CDATA[잠비나이 단독공연 New songs Premiere]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=206335</link>
             <guid>https://ticket.melon.com/performance/index.htm?prodId=206335</guid>
@@ -38,6 +54,22 @@
             <pubDate>Mon, 08 Nov 2021 05:12:54 GMT</pubDate>
             <content:encoded><![CDATA[2021.12.12  ~<br> 2021.12.12]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2021/11/20211108140011b5a9b2b2-e63a-4789-86d1-af76650bcda9.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[Play NuPlay［＃3 ECOBRIDGE］]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=206346</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=206346</guid>
+            <pubDate>Fri, 12 Nov 2021 01:57:07 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.15  ~<br> 2021.12.15]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2021/11/2021110911403241d4c8ad-f05a-4d28-91bf-bddcb47c5f63.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[Play NuPlay［2nd Label Concert］]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=206347</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=206347</guid>
+            <pubDate>Fri, 12 Nov 2021 01:57:07 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.22  ~<br> 2021.12.22]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2021/11/2021111209541813e664a6-f10d-4381-8317-acc5584d5a19.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
