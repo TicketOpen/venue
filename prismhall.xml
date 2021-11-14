@@ -4,17 +4,9 @@
         <title>멜론 티켓 ─ 프리즘홀</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 14 Nov 2021 14:14:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Nov 2021 15:15:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[아티스트를 위한 엑셀러레이팅 콘서트 ［로．프．스］]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=206287</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=206287</guid>
-            <pubDate>Tue, 02 Nov 2021 20:13:39 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.13  ~<br> 2021.11.14]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2021/10/2021102109153306faa3e6-790f-4a71-9ebb-9885e93685dd.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
         <item>
             <title><![CDATA[먼데이프로젝트 시즌4［차세대 단독 콘서트］]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=206282</link>

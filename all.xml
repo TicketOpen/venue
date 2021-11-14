@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 14 Nov 2021 14:14:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Nov 2021 15:15:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -54,14 +54,6 @@
             <pubDate>Wed, 27 Oct 2021 03:14:09 GMT</pubDate>
             <content:encoded><![CDATA[2021.12.11  ~<br> 2021.12.11]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2021/11/2021110309235224722211-fd7e-4069-9106-109e1b3b9c5f.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[아티스트를 위한 엑셀러레이팅 콘서트 ［로．프．스］ (멜론 티켓 ─ 프리즘홀)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=206287</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=206287</guid>
-            <pubDate>Tue, 02 Nov 2021 20:13:39 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.13  ~<br> 2021.11.14]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2021/10/2021102109153306faa3e6-790f-4a71-9ebb-9885e93685dd.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[먼데이프로젝트 시즌4［차세대 단독 콘서트］ (멜론 티켓 ─ 프리즘홀)]]></title>
@@ -254,22 +246,6 @@
             <pubDate>Wed, 10 Nov 2021 17:45:41 GMT</pubDate>
             <content:encoded><![CDATA[2021.11.27  ~<br> 2021.11.28]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2021/10/20211021171108d39d8ae8-88ec-4ab5-a0d0-53ab6090a7eb.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[［온라인］노들섬 2주년 기획공연 〈The Wonder Weeks〉 (멜론 티켓 ─ 단추TV)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=206161</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=206161</guid>
-            <pubDate>Sat, 30 Oct 2021 16:14:28 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.08  ~<br> 2021.11.14]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2021/09/2021090614554473224830-8cbf-4216-9882-ce569641ab55.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[온스타인웨이 Vol．10 〈임세모〉－온라인 (멜론 티켓 ─ 아티스츠카드 앱＆웹 서비스)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=206255</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=206255</guid>
-            <pubDate>Sat, 30 Oct 2021 16:30:36 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.14  ~<br> 2021.11.14]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2021/10/20211020163923354f3efe-c25f-41db-8227-91bcf1a06ae5.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[온스타인웨이 Vol．11 〈나인〉－온라인 (멜론 티켓 ─ 아티스츠카드 앱＆웹 서비스)]]></title>
