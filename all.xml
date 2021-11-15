@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 Nov 2021 14:15:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Nov 2021 16:22:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -70,14 +70,6 @@
             <pubDate>Mon, 15 Nov 2021 03:14:24 GMT</pubDate>
             <content:encoded><![CDATA[2021.12.18  ~<br> 2021.12.19]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2021/11/202111151033162f1481e4-48a5-4269-80b8-ec4cb327565b.png/melon/resize/90x125/strip/true" length="0" type="image/png/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[먼데이프로젝트 시즌4［차세대 단독 콘서트］ (멜론 티켓 ─ 프리즘홀)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=206282</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=206282</guid>
-            <pubDate>Tue, 02 Nov 2021 20:13:39 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.15  ~<br> 2021.11.15]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2021/10/20211019112107a89f5ce3-1ef6-47f3-af41-ad366da8ddaf.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[마포Fm 스틸 얼라이브 4주년 콘서트 김훨＆정우 (멜론 티켓 ─ 프리즘홀)]]></title>
