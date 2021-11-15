@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 Nov 2021 02:30:01 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Nov 2021 03:16:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -54,6 +54,14 @@
             <pubDate>Wed, 27 Oct 2021 03:14:09 GMT</pubDate>
             <content:encoded><![CDATA[2021.12.11  ~<br> 2021.12.11]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2021/11/2021110309235224722211-fd7e-4069-9106-109e1b3b9c5f.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[ALIVE STAGE ＃6：Synopsis ∼epilogue∼ (멜론 티켓 ─ 롤링홀)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=206369</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=206369</guid>
+            <pubDate>Mon, 15 Nov 2021 03:14:24 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.18  ~<br> 2021.12.19]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2021/11/202111151033162f1481e4-48a5-4269-80b8-ec4cb327565b.png/melon/resize/90x125/strip/true" length="0" type="image/png/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[먼데이프로젝트 시즌4［차세대 단독 콘서트］ (멜론 티켓 ─ 프리즘홀)]]></title>
@@ -142,6 +150,14 @@
             <pubDate>Fri, 29 Oct 2021 03:14:44 GMT</pubDate>
             <content:encoded><![CDATA[2021.12.05  ~<br> 2021.12.05]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2021/10/202110281623555eeb2cb6-0948-4a08-9267-3d03df0c64a8.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[위아더나잇 연말 콘서트 〈나의 파란 공책：2021 꿈의 환상〉 (멜론 티켓 ─ 구름아래소극장)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=206371</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=206371</guid>
+            <pubDate>Mon, 15 Nov 2021 03:14:53 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.18  ~<br> 2021.12.19]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2021/11/20211115092403097ebdfc-fc19-409c-bdfa-b15ee83d31a5.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[우예린 단독 공연［Night：여름에 노란 꽃이 밤에만 핀다］ (멜론 티켓 ─ KT&G 상상마당 라이브홀)]]></title>
