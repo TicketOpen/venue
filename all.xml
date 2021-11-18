@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Nov 2021 04:18:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Nov 2021 05:13:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Mon, 01 Nov 2021 03:13:59 GMT</pubDate>
             <content:encoded><![CDATA[2021.11.28  ~<br> 2021.11.28]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2021/11/20211103091414bc012f57-d529-46a1-b93e-2525de096dba.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[Fill in your blank Spin off．〈맥거핀‘s PRESS ROOM〉 (멜론 티켓 ─ 롤링홀)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=206384</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=206384</guid>
+            <pubDate>Thu, 18 Nov 2021 05:12:06 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.03  ~<br> 2021.12.03]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2021/11/20211117173033dfed5fad-5be6-401e-99a7-e02e168f6e21.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[ALIVE STAGE ＃3：프롬 단독 콘서트：Dear december (멜론 티켓 ─ 롤링홀)]]></title>
