@@ -4,17 +4,9 @@
         <title>멜론 티켓 ─ 롤링홀</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 21 Nov 2021 14:13:41 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Nov 2021 15:15:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[The Volunteers 단독공연 〈Join the TVT Club〉]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=206015</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=206015</guid>
-            <pubDate>Tue, 19 Oct 2021 14:15:14 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.11  ~<br> 2021.11.21]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2021/10/202110051755276d40d2e6-5543-448c-91e1-dd3a70ee9e33.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
         <item>
             <title><![CDATA[ALIVE STAGE ＃1：결 단독 콘서트 ‘Little Things’]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=206269</link>
