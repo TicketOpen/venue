@@ -4,7 +4,7 @@
         <title>멜론 티켓 ─ 구름아래소극장</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Nov 2021 02:32:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Nov 2021 03:15:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,14 @@
             <pubDate>Mon, 15 Nov 2021 03:14:53 GMT</pubDate>
             <content:encoded><![CDATA[2021.12.18  ~<br> 2021.12.19]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2021/11/20211115092403097ebdfc-fc19-409c-bdfa-b15ee83d31a5.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[먼데이프로젝트 시즌4［음악여행，쉼］－모브닝 단독 콘서트]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=206407</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=206407</guid>
+            <pubDate>Thu, 25 Nov 2021 03:14:20 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.20  ~<br> 2021.12.20]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2021/11/20211123131420d0837569-5480-4dea-97f6-d380c636a809.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
