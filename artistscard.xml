@@ -4,7 +4,7 @@
         <title>멜론 티켓 ─ 아티스츠카드 앱＆웹 서비스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Nov 2021 05:14:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Nov 2021 06:18:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Sat, 30 Oct 2021 16:30:36 GMT</pubDate>
             <content:encoded><![CDATA[2021.11.27  ~<br> 2021.11.27]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2021/10/202110211013103d38536d-dd39-4c7b-a28f-8ff33df94ff7.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[온스타인웨이 Vol．15 〈최낙타〉－온라인]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=206401</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=206401</guid>
+            <pubDate>Thu, 25 Nov 2021 06:18:09 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.11  ~<br> 2021.12.11]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2021/11/20211119144314f4fdf9ae-95f1-4e72-8ddb-d4220bcf6f17.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
