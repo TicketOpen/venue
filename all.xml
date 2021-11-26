@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Nov 2021 04:20:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Nov 2021 05:14:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -278,6 +278,14 @@
             <pubDate>Fri, 12 Nov 2021 02:29:22 GMT</pubDate>
             <content:encoded><![CDATA[2021.12.04  ~<br> 2021.12.04]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2021/11/20211109183104e8a32018-7d2e-42c2-81db-21769217109d.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[FREE HUG (멜론 티켓 ─ CJ아지트 광흥창)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=206413</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=206413</guid>
+            <pubDate>Fri, 26 Nov 2021 05:13:15 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.18  ~<br> 2021.12.19]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2021/11/20211124132512a6fb7c0a-46fa-4614-855f-ebb98b585cf5.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[먼데이프로젝트 IN 라이브클럽［허드 단독 콘서트］ (멜론 티켓 ─ 네스트 나다)]]></title>
