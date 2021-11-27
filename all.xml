@@ -4,17 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 27 Nov 2021 14:13:55 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Nov 2021 15:15:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[ALIVE STAGE ＃1：결 단독 콘서트 ‘Little Things’ (멜론 티켓 ─ 롤링홀)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=206269</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=206269</guid>
-            <pubDate>Tue, 19 Oct 2021 14:15:14 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.26  ~<br> 2021.11.27]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2021/11/202111030911017975f264-2bcf-4b12-8ca9-c090f0c373ed.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
         <item>
             <title><![CDATA[ALIVE STAGE ＃2：맥거핀 단독콘서트：Prequel（속편） (멜론 티켓 ─ 롤링홀)]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=206313</link>
@@ -110,14 +102,6 @@
             <pubDate>Sat, 20 Nov 2021 05:12:13 GMT</pubDate>
             <content:encoded><![CDATA[2021.12.19  ~<br> 2021.12.19]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2021/11/20211119112144e0846846-ff81-402a-880a-bb5fa28792dc.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[지윤해 단독 공연 〈And‥？〉 (멜론 티켓 ─ 벨로주)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=206348</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=206348</guid>
-            <pubDate>Wed, 10 Nov 2021 09:14:43 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.27  ~<br> 2021.11.27]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2021/11/202111061837132b83a3c4-d448-4169-8391-559eb7461962.png/melon/resize/90x125/strip/true" length="0" type="image/png/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[초승（CHOSNG）소극장 단독공연 ‘아파하는 꽃들에게’ (멜론 티켓 ─ 벨로주)]]></title>
@@ -302,14 +286,6 @@
             <pubDate>Tue, 16 Nov 2021 10:16:12 GMT</pubDate>
             <content:encoded><![CDATA[2021.12.10  ~<br> 2021.12.11]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2021/11/2021111618073586cf66f7-838f-4ff0-8668-c83ed4432ee6.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[온스타인웨이 Vol．14 〈권순관〉－온라인 (멜론 티켓 ─ 아티스츠카드 앱＆웹 서비스)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=206288</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=206288</guid>
-            <pubDate>Sat, 30 Oct 2021 16:30:36 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.27  ~<br> 2021.11.27]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2021/10/202110211013103d38536d-dd39-4c7b-a28f-8ff33df94ff7.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[온스타인웨이 Vol．15 〈최낙타〉－온라인 (멜론 티켓 ─ 아티스츠카드 앱＆웹 서비스)]]></title>
