@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Nov 2021 23:16:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Nov 2021 00:46:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -142,6 +142,14 @@
             <pubDate>Mon, 29 Nov 2021 03:14:34 GMT</pubDate>
             <content:encoded><![CDATA[2021.12.18  ~<br> 2021.12.18]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2021/11/20211126182630cd8a7a1a-a9f8-4f13-9b1d-ccbd76718f39.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[최고은［reAL II］‘오늘의 난 미지근하게 축제’ 발매 단독 공연 (멜론 티켓 ─ 벨로주)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=206417</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=206417</guid>
+            <pubDate>Tue, 30 Nov 2021 00:44:36 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.19  ~<br> 2021.12.19]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2021/11/202111251342180ec70cb4-10e1-4b45-98bc-276a5806419e.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[사공 단독공연 (멜론 티켓 ─ 벨로주)]]></title>
