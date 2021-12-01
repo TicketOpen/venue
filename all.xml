@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Dec 2021 08:18:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Dec 2021 09:16:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -272,6 +272,14 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2021/11/20211124132512a6fb7c0a-46fa-4614-855f-ebb98b585cf5.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
+            <title><![CDATA[소수빈 단독공연 〈So Soo Bin〉 (멜론 티켓 ─ CJ아지트 광흥창)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=206429</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=206429</guid>
+            <pubDate>Wed, 01 Dec 2021 09:15:29 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.24  ~<br> 2021.12.26]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2021/11/202111301519553b92d578-3ca0-44a9-aac1-2cb0312e2e33.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
             <title><![CDATA[먼데이프로젝트 IN 라이브클럽［허드 단독 콘서트］ (멜론 티켓 ─ 네스트 나다)]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=206259</link>
             <guid>https://ticket.melon.com/performance/index.htm?prodId=206259</guid>
@@ -286,14 +294,6 @@
             <pubDate>Tue, 16 Nov 2021 10:16:12 GMT</pubDate>
             <content:encoded><![CDATA[2021.12.10  ~<br> 2021.12.11]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2021/11/2021111618073586cf66f7-838f-4ff0-8668-c83ed4432ee6.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[온스타인웨이 Vol．15 〈최낙타〉－온라인 (멜론 티켓 ─ 아티스츠카드 앱＆웹 서비스)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=206401</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=206401</guid>
-            <pubDate>Thu, 25 Nov 2021 06:18:09 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.11  ~<br> 2021.12.11]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2021/11/20211119144314f4fdf9ae-95f1-4e72-8ddb-d4220bcf6f17.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
