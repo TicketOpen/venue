@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Dec 2021 02:01:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Dec 2021 03:16:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -206,6 +206,14 @@
             <pubDate>Fri, 26 Nov 2021 02:28:41 GMT</pubDate>
             <content:encoded><![CDATA[2021.12.25  ~<br> 2021.12.25]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2021/11/20211124111434573a1a41-87e0-47c2-8e4e-cbf7b88bf150.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[먼데이프로젝트 시즌4［청춘의 밤］－전진희 단독 콘서트 (멜론 티켓 ─ 구름아래소극장)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=206426</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=206426</guid>
+            <pubDate>Thu, 02 Dec 2021 03:14:37 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.27  ~<br> 2021.12.28]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2021/11/20211129151547cd3fdd70-c8c6-425e-815a-e7b5e0d57e68.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[Play NuPlay［＃2 THE CHIMMI］ (멜론 티켓 ─ KT&G 상상마당 라이브홀)]]></title>
