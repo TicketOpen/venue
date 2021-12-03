@@ -8,6 +8,7 @@
 ## 오프라인
 - 롤링홀: https://ticketopen.github.io/venue/rollinghall.xml
 - 프리즘홀: https://ticketopen.github.io/venue/prismhall.xml
+- 웨스트브릿지: https://ticketopen.github.io/venue/west-bridge.xml
 - 벨로주: https://ticketopen.github.io/venue/veloso.xml
 - 구름아래소극장: https://ticketopen.github.io/venue/gurumare.xml
 - 상상마당: https://ticketopen.github.io/venue/sangsangmadang.xml
