@@ -8,6 +8,16 @@ contentSelector = "td.show_date"
 imageSelector = "div.thumb_90x125.img a img"
 waitUntil = "networkidle"
 
+[west-bridge]
+title = "멜론 티켓 ─ 웨스트브릿지"
+url = "https://ticket.melon.com/place/index.htm?placeId=293"
+entrySelector = "tbody[id='list_list'] tr"
+titleSelector = "span.show_title"
+linkSelector = "span.show_title a"
+contentSelector = "td.show_date"
+imageSelector = "div.thumb_90x125.img a img"
+waitUntil = "networkidle"
+
 [prismhall]
 title = "멜론 티켓 ─ 프리즘홀"
 url = "https://ticket.melon.com/place/index.htm?placeId=731"
