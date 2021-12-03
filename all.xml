@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Dec 2021 02:32:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Dec 2021 03:15:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,6 +46,22 @@
             <pubDate>Mon, 15 Nov 2021 09:14:00 GMT</pubDate>
             <content:encoded><![CDATA[2021.12.12  ~<br> 2021.12.12]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2021/11/202111151041369232d6b1-3342-4bd4-920d-ee4d261257fb.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2021 XINDIE PRESENTS vol．7 딕펑스x소낙 (멜론 티켓 ─ 롤링홀)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=206433</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=206433</guid>
+            <pubDate>Fri, 03 Dec 2021 03:13:59 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.14  ~<br> 2021.12.14]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2021/12/20211202135618af7374dd-3566-466c-8176-c755fc22235b.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2021 XINDIE PRESENTS vol．7 안예은x오추프로젝트 (멜론 티켓 ─ 롤링홀)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=206435</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=206435</guid>
+            <pubDate>Fri, 03 Dec 2021 03:13:59 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.15  ~<br> 2021.12.15]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2021/12/2021120211350857a78243-4f6d-4e74-a43f-0c1b654d2675.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[김뜻돌 첫 단독공연 〈돌잔치〉 (멜론 티켓 ─ 롤링홀)]]></title>
@@ -102,6 +118,14 @@
             <pubDate>Tue, 02 Nov 2021 20:13:39 GMT</pubDate>
             <content:encoded><![CDATA[2021.12.12  ~<br> 2021.12.12]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2021/10/202110261509112e032164-dd6d-45ad-805b-6ec9853b4121.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2021 XINDIE PRESENTS vol．7 그_냥x김필선 (멜론 티켓 ─ 프리즘홀)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=206434</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=206434</guid>
+            <pubDate>Fri, 03 Dec 2021 03:14:09 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.14  ~<br> 2021.12.14]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2021/12/2021120215013301bf1abb-370c-416e-8fab-cc4fb163fb65.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[오프더메뉴 첫 단독콘서트 (멜론 티켓 ─ 프리즘홀)]]></title>
