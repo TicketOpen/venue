@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Dec 2021 21:14:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Dec 2021 08:19:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -94,6 +94,14 @@
             <pubDate>Mon, 29 Nov 2021 03:14:16 GMT</pubDate>
             <content:encoded><![CDATA[2021.12.31  ~<br> 2022.01.02]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2021/11/20211126135108968482ed-a0c3-48ee-b8d6-270dbcd8601e.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[밴디지 단독 콘서트：롤링 27주년 기념 공연 (멜론 티켓 ─ 롤링홀)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=206443</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=206443</guid>
+            <pubDate>Tue, 07 Dec 2021 08:17:16 GMT</pubDate>
+            <content:encoded><![CDATA[2022.01.08  ~<br> 2022.01.08]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2021/12/202112031352204842cedf-3ee0-4c23-8bec-9b0068a38a61.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[우지원 단독공연 〈Not Just a Dream〉 (멜론 티켓 ─ 웨스트브릿지)]]></title>
