@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Dec 2021 07:16:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Dec 2021 08:18:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -220,8 +220,8 @@
             <link>https://ticket.melon.com/performance/index.htm?prodId=206407</link>
             <guid>https://ticket.melon.com/performance/index.htm?prodId=206407</guid>
             <pubDate>Thu, 25 Nov 2021 03:14:20 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.20  ~<br> 2021.12.21]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2021/12/2021120316441379050467-8646-4791-89b0-113d5258fae5.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+            <content:encoded><![CDATA[2021.12.20  ~<br> 2021.12.22]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2021/12/2021120816382613daf57b-8fc5-4182-931a-80999ec06b05.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[왈츠소파 크리스마스 콘서트 (멜론 티켓 ─ 구름아래소극장)]]></title>
