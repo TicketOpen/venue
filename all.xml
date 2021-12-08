@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Dec 2021 00:47:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Dec 2021 02:03:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -190,6 +190,14 @@
             <pubDate>Tue, 23 Nov 2021 08:16:28 GMT</pubDate>
             <content:encoded><![CDATA[2021.12.23  ~<br> 2021.12.23]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2021/11/202111181507289c2a5987-7f17-40e0-8b4b-4c7e720375ad.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[이주영 발라드 2021 “안녕，오랜만이야．” (멜론 티켓 ─ 벨로주)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=206447</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=206447</guid>
+            <pubDate>Wed, 08 Dec 2021 02:01:25 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.31  ~<br> 2021.12.31]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2021/12/202112061510118f0775d5-8d3e-4ce9-b62d-876930b1dd17.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[전자양 단독 공연 ‘팡’ (멜론 티켓 ─ 구름아래소극장)]]></title>
