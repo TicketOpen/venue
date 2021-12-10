@@ -4,17 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Dec 2021 14:15:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Dec 2021 15:16:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[ALIVE STAGE ＃4：애프터문 단독 콘서트：After Tonight (멜론 티켓 ─ 롤링홀)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=206298</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=206298</guid>
-            <pubDate>Wed, 27 Oct 2021 03:14:09 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.10  ~<br> 2021.12.10]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2021/11/20211103092116eaa7c2fc-84ae-4e9d-b467-c0150a9bb351.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
         <item>
             <title><![CDATA[ALIVE STAGE ＃5：케빈오 단독 콘서트：After Tonight (멜론 티켓 ─ 롤링홀)]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=206296</link>
@@ -158,14 +150,6 @@
             <pubDate>Thu, 09 Dec 2021 03:14:13 GMT</pubDate>
             <content:encoded><![CDATA[2022.01.03  ~<br> 2022.01.03]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2021/12/20211207152147896c1ba7-6942-41bb-a18c-69b11c09796b.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[오현진 단독공연 ［I´LL BE YOUR LOVE］2021 (멜론 티켓 ─ 벨로주)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=206382</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=206382</guid>
-            <pubDate>Fri, 19 Nov 2021 03:14:05 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.10  ~<br> 2021.12.10]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2021/11/20211117145443a0cac170-6911-4c1f-ab76-9b29b39a1673.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[안규건 EP 발매 기념 단독 공연 〈지금이 아니면 못 하는 말〉 (멜론 티켓 ─ 벨로주)]]></title>
