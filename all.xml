@@ -4,17 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 Dec 2021 14:14:32 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Dec 2021 15:15:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[도시（dosii）네 번째 단독공연［樂園의 도시］ (멜론 티켓 ─ 롤링홀)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=206372</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=206372</guid>
-            <pubDate>Mon, 15 Nov 2021 09:14:00 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.12  ~<br> 2021.12.12]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2021/11/202111151041369232d6b1-3342-4bd4-920d-ee4d261257fb.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
         <item>
             <title><![CDATA[2021 XINDIE PRESENTS vol．7 딕펑스x소낙별 (멜론 티켓 ─ 롤링홀)]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=206433</link>
@@ -112,14 +104,6 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2021/11/2021111813562387bd45c3-8978-4769-a01c-df950d917d77.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
-            <title><![CDATA[Jump in－to－the－universe（수달놋오터＋돌연한출발＋까데호） (멜론 티켓 ─ 프리즘홀)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=206305</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=206305</guid>
-            <pubDate>Tue, 02 Nov 2021 20:13:39 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.12  ~<br> 2021.12.12]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2021/12/2021121010020241fcb66e-8b30-4917-aae8-0c44406c3843.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
             <title><![CDATA[2021 XINDIE PRESENTS vol．7 그_냥x김필선 (멜론 티켓 ─ 프리즘홀)]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=206434</link>
             <guid>https://ticket.melon.com/performance/index.htm?prodId=206434</guid>
@@ -142,14 +126,6 @@
             <pubDate>Thu, 09 Dec 2021 03:14:13 GMT</pubDate>
             <content:encoded><![CDATA[2022.01.03  ~<br> 2022.01.03]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2021/12/20211207152147896c1ba7-6942-41bb-a18c-69b11c09796b.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[406호 프로젝트 정기공연［연말정산］ (멜론 티켓 ─ 벨로주)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=206343</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=206343</guid>
-            <pubDate>Mon, 08 Nov 2021 03:14:20 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.12  ~<br> 2021.12.12]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2021/11/202111061543101c667218-5b14-4ea9-b4ca-144e63f5783d.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[곽푸른하늘 단독공연 〈10〉 (멜론 티켓 ─ 벨로주)]]></title>
@@ -184,14 +160,6 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2021/12/202112061510118f0775d5-8d3e-4ce9-b62d-876930b1dd17.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
-            <title><![CDATA[전자양 단독 공연 ‘팡’ (멜론 티켓 ─ 구름아래소극장)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=206379</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=206379</guid>
-            <pubDate>Thu, 18 Nov 2021 03:14:26 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.12  ~<br> 2021.12.12]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2021/11/20211117114213ed701910-0701-4806-8287-e9a1c21c0432.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
             <title><![CDATA[위아더나잇 연말 콘서트 〈나의 파란 공책：2021 꿈의 환상〉 (멜론 티켓 ─ 구름아래소극장)]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=206371</link>
             <guid>https://ticket.melon.com/performance/index.htm?prodId=206371</guid>
@@ -222,14 +190,6 @@
             <pubDate>Thu, 02 Dec 2021 03:14:37 GMT</pubDate>
             <content:encoded><![CDATA[2021.12.27  ~<br> 2021.12.28]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2021/11/20211129151547cd3fdd70-c8c6-425e-815a-e7b5e0d57e68.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[에이프릴 세컨드 단독 공연 〈12월의 돌고래：somewhere〉 (멜론 티켓 ─ KT&G 상상마당 라이브홀)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=206340</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=206340</guid>
-            <pubDate>Mon, 08 Nov 2021 05:12:54 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.12  ~<br> 2021.12.12]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2021/11/20211108140011b5a9b2b2-e63a-4789-86d1-af76650bcda9.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[Play NuPlay［＃3 ECOBRIDGE］ (멜론 티켓 ─ KT&G 상상마당 라이브홀)]]></title>
