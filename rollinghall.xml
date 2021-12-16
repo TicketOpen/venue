@@ -4,7 +4,7 @@
         <title>멜론 티켓 ─ 롤링홀</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Dec 2021 02:35:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Dec 2021 03:16:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -78,6 +78,14 @@
             <pubDate>Mon, 13 Dec 2021 03:14:04 GMT</pubDate>
             <content:encoded><![CDATA[2022.01.15  ~<br> 2022.01.16]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2021/12/202112130927540a8d180e-b3ee-4233-b3cf-bba5cbc21d32.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 Summer Soul 단독 콘서트 ‘January’：롤링 27주년 기념 공연]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=206467</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=206467</guid>
+            <pubDate>Thu, 16 Dec 2021 03:13:54 GMT</pubDate>
+            <content:encoded><![CDATA[2022.01.23  ~<br> 2022.01.23]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2021/12/20211215155537e132bb5c-de52-4260-b1f7-10caec834731.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
