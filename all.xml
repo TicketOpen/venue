@@ -4,17 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Dec 2021 14:15:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Dec 2021 15:16:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[김뜻돌 첫 단독공연 〈돌잔치〉 (멜론 티켓 ─ 롤링홀)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=206393</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=206393</guid>
-            <pubDate>Mon, 22 Nov 2021 11:11:27 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.16  ~<br> 2021.12.17]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2021/11/20211118152950ba15e334-7b6e-49a9-9908-ccb8b041a94c.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
         <item>
             <title><![CDATA[ALIVE STAGE ＃6：Synopsis ∼epilogue∼ (멜론 티켓 ─ 롤링홀)]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=206369</link>
