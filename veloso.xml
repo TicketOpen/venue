@@ -4,17 +4,9 @@
         <title>멜론 티켓 ─ 벨로주</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 Dec 2021 14:14:31 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Dec 2021 15:15:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[최고은［reAL II］‘오늘의 난 미지근하게 축제’ 발매 단독 공연]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=206417</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=206417</guid>
-            <pubDate>Tue, 30 Nov 2021 00:44:36 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.19  ~<br> 2021.12.19]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2021/11/202111251342180ec70cb4-10e1-4b45-98bc-276a5806419e.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
         <item>
             <title><![CDATA[사공 단독공연]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=206392</link>

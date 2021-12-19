@@ -4,17 +4,9 @@
         <title>멜론 티켓 ─ 웨스트브릿지</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 Dec 2021 14:14:31 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Dec 2021 15:15:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[우지원 단독공연 〈Not Just a Dream〉]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=206402</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=206402</guid>
-            <pubDate>Fri, 03 Dec 2021 18:15:46 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.19  ~<br> 2021.12.19]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2021/11/202111191550292a87503f-e119-46eb-877e-8e95b4c7e872.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
         <item>
             <title><![CDATA[윤딴딴 겨울 독백 콘서트 〈기타하고 나하고 2021〉]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=206390</link>
