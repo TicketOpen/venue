@@ -4,7 +4,7 @@
         <title>멜론 티켓 ─ 롤링홀</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Dec 2021 02:05:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Dec 2021 03:17:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -78,6 +78,14 @@
             <pubDate>Mon, 20 Dec 2021 03:14:16 GMT</pubDate>
             <content:encoded><![CDATA[2022.01.28  ~<br> 2022.01.28]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2021/12/202112171549591c686c29-fb29-4669-95dd-6c824356f570.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[미스피츠 단독 콘서트 ‘First Step’：롤링 27주년 기념 공연]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=206474</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=206474</guid>
+            <pubDate>Wed, 22 Dec 2021 03:15:02 GMT</pubDate>
+            <content:encoded><![CDATA[2022.01.29  ~<br> 2022.01.29]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2021/12/2021122009421637cb4753-3e5f-46d8-9adf-f8a9a63a089e.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
