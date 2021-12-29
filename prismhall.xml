@@ -4,7 +4,7 @@
         <title>멜론 티켓 ─ 프리즘홀</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Dec 2021 04:19:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Dec 2021 05:16:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Tue, 28 Dec 2021 05:14:39 GMT</pubDate>
             <content:encoded><![CDATA[2022.01.21  ~<br> 2022.01.21]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2021/12/202112241517416313a4fe-0ad8-4125-9118-46efc3782d57.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[양반들 기획공연 흐름 流 flow season：겨울]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=206486</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=206486</guid>
+            <pubDate>Wed, 29 Dec 2021 05:14:13 GMT</pubDate>
+            <content:encoded><![CDATA[2022.01.22  ~<br> 2022.01.22]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2021/12/202112281708354e25ae7e-fcf7-4360-b6b5-3c8b674837c1.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
