@@ -4,17 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Dec 2021 14:14:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Dec 2021 15:16:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[2021 정상수 기부 콘서트－서울 (멜론 티켓 ─ 롤링홀)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=206442</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=206442</guid>
-            <pubDate>Sat, 04 Dec 2021 03:13:56 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.30  ~<br> 2021.12.30]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2021/12/20211203173343b05aa61c-83a6-4b37-b760-16a750ca9c65.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
         <item>
             <title><![CDATA[ALIVE STAGE ＃8：박시환 단독 콘서트 ‘사랑하지 않아서야’ (멜론 티켓 ─ 롤링홀)]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=206414</link>
@@ -126,14 +118,6 @@
             <pubDate>Wed, 29 Dec 2021 05:14:13 GMT</pubDate>
             <content:encoded><![CDATA[2022.01.22  ~<br> 2022.01.22]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2021/12/202112281708354e25ae7e-fcf7-4360-b6b5-3c8b674837c1.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[REDOOR FIRST CONCERT (멜론 티켓 ─ 벨로주)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=206462</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=206462</guid>
-            <pubDate>Mon, 13 Dec 2021 05:12:51 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.30  ~<br> 2021.12.30]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2021/12/202112131128396c3903d0-f37e-4ca5-93f4-de877645c030.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[이주영 발라드 2021 “안녕，오랜만이야．” (멜론 티켓 ─ 벨로주)]]></title>
