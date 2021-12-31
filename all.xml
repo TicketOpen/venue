@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 31 Dec 2021 14:15:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Dec 2021 15:17:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -118,14 +118,6 @@
             <pubDate>Wed, 29 Dec 2021 05:14:13 GMT</pubDate>
             <content:encoded><![CDATA[2022.01.22  ~<br> 2022.01.22]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2021/12/202112281708354e25ae7e-fcf7-4360-b6b5-3c8b674837c1.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[이주영 발라드 2021 “안녕，오랜만이야．” (멜론 티켓 ─ 벨로주)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=206447</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=206447</guid>
-            <pubDate>Wed, 08 Dec 2021 02:01:25 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.31  ~<br> 2021.12.31]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2021/12/202112061510118f0775d5-8d3e-4ce9-b62d-876930b1dd17.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[Happy New Year 2022！Western Kite X kennytheking（guest．g1nger） (멜론 티켓 ─ 벨로주)]]></title>
