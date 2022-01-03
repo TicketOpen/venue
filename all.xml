@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Jan 2022 14:15:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Jan 2022 15:16:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -78,14 +78,6 @@
             <pubDate>Fri, 03 Dec 2021 18:15:46 GMT</pubDate>
             <content:encoded><![CDATA[2021.12.23  ~<br> 2022.01.09]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2021/12/20211220091646ac556676-50e9-4b52-a9eb-0b85ffc2e29f.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[먼데이프로젝트 시즌4［허드 단독 콘서트］ (멜론 티켓 ─ 프리즘홀)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=206451</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=206451</guid>
-            <pubDate>Thu, 09 Dec 2021 03:14:13 GMT</pubDate>
-            <content:encoded><![CDATA[2022.01.03  ~<br> 2022.01.03]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2021/12/20211207152147896c1ba7-6942-41bb-a18c-69b11c09796b.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[＋1dB（plz） (멜론 티켓 ─ 프리즘홀)]]></title>
