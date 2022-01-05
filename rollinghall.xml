@@ -4,7 +4,7 @@
         <title>멜론 티켓 ─ 롤링홀</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Jan 2022 04:20:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Jan 2022 05:16:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Mon, 13 Dec 2021 03:14:04 GMT</pubDate>
             <content:encoded><![CDATA[2022.01.15  ~<br> 2022.01.16]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2021/12/202112130927540a8d180e-b3ee-4233-b3cf-bba5cbc21d32.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 DEJAVU GROUP CONCERT：Wrote This Tomorrow－서울]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=206498</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=206498</guid>
+            <pubDate>Wed, 05 Jan 2022 05:14:31 GMT</pubDate>
+            <content:encoded><![CDATA[2022.01.22  ~<br> 2022.01.22]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/01/20220104101950ff99db1a-26e8-40d0-90b5-ee0de6ec2033.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[2022 Summer Soul 단독 콘서트 ‘January’：롤링 27주년 기념 공연]]></title>
