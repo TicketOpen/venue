@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Jan 2022 02:15:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Jan 2022 03:19:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -86,6 +86,14 @@
             <pubDate>Thu, 30 Dec 2021 03:13:28 GMT</pubDate>
             <content:encoded><![CDATA[2022.02.06  ~<br> 2022.02.06]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2021/12/2021122810054105970e60-1865-4681-9038-3d2f49e2b103.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[김사월 단독 콘서트：롤링 27주년 기념 공연 (멜론 티켓 ─ 롤링홀)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=206494</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=206494</guid>
+            <pubDate>Fri, 07 Jan 2022 03:17:21 GMT</pubDate>
+            <content:encoded><![CDATA[2022.02.11  ~<br> 2022.02.12]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/01/20220103145810db106b89-2a46-422e-be89-cbf9bb3f3f8b.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[윤딴딴 겨울 독백 콘서트 〈기타하고 나하고 2021〉 (멜론 티켓 ─ 웨스트브릿지)]]></title>
