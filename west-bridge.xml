@@ -1,19 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>멜론 티켓 ─ 웨스트브릿지</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Sun, 09 Jan 2022 14:14:28 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[윤딴딴 겨울 독백 콘서트 〈기타하고 나하고 2021〉]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=206390</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=206390</guid>
-            <pubDate>Fri, 03 Dec 2021 18:15:46 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.23  ~<br> 2022.01.09]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2021/12/20211220091646ac556676-50e9-4b52-a9eb-0b85ffc2e29f.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://ticket.melon.com/place/index.htm?placeId=293</id>
+    <title>멜론 티켓 ─ 웨스트브릿지</title>
+    <updated>2022-01-09T15:16:06.756Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://ticket.melon.com/place/favicon.ico</icon>
+</feed>
