@@ -4,7 +4,7 @@
         <title>멜론 티켓 ─ 벨로주</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Jan 2022 07:16:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Jan 2022 08:19:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,8 +12,8 @@
             <link>https://ticket.melon.com/performance/index.htm?prodId=206477</link>
             <guid>https://ticket.melon.com/performance/index.htm?prodId=206477</guid>
             <pubDate>Thu, 30 Dec 2021 03:13:57 GMT</pubDate>
-            <content:encoded><![CDATA[2022.01.17  ~<br> 2022.01.18]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2021/12/202112211538329ee60fdb-c2ed-42e8-ac1a-5b725d6c5d46.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+            <content:encoded><![CDATA[2022.01.17  ~<br> 2022.01.17]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/01/2022011016320730c89cdf-dd79-4d66-9da6-14ba03b1f8f6.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[정예원 단독 콘서트 ‘예원일기’]]></title>
