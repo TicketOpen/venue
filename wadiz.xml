@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://ticket.melon.com/place/index.htm?placeId=1083</id>
-    <title>멜론 티켓 ─ 공간 와디즈</title>
-    <updated>2022-01-11T00:51:09.640Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://ticket.melon.com/place/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>멜론 티켓 ─ 공간 와디즈</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Tue, 11 Jan 2022 02:08:04 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[［한국소암재단과 함께하는 새벽공방 팬미팅 ‘MIRACLE’］]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=206507</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=206507</guid>
+            <pubDate>Tue, 11 Jan 2022 02:07:37 GMT</pubDate>
+            <content:encoded><![CDATA[2022.01.22  ~<br> 2022.01.22]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/01/2022011013322523227d56-8c38-4da2-8c17-ad28ca442070.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+    </channel>
+</rss>
