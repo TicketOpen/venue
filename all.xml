@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Jan 2022 02:09:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Jan 2022 03:19:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -88,6 +88,14 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/01/2022010710163111ebbe86-96e5-4ff3-bf70-2e81de28eba8.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
+            <title><![CDATA[박소은 단독 콘서트 ‘너만 있으면’：롤링 27주년 기념 공연 (멜론 티켓 ─ 롤링홀)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=206512</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=206512</guid>
+            <pubDate>Thu, 13 Jan 2022 03:16:25 GMT</pubDate>
+            <content:encoded><![CDATA[2022.02.18  ~<br> 2022.02.18]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/01/2022011017475848150ff1-b184-4c02-90f9-77fcd7841e4a.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
             <title><![CDATA[＋1dB（plz） (멜론 티켓 ─ 프리즘홀)]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=206482</link>
             <guid>https://ticket.melon.com/performance/index.htm?prodId=206482</guid>
@@ -142,6 +150,14 @@
             <pubDate>Thu, 06 Jan 2022 03:17:07 GMT</pubDate>
             <content:encoded><![CDATA[2022.01.29  ~<br> 2022.01.29]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/01/20220104164043092cd431-4ac8-45e8-b44d-71bd1846d9c4.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[먼데이프로젝트 시즌5［청춘의 밤］－오프더메뉴 단독 콘서트 (멜론 티켓 ─ 벨로주)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=206510</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=206510</guid>
+            <pubDate>Thu, 13 Jan 2022 03:16:53 GMT</pubDate>
+            <content:encoded><![CDATA[2022.02.07  ~<br> 2022.02.07]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/01/2022011016405236be2cbe-faa9-49f4-8bfd-b6f89de27966.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[전자양 단독 공연 ‘팡파레’ (멜론 티켓 ─ 구름아래소극장)]]></title>
