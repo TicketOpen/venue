@@ -1,19 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>멜론 티켓 ─ CJ아지트 광흥창</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Sun, 16 Jan 2022 14:14:17 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[The Poles 정규 앨범 발매 기념 단독 콘서트 ‘The High Tide Club’]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=206490</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=206490</guid>
-            <pubDate>Fri, 31 Dec 2021 09:15:17 GMT</pubDate>
-            <content:encoded><![CDATA[2022.01.14  ~<br> 2022.01.16]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2021/12/202112301526483e66230f-ab98-4272-8678-cb1fa30f3f40.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://ticket.melon.com/place/index.htm?placeId=329</id>
+    <title>멜론 티켓 ─ CJ아지트 광흥창</title>
+    <updated>2022-01-16T15:15:55.133Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://ticket.melon.com/place/favicon.ico</icon>
+</feed>

@@ -4,17 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 16 Jan 2022 14:14:17 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Jan 2022 15:15:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[1415 3rd EP naps！발매기념 단독 공연：롤링 27주년 기념 공연 (멜론 티켓 ─ 롤링홀)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=206458</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=206458</guid>
-            <pubDate>Mon, 13 Dec 2021 03:14:04 GMT</pubDate>
-            <content:encoded><![CDATA[2022.01.15  ~<br> 2022.01.16]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2021/12/202112130927540a8d180e-b3ee-4233-b3cf-bba5cbc21d32.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
         <item>
             <title><![CDATA[2022 DEJAVU GROUP CONCERT：Wrote This Tomorrow－서울 (멜론 티켓 ─ 롤링홀)]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=206498</link>
@@ -182,14 +174,6 @@
             <pubDate>Thu, 13 Jan 2022 05:15:46 GMT</pubDate>
             <content:encoded><![CDATA[2022.02.12  ~<br> 2022.02.12]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/01/2022011017063914962fa3-c2fb-42bf-aea0-c617988e6f69.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[The Poles 정규 앨범 발매 기념 단독 콘서트 ‘The High Tide Club’ (멜론 티켓 ─ CJ아지트 광흥창)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=206490</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=206490</guid>
-            <pubDate>Fri, 31 Dec 2021 09:15:17 GMT</pubDate>
-            <content:encoded><![CDATA[2022.01.14  ~<br> 2022.01.16]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2021/12/202112301526483e66230f-ab98-4272-8678-cb1fa30f3f40.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[새벽공방 뮤직 콘서트 ‘MIRACLE’ with 소아암재단 (멜론 티켓 ─ 공간 와디즈)]]></title>
