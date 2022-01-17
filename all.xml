@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Jan 2022 02:08:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Jan 2022 03:18:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -102,6 +102,14 @@
             <pubDate>Fri, 14 Jan 2022 03:15:52 GMT</pubDate>
             <content:encoded><![CDATA[2022.02.20  ~<br> 2022.02.20]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/01/202201111506518c9209f0-d045-43ad-b5bc-03a93f8d77bc.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[모브닝 단독 콘서트 ‘사랑을 위하여’：롤링 27주년 기념 공연 (멜론 티켓 ─ 롤링홀)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=206522</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=206522</guid>
+            <pubDate>Mon, 17 Jan 2022 03:16:35 GMT</pubDate>
+            <content:encoded><![CDATA[2022.02.25  ~<br> 2022.02.26]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/01/2022011311272818269313-46ed-4cdf-86fa-3be11ea57d6e.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[CONNECT：마리슈x오추프로젝트 (멜론 티켓 ─ 프리즘홀)]]></title>
