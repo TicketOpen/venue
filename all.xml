@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Jan 2022 14:15:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Jan 2022 15:17:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -136,14 +136,6 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/01/20220110095632cc276feb-1195-48f9-9071-43b10ab6c953.png/melon/resize/90x125/strip/true" length="0" type="image/png/melon/resize/90x125/strip/true"/>
         </item>
         <item>
-            <title><![CDATA[먼데이프로젝트 시즌5［청춘의 밤］－백아 단독 콘서트 (멜론 티켓 ─ 벨로주)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=206477</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=206477</guid>
-            <pubDate>Thu, 30 Dec 2021 03:13:57 GMT</pubDate>
-            <content:encoded><![CDATA[2022.01.17  ~<br> 2022.01.17]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/01/2022011016320730c89cdf-dd79-4d66-9da6-14ba03b1f8f6.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
             <title><![CDATA[팔칠댄스（87dance），［Soldout smile］Showcase (멜론 티켓 ─ 벨로주)]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=206508</link>
             <guid>https://ticket.melon.com/performance/index.htm?prodId=206508</guid>
@@ -182,6 +174,14 @@
             <pubDate>Thu, 13 Jan 2022 05:15:46 GMT</pubDate>
             <content:encoded><![CDATA[2022.02.12  ~<br> 2022.02.12]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/01/2022011017063914962fa3-c2fb-42bf-aea0-c617988e6f69.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[홍은기 단독 콘서트［Dear．］ (멜론 티켓 ─ CJ아지트 광흥창)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=206525</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=206525</guid>
+            <pubDate>Mon, 17 Jan 2022 15:16:36 GMT</pubDate>
+            <content:encoded><![CDATA[2022.02.05  ~<br> 2022.02.05]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/01/20220114160858190da46d-6904-478a-a80f-7ddf79192e2f.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[새벽공방 뮤직 콘서트 ‘MIRACLE’ with 소아암재단 (멜론 티켓 ─ 공간 와디즈)]]></title>
