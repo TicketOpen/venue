@@ -4,7 +4,7 @@
         <title>멜론 티켓 ─ 프리즘홀</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Jan 2022 04:18:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Jan 2022 05:15:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,14 @@
             <pubDate>Wed, 19 Jan 2022 03:13:24 GMT</pubDate>
             <content:encoded><![CDATA[2022.02.14  ~<br> 2022.02.14]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/01/2022011710492078e5a0b3-ff3b-4e91-a1ce-7e56cf0ca9fb.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[티키타카 콘서트：잭킹콩]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=206541</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=206541</guid>
+            <pubDate>Thu, 20 Jan 2022 05:13:40 GMT</pubDate>
+            <content:encoded><![CDATA[2022.02.18  ~<br> 2022.02.18]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/01/202201200949060aa0cbad-1795-430a-b6f0-6a6ffcd2d8c0.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
