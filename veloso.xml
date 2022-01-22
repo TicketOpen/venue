@@ -4,17 +4,9 @@
         <title>멜론 티켓 ─ 벨로주</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 22 Jan 2022 14:13:46 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Jan 2022 15:14:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[팔칠댄스（87dance），［Soldout smile］Showcase]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=206508</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=206508</guid>
-            <pubDate>Wed, 12 Jan 2022 09:14:14 GMT</pubDate>
-            <content:encoded><![CDATA[2022.01.22  ~<br> 2022.01.22]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/01/2022011013474566c60aea-c865-4fce-84fe-34dbeb626e5e.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
         <item>
             <title><![CDATA[정예원 단독 콘서트 ‘예원일기’]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=206499</link>

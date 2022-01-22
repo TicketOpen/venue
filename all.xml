@@ -4,17 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 22 Jan 2022 14:13:46 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Jan 2022 15:14:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[2022 DEJAVU GROUP CONCERT：Wrote This Tomorrow－서울 (멜론 티켓 ─ 롤링홀)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=206498</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=206498</guid>
-            <pubDate>Wed, 05 Jan 2022 05:14:31 GMT</pubDate>
-            <content:encoded><![CDATA[2022.01.22  ~<br> 2022.01.22]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/01/20220104101950ff99db1a-26e8-40d0-90b5-ee0de6ec2033.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
         <item>
             <title><![CDATA[2022 Summer Soul 단독 콘서트 ‘January’：롤링 27주년 기념 공연 (멜론 티켓 ─ 롤링홀)]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=206467</link>
@@ -104,14 +96,6 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/01/2022011311272818269313-46ed-4cdf-86fa-3be11ea57d6e.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
-            <title><![CDATA[양반들 기획공연 흐름 流 flow season：겨울 (멜론 티켓 ─ 프리즘홀)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=206486</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=206486</guid>
-            <pubDate>Wed, 29 Dec 2021 05:14:13 GMT</pubDate>
-            <content:encoded><![CDATA[2022.01.22  ~<br> 2022.01.22]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2021/12/202112281708354e25ae7e-fcf7-4360-b6b5-3c8b674837c1.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
             <title><![CDATA[CONNECT：조희원X허드 (멜론 티켓 ─ 프리즘홀)]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=206506</link>
             <guid>https://ticket.melon.com/performance/index.htm?prodId=206506</guid>
@@ -150,14 +134,6 @@
             <pubDate>Sat, 22 Jan 2022 05:12:57 GMT</pubDate>
             <content:encoded><![CDATA[2022.02.20  ~<br> 2022.02.20]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/01/202201210933365fb251fd-5681-4b5a-b55f-b83454da8d86.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[팔칠댄스（87dance），［Soldout smile］Showcase (멜론 티켓 ─ 벨로주)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=206508</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=206508</guid>
-            <pubDate>Wed, 12 Jan 2022 09:14:14 GMT</pubDate>
-            <content:encoded><![CDATA[2022.01.22  ~<br> 2022.01.22]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/01/2022011013474566c60aea-c865-4fce-84fe-34dbeb626e5e.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[정예원 단독 콘서트 ‘예원일기’ (멜론 티켓 ─ 벨로주)]]></title>
