@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 22 Jan 2022 04:18:13 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Jan 2022 05:14:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -142,6 +142,14 @@
             <pubDate>Fri, 21 Jan 2022 05:12:34 GMT</pubDate>
             <content:encoded><![CDATA[2022.02.19  ~<br> 2022.02.19]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/01/202201201030318ee409d9-6168-490a-b704-59d8b2ff8a76.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[티키타카 콘서트：오프더메뉴 (멜론 티켓 ─ 프리즘홀)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=206544</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=206544</guid>
+            <pubDate>Sat, 22 Jan 2022 05:12:57 GMT</pubDate>
+            <content:encoded><![CDATA[2022.02.20  ~<br> 2022.02.20]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/01/202201210933365fb251fd-5681-4b5a-b55f-b83454da8d86.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[팔칠댄스（87dance），［Soldout smile］Showcase (멜론 티켓 ─ 벨로주)]]></title>
