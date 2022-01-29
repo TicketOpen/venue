@@ -4,17 +4,9 @@
         <title>멜론 티켓 ─ 벨로주</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 29 Jan 2022 14:14:29 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 29 Jan 2022 15:15:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[정예원 단독 콘서트 ‘예원일기’]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=206499</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=206499</guid>
-            <pubDate>Thu, 06 Jan 2022 03:17:07 GMT</pubDate>
-            <content:encoded><![CDATA[2022.01.29  ~<br> 2022.01.29]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/01/20220104164043092cd431-4ac8-45e8-b44d-71bd1846d9c4.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
         <item>
             <title><![CDATA[먼데이프로젝트 시즌5［청춘의 밤］－오프더메뉴 단독 콘서트]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=206510</link>

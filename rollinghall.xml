@@ -4,17 +4,9 @@
         <title>멜론 티켓 ─ 롤링홀</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 29 Jan 2022 14:14:29 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 29 Jan 2022 15:15:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[미스피츠 단독 콘서트 ‘First Step’：롤링 27주년 기념 공연]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=206474</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=206474</guid>
-            <pubDate>Wed, 22 Dec 2021 03:15:02 GMT</pubDate>
-            <content:encoded><![CDATA[2022.01.29  ~<br> 2022.01.29]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2021/12/2021122009421637cb4753-3e5f-46d8-9adf-f8a9a63a089e.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
         <item>
             <title><![CDATA[모트 단독 콘서트 ‘몽글몽글’：롤링 27주년 기념 공연]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=206493</link>
