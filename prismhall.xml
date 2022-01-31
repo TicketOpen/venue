@@ -4,7 +4,7 @@
         <title>멜론 티켓 ─ 프리즘홀</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 31 Jan 2022 04:18:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 31 Jan 2022 05:13:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,14 @@
             <pubDate>Fri, 21 Jan 2022 05:12:34 GMT</pubDate>
             <content:encoded><![CDATA[2022.02.19  ~<br> 2022.02.19]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/01/202201201030318ee409d9-6168-490a-b704-59d8b2ff8a76.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[내 귀에 드라마 콘서트：더베인]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=206565</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=206565</guid>
+            <pubDate>Mon, 31 Jan 2022 05:12:12 GMT</pubDate>
+            <content:encoded><![CDATA[2022.02.26  ~<br> 2022.02.26]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/01/20220128095110003458e8-ae76-4a39-80ff-1c0acd1fa58c.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
