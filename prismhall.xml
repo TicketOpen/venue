@@ -4,17 +4,9 @@
         <title>멜론 티켓 ─ 프리즘홀</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Feb 2022 07:15:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Feb 2022 08:19:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[CONNECT：조희원X허드]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=206506</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=206506</guid>
-            <pubDate>Mon, 10 Jan 2022 05:15:53 GMT</pubDate>
-            <content:encoded><![CDATA[2022.02.04  ~<br> 2022.02.04]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/01/20220110095632cc276feb-1195-48f9-9071-43b10ab6c953.png/melon/resize/90x125/strip/true" length="0" type="image/png/melon/resize/90x125/strip/true"/>
-        </item>
         <item>
             <title><![CDATA[［먼데이프로젝트 시즌5］베리코이버니 앨범발매 단독 콘서트]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=206532</link>
@@ -38,6 +30,14 @@
             <pubDate>Fri, 21 Jan 2022 05:12:34 GMT</pubDate>
             <content:encoded><![CDATA[2022.02.19  ~<br> 2022.02.19]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/01/202201201030318ee409d9-6168-490a-b704-59d8b2ff8a76.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[CONNECT：조희원X허드]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=206506</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=206506</guid>
+            <pubDate>Mon, 10 Jan 2022 05:15:53 GMT</pubDate>
+            <content:encoded><![CDATA[2022.02.25  ~<br> 2022.02.25]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/02/2022020316421766513fee-3b9c-4c14-b2c6-f7c75df04092.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[내 귀에 드라마 콘서트：더베인]]></title>
