@@ -4,7 +4,7 @@
         <title>멜론 티켓 ─ 구름아래소극장</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Feb 2022 01:55:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Feb 2022 03:16:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,14 @@
             <pubDate>Thu, 20 Jan 2022 03:13:22 GMT</pubDate>
             <content:encoded><![CDATA[2022.02.21  ~<br> 2022.02.21]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/01/20220119150037fb1d6ede-cc19-497e-b244-723b30cc2c6f.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[먼데이프로젝트 시즌5 음악여행，쉼［김정훈 단독 콘서트］]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=206564</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=206564</guid>
+            <pubDate>Thu, 03 Feb 2022 03:15:01 GMT</pubDate>
+            <content:encoded><![CDATA[2022.02.28  ~<br> 2022.02.28]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/01/20220128174957e5b5011e-4c17-4f5c-b503-0b7246d68b86.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
