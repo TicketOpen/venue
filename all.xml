@@ -4,17 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Feb 2022 14:13:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Feb 2022 15:13:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[모트 단독 콘서트 ‘몽글몽글’：롤링 27주년 기념 공연 (멜론 티켓 ─ 롤링홀)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=206493</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=206493</guid>
-            <pubDate>Thu, 06 Jan 2022 03:16:39 GMT</pubDate>
-            <content:encoded><![CDATA[2022.02.04  ~<br> 2022.02.04]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/01/202201031441046021d163-6f16-4c34-9036-123c03364e2e.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
         <item>
             <title><![CDATA[이제 단독 콘서트 ‘Open’：롤링 27주년 기념 공연 (멜론 티켓 ─ 롤링홀)]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=206483</link>
