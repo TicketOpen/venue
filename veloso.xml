@@ -4,7 +4,7 @@
         <title>멜론 티켓 ─ 벨로주</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Feb 2022 08:15:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Feb 2022 09:13:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Thu, 13 Jan 2022 03:16:53 GMT</pubDate>
             <content:encoded><![CDATA[2022.02.07  ~<br> 2022.02.07]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/01/2022011016405236be2cbe-faa9-49f4-8bfd-b6f89de27966.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[천단비 단독 콘서트：한 걸음 더]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=206574</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=206574</guid>
+            <pubDate>Fri, 04 Feb 2022 09:12:15 GMT</pubDate>
+            <content:encoded><![CDATA[2022.02.26  ~<br> 2022.02.26]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/02/20220204115510531daa52-3574-476e-ba9f-50cb3417e7ff.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
