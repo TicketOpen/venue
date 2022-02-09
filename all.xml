@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Feb 2022 08:18:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Feb 2022 09:14:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -70,6 +70,14 @@
             <pubDate>Fri, 04 Feb 2022 03:11:31 GMT</pubDate>
             <content:encoded><![CDATA[2022.03.06  ~<br> 2022.03.06]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/01/202201271312365b447744-e1d6-415f-b8b5-73eb6cf4bf92.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[참솜 소극장 단독공연 ‘day off’ (멜론 티켓 ─ 웨스트브릿지)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=206582</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=206582</guid>
+            <pubDate>Wed, 09 Feb 2022 09:12:52 GMT</pubDate>
+            <content:encoded><![CDATA[2022.02.26  ~<br> 2022.02.27]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/02/20220208132726ab66ed90-bbe7-4391-990a-503153ed08fa.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[［먼데이프로젝트 시즌5］베리코이버니 앨범발매 단독 콘서트 (멜론 티켓 ─ 프리즘홀)]]></title>
