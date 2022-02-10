@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Feb 2022 02:29:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Feb 2022 03:15:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -150,6 +150,14 @@
             <pubDate>Fri, 04 Feb 2022 09:12:15 GMT</pubDate>
             <content:encoded><![CDATA[2022.02.26  ~<br> 2022.02.26]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/02/20220204115510531daa52-3574-476e-ba9f-50cb3417e7ff.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[먼데이프로젝트 시즌5 청춘의 밤［정우 단독 콘서트］ (멜론 티켓 ─ 벨로주)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=206578</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=206578</guid>
+            <pubDate>Thu, 10 Feb 2022 03:13:38 GMT</pubDate>
+            <content:encoded><![CDATA[2022.03.07  ~<br> 2022.03.07]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/02/20220207105600eaf15c28-2a73-4bf9-b64a-af1ab78efa90.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[Flight0212：The Whales편 (멜론 티켓 ─ 구름아래소극장)]]></title>
