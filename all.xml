@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Feb 2022 02:37:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Feb 2022 03:15:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -70,6 +70,14 @@
             <pubDate>Fri, 04 Feb 2022 03:11:31 GMT</pubDate>
             <content:encoded><![CDATA[2022.03.06  ~<br> 2022.03.06]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/01/202201271312365b447744-e1d6-415f-b8b5-73eb6cf4bf92.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[W24 4주년 기념 단독 콘서트：롤링 27주년 기념 공연 (멜론 티켓 ─ 롤링홀)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=206587</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=206587</guid>
+            <pubDate>Fri, 11 Feb 2022 03:13:15 GMT</pubDate>
+            <content:encoded><![CDATA[2022.03.08  ~<br> 2022.03.08]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/02/20220210100342702dca26-1267-4024-98b1-bae8e13ab07d.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[참솜 소극장 단독공연 ‘day off’ (멜론 티켓 ─ 웨스트브릿지)]]></title>
