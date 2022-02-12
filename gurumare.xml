@@ -4,17 +4,9 @@
         <title>멜론 티켓 ─ 구름아래소극장</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 12 Feb 2022 14:14:06 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Feb 2022 15:14:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[Flight0212：The Whales편]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=206511</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=206511</guid>
-            <pubDate>Thu, 13 Jan 2022 05:15:46 GMT</pubDate>
-            <content:encoded><![CDATA[2022.02.12  ~<br> 2022.02.12]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/01/2022011017063914962fa3-c2fb-42bf-aea0-c617988e6f69.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
         <item>
             <title><![CDATA[먼데이프로젝트 시즌5［음악여행，쉼］‘결’ 단독 콘서트]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=206536</link>
