@@ -4,17 +4,9 @@
         <title>멜론 티켓 ─ 프리즘홀</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 19 Feb 2022 14:16:03 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Feb 2022 15:16:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[티키타카 콘서트：해서웨이]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=206542</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=206542</guid>
-            <pubDate>Fri, 21 Jan 2022 05:12:34 GMT</pubDate>
-            <content:encoded><![CDATA[2022.02.19  ~<br> 2022.02.19]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/01/202201201030318ee409d9-6168-490a-b704-59d8b2ff8a76.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
         <item>
             <title><![CDATA[티키타카 콘서트：오프더메뉴]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=206544</link>
