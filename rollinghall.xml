@@ -4,7 +4,7 @@
         <title>멜론 티켓 ─ 롤링홀</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Feb 2022 02:33:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Feb 2022 03:17:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -62,6 +62,14 @@
             <pubDate>Tue, 15 Feb 2022 03:13:45 GMT</pubDate>
             <content:encoded><![CDATA[2022.03.12  ~<br> 2022.03.13]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/02/202202111123179924c01a-4ee4-4fc1-8cc2-ec6b4e60e910.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[하이브로 단독 콘서트 ‘오늘부터 1일’：롤링 27주년 기념 공연]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=206608</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=206608</guid>
+            <pubDate>Tue, 22 Feb 2022 03:15:00 GMT</pubDate>
+            <content:encoded><![CDATA[2022.03.18  ~<br> 2022.03.18]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/02/20220221103440caaabfbf-211d-446e-8a96-996b8ab11324.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[해리빅버튼 단독 콘서트 ‘Let‘s Keep Going’：롤링 27주년 기념 공연]]></title>
