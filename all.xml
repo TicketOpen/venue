@@ -4,17 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 26 Feb 2022 14:16:02 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Feb 2022 15:15:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[모브닝 단독 콘서트 ‘사랑을 위하여’：롤링 27주년 기념 공연 (멜론 티켓 ─ 롤링홀)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=206522</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=206522</guid>
-            <pubDate>Mon, 17 Jan 2022 03:16:35 GMT</pubDate>
-            <content:encoded><![CDATA[2022.02.25  ~<br> 2022.02.26]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/01/2022011311272818269313-46ed-4cdf-86fa-3be11ea57d6e.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
         <item>
             <title><![CDATA[잠비나이 단독 콘서트：롤링 27주년 기념 공연 (멜론 티켓 ─ 롤링홀)]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=206547</link>
@@ -120,14 +112,6 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/02/20220208132726ab66ed90-bbe7-4391-990a-503153ed08fa.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
-            <title><![CDATA[내 귀에 드라마 콘서트：더베인 (멜론 티켓 ─ 프리즘홀)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=206565</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=206565</guid>
-            <pubDate>Mon, 31 Jan 2022 05:12:12 GMT</pubDate>
-            <content:encoded><![CDATA[2022.02.26  ~<br> 2022.02.26]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/01/20220128095110003458e8-ae76-4a39-80ff-1c0acd1fa58c.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
             <title><![CDATA[내 귀에 드라마 콘서트：에이프릴세컨드 (멜론 티켓 ─ 프리즘홀)]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=206566</link>
             <guid>https://ticket.melon.com/performance/index.htm?prodId=206566</guid>
@@ -166,14 +150,6 @@
             <pubDate>Fri, 25 Feb 2022 05:13:30 GMT</pubDate>
             <content:encoded><![CDATA[2022.03.18  ~<br> 2022.03.18]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/02/202202241524315078d47c-f55a-4fbd-b5ca-438ed3f49b39.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[천단비 단독 콘서트：한 걸음 더 (멜론 티켓 ─ 벨로주)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=206574</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=206574</guid>
-            <pubDate>Fri, 04 Feb 2022 09:12:15 GMT</pubDate>
-            <content:encoded><![CDATA[2022.02.26  ~<br> 2022.02.26]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/02/20220204115510531daa52-3574-476e-ba9f-50cb3417e7ff.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[먼데이프로젝트 시즌5 청춘의 밤［정우 단독 콘서트］ (멜론 티켓 ─ 벨로주)]]></title>
