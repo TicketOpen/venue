@@ -4,17 +4,9 @@
         <title>멜론 티켓 ─ 프리즘홀</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 27 Feb 2022 14:15:15 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Feb 2022 15:15:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[내 귀에 드라마 콘서트：에이프릴세컨드]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=206566</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=206566</guid>
-            <pubDate>Mon, 31 Jan 2022 08:16:06 GMT</pubDate>
-            <content:encoded><![CDATA[2022.02.27  ~<br> 2022.02.27]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/01/2022012810023430b09e1d-a92f-45cf-91e8-be082a870fb0.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
         <item>
             <title><![CDATA[connect：서온X홍예진]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=206616</link>
