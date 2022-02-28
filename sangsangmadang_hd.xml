@@ -4,9 +4,17 @@
         <title>멜론 티켓 ─ KT&amp;G 상상마당 라이브홀</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Feb 2022 07:15:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Feb 2022 08:18:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[차세대 데뷔 3주년 기념 단독공연［당신들의 다음 세대 vol．3］]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=206626</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=206626</guid>
+            <pubDate>Mon, 28 Feb 2022 08:17:22 GMT</pubDate>
+            <content:encoded><![CDATA[2022.03.26  ~<br> 2022.03.26]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/02/20220224111334c7c33985-79e2-4481-b704-e78e9a3eab5a.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[Blast from the past]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=206629</link>
