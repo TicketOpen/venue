@@ -4,7 +4,7 @@
         <title>멜론 티켓 ─ 롤링홀</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Feb 2022 02:07:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Feb 2022 03:17:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -102,6 +102,14 @@
             <pubDate>Fri, 25 Feb 2022 03:14:25 GMT</pubDate>
             <content:encoded><![CDATA[2022.03.27  ~<br> 2022.03.27]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/02/202202211605103c956e59-3a4e-45f5-8011-e28c71c4df05.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[전진희 단독 콘서트：롤링 27주년 기념 공연]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=206617</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=206617</guid>
+            <pubDate>Mon, 28 Feb 2022 03:15:08 GMT</pubDate>
+            <content:encoded><![CDATA[2022.04.02  ~<br> 2022.04.02]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/02/202202211803408ce58087-f2d4-4dbb-af09-c20a4391ced5.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
