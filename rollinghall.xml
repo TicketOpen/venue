@@ -4,7 +4,7 @@
         <title>멜론 티켓 ─ 롤링홀</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Mar 2022 23:17:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Mar 2022 00:58:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -109,7 +109,7 @@
             <guid>https://ticket.melon.com/performance/index.htm?prodId=206634</guid>
             <pubDate>Wed, 02 Mar 2022 03:14:29 GMT</pubDate>
             <content:encoded><![CDATA[2022.04.03  ~<br> 2022.04.03]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/02/20220224153516c15b6a86-b3b6-4934-9f30-1f8560563a18.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/03/20220303092301bb8a2cde-d2e9-4703-a843-0210cde1ffc9.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
