@@ -4,17 +4,9 @@
         <title>멜론 티켓 ─ 롤링홀</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Mar 2022 14:15:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Mar 2022 15:16:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[W24 4주년 기념 단독 콘서트：롤링 27주년 기념 공연]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=206587</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=206587</guid>
-            <pubDate>Fri, 11 Feb 2022 03:13:15 GMT</pubDate>
-            <content:encoded><![CDATA[2022.03.08  ~<br> 2022.03.08]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/02/20220210100342702dca26-1267-4024-98b1-bae8e13ab07d.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
         <item>
             <title><![CDATA[이글루베이 단독 콘서트［독백］：롤링 27주년 기념 공연]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=206589</link>
