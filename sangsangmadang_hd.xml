@@ -4,7 +4,7 @@
         <title>멜론 티켓 ─ KT&amp;G 상상마당 라이브홀</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Mar 2022 08:19:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Mar 2022 09:17:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Mon, 28 Feb 2022 09:15:42 GMT</pubDate>
             <content:encoded><![CDATA[2022.04.03  ~<br> 2022.04.03]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/02/202202241311455fb3885d-714f-4ef8-95b9-e9ddc3b5e55f.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 더베인 단독콘서트 〈MONSTER〉]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=206667</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=206667</guid>
+            <pubDate>Thu, 10 Mar 2022 09:15:41 GMT</pubDate>
+            <content:encoded><![CDATA[2022.04.16  ~<br> 2022.04.17]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/03/202203101346100d6688e6-e8c7-4824-bfea-8defbd13d0e4.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
