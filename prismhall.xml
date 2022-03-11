@@ -4,17 +4,9 @@
         <title>멜론 티켓 ─ 프리즘홀</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Mar 2022 14:15:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Mar 2022 15:17:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[connect：서온X홍예진]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=206616</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=206616</guid>
-            <pubDate>Tue, 22 Feb 2022 05:12:55 GMT</pubDate>
-            <content:encoded><![CDATA[2022.03.11  ~<br> 2022.03.11]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/02/20220221154532e757c7da-7039-4c0f-a726-87989c71c78b.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
         <item>
             <title><![CDATA[원디비 단독 콘서트［너에게］]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=206604</link>
