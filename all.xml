@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Mar 2022 03:18:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Mar 2022 04:20:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -165,7 +165,7 @@
             <guid>https://ticket.melon.com/performance/index.htm?prodId=206670</guid>
             <pubDate>Fri, 11 Mar 2022 02:18:16 GMT</pubDate>
             <content:encoded><![CDATA[2022.03.27  ~<br> 2022.03.27]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/03/20220310180755b63f6855-86ea-4b23-983b-a5b455dc7f21.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/03/202203111311187a041548-045a-4d0f-a2df-e95476152146.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[Blast from the past (멜론 티켓 ─ KT&G 상상마당 라이브홀)]]></title>
