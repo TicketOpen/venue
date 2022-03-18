@@ -4,7 +4,7 @@
         <title>멜론 티켓 ─ 롤링홀</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Mar 2022 02:32:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Mar 2022 03:23:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -94,6 +94,14 @@
             <pubDate>Wed, 16 Mar 2022 03:18:28 GMT</pubDate>
             <content:encoded><![CDATA[2022.04.16  ~<br> 2022.04.16]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/03/2022031513463259dcb70c-13e1-4317-b5c7-607566b7389b.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[정우 단독 콘서트：롤링 27주년 기념 공연]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=206689</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=206689</guid>
+            <pubDate>Fri, 18 Mar 2022 03:21:31 GMT</pubDate>
+            <content:encoded><![CDATA[2022.04.22  ~<br> 2022.04.22]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/03/20220317145014eab3b549-6c7e-41ac-bd0c-37f612b16cc9.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
