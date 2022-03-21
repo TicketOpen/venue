@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Mar 2022 14:19:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Mar 2022 15:19:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -126,14 +126,6 @@
             <pubDate>Sat, 19 Mar 2022 03:14:52 GMT</pubDate>
             <content:encoded><![CDATA[2022.04.15  ~<br> 2022.04.15]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/03/202203181603367593ec86-09f6-411f-a0b2-09323c3add29.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[먼데이프로젝트 시즌5 청춘의 밤［밍기뉴 단독 콘서트］ (멜론 티켓 ─ 벨로주)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=206613</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=206613</guid>
-            <pubDate>Wed, 23 Feb 2022 03:15:11 GMT</pubDate>
-            <content:encoded><![CDATA[2022.03.21  ~<br> 2022.03.21]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/02/202202211332079c137c33-cdbf-49b6-97c4-3956f4dbf76c.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[먼데이프로젝트 시즌5 음악여행，쉼［김정훈 단독 콘서트］ (멜론 티켓 ─ 벨로주)]]></title>
