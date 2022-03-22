@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Mar 2022 02:32:05 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Mar 2022 03:27:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -86,6 +86,14 @@
             <pubDate>Fri, 18 Mar 2022 03:21:31 GMT</pubDate>
             <content:encoded><![CDATA[2022.04.22  ~<br> 2022.04.22]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/03/20220317145014eab3b549-6c7e-41ac-bd0c-37f612b16cc9.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[임헌일 단독 콘서트：롤링 27주년 기념 공연 (멜론 티켓 ─ 롤링홀)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=206690</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=206690</guid>
+            <pubDate>Tue, 22 Mar 2022 03:25:37 GMT</pubDate>
+            <content:encoded><![CDATA[2022.04.23  ~<br> 2022.04.24]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/03/20220316174858150422e3-71da-4b7c-8689-e2cc78e40b1f.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[달란트 첫 단독콘서트：touchdown point (멜론 티켓 ─ 프리즘홀)]]></title>
