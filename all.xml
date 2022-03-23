@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Mar 2022 02:56:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Mar 2022 03:30:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -142,6 +142,14 @@
             <pubDate>Fri, 11 Mar 2022 09:14:49 GMT</pubDate>
             <content:encoded><![CDATA[2022.04.08  ~<br> 2022.04.09]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/03/20220308174050bd7df2a2-dd39-497b-badf-0d8e0c2a9fda.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[먼데이프로젝트 시즌5 청춘의 밤［차세대 단독 콘서트］ (멜론 티켓 ─ 벨로주)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=206697</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=206697</guid>
+            <pubDate>Wed, 23 Mar 2022 03:29:06 GMT</pubDate>
+            <content:encoded><![CDATA[2022.04.19  ~<br> 2022.04.19]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/03/20220318143959aedeb889-c41d-4af6-8e47-b5f6007f313c.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[진민호 첫번째 콘서트 ‘너와 나，여기’ (멜론 티켓 ─ 구름아래소극장)]]></title>
