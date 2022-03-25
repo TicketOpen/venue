@@ -4,17 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Mar 2022 14:15:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Mar 2022 15:18:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[4SECONDS 앨범 발매 기념 콘서트 ‘꽃’：롤링 27주년 기념 공연 (멜론 티켓 ─ 롤링홀)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=206607</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=206607</guid>
-            <pubDate>Mon, 21 Feb 2022 03:15:04 GMT</pubDate>
-            <content:encoded><![CDATA[2022.03.25  ~<br> 2022.03.25]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/02/202202161518214e433b7b-3c90-48a8-8b94-1779534f819d.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
         <item>
             <title><![CDATA[다비 단독 콘서트 ‘Day＆Night’：롤링 27주년 기념 공연 (멜론 티켓 ─ 롤링홀)]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=206614</link>
@@ -102,14 +94,6 @@
             <pubDate>Fri, 25 Mar 2022 03:19:33 GMT</pubDate>
             <content:encoded><![CDATA[2022.05.06  ~<br> 2022.05.06]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/03/2022032315592141c6033a-f60c-4e69-847e-3d8419af1a83.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[달란트 첫 단독콘서트：touchdown point (멜론 티켓 ─ 프리즘홀)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=206635</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=206635</guid>
-            <pubDate>Mon, 28 Feb 2022 05:13:38 GMT</pubDate>
-            <content:encoded><![CDATA[2022.03.25  ~<br> 2022.03.25]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/02/2022022514574754c754d7-d7f7-47ce-a2a5-25f66afd3604.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[티키타카 콘서트：불고기디스코 (멜론 티켓 ─ 프리즘홀)]]></title>
