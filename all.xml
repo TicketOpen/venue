@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Mar 2022 09:17:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Mar 2022 10:21:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -238,6 +238,14 @@
             <pubDate>Fri, 18 Mar 2022 09:47:15 GMT</pubDate>
             <content:encoded><![CDATA[2022.04.08  ~<br> 2022.04.09]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/03/20220316160325f3fc0089-d816-412d-8369-82470788b806.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[Dreamcatcher 2nd Album［Apocalypse：Save us］Mini Concert (멜론 티켓 ─ 예스24 라이브홀)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=206716</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=206716</guid>
+            <pubDate>Fri, 25 Mar 2022 10:20:13 GMT</pubDate>
+            <content:encoded><![CDATA[2022.04.12  ~<br> 2022.04.12]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/03/20220324102814dfa143e0-92c7-4a7a-9f53-127fef5b309c.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
