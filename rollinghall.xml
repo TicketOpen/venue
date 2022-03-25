@@ -4,7 +4,7 @@
         <title>멜론 티켓 ─ 롤링홀</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Mar 2022 02:23:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Mar 2022 03:21:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -94,6 +94,14 @@
             <pubDate>Tue, 22 Mar 2022 03:25:37 GMT</pubDate>
             <content:encoded><![CDATA[2022.04.23  ~<br> 2022.04.24]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/03/20220316174858150422e3-71da-4b7c-8689-e2cc78e40b1f.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[87DANCE 단독 콘서트 ‘How can I forget you girl’：롤링 27주년 기념 공연]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=206710</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=206710</guid>
+            <pubDate>Fri, 25 Mar 2022 03:19:33 GMT</pubDate>
+            <content:encoded><![CDATA[2022.05.06  ~<br> 2022.05.06]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/03/2022032315592141c6033a-f60c-4e69-847e-3d8419af1a83.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
