@@ -4,17 +4,9 @@
         <title>멜론 티켓 ─ 프리즘홀</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Apr 2022 14:15:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Apr 2022 15:17:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[먼데이프로젝트 시즌5 청춘의 밤［이준형 단독 콘서트］]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=206563</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=206563</guid>
-            <pubDate>Thu, 03 Feb 2022 03:14:42 GMT</pubDate>
-            <content:encoded><![CDATA[2022.04.06  ~<br> 2022.04.06]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/02/20220228091137da1e0ef1-7a37-42ef-8e1c-40e1280693a0.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
         <item>
             <title><![CDATA[connect：ROCK＆ROLL]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=206662</link>
