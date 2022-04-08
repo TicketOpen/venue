@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Apr 2022 02:48:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Apr 2022 03:36:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -62,6 +62,14 @@
             <pubDate>Wed, 02 Mar 2022 03:14:29 GMT</pubDate>
             <content:encoded><![CDATA[2022.05.01  ~<br> 2022.05.01]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/04/20220401172912c38c8e99-61b2-405a-9215-4e847a09d74c.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[H a lot ＆ Lacuna：롤링 27주년 기념 공연 (멜론 티켓 ─ 롤링홀)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=206752</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=206752</guid>
+            <pubDate>Fri, 08 Apr 2022 03:33:38 GMT</pubDate>
+            <content:encoded><![CDATA[2022.05.05  ~<br> 2022.05.05]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/04/202204061726147e2fcbc5-a718-4a9c-8d3e-108bc417a207.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[87DANCE 단독 콘서트 ‘How can I forget you girl’：롤링 27주년 기념 공연 (멜론 티켓 ─ 롤링홀)]]></title>
@@ -222,6 +230,14 @@
             <pubDate>Thu, 31 Mar 2022 02:37:50 GMT</pubDate>
             <content:encoded><![CDATA[2022.04.29  ~<br> 2022.04.29]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/03/20220329103339e5f65cac-1646-4440-b882-31eade55541a.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[HAPPY TOGETHER 밴디지X남메아리밴드 (멜론 티켓 ─ CJ아지트 광흥창)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=206749</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=206749</guid>
+            <pubDate>Fri, 08 Apr 2022 03:35:03 GMT</pubDate>
+            <content:encoded><![CDATA[2022.05.06  ~<br> 2022.05.06]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/04/20220406103829cb19b71a-27cc-4281-8b29-19c0accf371e.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[Dreamcatcher 2nd Album［Apocalypse：Save us］Mini Concert (멜론 티켓 ─ 예스24 라이브홀)]]></title>
