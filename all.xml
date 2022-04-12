@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Apr 2022 04:19:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Apr 2022 05:15:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -182,6 +182,14 @@
             <pubDate>Tue, 05 Apr 2022 10:15:45 GMT</pubDate>
             <content:encoded><![CDATA[2022.05.06  ~<br> 2022.05.07]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/04/202204011653473a9bfbe9-c96f-437c-9177-081d14cb0ecc.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[N．Flying 소극장 콘서트：우만합－서울 앵콜 (멜론 티켓 ─ KT&G 상상마당 라이브홀)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=206770</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=206770</guid>
+            <pubDate>Tue, 12 Apr 2022 05:14:01 GMT</pubDate>
+            <content:encoded><![CDATA[2022.05.27  ~<br> 2022.05.28]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/04/20220411174826956ae990-b0aa-4667-8b8e-3454232fea4b.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[백아 데뷔 4주년 기념 단독공연：우리가 머문 밤 Ⅱ (멜론 티켓 ─ KT&G 상상마당 라이브홀)]]></title>
