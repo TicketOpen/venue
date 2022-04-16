@@ -4,17 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 16 Apr 2022 14:15:11 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Apr 2022 15:16:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[크라잉넛 단독 콘서트 ‘Let’s Go！’：롤링 27주년 기념 공연 (멜론 티켓 ─ 롤링홀)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=206684</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=206684</guid>
-            <pubDate>Wed, 16 Mar 2022 03:18:28 GMT</pubDate>
-            <content:encoded><![CDATA[2022.04.16  ~<br> 2022.04.16]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/03/2022031513463259dcb70c-13e1-4317-b5c7-607566b7389b.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
         <item>
             <title><![CDATA[정우 단독 콘서트：롤링 27주년 기념 공연 (멜론 티켓 ─ 롤링홀)]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=206689</link>
