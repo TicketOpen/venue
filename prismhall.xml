@@ -4,7 +4,7 @@
         <title>멜론 티켓 ─ 프리즘홀</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 16 Apr 2022 02:36:12 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Apr 2022 03:27:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Fri, 08 Apr 2022 05:13:50 GMT</pubDate>
             <content:encoded><![CDATA[2022.05.06  ~<br> 2022.05.06]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/04/202204071456440f6d3f6a-de6d-4fbe-99ba-c6f956bbae24.png/melon/resize/90x125/strip/true" length="0" type="image/png/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[더더（THETHE）：EP 9．5TH DRAMATIC IRONY 2022 발매 기념 콘서트]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=206795</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=206795</guid>
+            <pubDate>Sat, 16 Apr 2022 03:25:22 GMT</pubDate>
+            <content:encoded><![CDATA[2022.05.07  ~<br> 2022.05.07]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/04/202204151727250e543b6f-4adf-4448-b94b-0e3dd1434861.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
