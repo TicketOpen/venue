@@ -4,7 +4,7 @@
         <title>멜론 티켓 ─ 구름아래소극장</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Apr 2022 04:23:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Apr 2022 05:16:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Thu, 24 Feb 2022 03:13:33 GMT</pubDate>
             <content:encoded><![CDATA[2022.04.26  ~<br> 2022.04.26]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/03/202203181644375d9a3111-0332-40cc-86a1-6ad9631add7c.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[Flight0521：THE FIX편]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=206792</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=206792</guid>
+            <pubDate>Mon, 18 Apr 2022 05:15:16 GMT</pubDate>
+            <content:encoded><![CDATA[2022.05.21  ~<br> 2022.05.21]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/04/2022041417312793ebc32a-8f54-4cc2-863c-4a640b650430.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
