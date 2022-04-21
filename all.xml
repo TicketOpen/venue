@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Apr 2022 05:36:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2022 06:20:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -124,8 +124,8 @@
             <link>https://ticket.melon.com/performance/index.htm?prodId=206719</link>
             <guid>https://ticket.melon.com/performance/index.htm?prodId=206719</guid>
             <pubDate>Fri, 25 Mar 2022 03:19:53 GMT</pubDate>
-            <content:encoded><![CDATA[2022.04.22  ~<br> 2022.04.22]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/03/2022032509351067b12ed6-0094-45d5-8b52-8cfab300932a.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+            <content:encoded><![CDATA[2022.04.29  ~<br> 2022.04.29]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/04/20220421143449f1a0744b-6ef7-4898-9375-9839b9773e7c.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[양반들 기획공연 흐름 流 flow season：봄 (멜론 티켓 ─ 프리즘홀)]]></title>
