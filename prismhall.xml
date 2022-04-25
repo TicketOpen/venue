@@ -4,7 +4,7 @@
         <title>멜론 티켓 ─ 프리즘홀</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Apr 2022 01:04:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2022 03:15:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,14 @@
             <pubDate>Sat, 16 Apr 2022 03:25:22 GMT</pubDate>
             <content:encoded><![CDATA[2022.05.07  ~<br> 2022.05.07]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/04/202204151727250e543b6f-4adf-4448-b94b-0e3dd1434861.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[티키타카 콘서트：더바이퍼스]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=206818</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=206818</guid>
+            <pubDate>Mon, 25 Apr 2022 03:13:26 GMT</pubDate>
+            <content:encoded><![CDATA[2022.05.15  ~<br> 2022.05.15]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/04/2022042509145943c17063-8263-495e-a07e-e2536a90ab5b.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
