@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Apr 2022 22:17:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Apr 2022 01:47:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -158,14 +158,6 @@
             <pubDate>Thu, 07 Apr 2022 03:27:01 GMT</pubDate>
             <content:encoded><![CDATA[2022.05.02  ~<br> 2022.05.02]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/04/20220405151627d41d9163-d156-4235-8a8e-5bd5cba14daf.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[클로징멘트 앵콜공연 (멜론 티켓 ─ 벨로주)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=206803</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=206803</guid>
-            <pubDate>Mon, 18 Apr 2022 09:15:31 GMT</pubDate>
-            <content:encoded><![CDATA[2022.05.07  ~<br> 2022.05.07]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/04/202204181108248ba4cf5e-beb2-48e4-b9f4-4ec13eb70ce2.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[먼데이프로젝트 시즌5 청춘의 밤［차세대 단독 콘서트］ (멜론 티켓 ─ 벨로주)]]></title>
