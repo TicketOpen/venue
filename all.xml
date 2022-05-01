@@ -4,17 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 01 May 2022 14:16:36 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 May 2022 15:18:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[김마리 단독 콘서트 ‘개화（開花）’：롤링 27주년 기념 공연 (멜론 티켓 ─ 롤링홀)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=206634</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=206634</guid>
-            <pubDate>Wed, 02 Mar 2022 03:14:29 GMT</pubDate>
-            <content:encoded><![CDATA[2022.05.01  ~<br> 2022.05.01]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/04/20220401172912c38c8e99-61b2-405a-9215-4e847a09d74c.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
         <item>
             <title><![CDATA[H a lot ＆ Lacuna：롤링 27주년 기념 공연 (멜론 티켓 ─ 롤링홀)]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=206752</link>
