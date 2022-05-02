@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 May 2022 01:11:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 May 2022 03:54:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -238,6 +238,14 @@
             <pubDate>Fri, 15 Apr 2022 11:13:47 GMT</pubDate>
             <content:encoded><![CDATA[2022.05.14  ~<br> 2022.05.14]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/04/20220413145642749a3780-d064-4dbc-8644-20887a442040.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[우소연 1집 발매 기념 쇼케이스［못난이］ (멜론 티켓 ─ CJ아지트 광흥창)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=206842</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=206842</guid>
+            <pubDate>Mon, 02 May 2022 03:53:24 GMT</pubDate>
+            <content:encoded><![CDATA[2022.05.21  ~<br> 2022.05.21]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/04/202204291518085a67f8f3-c379-4474-b313-2fb84d5afdbf.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[2022 오존 단독공연［Homecoming］ (멜론 티켓 ─ 노들섬)]]></title>
