@@ -4,17 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 07 May 2022 14:15:35 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 May 2022 15:17:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[IDOL ARENA Vol．18 (멜론 티켓 ─ 롤링홀)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=206718</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=206718</guid>
-            <pubDate>Mon, 28 Mar 2022 03:32:10 GMT</pubDate>
-            <content:encoded><![CDATA[2022.05.07  ~<br> 2022.05.07]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/03/202203241547596d385c84-ca74-444b-a37e-e23005559be2.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
         <item>
             <title><![CDATA[METHOD 단독 콘서트：롤링 27주년 기념 공연 (멜론 티켓 ─ 롤링홀)]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=206721</link>
@@ -70,14 +62,6 @@
             <pubDate>Mon, 02 May 2022 11:13:21 GMT</pubDate>
             <content:encoded><![CDATA[2022.06.04  ~<br> 2022.06.04]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/04/202204290955093d073a2b-9f28-48fe-b6a5-c523ee6a0a12.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[더더（THETHE）：EP 9．5TH DRAMATIC IRONY 2022 발매 기념 콘서트 (멜론 티켓 ─ 프리즘홀)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=206795</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=206795</guid>
-            <pubDate>Sat, 16 Apr 2022 03:25:22 GMT</pubDate>
-            <content:encoded><![CDATA[2022.05.07  ~<br> 2022.05.07]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/04/202204151727250e543b6f-4adf-4448-b94b-0e3dd1434861.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[티키타카 콘서트：더바이퍼스 (멜론 티켓 ─ 프리즘홀)]]></title>
@@ -166,14 +150,6 @@
             <pubDate>Fri, 29 Apr 2022 08:20:38 GMT</pubDate>
             <content:encoded><![CDATA[2022.05.29  ~<br> 2022.05.29]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/04/20220428095729d3b51d0e-8d11-4a23-8205-feb328ea75fe.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[N．Flying 소극장 콘서트：우만합－서울 (멜론 티켓 ─ KT&G 상상마당 라이브홀)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=206729</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=206729</guid>
-            <pubDate>Tue, 05 Apr 2022 10:15:45 GMT</pubDate>
-            <content:encoded><![CDATA[2022.05.06  ~<br> 2022.05.07]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/04/202204011653473a9bfbe9-c96f-437c-9177-081d14cb0ecc.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[사뮈 단독 공연 〈새벽 지나면 아침〉 (멜론 티켓 ─ KT&G 상상마당 라이브홀)]]></title>
