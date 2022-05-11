@@ -4,7 +4,7 @@
         <title>멜론 티켓 ─ CJ아지트 광흥창</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 May 2022 08:22:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 May 2022 09:17:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Mon, 02 May 2022 03:53:24 GMT</pubDate>
             <content:encoded><![CDATA[2022.05.21  ~<br> 2022.05.21]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/04/202204291518085a67f8f3-c379-4474-b313-2fb84d5afdbf.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[송희진 단독 콘서트 “Into the Forest”]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=206880</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=206880</guid>
+            <pubDate>Wed, 11 May 2022 09:16:08 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.11  ~<br> 2022.06.11]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/05/202205101942551c97cdd2-5f9a-4475-ab67-f4441a981f16.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
