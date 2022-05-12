@@ -4,7 +4,7 @@
         <title>멜론 티켓 ─ 롤링홀</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 May 2022 01:15:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 May 2022 03:14:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,6 +46,14 @@
             <pubDate>Fri, 22 Apr 2022 03:42:05 GMT</pubDate>
             <content:encoded><![CDATA[2022.05.28  ~<br> 2022.05.28]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/04/2022042016293089cfd2a7-2f63-4e1e-8d5b-ca0d3351ad5b.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[송용진 단독 콘서트 ‘노래 불러주는 남자’：롤링 27주년 기념 공연]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=206882</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=206882</guid>
+            <pubDate>Thu, 12 May 2022 03:12:27 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.18  ~<br> 2022.06.18]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/05/2022051111542919bbc98b-53f0-4aae-9d47-1d62a123df51.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
