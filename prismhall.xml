@@ -4,17 +4,9 @@
         <title>멜론 티켓 ─ 프리즘홀</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 May 2022 23:19:45 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 May 2022 02:54:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[티키타카 콘서트：더바이퍼스]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=206818</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=206818</guid>
-            <pubDate>Mon, 25 Apr 2022 03:13:26 GMT</pubDate>
-            <content:encoded><![CDATA[2022.05.15  ~<br> 2022.05.15]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/04/2022042509145943c17063-8263-495e-a07e-e2536a90ab5b.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
         <item>
             <title><![CDATA[임다이 EP 발매기념 단독 콘서트［소란한 밤］]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=206835</link>
@@ -30,6 +22,22 @@
             <pubDate>Tue, 03 May 2022 08:19:34 GMT</pubDate>
             <content:encoded><![CDATA[2022.06.01  ~<br> 2022.06.01]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/05/202205031022358d5601ea-e48f-42c8-bfb7-b16a073087fc.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[키라라：그냥하는 단독공연 시즌 2－1]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=206895</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=206895</guid>
+            <pubDate>Sun, 22 May 2022 02:52:22 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.03  ~<br> 2022.06.03]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/05/202205131603218926537d-fe51-4161-9eda-1d6bc06970d7.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[O．O．O．단독콘서트：WE YELL O]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=206897</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=206897</guid>
+            <pubDate>Sun, 22 May 2022 02:52:22 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.18  ~<br> 2022.06.18]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/05/202205161037353813e864-0833-415a-8f9b-2a35a52f6563.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>

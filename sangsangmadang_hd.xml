@@ -4,7 +4,7 @@
         <title>멜론 티켓 ─ KT&amp;G 상상마당 라이브홀</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 May 2022 23:19:45 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 May 2022 02:54:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -32,12 +32,20 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/05/202205041058208982fa25-67d2-4921-af19-d4492644905f.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
+            <title><![CDATA[투데이올드스니커즈 싱글 발매 기념 쇼케이스 ‘ROBOT－REPAIR SHOP’]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=206918</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=206918</guid>
+            <pubDate>Sun, 22 May 2022 02:52:56 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.24  ~<br> 2022.06.24]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/05/20220520165303da5bb43b-f8c1-45d4-88f1-7badd54bd3b3.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
             <title><![CDATA[백아 데뷔 4주년 기념 단독공연：우리가 머문 밤 Ⅱ]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=206628</link>
             <guid>https://ticket.melon.com/performance/index.htm?prodId=206628</guid>
             <pubDate>Mon, 28 Feb 2022 09:15:42 GMT</pubDate>
             <content:encoded><![CDATA[2022.09.04  ~<br> 2022.09.04]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/02/202202241311455fb3885d-714f-4ef8-95b9-e9ddc3b5e55f.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/05/202205131133377cfc3a37-c9dd-467b-9770-5a74412fb6ff.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>

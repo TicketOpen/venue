@@ -4,17 +4,9 @@
         <title>멜론 티켓 ─ 벨로주</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 May 2022 23:19:45 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 May 2022 02:54:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[이츠 1st 정규앨범 “Afterglow” 발매기념 단독공연]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=206776</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=206776</guid>
-            <pubDate>Thu, 14 Apr 2022 01:11:13 GMT</pubDate>
-            <content:encoded><![CDATA[2022.05.14  ~<br> 2022.05.14]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/04/20220412161643f7ec133c-50e2-40b0-a272-5509531f53d5.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
         <item>
             <title><![CDATA[곽진언 소극장 콘서트－Op．1]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=206796</link>
@@ -38,6 +30,14 @@
             <pubDate>Fri, 06 May 2022 03:03:50 GMT</pubDate>
             <content:encoded><![CDATA[2022.05.30  ~<br> 2022.05.30]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/05/2022050609512102dc3f41-de43-459c-bb2e-cf9263b2e1cd.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[강아솔 콘서트 〈충무에서〉]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=206911</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=206911</guid>
+            <pubDate>Sun, 22 May 2022 02:52:33 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.11  ~<br> 2022.06.12]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/05/20220518141036286a40cd-82c9-4ee5-ab10-454691b4ab86.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>

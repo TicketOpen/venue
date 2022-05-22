@@ -1,19 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>멜론 티켓 ─ 노들섬</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Thu, 12 May 2022 23:19:45 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[2022 오존 단독공연［Homecoming］]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=206781</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=206781</guid>
-            <pubDate>Thu, 14 Apr 2022 09:17:37 GMT</pubDate>
-            <content:encoded><![CDATA[2022.05.14  ~<br> 2022.05.15]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/04/20220413161858c53dc510-efc4-4474-9bd7-b2fc938cc0a8.png/melon/resize/90x125/strip/true" length="0" type="image/png/melon/resize/90x125/strip/true"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://ticket.melon.com/place/index.htm?placeId=902</id>
+    <title>멜론 티켓 ─ 노들섬</title>
+    <updated>2022-05-22T02:54:26.670Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://ticket.melon.com/place/favicon.ico</icon>
+</feed>
