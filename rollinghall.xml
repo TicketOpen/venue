@@ -4,17 +4,9 @@
         <title>멜론 티켓 ─ 롤링홀</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 22 May 2022 14:15:43 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 May 2022 15:18:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[유지희 첫 단독 콘서트 ‘Where is blue？’：롤링 27주년 기념 공연]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=206798</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=206798</guid>
-            <pubDate>Mon, 18 Apr 2022 03:12:12 GMT</pubDate>
-            <content:encoded><![CDATA[2022.05.22  ~<br> 2022.05.22]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/04/20220418102016c0f6f241-1496-4750-8578-f0a694ad9be0.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
         <item>
             <title><![CDATA[오추프로젝트 단독 콘서트：롤링 27주년 기념 공연]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=206804</link>

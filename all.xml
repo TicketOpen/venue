@@ -4,17 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 22 May 2022 14:15:43 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 May 2022 15:18:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[유지희 첫 단독 콘서트 ‘Where is blue？’：롤링 27주년 기념 공연 (멜론 티켓 ─ 롤링홀)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=206798</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=206798</guid>
-            <pubDate>Mon, 18 Apr 2022 03:12:12 GMT</pubDate>
-            <content:encoded><![CDATA[2022.05.22  ~<br> 2022.05.22]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/04/20220418102016c0f6f241-1496-4750-8578-f0a694ad9be0.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
         <item>
             <title><![CDATA[오추프로젝트 단독 콘서트：롤링 27주년 기념 공연 (멜론 티켓 ─ 롤링홀)]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=206804</link>
@@ -104,14 +96,6 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/05/202205161037353813e864-0833-415a-8f9b-2a35a52f6563.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
-            <title><![CDATA[곽진언 소극장 콘서트－Op．1 (멜론 티켓 ─ 벨로주)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=206796</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=206796</guid>
-            <pubDate>Mon, 18 Apr 2022 09:15:31 GMT</pubDate>
-            <content:encoded><![CDATA[2022.05.21  ~<br> 2022.05.22]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/04/20220415102111a205d555-1369-4eae-a704-0a6c6d97bd9d.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
             <title><![CDATA[겸（GYE0M）단독공연 ‘봄을 기다리던 겨울은 눈물이 많았다’ (멜론 티켓 ─ 벨로주)]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=206820</link>
             <guid>https://ticket.melon.com/performance/index.htm?prodId=206820</guid>
@@ -150,14 +134,6 @@
             <pubDate>Fri, 29 Apr 2022 08:20:38 GMT</pubDate>
             <content:encoded><![CDATA[2022.05.29  ~<br> 2022.05.29]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/04/20220428095729d3b51d0e-8d11-4a23-8205-feb328ea75fe.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[사뮈 단독 공연 〈새벽 지나면 아침〉 (멜론 티켓 ─ KT&G 상상마당 라이브홀)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=206812</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=206812</guid>
-            <pubDate>Mon, 25 Apr 2022 11:14:25 GMT</pubDate>
-            <content:encoded><![CDATA[2022.05.21  ~<br> 2022.05.22]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/04/20220420152617080e133e-cf21-4892-9b8d-ba158a999295.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[N．Flying 소극장 콘서트：우만합－서울 앵콜 (멜론 티켓 ─ KT&G 상상마당 라이브홀)]]></title>

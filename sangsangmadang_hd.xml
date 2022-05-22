@@ -4,17 +4,9 @@
         <title>멜론 티켓 ─ KT&amp;G 상상마당 라이브홀</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 22 May 2022 14:15:43 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 May 2022 15:18:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[사뮈 단독 공연 〈새벽 지나면 아침〉]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=206812</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=206812</guid>
-            <pubDate>Mon, 25 Apr 2022 11:14:25 GMT</pubDate>
-            <content:encoded><![CDATA[2022.05.21  ~<br> 2022.05.22]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/04/20220420152617080e133e-cf21-4892-9b8d-ba158a999295.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
         <item>
             <title><![CDATA[N．Flying 소극장 콘서트：우만합－서울 앵콜]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=206770</link>
