@@ -4,7 +4,7 @@
         <title>멜론 티켓 ─ 프리즘홀</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 24 May 2022 04:34:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 May 2022 05:22:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,14 @@
             <pubDate>Sun, 22 May 2022 02:52:22 GMT</pubDate>
             <content:encoded><![CDATA[2022.06.18  ~<br> 2022.06.18]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/05/202205161037353813e864-0833-415a-8f9b-2a35a52f6563.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[프리즘브레이크 vol．12：로다운30 x 최항석과 부기몬스터]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=206928</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=206928</guid>
+            <pubDate>Tue, 24 May 2022 05:20:48 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.24  ~<br> 2022.06.24]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/05/20220524093641fc37ec24-ef4f-48d4-996d-76d11f92a457.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
