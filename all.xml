@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 May 2022 08:22:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 May 2022 09:17:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -150,6 +150,14 @@
             <pubDate>Fri, 29 Apr 2022 08:20:38 GMT</pubDate>
             <content:encoded><![CDATA[2022.05.29  ~<br> 2022.05.29]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/04/20220428095729d3b51d0e-8d11-4a23-8205-feb328ea75fe.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[레이첼테스트 (멜론 티켓 ─ 구름아래소극장)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=206935</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=206935</guid>
+            <pubDate>Wed, 25 May 2022 09:16:13 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.30  ~<br> 2022.06.30]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/05/2022052514480944157c3b-ffa7-4b79-b3c9-e48b0586649f.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[N．Flying 소극장 콘서트：우만합－서울 앵콜 (멜론 티켓 ─ KT&G 상상마당 라이브홀)]]></title>
