@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 May 2022 01:14:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 May 2022 03:21:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -86,6 +86,14 @@
             <pubDate>Sun, 22 May 2022 02:52:22 GMT</pubDate>
             <content:encoded><![CDATA[2022.06.03  ~<br> 2022.06.03]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/05/202205131603218926537d-fe51-4161-9eda-1d6bc06970d7.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[티키타카 콘서트：엔분의일 (멜론 티켓 ─ 프리즘홀)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=206933</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=206933</guid>
+            <pubDate>Wed, 25 May 2022 03:19:09 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.17  ~<br> 2022.06.17]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/05/202205250925193e22b3f6-4cf7-4837-830a-132b136fcbae.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[O．O．O．단독콘서트：WE YELL O (멜론 티켓 ─ 프리즘홀)]]></title>
