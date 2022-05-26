@@ -4,7 +4,7 @@
         <title>멜론 티켓 ─ 롤링홀</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 May 2022 01:18:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 May 2022 03:24:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -54,6 +54,14 @@
             <pubDate>Sun, 22 May 2022 02:51:58 GMT</pubDate>
             <content:encoded><![CDATA[2022.06.19  ~<br> 2022.06.19]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/05/202205161004399b6e573b-fdfb-41c5-aad8-5bdd84359301.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[Redoor 단독 콘서트 ‘Silence In Nature，沉浸在悲伤中’：롤링 27주년 기념 공연]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=206919</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=206919</guid>
+            <pubDate>Thu, 26 May 2022 03:22:13 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.01  ~<br> 2022.07.01]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/05/20220519152519664214ac-6cc3-479e-a928-1d65c5f0c8d0.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>멜론 티켓 ─ CJ아지트 광흥창</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 May 2022 01:18:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 May 2022 03:24:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Wed, 11 May 2022 09:16:08 GMT</pubDate>
             <content:encoded><![CDATA[2022.06.11  ~<br> 2022.06.11]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/05/202205101942551c97cdd2-5f9a-4475-ab67-f4441a981f16.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[이수정 단독공연 〈사계절〉]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=206939</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=206939</guid>
+            <pubDate>Thu, 26 May 2022 03:23:32 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.24  ~<br> 2022.06.24]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/05/20220525182937a97ddc87-ec66-46b9-8e30-d749beda09c9.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
