@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 May 2022 01:10:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 May 2022 03:25:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -62,6 +62,14 @@
             <pubDate>Thu, 26 May 2022 03:22:13 GMT</pubDate>
             <content:encoded><![CDATA[2022.07.01  ~<br> 2022.07.01]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/05/20220519152519664214ac-6cc3-479e-a928-1d65c5f0c8d0.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[네미시스 단독 콘서트 ‘우리，다시’：롤링 27주년 기념 공연 (멜론 티켓 ─ 롤링홀)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=206927</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=206927</guid>
+            <pubDate>Fri, 27 May 2022 03:23:44 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.03  ~<br> 2022.07.03]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/05/2022052316041496b85d31-258c-435d-a513-e5e2f6b9ecae.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[weplay Ep．1：정우 편［Lively 온＆오프라인 병행 공연］ (멜론 티켓 ─ 웨스트브릿지)]]></title>
