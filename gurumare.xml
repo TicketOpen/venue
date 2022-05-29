@@ -4,17 +4,9 @@
         <title>멜론 티켓 ─ 구름아래소극장</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 29 May 2022 14:16:32 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 May 2022 15:17:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[암호（AMHO）첫 단독 콘서트 〈리듬체인지〉]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=206830</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=206830</guid>
-            <pubDate>Fri, 29 Apr 2022 08:20:38 GMT</pubDate>
-            <content:encoded><![CDATA[2022.05.29  ~<br> 2022.05.29]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/04/20220428095729d3b51d0e-8d11-4a23-8205-feb328ea75fe.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
         <item>
             <title><![CDATA[먼데이프로젝트 시즌5 순간의 노래［안예은 단독 콘서트］]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=206938</link>
