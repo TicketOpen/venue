@@ -4,7 +4,7 @@
         <title>멜론 티켓 ─ 웨스트브릿지</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 May 2022 08:23:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 May 2022 09:20:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Mon, 02 May 2022 11:13:21 GMT</pubDate>
             <content:encoded><![CDATA[2022.06.04  ~<br> 2022.06.04]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/04/202204290955093d073a2b-9f28-48fe-b6a5-c523ee6a0a12.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 쿠잉（COOING）첫 단독 공연［ONE LAST TIME：개화］]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=206937</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=206937</guid>
+            <pubDate>Mon, 30 May 2022 09:17:44 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.09  ~<br> 2022.07.09]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/05/202205261828556526ac1a-ab72-4ab4-9c73-4bcff0e93e96.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
