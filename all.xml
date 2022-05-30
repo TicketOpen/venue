@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 May 2022 14:18:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 May 2022 15:20:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -118,14 +118,6 @@
             <pubDate>Tue, 24 May 2022 05:20:48 GMT</pubDate>
             <content:encoded><![CDATA[2022.06.24  ~<br> 2022.06.24]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/05/20220524093641fc37ec24-ef4f-48d4-996d-76d11f92a457.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[먼데이프로젝트 시즌5 청춘의 밤［위수 단독 콘서트］ (멜론 티켓 ─ 벨로주)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=206866</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=206866</guid>
-            <pubDate>Fri, 06 May 2022 03:03:50 GMT</pubDate>
-            <content:encoded><![CDATA[2022.05.30  ~<br> 2022.05.30]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/05/2022050609512102dc3f41-de43-459c-bb2e-cf9263b2e1cd.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[강아솔 콘서트 〈충무에서〉 (멜론 티켓 ─ 벨로주)]]></title>
