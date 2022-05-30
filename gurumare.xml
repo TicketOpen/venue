@@ -4,7 +4,7 @@
         <title>멜론 티켓 ─ 구름아래소극장</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 May 2022 01:18:52 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 May 2022 03:31:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Thu, 26 May 2022 03:22:59 GMT</pubDate>
             <content:encoded><![CDATA[2022.06.30  ~<br> 2022.06.30]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/05/20220525165541f4fd9d77-fc1e-45c2-bc71-c8f608fa4598.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 커피소년 여름 콘서트 ‘Mellow Diving’]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=206948</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=206948</guid>
+            <pubDate>Mon, 30 May 2022 03:30:13 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.02  ~<br> 2022.07.02]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/05/20220527182705fad7c6fe-3976-4c0c-9c2c-e1460519e645.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
