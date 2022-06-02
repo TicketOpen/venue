@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Jun 2022 01:19:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Jun 2022 03:47:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -62,6 +62,14 @@
             <pubDate>Fri, 27 May 2022 03:23:44 GMT</pubDate>
             <content:encoded><![CDATA[2022.07.03  ~<br> 2022.07.03]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/05/2022052316041496b85d31-258c-435d-a513-e5e2f6b9ecae.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[사거리 그오빠（지현우）단독 콘서트 ‘오빠가 왔다’：롤링 27주년 기념 공연 (멜론 티켓 ─ 롤링홀)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=206955</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=206955</guid>
+            <pubDate>Thu, 02 Jun 2022 03:44:54 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.09  ~<br> 2022.07.10]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/05/20220530170209a8a820df-5dc1-485c-86f1-cd7db6d82f55.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[weplay Ep．1：정우 편［Lively 온＆오프라인 병행 공연］ (멜론 티켓 ─ 웨스트브릿지)]]></title>
@@ -136,6 +144,14 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/05/20220527182705fad7c6fe-3976-4c0c-9c2c-e1460519e645.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
+            <title><![CDATA[정밀아 정기단독공연 〈초여름〉 (멜론 티켓 ─ 구름아래소극장)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=206958</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=206958</guid>
+            <pubDate>Thu, 02 Jun 2022 03:45:33 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.03  ~<br> 2022.07.03]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/05/20220531173533ce8a4942-76ef-467d-88d0-a5ff15b7b1b6.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
             <title><![CDATA[PAIR PLAY：vol．1 허드x바닐레어 (멜론 티켓 ─ KT&G 상상마당 라이브홀)]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=206865</link>
             <guid>https://ticket.melon.com/performance/index.htm?prodId=206865</guid>
@@ -182,6 +198,14 @@
             <pubDate>Thu, 26 May 2022 03:23:32 GMT</pubDate>
             <content:encoded><![CDATA[2022.06.24  ~<br> 2022.06.24]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/05/20220525182937a97ddc87-ec66-46b9-8e30-d749beda09c9.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[유재하 음악경연대회 32회 수상자 기념 공연 (멜론 티켓 ─ CJ아지트 광흥창)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=206956</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=206956</guid>
+            <pubDate>Thu, 02 Jun 2022 03:46:02 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.25  ~<br> 2022.06.25]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/05/20220531160337889fd3d9-7743-44fc-8a01-e03a353f26a1.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>

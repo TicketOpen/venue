@@ -4,7 +4,7 @@
         <title>멜론 티켓 ─ CJ아지트 광흥창</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Jun 2022 01:19:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Jun 2022 03:47:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Thu, 26 May 2022 03:23:32 GMT</pubDate>
             <content:encoded><![CDATA[2022.06.24  ~<br> 2022.06.24]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/05/20220525182937a97ddc87-ec66-46b9-8e30-d749beda09c9.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[유재하 음악경연대회 32회 수상자 기념 공연]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=206956</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=206956</guid>
+            <pubDate>Thu, 02 Jun 2022 03:46:02 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.25  ~<br> 2022.06.25]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/05/20220531160337889fd3d9-7743-44fc-8a01-e03a353f26a1.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
