@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Jun 2022 08:20:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Jun 2022 09:17:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -166,6 +166,14 @@
             <pubDate>Mon, 09 May 2022 05:21:25 GMT</pubDate>
             <content:encoded><![CDATA[2022.06.06  ~<br> 2022.06.06]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/05/202205041058208982fa25-67d2-4921-af19-d4492644905f.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 South Club Concert “젊은 날의 꿈” (멜론 티켓 ─ KT&G 상상마당 라이브홀)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=206965</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=206965</guid>
+            <pubDate>Fri, 03 Jun 2022 09:16:21 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.18  ~<br> 2022.06.18]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/06/2022060214481173b97306-e3cf-40ef-812f-65bc0043464b.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[투데이올드스니커즈 싱글 발매 기념 쇼케이스 ‘ROBOT－REPAIR SHOP’ (멜론 티켓 ─ KT&G 상상마당 라이브홀)]]></title>
