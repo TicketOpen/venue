@@ -4,7 +4,7 @@
         <title>멜론 티켓 ─ KT&amp;G 상상마당 라이브홀</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Jun 2022 08:19:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Jun 2022 09:16:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,14 @@
             <pubDate>Mon, 23 May 2022 09:16:40 GMT</pubDate>
             <content:encoded><![CDATA[2022.06.26  ~<br> 2022.06.26]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/05/202205201845108b3dabb3-a2bd-493e-9f2e-f01dff42f252.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[양방언 summer gig tour 2022]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=206972</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=206972</guid>
+            <pubDate>Mon, 06 Jun 2022 09:15:19 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.01  ~<br> 2022.07.01]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/06/2022060311402835fedeaa-8ec2-4131-b271-9ff97d0ea154.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[백아 데뷔 4주년 기념 단독공연：우리가 머문 밤 Ⅱ]]></title>
