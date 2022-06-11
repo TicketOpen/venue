@@ -4,17 +4,9 @@
         <title>멜론 티켓 ─ CJ아지트 광흥창</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 11 Jun 2022 14:15:48 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Jun 2022 15:16:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[송희진 단독 콘서트 “Into the Forest”]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=206880</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=206880</guid>
-            <pubDate>Wed, 11 May 2022 09:16:08 GMT</pubDate>
-            <content:encoded><![CDATA[2022.06.11  ~<br> 2022.06.11]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/05/202205101942551c97cdd2-5f9a-4475-ab67-f4441a981f16.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
         <item>
             <title><![CDATA[이수정 단독공연 〈사계절〉]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=206939</link>
