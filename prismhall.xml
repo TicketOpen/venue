@@ -4,7 +4,7 @@
         <title>멜론 티켓 ─ 프리즘홀</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Jun 2022 01:18:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Jun 2022 03:31:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Tue, 24 May 2022 05:20:48 GMT</pubDate>
             <content:encoded><![CDATA[2022.06.24  ~<br> 2022.06.24]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/05/20220524093641fc37ec24-ef4f-48d4-996d-76d11f92a457.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[키라라：그냥하는 단독공연 시즌 2－2]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=206994</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=206994</guid>
+            <pubDate>Mon, 13 Jun 2022 03:29:06 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.01  ~<br> 2022.07.01]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/06/20220613093844d4276f78-a826-4b8c-ad6d-dcdfc253ef0e.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
