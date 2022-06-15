@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Jun 2022 01:16:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jun 2022 03:39:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -62,6 +62,14 @@
             <pubDate>Thu, 02 Jun 2022 03:44:54 GMT</pubDate>
             <content:encoded><![CDATA[2022.07.09  ~<br> 2022.07.10]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/05/20220530170209a8a820df-5dc1-485c-86f1-cd7db6d82f55.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[팔칠댄스（87DANCE）단독 콘서트 ‘I will say I love You’ (멜론 티켓 ─ 롤링홀)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=206996</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=206996</guid>
+            <pubDate>Wed, 15 Jun 2022 03:37:24 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.16  ~<br> 2022.07.16]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/06/20220613104244f0cb25f2-4ed2-4769-81b4-d19fb086c3d2.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[YB 단독 콘서트 ‘LIGHTS：BURNS’ (멜론 티켓 ─ 롤링홀)]]></title>
@@ -142,6 +150,14 @@
             <pubDate>Thu, 02 Jun 2022 03:45:33 GMT</pubDate>
             <content:encoded><![CDATA[2022.07.03  ~<br> 2022.07.03]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/05/20220531173533ce8a4942-76ef-467d-88d0-a5ff15b7b1b6.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[먼데이프로젝트 시즌5 청춘의 밤［다린 단독 콘서트］ (멜론 티켓 ─ 구름아래소극장)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207006</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207006</guid>
+            <pubDate>Wed, 15 Jun 2022 03:38:01 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.18  ~<br> 2022.07.18]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/06/20220615110412c4b4bed0-809a-445c-a670-f75b46ee81f5.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[2022 South Club Concert “젊은 날의 꿈” (멜론 티켓 ─ KT&G 상상마당 라이브홀)]]></title>
