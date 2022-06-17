@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Jun 2022 09:18:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jun 2022 10:17:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -262,6 +262,14 @@
             <pubDate>Thu, 09 Jun 2022 03:23:19 GMT</pubDate>
             <content:encoded><![CDATA[2022.07.03  ~<br> 2022.07.03]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/06/20220608103531afddcca7-4aa3-4cf9-8b07-2bc78fd6a366.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[김예지 TURNED 콘서트 (멜론 티켓 ─ 노들섬)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207014</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207014</guid>
+            <pubDate>Fri, 17 Jun 2022 10:17:09 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.03  ~<br> 2022.07.03]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/06/20220616100226c0accf2a-9c6b-41fb-a4c5-c9cd571ab80e.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[크리스티안 쿠리아 라이브 인 서울 (멜론 티켓 ─ 노들섬)]]></title>
