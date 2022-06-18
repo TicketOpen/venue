@@ -4,17 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 18 Jun 2022 14:15:09 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Jun 2022 15:16:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[송용진 단독 콘서트 ‘노래 불러주는 남자’：롤링 27주년 기념 공연 (멜론 티켓 ─ 롤링홀)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=206882</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=206882</guid>
-            <pubDate>Thu, 12 May 2022 03:12:27 GMT</pubDate>
-            <content:encoded><![CDATA[2022.06.18  ~<br> 2022.06.18]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/05/2022051111542919bbc98b-53f0-4aae-9d47-1d62a123df51.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
         <item>
             <title><![CDATA[소각소각 단독 콘서트：롤링 27주년 기념 공연 (멜론 티켓 ─ 롤링홀)]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=206892</link>
@@ -88,14 +80,6 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/05/202205261828556526ac1a-ab72-4ab4-9c73-4bcff0e93e96.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
-            <title><![CDATA[O．O．O．단독콘서트：WE YELL O (멜론 티켓 ─ 프리즘홀)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=206897</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=206897</guid>
-            <pubDate>Sun, 22 May 2022 02:52:22 GMT</pubDate>
-            <content:encoded><![CDATA[2022.06.18  ~<br> 2022.06.18]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/05/202205161037353813e864-0833-415a-8f9b-2a35a52f6563.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
             <title><![CDATA[프리즘브레이크 vol．12：로다운30 x 최항석과 부기몬스터 (멜론 티켓 ─ 프리즘홀)]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=206928</link>
             <guid>https://ticket.melon.com/performance/index.htm?prodId=206928</guid>
@@ -158,14 +142,6 @@
             <pubDate>Wed, 15 Jun 2022 03:38:01 GMT</pubDate>
             <content:encoded><![CDATA[2022.07.18  ~<br> 2022.07.18]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/06/20220615110412c4b4bed0-809a-445c-a670-f75b46ee81f5.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 South Club Concert “젊은 날의 꿈” (멜론 티켓 ─ KT&G 상상마당 라이브홀)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=206965</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=206965</guid>
-            <pubDate>Fri, 03 Jun 2022 09:16:21 GMT</pubDate>
-            <content:encoded><![CDATA[2022.06.18  ~<br> 2022.06.18]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/06/2022060214481173b97306-e3cf-40ef-812f-65bc0043464b.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[투데이올드스니커즈 싱글 발매 기념 쇼케이스 ‘ROBOT－REPAIR SHOP’ (멜론 티켓 ─ KT&G 상상마당 라이브홀)]]></title>
