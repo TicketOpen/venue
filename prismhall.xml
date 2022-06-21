@@ -4,7 +4,7 @@
         <title>멜론 티켓 ─ 프리즘홀</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Jun 2022 01:15:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jun 2022 03:30:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -29,7 +29,7 @@
             <guid>https://ticket.melon.com/performance/index.htm?prodId=207020</guid>
             <pubDate>Mon, 20 Jun 2022 09:15:08 GMT</pubDate>
             <content:encoded><![CDATA[2022.07.09  ~<br> 2022.07.09]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/06/20220620103515c74deb70-e872-46a1-9821-d96776b5f727.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/06/202206211204130bd86b44-0dce-46a3-8c8a-6396b73f6d9e.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
