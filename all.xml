@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 Jun 2022 14:14:37 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Jun 2022 15:16:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -88,14 +88,6 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/06/202206211204130bd86b44-0dce-46a3-8c8a-6396b73f6d9e.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
-            <title><![CDATA[곽진언 소극장 콘서트－Op．2 (멜론 티켓 ─ 벨로주)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=206963</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=206963</guid>
-            <pubDate>Thu, 02 Jun 2022 09:15:57 GMT</pubDate>
-            <content:encoded><![CDATA[2022.06.25  ~<br> 2022.06.26]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/06/2022060211385901a4c17a-e69b-4ffb-8237-ff91abd2e9d3.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
             <title><![CDATA[먼데이프로젝트 시즌5 청춘의 밤［김마리 단독 콘서트］ (멜론 티켓 ─ 벨로주)]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=207005</link>
             <guid>https://ticket.melon.com/performance/index.htm?prodId=207005</guid>
@@ -150,14 +142,6 @@
             <pubDate>Thu, 23 Jun 2022 04:33:26 GMT</pubDate>
             <content:encoded><![CDATA[2022.07.23  ~<br> 2022.07.24]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/06/2022062119050632e932f0-cc85-43b0-a86d-a29030603e89.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[노브레인 스탠딩 단독공연 ‘미친 듯 놀자’ (멜론 티켓 ─ KT&G 상상마당 라이브홀)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=206923</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=206923</guid>
-            <pubDate>Mon, 23 May 2022 09:16:40 GMT</pubDate>
-            <content:encoded><![CDATA[2022.06.26  ~<br> 2022.06.26]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/05/202205201845108b3dabb3-a2bd-493e-9f2e-f01dff42f252.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[양방언 summer gig tour 2022 (멜론 티켓 ─ KT&G 상상마당 라이브홀)]]></title>
