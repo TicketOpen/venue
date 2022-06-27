@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Jun 2022 04:51:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Jun 2022 05:28:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -198,6 +198,14 @@
             <pubDate>Thu, 09 Jun 2022 03:23:19 GMT</pubDate>
             <content:encoded><![CDATA[2022.07.03  ~<br> 2022.07.03]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/06/20220608103531afddcca7-4aa3-4cf9-8b07-2bc78fd6a366.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[The Whales 단독 공연 〈Nothing But you〉 (멜론 티켓 ─ CJ아지트 광흥창)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207042</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207042</guid>
+            <pubDate>Mon, 27 Jun 2022 05:27:28 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.23  ~<br> 2022.07.24]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/06/20220624142920ccac99d3-4632-4e9c-bb4b-cd623e40de4d.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[김예지 TURNED 콘서트 (멜론 티켓 ─ 노들섬)]]></title>
