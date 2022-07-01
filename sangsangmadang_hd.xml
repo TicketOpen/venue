@@ -4,7 +4,7 @@
         <title>멜론 티켓 ─ KT&amp;G 상상마당 라이브홀</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Jun 2022 23:16:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Jul 2022 08:21:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,22 @@
             <pubDate>Fri, 17 Jun 2022 01:07:23 GMT</pubDate>
             <content:encoded><![CDATA[2022.07.08  ~<br> 2022.07.09]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/06/202206170919145310c80c-291f-4e21-bc42-d96f750ade60.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[It’s begun EP．1：cotoba－‘과거가 되어버린 풍경’]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207051</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207051</guid>
+            <pubDate>Fri, 01 Jul 2022 08:20:21 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.23  ~<br> 2022.07.23]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/06/202206271720249dade351-5b1b-46e4-b846-45ce89189bca.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[It’s begun EP．2：김훨x예람x정우－‘WE ARE STILL IN GREEN’]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207052</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207052</guid>
+            <pubDate>Fri, 01 Jul 2022 08:20:21 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.24  ~<br> 2022.07.24]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/06/202206271803061dbc940e-e814-4105-a611-d107a58eeeb7.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[백아 데뷔 4주년 기념 단독공연：우리가 머문 밤 Ⅱ]]></title>
