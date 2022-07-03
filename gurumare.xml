@@ -4,17 +4,9 @@
         <title>멜론 티켓 ─ 구름아래소극장</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 03 Jul 2022 14:15:45 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Jul 2022 15:15:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[정밀아 정기단독공연 〈초여름〉]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=206958</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=206958</guid>
-            <pubDate>Thu, 02 Jun 2022 03:45:33 GMT</pubDate>
-            <content:encoded><![CDATA[2022.07.03  ~<br> 2022.07.03]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/05/20220531173533ce8a4942-76ef-467d-88d0-a5ff15b7b1b6.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
         <item>
             <title><![CDATA[먼데이프로젝트 시즌5 청춘의 밤［다린 단독 콘서트］]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=207006</link>
