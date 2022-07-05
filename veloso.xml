@@ -4,7 +4,7 @@
         <title>멜론 티켓 ─ 벨로주</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Jul 2022 04:35:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Jul 2022 05:21:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -32,6 +32,14 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/06/202206291025386421abb3-cc41-4954-be0c-258c0ff8384c.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
+            <title><![CDATA[곽진언 소극장 콘서트－Op．3]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207070</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207070</guid>
+            <pubDate>Tue, 05 Jul 2022 05:19:55 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.23  ~<br> 2022.07.24]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/07/202207041607410f296cc2-23ea-415f-810e-2f388cfb9a4f.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
             <title><![CDATA[먼데이프로젝트 시즌5 청춘의 밤［로우행잉프루츠 단독 콘서트］]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=207055</link>
             <guid>https://ticket.melon.com/performance/index.htm?prodId=207055</guid>
@@ -54,6 +62,14 @@
             <pubDate>Fri, 01 Jul 2022 08:20:01 GMT</pubDate>
             <content:encoded><![CDATA[2022.07.31  ~<br> 2022.07.31]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/06/2022063013251414c975ec-f218-4ff9-b6bf-808706b67493.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[빈센트블루 단독 콘서트 〈Blue Wood〉]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207072</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207072</guid>
+            <pubDate>Tue, 05 Jul 2022 05:19:55 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.06  ~<br> 2022.08.06]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/07/20220704165102805e64d8-c2cf-48d1-b11c-0e93c52e0f84.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
