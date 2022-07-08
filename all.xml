@@ -4,17 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Jul 2022 14:17:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Jul 2022 15:17:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[경서 첫 번째 단독 공연 〈오늘，여기〉 (멜론 티켓 ─ 롤링홀)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=207007</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=207007</guid>
-            <pubDate>Thu, 16 Jun 2022 09:14:44 GMT</pubDate>
-            <content:encoded><![CDATA[2022.07.08  ~<br> 2022.07.08]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/06/20220616112835c5511ae2-c2ea-4f4f-a62d-44ba1ae44fcf.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
         <item>
             <title><![CDATA[사거리 그오빠（지현우）단독 콘서트 ‘오빠가 왔다’：롤링 27주년 기념 공연 (멜론 티켓 ─ 롤링홀)]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=206955</link>
