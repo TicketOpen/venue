@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Jul 2022 04:37:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Jul 2022 05:24:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -126,6 +126,14 @@
             <pubDate>Thu, 23 Jun 2022 04:33:26 GMT</pubDate>
             <content:encoded><![CDATA[2022.07.23  ~<br> 2022.07.24]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/06/2022062119050632e932f0-cc85-43b0-a86d-a29030603e89.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[Flight0813：나상현씨밴드편 (멜론 티켓 ─ 구름아래소극장)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207093</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207093</guid>
+            <pubDate>Mon, 11 Jul 2022 05:22:37 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.13  ~<br> 2022.08.13]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/07/20220708131745709462e3-8d14-4fd2-8390-5a56d7eda18f.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[프레젠트프로젝트 〈SING SANG SONG：재주소년 with Strings Again〉 (멜론 티켓 ─ 구름아래소극장)]]></title>
