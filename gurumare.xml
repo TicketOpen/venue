@@ -4,17 +4,9 @@
         <title>멜론 티켓 ─ 구름아래소극장</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Jul 2022 14:19:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Jul 2022 15:21:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[먼데이프로젝트 시즌5 청춘의 밤［다린 단독 콘서트］]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=207006</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=207006</guid>
-            <pubDate>Wed, 15 Jun 2022 03:38:01 GMT</pubDate>
-            <content:encoded><![CDATA[2022.07.18  ~<br> 2022.07.18]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/06/20220615110412c4b4bed0-809a-445c-a670-f75b46ee81f5.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
         <item>
             <title><![CDATA[빌리어코스티 정규 3집 PART．01：MONO 발매 기념 공연]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=207028</link>
