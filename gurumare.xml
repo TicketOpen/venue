@@ -4,7 +4,7 @@
         <title>멜론 티켓 ─ 구름아래소극장</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Jul 2022 01:21:01 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Jul 2022 03:45:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Thu, 23 Jun 2022 04:33:26 GMT</pubDate>
             <content:encoded><![CDATA[2022.07.23  ~<br> 2022.07.24]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/06/2022062119050632e932f0-cc85-43b0-a86d-a29030603e89.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[위아더나잇 콘서트［OFFLINE MEETING］]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207113</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207113</guid>
+            <pubDate>Mon, 18 Jul 2022 03:43:39 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.06  ~<br> 2022.08.06]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/07/202207151310352cdeba76-a68e-40dc-9df9-2a6e2d91fa05.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[Flight0813：나상현씨밴드편]]></title>
