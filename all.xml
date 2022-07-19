@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Jul 2022 08:21:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Jul 2022 09:19:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -206,6 +206,14 @@
             <pubDate>Mon, 27 Jun 2022 05:27:28 GMT</pubDate>
             <content:encoded><![CDATA[2022.07.23  ~<br> 2022.07.24]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/06/20220624142920ccac99d3-4632-4e9c-bb4b-cd623e40de4d.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[PEN＿MEETING VOL．1 WITH BAND HERD (멜론 티켓 ─ CJ아지트 광흥창)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207121</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207121</guid>
+            <pubDate>Tue, 19 Jul 2022 09:17:51 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.06  ~<br> 2022.08.06]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/07/20220719112053bcdbe689-a175-4b9e-a157-43a2acffe673.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[신인류 단독 콘서트 (멜론 티켓 ─ CJ아지트 광흥창)]]></title>
