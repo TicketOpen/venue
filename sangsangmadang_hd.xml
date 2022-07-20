@@ -4,7 +4,7 @@
         <title>멜론 티켓 ─ KT&amp;G 상상마당 라이브홀</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Jul 2022 06:21:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Jul 2022 07:16:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -16,20 +16,20 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/06/202206271720249dade351-5b1b-46e4-b846-45ce89189bca.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
-            <title><![CDATA[It’s begun EP．2：김훨x예람x정우－‘WE ARE STILL IN GREEN’]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=207052</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=207052</guid>
-            <pubDate>Fri, 01 Jul 2022 08:20:21 GMT</pubDate>
-            <content:encoded><![CDATA[2022.07.24  ~<br> 2022.07.24]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/06/202206271803061dbc940e-e814-4105-a611-d107a58eeeb7.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
             <title><![CDATA[SSHOWBOX THE COLORS ＃1]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=207079</link>
             <guid>https://ticket.melon.com/performance/index.htm?prodId=207079</guid>
             <pubDate>Thu, 07 Jul 2022 03:46:43 GMT</pubDate>
             <content:encoded><![CDATA[2022.07.29  ~<br> 2022.07.29]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/07/202207061335479039aa91-12fc-4710-9524-69596babdba8.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[It’s begun EP．2：김훨x예람x정우－‘WE ARE STILL IN GREEN’]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207052</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207052</guid>
+            <pubDate>Fri, 01 Jul 2022 08:20:21 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.14  ~<br> 2022.08.14]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/06/202206271803061dbc940e-e814-4105-a611-d107a58eeeb7.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[먼데이프로젝트 시즌5 청춘의 밤［김사월 단독 콘서트］]]></title>
