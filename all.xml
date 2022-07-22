@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Jul 2022 04:44:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Jul 2022 05:26:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -118,6 +118,14 @@
             <pubDate>Wed, 20 Jul 2022 03:40:43 GMT</pubDate>
             <content:encoded><![CDATA[2022.08.15  ~<br> 2022.08.15]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/07/20220719102310e07bcf89-5721-4ce5-871d-c390f46c618a.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[배영경 단독공연｜푸른 너 (멜론 티켓 ─ 벨로주)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207133</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207133</guid>
+            <pubDate>Fri, 22 Jul 2022 05:24:24 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.19  ~<br> 2022.08.19]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/07/2022072114063115aafb80-38ae-4676-83a4-1791d0934fe8.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[DREAM DRIVE－주윤하 소극장 공연 (멜론 티켓 ─ 벨로주)]]></title>
