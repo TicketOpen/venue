@@ -4,17 +4,9 @@
         <title>멜론 티켓 ─ 롤링홀</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Jul 2022 14:16:29 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Jul 2022 15:17:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[YB 단독 콘서트 ‘LIGHTS：BURNS’]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=206993</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=206993</guid>
-            <pubDate>Mon, 13 Jun 2022 03:28:47 GMT</pubDate>
-            <content:encoded><![CDATA[2022.07.23  ~<br> 2022.07.24]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/06/2022061309091698e4c57e-6398-49c6-9172-aaad185d6844.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
         <item>
             <title><![CDATA[밍기뉴 단독 콘서트 ‘나의 모든 이들에게，’]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=207080</link>

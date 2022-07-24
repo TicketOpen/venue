@@ -4,17 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Jul 2022 14:16:29 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Jul 2022 15:17:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[YB 단독 콘서트 ‘LIGHTS：BURNS’ (멜론 티켓 ─ 롤링홀)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=206993</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=206993</guid>
-            <pubDate>Mon, 13 Jun 2022 03:28:47 GMT</pubDate>
-            <content:encoded><![CDATA[2022.07.23  ~<br> 2022.07.24]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/06/2022061309091698e4c57e-6398-49c6-9172-aaad185d6844.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
         <item>
             <title><![CDATA[밍기뉴 단독 콘서트 ‘나의 모든 이들에게，’ (멜론 티켓 ─ 롤링홀)]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=207080</link>
@@ -62,14 +54,6 @@
             <pubDate>Fri, 15 Jul 2022 03:54:40 GMT</pubDate>
             <content:encoded><![CDATA[2022.08.19  ~<br> 2022.08.19]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/07/202207141145029ee7020c-019e-436e-94bc-c4884be1e666.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[곽진언 소극장 콘서트－Op．3 (멜론 티켓 ─ 벨로주)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=207070</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=207070</guid>
-            <pubDate>Tue, 05 Jul 2022 05:19:55 GMT</pubDate>
-            <content:encoded><![CDATA[2022.07.23  ~<br> 2022.07.24]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/07/202207041607410f296cc2-23ea-415f-810e-2f388cfb9a4f.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[먼데이프로젝트 시즌5 청춘의 밤［로우행잉프루츠 단독 콘서트］ (멜론 티켓 ─ 벨로주)]]></title>
@@ -134,14 +118,6 @@
             <pubDate>Tue, 19 Jul 2022 05:07:26 GMT</pubDate>
             <content:encoded><![CDATA[2022.08.20  ~<br> 2022.08.20]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/07/20220718163652d4ade4c1-5143-457b-bb9b-13a01e97492d.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[빌리어코스티 정규 3집 PART．01：MONO 발매 기념 공연 (멜론 티켓 ─ 구름아래소극장)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=207028</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=207028</guid>
-            <pubDate>Thu, 23 Jun 2022 04:33:26 GMT</pubDate>
-            <content:encoded><![CDATA[2022.07.23  ~<br> 2022.07.24]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/06/2022062119050632e932f0-cc85-43b0-a86d-a29030603e89.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[위아더나잇 콘서트［OFFLINE MEETING］ (멜론 티켓 ─ 구름아래소극장)]]></title>
@@ -222,14 +198,6 @@
             <pubDate>Mon, 28 Feb 2022 09:15:42 GMT</pubDate>
             <content:encoded><![CDATA[2022.09.04  ~<br> 2022.09.04]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/05/202205131133377cfc3a37-c9dd-467b-9770-5a74412fb6ff.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[The Whales 단독 공연 〈Nothing But you〉 (멜론 티켓 ─ CJ아지트 광흥창)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=207042</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=207042</guid>
-            <pubDate>Mon, 27 Jun 2022 05:27:28 GMT</pubDate>
-            <content:encoded><![CDATA[2022.07.23  ~<br> 2022.07.24]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/06/20220624142920ccac99d3-4632-4e9c-bb4b-cd623e40de4d.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[PEN＿MEETING VOL．1 WITH BAND HERD (멜론 티켓 ─ CJ아지트 광흥창)]]></title>

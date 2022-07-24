@@ -4,17 +4,9 @@
         <title>멜론 티켓 ─ 구름아래소극장</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Jul 2022 14:16:29 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Jul 2022 15:17:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[빌리어코스티 정규 3집 PART．01：MONO 발매 기념 공연]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=207028</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=207028</guid>
-            <pubDate>Thu, 23 Jun 2022 04:33:26 GMT</pubDate>
-            <content:encoded><![CDATA[2022.07.23  ~<br> 2022.07.24]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/06/2022062119050632e932f0-cc85-43b0-a86d-a29030603e89.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
         <item>
             <title><![CDATA[위아더나잇 콘서트［OFFLINE MEETING］]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=207113</link>
