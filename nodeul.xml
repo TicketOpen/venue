@@ -4,7 +4,7 @@
         <title>멜론 티켓 ─ 노들섬</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Jul 2022 01:20:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Jul 2022 03:47:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,6 +46,14 @@
             <pubDate>Fri, 24 Jun 2022 05:24:25 GMT</pubDate>
             <content:encoded><![CDATA[2022.07.31  ~<br> 2022.07.31]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/06/20220623105233f2dad5ee-3667-49a9-bad7-db4a9917519c.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[TUNE UP STAGE：Dear My Playlist  튠업 스테이지：디어 마이 플레이리스트]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207138</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207138</guid>
+            <pubDate>Mon, 25 Jul 2022 03:46:32 GMT</pubDate>
+            <content:encoded><![CDATA[2022.09.03  ~<br> 2022.09.04]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/07/2022072210363644f687dd-9fe1-4681-a91d-48e72a9f4759.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
