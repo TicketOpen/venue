@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Jul 2022 14:17:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Jul 2022 15:18:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -54,14 +54,6 @@
             <pubDate>Fri, 15 Jul 2022 03:54:40 GMT</pubDate>
             <content:encoded><![CDATA[2022.08.19  ~<br> 2022.08.19]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/07/202207141145029ee7020c-019e-436e-94bc-c4884be1e666.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[먼데이프로젝트 시즌5 청춘의 밤［로우행잉프루츠 단독 콘서트］ (멜론 티켓 ─ 벨로주)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=207055</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=207055</guid>
-            <pubDate>Wed, 29 Jun 2022 03:46:36 GMT</pubDate>
-            <content:encoded><![CDATA[2022.07.25  ~<br> 2022.07.25]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/06/2022062816093070867953-9c4b-4a2e-87c4-a205d820787e.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[트랙제로 Alive－vol．1 숨은목소리 1편 (멜론 티켓 ─ 벨로주)]]></title>
