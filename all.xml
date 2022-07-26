@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Jul 2022 01:23:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Jul 2022 04:05:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,6 +46,14 @@
             <pubDate>Tue, 28 Jun 2022 03:41:14 GMT</pubDate>
             <content:encoded><![CDATA[2022.07.29  ~<br> 2022.07.29]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/06/20220627104448b02b7f02-99be-4a06-aedd-41c415c38243.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[키라라：그냥하는 단독공연 시즌 2－3 (멜론 티켓 ─ 프리즘홀)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207143</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207143</guid>
+            <pubDate>Tue, 26 Jul 2022 04:03:36 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.12  ~<br> 2022.08.12]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/07/202207251014044e853da9-38a8-4105-9d16-6c8126a96438.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[지소쿠리 x 프랭클리：Nerd Party (멜론 티켓 ─ 프리즘홀)]]></title>
