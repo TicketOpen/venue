@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Jul 2022 01:25:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Jul 2022 03:50:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -62,6 +62,14 @@
             <pubDate>Fri, 15 Jul 2022 03:54:40 GMT</pubDate>
             <content:encoded><![CDATA[2022.08.19  ~<br> 2022.08.19]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/07/202207141145029ee7020c-019e-436e-94bc-c4884be1e666.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[프리즘브레이크 vol．13：더보울스 x 코토바 (멜론 티켓 ─ 프리즘홀)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207147</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207147</guid>
+            <pubDate>Wed, 27 Jul 2022 03:48:02 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.26  ~<br> 2022.08.26]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/07/202207261403418a0263f8-b148-4beb-a5dd-aea9b6ee3041.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[트랙제로 Alive－vol．1 숨은목소리 1편 (멜론 티켓 ─ 벨로주)]]></title>
@@ -214,6 +222,14 @@
             <pubDate>Wed, 13 Jul 2022 03:39:45 GMT</pubDate>
             <content:encoded><![CDATA[2022.08.13  ~<br> 2022.08.13]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/07/202207121133165710ed2d-22ba-40b8-8ffa-f44204f378c1.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[재즈; 정지수의 시선（Jazz; Jisu’s Gaze） (멜론 티켓 ─ CJ아지트 광흥창)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207146</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207146</guid>
+            <pubDate>Wed, 27 Jul 2022 03:48:59 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.19  ~<br> 2022.08.19]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/07/202207261441178382250a-4c9e-47de-98a9-c5962f64727b.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[Flight082728：off the menu 편 (멜론 티켓 ─ CJ아지트 광흥창)]]></title>
