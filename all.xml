@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Jul 2022 14:19:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Jul 2022 15:19:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -86,14 +86,6 @@
             <pubDate>Wed, 27 Jul 2022 03:48:02 GMT</pubDate>
             <content:encoded><![CDATA[2022.08.26  ~<br> 2022.08.26]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/07/202207261403418a0263f8-b148-4beb-a5dd-aea9b6ee3041.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[트랙제로 Alive－vol．1 숨은목소리 1편 (멜론 티켓 ─ 벨로주)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=207101</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=207101</guid>
-            <pubDate>Wed, 13 Jul 2022 08:19:57 GMT</pubDate>
-            <content:encoded><![CDATA[2022.07.28  ~<br> 2022.07.28]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/07/202207121839141c14ea26-f8fd-46e7-b23b-2cb753df4513.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[PL（피엘）여름콘서트 Summer Diary－서울 (멜론 티켓 ─ 벨로주)]]></title>
@@ -262,14 +254,6 @@
             <pubDate>Mon, 25 Jul 2022 05:26:58 GMT</pubDate>
             <content:encoded><![CDATA[2022.08.27  ~<br> 2022.08.28]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/07/20220721152421e7687f5a-71f0-4708-8764-fc6f7eccc76f.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[몽니 정규 5집 ‘Firmament’ 발매 기념 콘서트 with 손에손에 뮤직 페스타 (멜론 티켓 ─ 노들섬)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=207033</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=207033</guid>
-            <pubDate>Fri, 24 Jun 2022 05:24:25 GMT</pubDate>
-            <content:encoded><![CDATA[2022.07.28  ~<br> 2022.07.28]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/06/20220623144304efa01e8d-a663-4785-9f32-2fa85978706f.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[JK김동욱 X 커먼그라운드 콘서트 with 손에손에 뮤직 페스타 (멜론 티켓 ─ 노들섬)]]></title>

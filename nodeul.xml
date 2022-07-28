@@ -4,17 +4,9 @@
         <title>멜론 티켓 ─ 노들섬</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Jul 2022 14:19:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Jul 2022 15:19:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[몽니 정규 5집 ‘Firmament’ 발매 기념 콘서트 with 손에손에 뮤직 페스타]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=207033</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=207033</guid>
-            <pubDate>Fri, 24 Jun 2022 05:24:25 GMT</pubDate>
-            <content:encoded><![CDATA[2022.07.28  ~<br> 2022.07.28]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/06/20220623144304efa01e8d-a663-4785-9f32-2fa85978706f.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
         <item>
             <title><![CDATA[JK김동욱 X 커먼그라운드 콘서트 with 손에손에 뮤직 페스타]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=207034</link>
