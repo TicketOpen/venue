@@ -4,17 +4,9 @@
         <title>멜론 티켓 ─ 노들섬</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Jul 2022 14:15:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Jul 2022 15:21:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[JK김동욱 X 커먼그라운드 콘서트 with 손에손에 뮤직 페스타]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=207034</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=207034</guid>
-            <pubDate>Fri, 24 Jun 2022 05:24:25 GMT</pubDate>
-            <content:encoded><![CDATA[2022.07.29  ~<br> 2022.07.29]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/06/2022062311382928d969c2-4d90-4c51-8740-5f98cb2550bc.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
         <item>
             <title><![CDATA[휘성 X 커먼그라운드 콘서트 with 손에손에 뮤직 페스타]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=207035</link>
