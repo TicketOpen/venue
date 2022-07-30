@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 30 Jul 2022 14:16:04 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Jul 2022 15:16:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -254,14 +254,6 @@
             <pubDate>Mon, 25 Jul 2022 05:26:58 GMT</pubDate>
             <content:encoded><![CDATA[2022.08.27  ~<br> 2022.08.28]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/07/20220721152421e7687f5a-71f0-4708-8764-fc6f7eccc76f.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[휘성 X 커먼그라운드 콘서트 with 손에손에 뮤직 페스타 (멜론 티켓 ─ 노들섬)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=207035</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=207035</guid>
-            <pubDate>Fri, 24 Jun 2022 05:24:25 GMT</pubDate>
-            <content:encoded><![CDATA[2022.07.30  ~<br> 2022.07.30]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/06/2022062217390055bb376d-d657-431d-90d4-ca43ef14c4a7.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[김준수 X 두번째달 콘서트 with 손에손에 뮤직 페스타 (멜론 티켓 ─ 노들섬)]]></title>
