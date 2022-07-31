@@ -4,17 +4,9 @@
         <title>멜론 티켓 ─ 노들섬</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 31 Jul 2022 14:15:49 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 Jul 2022 15:16:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[김준수 X 두번째달 콘서트 with 손에손에 뮤직 페스타]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=207036</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=207036</guid>
-            <pubDate>Fri, 24 Jun 2022 05:24:25 GMT</pubDate>
-            <content:encoded><![CDATA[2022.07.31  ~<br> 2022.07.31]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/06/20220623105233f2dad5ee-3667-49a9-bad7-db4a9917519c.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
         <item>
             <title><![CDATA[TUNE UP STAGE：Dear My Playlist  튠업 스테이지：디어 마이 플레이리스트]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=207138</link>
