@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Aug 2022 01:29:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Aug 2022 04:05:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -182,6 +182,14 @@
             <pubDate>Wed, 13 Jul 2022 05:19:19 GMT</pubDate>
             <content:encoded><![CDATA[2022.08.20  ~<br> 2022.08.20]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/07/20220713094447431c4877-efef-4740-8015-8c468aba30c0.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 김나영 데뷔 10주년 팬미팅［우리 만나영］ (멜론 티켓 ─ 구름아래소극장)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207160</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207160</guid>
+            <pubDate>Mon, 01 Aug 2022 04:03:43 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.28  ~<br> 2022.08.28]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/08/2022080109263853138dbc-4767-482d-bc60-101806ea39e3.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[It’s begun EP．2：김훨x예람x정우－‘WE ARE STILL IN GREEN’ (멜론 티켓 ─ KT&G 상상마당 라이브홀)]]></title>
