@@ -4,7 +4,7 @@
         <title>멜론 티켓 ─ 롤링홀</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Aug 2022 01:30:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Aug 2022 04:04:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -54,6 +54,14 @@
             <pubDate>Thu, 28 Jul 2022 03:39:33 GMT</pubDate>
             <content:encoded><![CDATA[2022.08.27  ~<br> 2022.08.28]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/07/2022072710472994bb6486-a0f4-49a3-9e0b-f582eb46fdab.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[솔루션스＆라쿠나：Talks On Music＃12]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207164</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207164</guid>
+            <pubDate>Tue, 02 Aug 2022 04:02:18 GMT</pubDate>
+            <content:encoded><![CDATA[2022.09.02  ~<br> 2022.09.02]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/08/2022080110313767204d15-2bf8-4e3f-99ce-b5eeafcf1fbf.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
