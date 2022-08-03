@@ -4,7 +4,7 @@
         <title>멜론 티켓 ─ 롤링홀</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Aug 2022 05:48:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Aug 2022 06:20:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,6 +46,14 @@
             <pubDate>Mon, 18 Jul 2022 03:42:57 GMT</pubDate>
             <content:encoded><![CDATA[2022.08.21  ~<br> 2022.08.21]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/07/2022071809244933678d35-ca1d-4e6b-ad4b-0dd508348163.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[weplay Ep．2：김예지 편［Lively 온＆오프라인 병행 공연］]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207165</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207165</guid>
+            <pubDate>Wed, 03 Aug 2022 06:18:32 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.26  ~<br> 2022.08.26]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/08/202208011601407c07ace0-b55f-4cbe-8413-c9d1cede9793.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[The Poles 단독 콘서트：Goin’ High]]></title>
