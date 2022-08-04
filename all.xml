@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Aug 2022 01:25:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Aug 2022 03:26:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -160,12 +160,36 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/07/20220718163652d4ade4c1-5143-457b-bb9b-13a01e97492d.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
+            <title><![CDATA[칠보장 1st EP ‘칼－세이건’ 쇼케이스 (멜론 티켓 ─ 벨로주)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207182</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207182</guid>
+            <pubDate>Thu, 04 Aug 2022 03:25:08 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.21  ~<br> 2022.08.21]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/08/2022080316243669900474-8dd8-410d-8aca-5450f37bebdf.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
             <title><![CDATA[프레젠트프로젝트 〈이제 단독 콘서트 ‘바다로’〉 (멜론 티켓 ─ 벨로주)]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=207151</link>
             <guid>https://ticket.melon.com/performance/index.htm?prodId=207151</guid>
             <pubDate>Thu, 28 Jul 2022 11:14:07 GMT</pubDate>
             <content:encoded><![CDATA[2022.08.27  ~<br> 2022.08.27]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/07/2022072717081467ad0722-44dc-4b0b-8417-67c3b3231753.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[먼데이프로젝트 시즌5 청춘의 밤［아디오스 오디오 단독 콘서트］ (멜론 티켓 ─ 벨로주)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207179</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207179</guid>
+            <pubDate>Thu, 04 Aug 2022 03:25:08 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.29  ~<br> 2022.08.29]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/08/20220803141456089612fc-aab1-4758-9261-21e0fa35367c.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[먼데이프로젝트 시즌5 청춘의 밤［크리스피 단독 콘서트］ (멜론 티켓 ─ 벨로주)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207178</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207178</guid>
+            <pubDate>Thu, 04 Aug 2022 03:25:08 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.30  ~<br> 2022.08.30]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/08/202208031351458543fe83-e429-42a2-a4f5-1c46ff2b0dae.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[위아더나잇 콘서트［OFFLINE MEETING］ (멜론 티켓 ─ 구름아래소극장)]]></title>
