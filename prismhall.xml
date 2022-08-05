@@ -4,7 +4,7 @@
         <title>멜론 티켓 ─ 프리즘홀</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Aug 2022 01:26:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Aug 2022 03:43:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Wed, 27 Jul 2022 03:48:02 GMT</pubDate>
             <content:encoded><![CDATA[2022.08.26  ~<br> 2022.08.26]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/07/202207261403418a0263f8-b148-4beb-a5dd-aea9b6ee3041.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[BAADA 단독콘서트（with LudiSTELO）]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207189</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207189</guid>
+            <pubDate>Fri, 05 Aug 2022 03:41:52 GMT</pubDate>
+            <content:encoded><![CDATA[2022.09.04  ~<br> 2022.09.04]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/08/20220804172402dc8ce616-0583-48dc-aabd-55b3b6a77360.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
