@@ -4,17 +4,9 @@
         <title>멜론 티켓 ─ 구름아래소극장</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 06 Aug 2022 14:15:07 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Aug 2022 15:16:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[위아더나잇 콘서트［OFFLINE MEETING］]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=207113</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=207113</guid>
-            <pubDate>Mon, 18 Jul 2022 03:43:39 GMT</pubDate>
-            <content:encoded><![CDATA[2022.08.06  ~<br> 2022.08.06]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/07/202207151310352cdeba76-a68e-40dc-9df9-2a6e2d91fa05.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
         <item>
             <title><![CDATA[프레젠트프로젝트 〈SING SANG SONG：87DANCE 단독 콘서트 ‘BPM87’〉]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=207116</link>
