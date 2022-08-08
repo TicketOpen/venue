@@ -4,7 +4,7 @@
         <title>멜론 티켓 ─ 구름아래소극장</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Aug 2022 08:23:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Aug 2022 09:16:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,14 @@
             <pubDate>Mon, 01 Aug 2022 04:03:43 GMT</pubDate>
             <content:encoded><![CDATA[2022.08.28  ~<br> 2022.08.28]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/08/2022080109263853138dbc-4767-482d-bc60-101806ea39e3.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[이영훈 2022 단독공연 〈오늘의 안녕〉]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207190</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207190</guid>
+            <pubDate>Mon, 08 Aug 2022 09:15:20 GMT</pubDate>
+            <content:encoded><![CDATA[2022.09.03  ~<br> 2022.09.04]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/08/20220805100035a3c7e4e4-2296-4906-a196-8b5d1048e932.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
