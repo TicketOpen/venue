@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Aug 2022 04:40:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Aug 2022 05:27:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -214,6 +214,14 @@
             <pubDate>Wed, 13 Jul 2022 05:19:19 GMT</pubDate>
             <content:encoded><![CDATA[2022.08.20  ~<br> 2022.08.20]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/07/20220713094447431c4877-efef-4740-8015-8c468aba30c0.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[백형훈 팬미팅 〈인사〉 (멜론 티켓 ─ 구름아래소극장)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207192</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207192</guid>
+            <pubDate>Tue, 09 Aug 2022 05:25:25 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.27  ~<br> 2022.08.27]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/08/20220808165342e1af63b9-e5c0-4187-9293-211980cb4607.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[2022 김나영 데뷔 10주년 팬미팅［우리 만나영］ (멜론 티켓 ─ 구름아래소극장)]]></title>
