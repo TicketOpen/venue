@@ -4,7 +4,7 @@
         <title>멜론 티켓 ─ 프리즘홀</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Aug 2022 08:20:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Aug 2022 09:18:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Fri, 15 Jul 2022 03:54:40 GMT</pubDate>
             <content:encoded><![CDATA[2022.08.19  ~<br> 2022.08.19]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/07/202207141145029ee7020c-019e-436e-94bc-c4884be1e666.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[트랙제로 Alive－vol．3 90년대생들 1편]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207205</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207205</guid>
+            <pubDate>Wed, 10 Aug 2022 09:15:39 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.25  ~<br> 2022.08.25]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/08/20220810145857cdadd297-bc5c-4352-90ce-45736da6e6c0.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[프리즘브레이크 vol．13：더보울스 x 코토바]]></title>
