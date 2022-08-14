@@ -4,17 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 14 Aug 2022 14:16:01 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Aug 2022 15:17:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[Digital Dawn (멜론 티켓 ─ 롤링홀)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=207105</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=207105</guid>
-            <pubDate>Fri, 15 Jul 2022 03:54:16 GMT</pubDate>
-            <content:encoded><![CDATA[2022.08.14  ~<br> 2022.08.14]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/07/20220714105847adc68200-fd71-429e-8af5-4ada0f5cbb93.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
         <item>
             <title><![CDATA[YB 단독 콘서트 ‘LIGHTS：BURNS’－Encore (멜론 티켓 ─ 롤링홀)]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=207154</link>
@@ -120,14 +112,6 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/08/20220804172402dc8ce616-0583-48dc-aabd-55b3b6a77360.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
-            <title><![CDATA[PL（피엘）여름콘서트 Summer Diary－서울 (멜론 티켓 ─ 벨로주)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=207023</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=207023</guid>
-            <pubDate>Tue, 21 Jun 2022 09:23:28 GMT</pubDate>
-            <content:encoded><![CDATA[2022.07.30  ~<br> 2022.08.14]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/06/202206291846503a2273ba-b132-4f67-b303-923db129276a.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
             <title><![CDATA[먼데이프로젝트 시즌5［O．O．O 단독 콘서트 ‘ANOTHER BLUE’］ (멜론 티켓 ─ 벨로주)]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=207120</link>
             <guid>https://ticket.melon.com/performance/index.htm?prodId=207120</guid>
@@ -222,14 +206,6 @@
             <pubDate>Mon, 08 Aug 2022 09:15:20 GMT</pubDate>
             <content:encoded><![CDATA[2022.09.03  ~<br> 2022.09.04]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/08/20220805100035a3c7e4e4-2296-4906-a196-8b5d1048e932.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[It’s begun EP．2：김훨x예람x정우－‘WE ARE STILL IN GREEN’ (멜론 티켓 ─ KT&G 상상마당 라이브홀)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=207052</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=207052</guid>
-            <pubDate>Fri, 01 Jul 2022 08:20:21 GMT</pubDate>
-            <content:encoded><![CDATA[2022.08.14  ~<br> 2022.08.14]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/07/20220721101849e2b1cda0-03d5-4579-bedf-e561d06199c4.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[먼데이프로젝트 시즌5 청춘의 밤［김사월 단독 콘서트］ (멜론 티켓 ─ KT&G 상상마당 라이브홀)]]></title>
