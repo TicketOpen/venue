@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 Aug 2022 14:18:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Aug 2022 15:19:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -112,14 +112,6 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/08/20220804172402dc8ce616-0583-48dc-aabd-55b3b6a77360.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
-            <title><![CDATA[먼데이프로젝트 시즌5［O．O．O 단독 콘서트 ‘ANOTHER BLUE’］ (멜론 티켓 ─ 벨로주)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=207120</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=207120</guid>
-            <pubDate>Wed, 20 Jul 2022 03:40:43 GMT</pubDate>
-            <content:encoded><![CDATA[2022.08.15  ~<br> 2022.08.15]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/07/20220719102310e07bcf89-5721-4ce5-871d-c390f46c618a.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
             <title><![CDATA[배영경 단독공연｜푸른 너 (멜론 티켓 ─ 벨로주)]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=207133</link>
             <guid>https://ticket.melon.com/performance/index.htm?prodId=207133</guid>
@@ -206,14 +198,6 @@
             <pubDate>Mon, 08 Aug 2022 09:15:20 GMT</pubDate>
             <content:encoded><![CDATA[2022.09.03  ~<br> 2022.09.04]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/08/20220805100035a3c7e4e4-2296-4906-a196-8b5d1048e932.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[먼데이프로젝트 시즌5 청춘의 밤［김사월 단독 콘서트］ (멜론 티켓 ─ KT&G 상상마당 라이브홀)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=207122</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=207122</guid>
-            <pubDate>Wed, 20 Jul 2022 03:41:07 GMT</pubDate>
-            <content:encoded><![CDATA[2022.08.15  ~<br> 2022.08.15]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/07/20220719135019418cd05d-9500-4f97-af43-1a68ded21532.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[먼데이프로젝트 시즌5 청춘의 밤［리도어 단독 콘서트］ (멜론 티켓 ─ KT&G 상상마당 라이브홀)]]></title>
