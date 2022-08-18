@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Aug 2022 05:07:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Aug 2022 06:21:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -246,6 +246,14 @@
             <pubDate>Mon, 28 Feb 2022 09:15:42 GMT</pubDate>
             <content:encoded><![CDATA[2022.09.04  ~<br> 2022.09.04]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/05/202205131133377cfc3a37-c9dd-467b-9770-5a74412fb6ff.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[JAYCI YUCCA：THE LAST BOY’s CONCERT with DJ＆Band (멜론 티켓 ─ KT&G 상상마당 라이브홀)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207215</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207215</guid>
+            <pubDate>Thu, 18 Aug 2022 06:20:15 GMT</pubDate>
+            <content:encoded><![CDATA[2022.09.17  ~<br> 2022.09.17]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/08/20220818143628e65b8492-689f-499b-8e0d-d6e46388fa8a.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[재즈; 정지수의 시선（Jazz; Jisu’s Gaze） (멜론 티켓 ─ CJ아지트 광흥창)]]></title>
