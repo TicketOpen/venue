@@ -4,17 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 20 Aug 2022 14:15:32 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Aug 2022 15:17:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[김태균（TAKEWON）단독 콘서트－상업예술 (멜론 티켓 ─ 롤링홀)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=207102</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=207102</guid>
-            <pubDate>Wed, 13 Jul 2022 09:15:08 GMT</pubDate>
-            <content:encoded><![CDATA[2022.08.20  ~<br> 2022.08.20]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/07/20220713153513219fbbaf-ea78-4c36-a3de-a6794be53d8d.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
         <item>
             <title><![CDATA[새벽공방 단독 콘서트 ‘Palm Tree’ (멜론 티켓 ─ 롤링홀)]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=207117</link>
@@ -72,14 +64,6 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/08/20220810130758fcb29f3a-3c11-4de0-8561-fbfc42cc43b1.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
-            <title><![CDATA[인플래닛 레이블 콘 2022 (멜론 티켓 ─ 웨스트브릿지)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=207145</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=207145</guid>
-            <pubDate>Wed, 27 Jul 2022 09:14:41 GMT</pubDate>
-            <content:encoded><![CDATA[2022.08.20  ~<br> 2022.08.20]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/07/20220726131802eb1c65da-74f6-4b98-a462-45bd4bb7b84a.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
             <title><![CDATA[참솜 소극장 단독공연 ‘summer chamsom’ (멜론 티켓 ─ 웨스트브릿지)]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=207152</link>
             <guid>https://ticket.melon.com/performance/index.htm?prodId=207152</guid>
@@ -120,14 +104,6 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/08/20220804172402dc8ce616-0583-48dc-aabd-55b3b6a77360.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
-            <title><![CDATA[DREAM DRIVE－주윤하 소극장 공연 (멜론 티켓 ─ 벨로주)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=207119</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=207119</guid>
-            <pubDate>Tue, 19 Jul 2022 05:07:26 GMT</pubDate>
-            <content:encoded><![CDATA[2022.08.20  ~<br> 2022.08.20]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/07/20220718163652d4ade4c1-5143-457b-bb9b-13a01e97492d.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
             <title><![CDATA[칠보장 1st EP ‘칼－세이건’ 쇼케이스 (멜론 티켓 ─ 벨로주)]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=207182</link>
             <guid>https://ticket.melon.com/performance/index.htm?prodId=207182</guid>
@@ -166,14 +142,6 @@
             <pubDate>Thu, 04 Aug 2022 03:25:08 GMT</pubDate>
             <content:encoded><![CDATA[2022.08.30  ~<br> 2022.08.30]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/08/202208031351458543fe83-e429-42a2-a4f5-1c46ff2b0dae.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[from．Kei (멜론 티켓 ─ 구름아래소극장)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=207096</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=207096</guid>
-            <pubDate>Wed, 13 Jul 2022 05:19:19 GMT</pubDate>
-            <content:encoded><![CDATA[2022.08.20  ~<br> 2022.08.20]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/07/20220713094447431c4877-efef-4740-8015-8c468aba30c0.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[백형훈 팬미팅 〈인사〉 (멜론 티켓 ─ 구름아래소극장)]]></title>

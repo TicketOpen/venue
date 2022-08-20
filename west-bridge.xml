@@ -4,17 +4,9 @@
         <title>멜론 티켓 ─ 웨스트브릿지</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 20 Aug 2022 14:15:32 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Aug 2022 15:17:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[인플래닛 레이블 콘 2022]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=207145</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=207145</guid>
-            <pubDate>Wed, 27 Jul 2022 09:14:41 GMT</pubDate>
-            <content:encoded><![CDATA[2022.08.20  ~<br> 2022.08.20]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/07/20220726131802eb1c65da-74f6-4b98-a462-45bd4bb7b84a.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
         <item>
             <title><![CDATA[참솜 소극장 단독공연 ‘summer chamsom’]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=207152</link>

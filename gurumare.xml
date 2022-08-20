@@ -4,17 +4,9 @@
         <title>멜론 티켓 ─ 구름아래소극장</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 20 Aug 2022 14:15:32 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Aug 2022 15:17:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[from．Kei]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=207096</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=207096</guid>
-            <pubDate>Wed, 13 Jul 2022 05:19:19 GMT</pubDate>
-            <content:encoded><![CDATA[2022.08.20  ~<br> 2022.08.20]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/07/20220713094447431c4877-efef-4740-8015-8c468aba30c0.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
         <item>
             <title><![CDATA[백형훈 팬미팅 〈인사〉]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=207192</link>

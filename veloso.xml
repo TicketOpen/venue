@@ -4,17 +4,9 @@
         <title>멜론 티켓 ─ 벨로주</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 20 Aug 2022 14:15:32 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Aug 2022 15:17:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[DREAM DRIVE－주윤하 소극장 공연]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=207119</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=207119</guid>
-            <pubDate>Tue, 19 Jul 2022 05:07:26 GMT</pubDate>
-            <content:encoded><![CDATA[2022.08.20  ~<br> 2022.08.20]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/07/20220718163652d4ade4c1-5143-457b-bb9b-13a01e97492d.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
         <item>
             <title><![CDATA[칠보장 1st EP ‘칼－세이건’ 쇼케이스]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=207182</link>
