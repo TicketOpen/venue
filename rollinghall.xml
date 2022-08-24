@@ -4,7 +4,7 @@
         <title>멜론 티켓 ─ 롤링홀</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Aug 2022 01:32:30 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Aug 2022 04:08:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Tue, 16 Aug 2022 06:19:18 GMT</pubDate>
             <content:encoded><![CDATA[2022.09.16  ~<br> 2022.09.16]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/08/20220816095420597c0412-d640-4ead-b6f9-1a1a3b1f648f.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[안병웅 단독 콘서트 ‘Sittin in a Saucer’]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207238</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207238</guid>
+            <pubDate>Wed, 24 Aug 2022 04:06:03 GMT</pubDate>
+            <content:encoded><![CDATA[2022.09.23  ~<br> 2022.09.23]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/08/20220823140538c45c2d7c-5647-480d-944e-4d717696cb99.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[백지웅 단독 콘서트：백그림]]></title>
