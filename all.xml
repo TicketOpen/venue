@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Aug 2022 05:54:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Aug 2022 06:31:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -94,6 +94,14 @@
             <pubDate>Fri, 05 Aug 2022 03:41:52 GMT</pubDate>
             <content:encoded><![CDATA[2022.09.04  ~<br> 2022.09.04]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/08/20220804172402dc8ce616-0583-48dc-aabd-55b3b6a77360.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[트랙제로 Alive－vol．4 90년대생들 2편 (멜론 티켓 ─ 프리즘홀)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207243</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207243</guid>
+            <pubDate>Thu, 25 Aug 2022 06:29:54 GMT</pubDate>
+            <content:encoded><![CDATA[2022.09.08  ~<br> 2022.09.08]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/08/20220824164340469703fc-ba2b-4c81-bc12-146ab185172c.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[프레젠트프로젝트 〈이제 단독 콘서트 ‘바다로’〉 (멜론 티켓 ─ 벨로주)]]></title>
