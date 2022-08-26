@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Aug 2022 14:16:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Aug 2022 15:19:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -62,14 +62,6 @@
             <pubDate>Thu, 11 Aug 2022 03:17:09 GMT</pubDate>
             <content:encoded><![CDATA[2022.10.08  ~<br> 2022.10.08]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/08/20220810130758fcb29f3a-3c11-4de0-8561-fbfc42cc43b1.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[프리즘브레이크 vol．13：더보울스 x 코토바 (멜론 티켓 ─ 프리즘홀)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=207147</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=207147</guid>
-            <pubDate>Wed, 27 Jul 2022 03:48:02 GMT</pubDate>
-            <content:encoded><![CDATA[2022.08.26  ~<br> 2022.08.26]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/07/202207261403418a0263f8-b148-4beb-a5dd-aea9b6ee3041.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[키라라：그냥하는 단독공연 시즌 2－4 (멜론 티켓 ─ 프리즘홀)]]></title>
