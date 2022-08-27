@@ -4,17 +4,9 @@
         <title>멜론 티켓 ─ 구름아래소극장</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 27 Aug 2022 14:16:09 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Aug 2022 15:17:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[백형훈 팬미팅 〈인사〉]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=207192</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=207192</guid>
-            <pubDate>Tue, 09 Aug 2022 05:25:25 GMT</pubDate>
-            <content:encoded><![CDATA[2022.08.27  ~<br> 2022.08.27]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/08/20220808165342e1af63b9-e5c0-4187-9293-211980cb4607.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
         <item>
             <title><![CDATA[2022 김나영 데뷔 10주년 팬미팅［우리 만나영］]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=207160</link>
