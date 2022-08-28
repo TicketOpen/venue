@@ -4,17 +4,9 @@
         <title>멜론 티켓 ─ KT&amp;G 상상마당 라이브홀</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 28 Aug 2022 14:16:48 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Aug 2022 15:17:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[안다영 단독 공연 〈20 to 22 was a babel〉]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=207171</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=207171</guid>
-            <pubDate>Wed, 03 Aug 2022 03:52:38 GMT</pubDate>
-            <content:encoded><![CDATA[2022.08.27  ~<br> 2022.08.28]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/08/202208021105413935b2cc-1c78-4025-b54c-65485d98d689.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
         <item>
             <title><![CDATA[먼데이프로젝트 시즌5 청춘의 밤［잭킹콩 단독 콘서트］]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=207173</link>

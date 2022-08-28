@@ -4,17 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 28 Aug 2022 14:16:48 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Aug 2022 15:17:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[The Poles 단독 콘서트：Goin’ High (멜론 티켓 ─ 롤링홀)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=207149</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=207149</guid>
-            <pubDate>Thu, 28 Jul 2022 03:39:33 GMT</pubDate>
-            <content:encoded><![CDATA[2022.08.27  ~<br> 2022.08.28]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/07/2022072710472994bb6486-a0f4-49a3-9e0b-f582eb46fdab.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
         <item>
             <title><![CDATA[솔루션스＆라쿠나：Talks On Music＃12 (멜론 티켓 ─ 롤링홀)]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=207164</link>
@@ -88,14 +80,6 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/08/20220824164340469703fc-ba2b-4c81-bc12-146ab185172c.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
-            <title><![CDATA[단지，룬이 오면 (멜론 티켓 ─ 벨로주)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=207209</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=207209</guid>
-            <pubDate>Fri, 12 Aug 2022 05:16:23 GMT</pubDate>
-            <content:encoded><![CDATA[2022.08.28  ~<br> 2022.08.28]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/08/202208110947173825b9a7-184f-45bb-ba42-70995412a626.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
             <title><![CDATA[먼데이프로젝트 시즌5 청춘의 밤［아디오스 오디오 단독 콘서트］ (멜론 티켓 ─ 벨로주)]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=207179</link>
             <guid>https://ticket.melon.com/performance/index.htm?prodId=207179</guid>
@@ -112,28 +96,12 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/08/202208031351458543fe83-e429-42a2-a4f5-1c46ff2b0dae.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
-            <title><![CDATA[2022 김나영 데뷔 10주년 팬미팅［우리 만나영］ (멜론 티켓 ─ 구름아래소극장)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=207160</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=207160</guid>
-            <pubDate>Mon, 01 Aug 2022 04:03:43 GMT</pubDate>
-            <content:encoded><![CDATA[2022.08.28  ~<br> 2022.08.28]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/08/2022080109263853138dbc-4767-482d-bc60-101806ea39e3.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
             <title><![CDATA[이영훈 2022 단독공연 〈오늘의 안녕〉 (멜론 티켓 ─ 구름아래소극장)]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=207190</link>
             <guid>https://ticket.melon.com/performance/index.htm?prodId=207190</guid>
             <pubDate>Mon, 08 Aug 2022 09:15:20 GMT</pubDate>
             <content:encoded><![CDATA[2022.09.03  ~<br> 2022.09.04]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/08/20220805100035a3c7e4e4-2296-4906-a196-8b5d1048e932.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[안다영 단독 공연 〈20 to 22 was a babel〉 (멜론 티켓 ─ KT&G 상상마당 라이브홀)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=207171</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=207171</guid>
-            <pubDate>Wed, 03 Aug 2022 03:52:38 GMT</pubDate>
-            <content:encoded><![CDATA[2022.08.27  ~<br> 2022.08.28]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/08/202208021105413935b2cc-1c78-4025-b54c-65485d98d689.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[먼데이프로젝트 시즌5 청춘의 밤［잭킹콩 단독 콘서트］ (멜론 티켓 ─ KT&G 상상마당 라이브홀)]]></title>
@@ -166,14 +134,6 @@
             <pubDate>Thu, 18 Aug 2022 06:20:15 GMT</pubDate>
             <content:encoded><![CDATA[2022.09.17  ~<br> 2022.09.30]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/08/2022082514004918cf0a63-025e-4523-86e7-8f38b62631a1.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[Flight082728：off the menu 편 (멜론 티켓 ─ CJ아지트 광흥창)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=207134</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=207134</guid>
-            <pubDate>Mon, 25 Jul 2022 05:26:58 GMT</pubDate>
-            <content:encoded><![CDATA[2022.08.27  ~<br> 2022.08.28]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/07/20220721152421e7687f5a-71f0-4708-8764-fc6f7eccc76f.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[TUNE UP STAGE：Dear My Playlist  튠업 스테이지：디어 마이 플레이리스트 (멜론 티켓 ─ 노들섬)]]></title>
