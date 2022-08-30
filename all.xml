@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Aug 2022 14:18:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Aug 2022 15:18:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -94,14 +94,6 @@
             <pubDate>Mon, 29 Aug 2022 09:15:31 GMT</pubDate>
             <content:encoded><![CDATA[2022.09.12  ~<br> 2022.09.12]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/08/20220829174030f5f7099d-7d02-4c1e-8489-21808e039303.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[먼데이프로젝트 시즌5 청춘의 밤［크리스피 단독 콘서트］ (멜론 티켓 ─ 벨로주)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=207178</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=207178</guid>
-            <pubDate>Thu, 04 Aug 2022 03:25:08 GMT</pubDate>
-            <content:encoded><![CDATA[2022.08.30  ~<br> 2022.08.30]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/08/202208031351458543fe83-e429-42a2-a4f5-1c46ff2b0dae.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[이영훈 2022 단독공연 〈오늘의 안녕〉 (멜론 티켓 ─ 구름아래소극장)]]></title>
