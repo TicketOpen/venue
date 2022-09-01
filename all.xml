@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Sep 2022 01:20:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Sep 2022 04:07:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,14 +30,6 @@
             <pubDate>Wed, 24 Aug 2022 04:06:03 GMT</pubDate>
             <content:encoded><![CDATA[2022.09.23  ~<br> 2022.09.23]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/08/20220823140538c45c2d7c-5647-480d-944e-4d717696cb99.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[백지웅 단독 콘서트：백그림 (멜론 티켓 ─ 롤링홀)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=207228</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=207228</guid>
-            <pubDate>Thu, 18 Aug 2022 03:59:44 GMT</pubDate>
-            <content:encoded><![CDATA[2022.09.25  ~<br> 2022.09.25]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/08/202208171600307c90b2ed-22fa-4662-95b3-dd312a570764.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[ROLLING PROJECT：CMYK #2［Hwanho & Creespy & OFF．E］ (멜론 티켓 ─ 롤링홀)]]></title>
