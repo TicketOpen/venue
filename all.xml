@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 04 Sep 2022 14:15:42 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Sep 2022 15:19:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -48,14 +48,6 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/08/20220810130758fcb29f3a-3c11-4de0-8561-fbfc42cc43b1.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
-            <title><![CDATA[BAADA 단독콘서트（with LudiSTELO） (멜론 티켓 ─ 프리즘홀)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=207189</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=207189</guid>
-            <pubDate>Fri, 05 Aug 2022 03:41:52 GMT</pubDate>
-            <content:encoded><![CDATA[2022.09.04  ~<br> 2022.09.04]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/08/20220804172402dc8ce616-0583-48dc-aabd-55b3b6a77360.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
             <title><![CDATA[트랙제로 Alive－vol．4 90년대생들 2편 (멜론 티켓 ─ 프리즘홀)]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=207243</link>
             <guid>https://ticket.melon.com/performance/index.htm?prodId=207243</guid>
@@ -80,28 +72,12 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/08/20220830110050793206b1-422e-48a6-8cff-4a0fc9d5c242.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
-            <title><![CDATA[이영훈 2022 단독공연 〈오늘의 안녕〉 (멜론 티켓 ─ 구름아래소극장)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=207190</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=207190</guid>
-            <pubDate>Mon, 08 Aug 2022 09:15:20 GMT</pubDate>
-            <content:encoded><![CDATA[2022.09.03  ~<br> 2022.09.04]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/08/20220805100035a3c7e4e4-2296-4906-a196-8b5d1048e932.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
             <title><![CDATA[Flight092324：Crackshot편 (멜론 티켓 ─ 구름아래소극장)]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=207245</link>
             <guid>https://ticket.melon.com/performance/index.htm?prodId=207245</guid>
             <pubDate>Mon, 29 Aug 2022 06:05:27 GMT</pubDate>
             <content:encoded><![CDATA[2022.09.23  ~<br> 2022.09.24]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/08/20220829104643d61132ce-4bba-41af-be12-b7a8779dc9ce.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[백아 데뷔 4주년 기념 단독공연：우리가 머문 밤 Ⅱ (멜론 티켓 ─ KT&G 상상마당 라이브홀)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=206628</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=206628</guid>
-            <pubDate>Mon, 28 Feb 2022 09:15:42 GMT</pubDate>
-            <content:encoded><![CDATA[2022.09.04  ~<br> 2022.09.04]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/05/202205131133377cfc3a37-c9dd-467b-9770-5a74412fb6ff.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[JAYCI YUCCA：THE LAST BOY’s CONCERT with DJ＆Band (멜론 티켓 ─ KT&G 상상마당 라이브홀)]]></title>
@@ -118,14 +94,6 @@
             <pubDate>Tue, 30 Aug 2022 06:11:37 GMT</pubDate>
             <content:encoded><![CDATA[2022.09.25  ~<br> 2022.09.25]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/08/20220826150657b7152715-cb3f-4c15-83e3-8d9e9d2d83e0.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[TUNE UP STAGE：Dear My Playlist  튠업 스테이지：디어 마이 플레이리스트 (멜론 티켓 ─ 노들섬)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=207138</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=207138</guid>
-            <pubDate>Mon, 25 Jul 2022 03:46:32 GMT</pubDate>
-            <content:encoded><![CDATA[2022.09.03  ~<br> 2022.09.04]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/07/2022072210363644f687dd-9fe1-4681-a91d-48e72a9f4759.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
