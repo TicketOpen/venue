@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Sep 2022 10:20:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Sep 2022 11:16:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -118,6 +118,14 @@
             <pubDate>Mon, 05 Sep 2022 04:16:45 GMT</pubDate>
             <content:encoded><![CDATA[2022.10.08  ~<br> 2022.10.08]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/08/20220831102121682e6e76-b9b9-48c0-a2b2-4464f076fb7c.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[프레젠트프로젝트 〈O．O．O 단독 콘서트 ‘Another Blue’〉 (멜론 티켓 ─ 벨로주)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207294</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207294</guid>
+            <pubDate>Thu, 08 Sep 2022 11:14:53 GMT</pubDate>
+            <content:encoded><![CDATA[2022.10.16  ~<br> 2022.10.16]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/09/20220907153017fab6c60b-baba-4e6d-a466-4c40f653586b.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[Flight092324：Crackshot편 (멜론 티켓 ─ 구름아래소극장)]]></title>
