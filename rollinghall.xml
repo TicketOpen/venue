@@ -4,7 +4,7 @@
         <title>멜론 티켓 ─ 롤링홀</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Sep 2022 01:27:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Sep 2022 04:09:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,14 @@
             <pubDate>Tue, 16 Aug 2022 01:25:21 GMT</pubDate>
             <content:encoded><![CDATA[2022.10.01  ~<br> 2022.10.01]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/08/20220810174632ebc0e724-c455-42fc-9d7a-881461118996.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[강승원의 노후대책]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207270</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207270</guid>
+            <pubDate>Thu, 08 Sep 2022 04:06:52 GMT</pubDate>
+            <content:encoded><![CDATA[2022.10.07  ~<br> 2022.10.07]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/09/20220901154617c3fbf9bd-afa4-4edb-a233-79445e16ede3.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[서울차일드 첫 내한 〈slchld 1st show in Seoul〉]]></title>

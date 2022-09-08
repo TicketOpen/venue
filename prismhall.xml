@@ -4,7 +4,7 @@
         <title>멜론 티켓 ─ 프리즘홀</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Sep 2022 01:27:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Sep 2022 04:09:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Fri, 02 Sep 2022 09:15:39 GMT</pubDate>
             <content:encoded><![CDATA[2022.09.23  ~<br> 2022.09.23]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/08/20220830110050793206b1-422e-48a6-8cff-4a0fc9d5c242.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[프리즘브레이크 vol．14：서울전자음악단 x 콩코드]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207293</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207293</guid>
+            <pubDate>Thu, 08 Sep 2022 04:07:12 GMT</pubDate>
+            <content:encoded><![CDATA[2022.10.10  ~<br> 2022.10.10]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/09/20220907142556e84ded13-af14-430d-83f6-3baae69ae794.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
