@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://ticket.melon.com/place/index.htm?placeId=11</id>
-    <title>멜론 티켓 ─ 예스24 라이브홀</title>
-    <updated>2022-09-08T23:18:44.476Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://ticket.melon.com/place/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>멜론 티켓 ─ 예스24 라이브홀</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Fri, 09 Sep 2022 01:49:03 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2022 류준열 팬미팅 〈JUNYEOL‘s HOME〉]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207251</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207251</guid>
+            <pubDate>Fri, 09 Sep 2022 01:48:07 GMT</pubDate>
+            <content:encoded><![CDATA[2022.09.25  ~<br> 2022.09.25]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/08/20220826150657b7152715-cb3f-4c15-83e3-8d9e9d2d83e0.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+    </channel>
+</rss>
