@@ -1,59 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>멜론 티켓 ─ 롤링홀</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Wed, 14 Sep 2022 17:28:23 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[맥거핀 단독 콘서트 ‘Mac Night’]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=207216</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=207216</guid>
-            <pubDate>Tue, 13 Sep 2022 22:17:51 GMT</pubDate>
-            <content:encoded><![CDATA[2022.09.16  ~<br> 2022.09.16]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/08/20220816095420597c0412-d640-4ead-b6f9-1a1a3b1f648f.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[안병웅 단독 콘서트 ‘Sittin in a Saucer’]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=207238</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=207238</guid>
-            <pubDate>Tue, 13 Sep 2022 22:17:51 GMT</pubDate>
-            <content:encoded><![CDATA[2022.09.23  ~<br> 2022.09.23]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/08/20220823140538c45c2d7c-5647-480d-944e-4d717696cb99.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[ROLLING PROJECT：CMYK #2［Hwanho & Creespy & OFF．E］]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=207252</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=207252</guid>
-            <pubDate>Tue, 13 Sep 2022 22:17:51 GMT</pubDate>
-            <content:encoded><![CDATA[2022.09.30  ~<br> 2022.09.30]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/08/202208261824591032ba2d-56c2-4bce-b443-53bfc31faac5.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[NO BAND FESTA（노밴드，크래쉬，디아블로，가리온）]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=207206</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=207206</guid>
-            <pubDate>Tue, 13 Sep 2022 22:17:51 GMT</pubDate>
-            <content:encoded><![CDATA[2022.10.01  ~<br> 2022.10.01]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/08/20220810174632ebc0e724-c455-42fc-9d7a-881461118996.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[강승원의 노후대책]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=207270</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=207270</guid>
-            <pubDate>Tue, 13 Sep 2022 22:17:51 GMT</pubDate>
-            <content:encoded><![CDATA[2022.10.07  ~<br> 2022.10.07]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/09/20220901154617c3fbf9bd-afa4-4edb-a233-79445e16ede3.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[서울차일드 첫 내한 〈slchld 1st show in Seoul〉]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=207203</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=207203</guid>
-            <pubDate>Tue, 13 Sep 2022 22:17:51 GMT</pubDate>
-            <content:encoded><![CDATA[2022.10.08  ~<br> 2022.10.08]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/08/20220810130758fcb29f3a-3c11-4de0-8561-fbfc42cc43b1.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://ticket.melon.com/place/index.htm?placeId=43</id>
+    <title>멜론 티켓 ─ 롤링홀</title>
+    <updated>2022-09-14T18:21:02.527Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://ticket.melon.com/place/favicon.ico</icon>
+</feed>

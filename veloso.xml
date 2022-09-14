@@ -1,43 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>멜론 티켓 ─ 벨로주</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Wed, 14 Sep 2022 17:28:23 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[〈도도어스 정규 앨범 발매 쇼케이스〉 멸종의 기원]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=207266</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=207266</guid>
-            <pubDate>Tue, 13 Sep 2022 22:18:21 GMT</pubDate>
-            <content:encoded><![CDATA[2022.09.17  ~<br> 2022.09.17]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/09/20220901181333692b9ec3-aa02-4ada-b17b-55f740c0cd80.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[트랙제로 Alive－vol．5 무대로 만나는 고수들]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=207279</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=207279</guid>
-            <pubDate>Tue, 13 Sep 2022 22:18:21 GMT</pubDate>
-            <content:encoded><![CDATA[2022.09.22  ~<br> 2022.09.22]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/09/2022090714213021b05221-4ea3-4864-ab16-0ed434908096.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[위아더나잇 LIVE 2022：01 미래를 향해]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=207261</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=207261</guid>
-            <pubDate>Tue, 13 Sep 2022 22:18:21 GMT</pubDate>
-            <content:encoded><![CDATA[2022.10.08  ~<br> 2022.10.08]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/08/20220831102121682e6e76-b9b9-48c0-a2b2-4464f076fb7c.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[프레젠트프로젝트 〈O．O．O 단독 콘서트 ‘Another Blue’〉]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=207294</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=207294</guid>
-            <pubDate>Tue, 13 Sep 2022 22:18:21 GMT</pubDate>
-            <content:encoded><![CDATA[2022.10.16  ~<br> 2022.10.16]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/09/20220907153017fab6c60b-baba-4e6d-a466-4c40f653586b.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://ticket.melon.com/place/index.htm?placeId=12</id>
+    <title>멜론 티켓 ─ 벨로주</title>
+    <updated>2022-09-14T18:21:02.532Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://ticket.melon.com/place/favicon.ico</icon>
+</feed>
