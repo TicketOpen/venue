@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Sep 2022 01:51:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Sep 2022 04:24:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -56,6 +56,14 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/08/20220810130758fcb29f3a-3c11-4de0-8561-fbfc42cc43b1.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
+            <title><![CDATA[크리스피 단독 콘서트［WE‘RE］ (멜론 티켓 ─ 롤링홀)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207312</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207312</guid>
+            <pubDate>Fri, 16 Sep 2022 04:22:37 GMT</pubDate>
+            <content:encoded><![CDATA[2022.10.09  ~<br> 2022.10.09]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/09/202209141556229fe67e6c-0ee7-455e-b718-06690c81531e.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
             <title><![CDATA[위아더나잇 LIVE 2022：02 미래를 피해 (멜론 티켓 ─ 웨스트브릿지)]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=207262</link>
             <guid>https://ticket.melon.com/performance/index.htm?prodId=207262</guid>
@@ -94,6 +102,14 @@
             <pubDate>Wed, 14 Sep 2022 19:15:20 GMT</pubDate>
             <content:encoded><![CDATA[2022.09.22  ~<br> 2022.09.22]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/09/2022090714213021b05221-4ea3-4864-ab16-0ed434908096.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[ANDOR 단독공연 〈HAPPY AT THIS TIME〉 (멜론 티켓 ─ 벨로주)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207302</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207302</guid>
+            <pubDate>Fri, 16 Sep 2022 04:23:07 GMT</pubDate>
+            <content:encoded><![CDATA[2022.10.07  ~<br> 2022.10.07]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/09/20220913110358a2409b5b-659a-4fa1-83fe-4da6032e47ef.png/melon/resize/90x125/strip/true" length="0" type="image/png/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[위아더나잇 LIVE 2022：01 미래를 향해 (멜론 티켓 ─ 벨로주)]]></title>

@@ -4,7 +4,7 @@
         <title>멜론 티켓 ─ 롤링홀</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Sep 2022 01:51:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Sep 2022 04:24:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -54,6 +54,14 @@
             <pubDate>Wed, 14 Sep 2022 19:14:45 GMT</pubDate>
             <content:encoded><![CDATA[2022.10.08  ~<br> 2022.10.08]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/08/20220810130758fcb29f3a-3c11-4de0-8561-fbfc42cc43b1.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[크리스피 단독 콘서트［WE‘RE］]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207312</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207312</guid>
+            <pubDate>Fri, 16 Sep 2022 04:22:37 GMT</pubDate>
+            <content:encoded><![CDATA[2022.10.09  ~<br> 2022.10.09]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/09/202209141556229fe67e6c-0ee7-455e-b718-06690c81531e.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
