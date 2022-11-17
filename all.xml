@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Nov 2022 01:16:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Nov 2022 03:12:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -318,6 +318,14 @@
             <pubDate>Wed, 16 Nov 2022 18:20:18 GMT</pubDate>
             <content:encoded><![CDATA[2022.11.25  ~<br> 2022.11.25]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/11/20221108134659f120ba42-f91f-4d70-8c91-536ff59881b7.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[Jean Christopher Cholet X Soojin Suh 콘서트 (멜론 티켓 ─ CJ아지트 광흥창)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207571</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207571</guid>
+            <pubDate>Thu, 17 Nov 2022 03:11:31 GMT</pubDate>
+            <content:encoded><![CDATA[2022.11.26  ~<br> 2022.11.26]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/11/2022111615030854a3fbfc-08fc-4d18-8100-42fcb84a8481.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[TUNE UP STAGE：ROCK MY WORLD  튠업 스테이지：락 마이 월드 (멜론 티켓 ─ CJ아지트 광흥창)]]></title>
