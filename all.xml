@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Nov 2022 14:16:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Nov 2022 15:18:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -126,14 +126,6 @@
             <pubDate>Thu, 17 Nov 2022 10:15:42 GMT</pubDate>
             <content:encoded><![CDATA[2022.12.10  ~<br> 2022.12.10]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/11/202211151519064ef64e84-e750-4825-b24e-81c6cd9f509a.png/melon/resize/90x125/strip/true" length="0" type="image/png/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[트랙제로 Alive－Vol．8  한국 재즈보컬 스페셜 1편 (멜론 티켓 ─ 벨로주)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=207485</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=207485</guid>
-            <pubDate>Thu, 17 Nov 2022 10:15:55 GMT</pubDate>
-            <content:encoded><![CDATA[2022.11.17  ~<br> 2022.11.17]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/11/202211021023067251fc3d-ef2e-4874-bc55-d53841d65779.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[CIKI 단독 공연 ‘길었던 우리의 불행을 아무래도’ (멜론 티켓 ─ 벨로주)]]></title>
