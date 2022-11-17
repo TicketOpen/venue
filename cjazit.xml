@@ -1,8 +1,67 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://ticket.melon.com/place/index.htm?placeId=329</id>
-    <title>멜론 티켓 ─ CJ아지트 광흥창</title>
-    <updated>2022-11-17T04:18:42.634Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://ticket.melon.com/place/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>멜론 티켓 ─ CJ아지트 광흥창</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Thu, 17 Nov 2022 05:16:55 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[FRankly：Back to school]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207491</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207491</guid>
+            <pubDate>Thu, 17 Nov 2022 05:15:49 GMT</pubDate>
+            <content:encoded><![CDATA[2022.11.19  ~<br> 2022.11.19]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/11/202211011824353f026eee-8dd6-48d2-a1fd-5111f59df367.png/melon/resize/90x125/strip/true" length="0" type="image/png/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[우지원 단독공연 〈Army of Me〉]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207483</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207483</guid>
+            <pubDate>Thu, 17 Nov 2022 05:15:49 GMT</pubDate>
+            <content:encoded><![CDATA[2022.11.20  ~<br> 2022.11.20]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/10/20221031113318daa91491-b6bc-4f04-97c2-d4dd72fc01bd.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[일레인 〈2〉 발매기념 단독콘서트]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207570</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207570</guid>
+            <pubDate>Thu, 17 Nov 2022 05:15:49 GMT</pubDate>
+            <content:encoded><![CDATA[2022.11.24  ~<br> 2022.11.24]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/11/20221116134749bc960513-4ac2-4767-8722-d701a262c584.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[카코포니 단독공연 〈황홀한 실종〉]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207524</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207524</guid>
+            <pubDate>Thu, 17 Nov 2022 05:15:49 GMT</pubDate>
+            <content:encoded><![CDATA[2022.11.25  ~<br> 2022.11.25]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/11/20221108134659f120ba42-f91f-4d70-8c91-536ff59881b7.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[Jean Christopher Cholet X Soojin Suh 콘서트]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207571</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207571</guid>
+            <pubDate>Thu, 17 Nov 2022 05:15:49 GMT</pubDate>
+            <content:encoded><![CDATA[2022.11.26  ~<br> 2022.11.26]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/11/2022111615030854a3fbfc-08fc-4d18-8100-42fcb84a8481.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[TUNE UP STAGE：ROCK MY WORLD  튠업 스테이지：락 마이 월드]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207556</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207556</guid>
+            <pubDate>Thu, 17 Nov 2022 05:15:49 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.02  ~<br> 2022.12.02]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/11/202211141807324b3207a8-2cc6-4773-80ad-30953a7de0ad.png/melon/resize/90x125/strip/true" length="0" type="image/png/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 엔분의일：Outro]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207526</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207526</guid>
+            <pubDate>Thu, 17 Nov 2022 05:15:49 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.11  ~<br> 2022.12.11]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/11/20221108160652a8418203-b026-4997-9270-cf56fce0a255.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+    </channel>
+</rss>
