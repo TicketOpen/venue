@@ -1,27 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>멜론 티켓 ─ 프리즘홀</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Thu, 17 Nov 2022 03:12:30 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[동이혼（DIH）단독콘서트：NOT ENOUGH]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=207448</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=207448</guid>
-            <pubDate>Wed, 16 Nov 2022 18:19:24 GMT</pubDate>
-            <content:encoded><![CDATA[2022.11.20  ~<br> 2022.11.20]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/10/20221019182304c396e1f6-53d6-485d-8ee7-e8ea6217f20f.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[러블레스 〈낙과〉 발매 기념 단독 공연]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=207562</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=207562</guid>
-            <pubDate>Wed, 16 Nov 2022 18:19:24 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.10  ~<br> 2022.12.10]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/11/202211151519064ef64e84-e750-4825-b24e-81c6cd9f509a.png/melon/resize/90x125/strip/true" length="0" type="image/png/melon/resize/90x125/strip/true"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://ticket.melon.com/place/index.htm?placeId=731</id>
+    <title>멜론 티켓 ─ 프리즘홀</title>
+    <updated>2022-11-17T04:18:42.636Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://ticket.melon.com/place/favicon.ico</icon>
+</feed>
