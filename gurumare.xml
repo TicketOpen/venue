@@ -4,17 +4,9 @@
         <title>멜론 티켓 ─ 구름아래소극장</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 19 Nov 2022 14:16:05 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Nov 2022 15:16:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[프레젠트프로젝트 〈SING SANG SONG：버둥 단독 콘서트 ‘버둥이 아끼는 사람을 돌보는 방법’〉]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=207447</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=207447</guid>
-            <pubDate>Fri, 18 Nov 2022 17:15:44 GMT</pubDate>
-            <content:encoded><![CDATA[2022.11.19  ~<br> 2022.11.19]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/10/2022102014471145c9b309-8699-4be2-ba5e-0bebb3a39539.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
         <item>
             <title><![CDATA[프레젠트프로젝트 〈SING SANG SONG：이민혁 단독 콘서트〉]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=207436</link>

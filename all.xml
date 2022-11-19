@@ -4,17 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 19 Nov 2022 14:16:05 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Nov 2022 15:16:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[2022 노틸러스 콘서트 〈시작〉 (멜론 티켓 ─ 롤링홀)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=207333</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=207333</guid>
-            <pubDate>Fri, 18 Nov 2022 17:14:58 GMT</pubDate>
-            <content:encoded><![CDATA[2022.11.19  ~<br> 2022.11.19]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/09/202209191708248ac59f17-c756-4adc-833c-5dbe3cc2ff02.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
         <item>
             <title><![CDATA[작은평화의 밤 (멜론 티켓 ─ 롤링홀)]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=207504</link>
@@ -200,14 +192,6 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/11/2022111613020119cf2680-f853-45ec-bb26-1d1431f9f811.png/melon/resize/90x125/strip/true" length="0" type="image/png/melon/resize/90x125/strip/true"/>
         </item>
         <item>
-            <title><![CDATA[프레젠트프로젝트 〈SING SANG SONG：버둥 단독 콘서트 ‘버둥이 아끼는 사람을 돌보는 방법’〉 (멜론 티켓 ─ 구름아래소극장)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=207447</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=207447</guid>
-            <pubDate>Fri, 18 Nov 2022 17:15:44 GMT</pubDate>
-            <content:encoded><![CDATA[2022.11.19  ~<br> 2022.11.19]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/10/2022102014471145c9b309-8699-4be2-ba5e-0bebb3a39539.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
             <title><![CDATA[프레젠트프로젝트 〈SING SANG SONG：이민혁 단독 콘서트〉 (멜론 티켓 ─ 구름아래소극장)]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=207436</link>
             <guid>https://ticket.melon.com/performance/index.htm?prodId=207436</guid>
@@ -286,14 +270,6 @@
             <pubDate>Fri, 18 Nov 2022 17:15:56 GMT</pubDate>
             <content:encoded><![CDATA[2022.12.31  ~<br> 2022.12.31]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/11/20221114133922b5c1dff3-7435-46d8-ba17-303bc18769c8.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[FRankly：Back to school (멜론 티켓 ─ CJ아지트 광흥창)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=207491</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=207491</guid>
-            <pubDate>Fri, 18 Nov 2022 17:16:19 GMT</pubDate>
-            <content:encoded><![CDATA[2022.11.19  ~<br> 2022.11.19]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/11/202211011824353f026eee-8dd6-48d2-a1fd-5111f59df367.png/melon/resize/90x125/strip/true" length="0" type="image/png/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[우지원 단독공연 〈Army of Me〉 (멜론 티켓 ─ CJ아지트 광흥창)]]></title>
