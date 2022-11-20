@@ -1,8 +1,75 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://ticket.melon.com/place/index.htm?placeId=12</id>
-    <title>멜론 티켓 ─ 벨로주</title>
-    <updated>2022-11-20T01:18:48.511Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://ticket.melon.com/place/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>멜론 티켓 ─ 벨로주</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sun, 20 Nov 2022 03:19:02 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[CIKI 단독 공연 ‘길었던 우리의 불행을 아무래도’]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207459</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207459</guid>
+            <pubDate>Sun, 20 Nov 2022 03:16:59 GMT</pubDate>
+            <content:encoded><![CDATA[2022.11.27  ~<br> 2022.11.27]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/10/20221021160917e7dcdeeb-5f90-4758-8b6e-376ac6f0f512.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[조준호 단독 콘서트 〈무대 위 5 seats〉]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207489</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207489</guid>
+            <pubDate>Sun, 20 Nov 2022 03:16:59 GMT</pubDate>
+            <content:encoded><![CDATA[2022.11.29  ~<br> 2022.11.29]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/11/20221101171324a17d49f2-50bd-4582-ac1a-808a6e1250b6.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[트랙제로 Alive－Vol．9  한국 재즈보컬 스페셜 2편]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207486</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207486</guid>
+            <pubDate>Sun, 20 Nov 2022 03:16:59 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.01  ~<br> 2022.12.01]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/11/20221104164306024afaef-1376-49a0-9d1b-2b73cb6ef05d.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[휘현 졸업공연 TOGETHER 음악은 함께 하는 것！]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207510</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207510</guid>
+            <pubDate>Sun, 20 Nov 2022 03:16:59 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.02  ~<br> 2022.12.02]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/11/202211041654119a49a644-0747-4b79-983a-698095654827.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[곽진언 소극장 콘서트－Op．5]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207532</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207532</guid>
+            <pubDate>Sun, 20 Nov 2022 03:16:59 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.03  ~<br> 2022.12.04]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/11/2022110914331304b9c5c4-9224-4910-93f4-70ecf1bc4926.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[먼데이프로젝트 시즌5 ORIGINAL［화노 단독 콘서트］]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207527</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207527</guid>
+            <pubDate>Sun, 20 Nov 2022 03:16:59 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.05  ~<br> 2022.12.05]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/11/202211081702190de0364f-9972-4377-ae30-4e758b6cea3b.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[먼데이프로젝트 시즌5 청춘의 밤［구만 단독 콘서트］]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207525</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207525</guid>
+            <pubDate>Sun, 20 Nov 2022 03:16:59 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.06  ~<br> 2022.12.06]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/11/20221108152623310b7a28-8bd6-4887-9656-5d4c3c42079b.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[옥상달빛 팬미팅 〈주주총회〉]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207547</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207547</guid>
+            <pubDate>Sun, 20 Nov 2022 03:16:59 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.17  ~<br> 2022.12.18]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/11/2022111613020119cf2680-f853-45ec-bb26-1d1431f9f811.png/melon/resize/90x125/strip/true" length="0" type="image/png/melon/resize/90x125/strip/true"/>
+        </item>
+    </channel>
+</rss>
