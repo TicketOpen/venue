@@ -4,17 +4,9 @@
         <title>멜론 티켓 ─ 구름아래소극장</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 20 Nov 2022 14:15:26 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Nov 2022 15:16:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[프레젠트프로젝트 〈SING SANG SONG：이민혁 단독 콘서트〉]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=207436</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=207436</guid>
-            <pubDate>Sun, 20 Nov 2022 07:13:52 GMT</pubDate>
-            <content:encoded><![CDATA[2022.11.20  ~<br> 2022.11.20]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/10/20221017191738d9cf75b8-fe60-499f-8207-91f5a917604b.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
         <item>
             <title><![CDATA[2022 OuiOui（위위）연말 공연 NEW OU！]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=207471</link>

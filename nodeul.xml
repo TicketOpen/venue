@@ -4,17 +4,9 @@
         <title>멜론 티켓 ─ 노들섬</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 20 Nov 2022 14:15:26 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Nov 2022 15:16:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[2022 Wave to Earth 단독공연［floral field 0．2］]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=207413</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=207413</guid>
-            <pubDate>Sun, 20 Nov 2022 07:15:00 GMT</pubDate>
-            <content:encoded><![CDATA[2022.11.19  ~<br> 2022.11.20]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/10/20221017161316a1318d4b-8ad8-4a01-a1aa-f061ba55cda9.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
         <item>
             <title><![CDATA[2022 신지훈 단독 콘서트 ‘Winter Neverland’]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=207443</link>
