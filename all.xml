@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Nov 2022 08:22:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Nov 2022 09:18:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -310,6 +310,14 @@
             <pubDate>Mon, 21 Nov 2022 06:22:33 GMT</pubDate>
             <content:encoded><![CDATA[2022.12.09  ~<br> 2022.12.10]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/10/2022101911071740b7b4ff-999b-4176-8944-beeb6e05d802.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 주은 FANMEETING 〈JU：mp〉 (멜론 티켓 ─ 공간 와디즈)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207589</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207589</guid>
+            <pubDate>Mon, 21 Nov 2022 09:18:02 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.17  ~<br> 2022.12.17]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/11/202211181805465fb71312-903c-4e46-a276-187d09245344.png/melon/resize/90x125/strip/true" length="0" type="image/png/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
