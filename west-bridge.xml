@@ -1,8 +1,51 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://ticket.melon.com/place/index.htm?placeId=293</id>
-    <title>멜론 티켓 ─ 웨스트브릿지</title>
-    <updated>2022-11-22T01:15:51.008Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://ticket.melon.com/place/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>멜론 티켓 ─ 웨스트브릿지</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Tue, 22 Nov 2022 03:11:46 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[폭발，붕괴，파괴，연소 뜨겁고 끈적하게 당신을 휘감는 독사들의 쇼케이스！]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207537</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207537</guid>
+            <pubDate>Tue, 22 Nov 2022 03:09:18 GMT</pubDate>
+            <content:encoded><![CDATA[2022.11.27  ~<br> 2022.11.27]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/11/20221110170651a0f9af96-d3fd-4fb1-b2c7-22404ccb517c.jpeg/melon/resize/90x125/strip/true" length="0" type="image/jpeg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[초승（CHOSNG）겨울 단독콘서트 ‘꿈의 테두리에서’]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207505</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207505</guid>
+            <pubDate>Tue, 22 Nov 2022 03:09:18 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.04  ~<br> 2022.12.04]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/11/20221103162800a25dacd4-5325-4563-acd9-264f290e7231.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[Questions From Our Night －한로로＆숨비]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207565</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207565</guid>
+            <pubDate>Tue, 22 Nov 2022 03:09:18 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.18  ~<br> 2022.12.18]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/11/20221117093404bfeb9ab1-c02d-42cf-87b0-ac9180da13d1.png/melon/resize/90x125/strip/true" length="0" type="image/png/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 이정권 크리스마스 콘서트 ‘메리정권스마스’]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207495</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207495</guid>
+            <pubDate>Tue, 22 Nov 2022 03:09:18 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.24  ~<br> 2022.12.24]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/11/2022110717223990d0afdf-d8ad-4fe5-9954-91007fdbb0d5.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[박시환 2022 연말콘서트 Fall in LOVE]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207530</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207530</guid>
+            <pubDate>Tue, 22 Nov 2022 03:09:18 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.31  ~<br> 2022.12.31]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/11/202211091324577ac1fd6b-45d7-422e-9428-191f7b2fd343.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+    </channel>
+</rss>
