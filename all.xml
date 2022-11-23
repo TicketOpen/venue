@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Nov 2022 01:09:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Nov 2022 03:03:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -62,6 +62,14 @@
             <pubDate>Tue, 22 Nov 2022 23:14:10 GMT</pubDate>
             <content:encoded><![CDATA[2022.12.23  ~<br> 2022.12.23]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/11/202211071009073329d865-0608-428c-961d-9f3752d67926.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[프롬 단독 콘서트 ‘봄밤에 다시 만나’ (멜론 티켓 ─ 롤링홀)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207602</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207602</guid>
+            <pubDate>Wed, 23 Nov 2022 03:00:45 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.31  ~<br> 2022.12.31]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/11/20221122173350db63b829-2b3f-4aeb-b1f9-afec1d2347f8.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[폭발，붕괴，파괴，연소 뜨겁고 끈적하게 당신을 휘감는 독사들의 쇼케이스！ (멜론 티켓 ─ 웨스트브릿지)]]></title>
@@ -206,6 +214,14 @@
             <pubDate>Tue, 22 Nov 2022 23:14:51 GMT</pubDate>
             <content:encoded><![CDATA[2022.12.04  ~<br> 2022.12.04]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/11/20221108102257442165e4-27c9-4b3f-beee-e26688a48e6f.JPEG/melon/resize/90x125/strip/true" length="0" type="image/JPEG/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 버둥 연말 단독공연［분신술］ (멜론 티켓 ─ 구름아래소극장)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207600</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207600</guid>
+            <pubDate>Wed, 23 Nov 2022 03:01:31 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.10  ~<br> 2022.12.10]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/11/20221122170120be7ec062-db88-48ef-8535-d2cf2aa5e834.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[PL（피엘）겨울콘서트 〈FRAME〉 (멜론 티켓 ─ 구름아래소극장)]]></title>
