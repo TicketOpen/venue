@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Nov 2022 02:54:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Nov 2022 03:26:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -264,6 +264,14 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/11/2022111116433648f75e17-ab02-47b3-aa3f-9b59f68cc70d.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
+            <title><![CDATA[PAIR PLAY：Vol．3 어바웃x김새녘 (멜론 티켓 ─ KT&G 상상마당 라이브홀)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207610</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207610</guid>
+            <pubDate>Thu, 24 Nov 2022 03:25:05 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.12  ~<br> 2022.12.12]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/11/2022112315512517653e40-e782-4bd2-8397-021f85192145.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
             <title><![CDATA[2022 김사월 연말 단독 공연 〈밖은 너무 추워 나는〉 (멜론 티켓 ─ KT&G 상상마당 라이브홀)]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=207549</link>
             <guid>https://ticket.melon.com/performance/index.htm?prodId=207549</guid>
@@ -318,6 +326,14 @@
             <pubDate>Wed, 23 Nov 2022 21:14:02 GMT</pubDate>
             <content:encoded><![CDATA[2022.12.11  ~<br> 2022.12.11]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/11/20221108160652a8418203-b026-4997-9270-cf56fce0a255.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[먼데이프로젝트 시즌5 ［온더달 단독 콘서트 ‘낭만실종’］ (멜론 티켓 ─ CJ아지트 광흥창)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207607</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207607</guid>
+            <pubDate>Thu, 24 Nov 2022 03:25:24 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.21  ~<br> 2022.12.21]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/11/20221123114243c52402d1-3363-4491-99e2-d46332b6e16a.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[2022 신지훈 단독 콘서트 ‘Winter Neverland’ (멜론 티켓 ─ 노들섬)]]></title>
