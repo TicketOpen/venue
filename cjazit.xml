@@ -4,7 +4,7 @@
         <title>멜론 티켓 ─ CJ아지트 광흥창</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Nov 2022 10:18:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Nov 2022 11:13:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,6 +46,14 @@
             <pubDate>Wed, 23 Nov 2022 21:14:02 GMT</pubDate>
             <content:encoded><![CDATA[2022.12.11  ~<br> 2022.12.11]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/11/20221108160652a8418203-b026-4997-9270-cf56fce0a255.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[HeMeets 연말 단독 콘서트 ‘OFFICE＆DOWNTOWN’]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207609</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207609</guid>
+            <pubDate>Thu, 24 Nov 2022 11:13:02 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.17  ~<br> 2022.12.17]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/11/2022112409552247d6e513-439b-4c11-8100-90ec12ad964a.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[먼데이프로젝트 시즌5 ［온더달 단독 콘서트 ‘낭만실종’］]]></title>
