@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Nov 2022 04:19:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Nov 2022 05:15:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -278,6 +278,14 @@
             <pubDate>Wed, 23 Nov 2022 21:13:41 GMT</pubDate>
             <content:encoded><![CDATA[2022.12.17  ~<br> 2022.12.18]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/11/20221114114152db099f86-a006-4626-af46-5bc648720d0d.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 정우의［Frame］ (멜론 티켓 ─ KT&G 상상마당 라이브홀)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207592</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207592</guid>
+            <pubDate>Thu, 24 Nov 2022 05:14:19 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.29  ~<br> 2022.12.29]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/11/202211211139255d01329c-3c96-4f47-88be-6b83594e2a99.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[모트 단독공연［HAPPY NEW EAR！］ (멜론 티켓 ─ KT&G 상상마당 라이브홀)]]></title>
