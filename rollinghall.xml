@@ -1,67 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>멜론 티켓 ─ 롤링홀</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Sun, 27 Nov 2022 17:14:27 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[전자양 단독 콘서트 ‘우리는 언제나 엄청나게 멋진 공연．．．’]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=207466</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=207466</guid>
-            <pubDate>Sat, 26 Nov 2022 08:16:53 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.03  ~<br> 2022.12.03]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/10/20221025180813ec2f5ce9-d287-4aa1-ab0e-4dd97cfa000b.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[신인류 단독 콘서트 ‘두 발이 땅에 닿질 않겠죠’]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=207487</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=207487</guid>
-            <pubDate>Sat, 26 Nov 2022 08:16:53 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.09  ~<br> 2022.12.09]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/11/20221101144721199531b0-67f1-4c08-a0ee-1fafff7e5e0e.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[용용 단독 콘서트 ‘12：34’]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=207511</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=207511</guid>
-            <pubDate>Sat, 26 Nov 2022 08:16:53 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.11  ~<br> 2022.12.11]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/11/202211071040053967a84e-9df3-4133-acd3-6b9ae21ca74f.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[SAAY 단독 콘서트：mise－en－scène]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=207476</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=207476</guid>
-            <pubDate>Sat, 26 Nov 2022 08:16:53 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.15  ~<br> 2022.12.15]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/10/202210271719249f4bcd53-76af-424d-afa4-9b64958f3aa6.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[밴드 uni（유니）첫 단독콘서트 Dive into The World！]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=207567</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=207567</guid>
-            <pubDate>Sat, 26 Nov 2022 08:16:53 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.18  ~<br> 2022.12.18]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/11/20221115190947f43e3415-b375-4ddb-8576-bcd4fef7fc28.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[김유나 연말 단독 콘서트：‘You＆Me’]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=207506</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=207506</guid>
-            <pubDate>Sat, 26 Nov 2022 08:16:53 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.23  ~<br> 2022.12.23]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/11/202211071009073329d865-0608-428c-961d-9f3752d67926.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[프롬 단독 콘서트 ‘봄밤에 다시 만나’]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=207602</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=207602</guid>
-            <pubDate>Sat, 26 Nov 2022 08:16:53 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.31  ~<br> 2022.12.31]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/11/20221122173350db63b829-2b3f-4aeb-b1f9-afec1d2347f8.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://ticket.melon.com/place/index.htm?placeId=43</id>
+    <title>멜론 티켓 ─ 롤링홀</title>
+    <updated>2022-11-27T18:16:54.116Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://ticket.melon.com/place/favicon.ico</icon>
+</feed>

@@ -1,43 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>멜론 티켓 ─ 구름아래소극장</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Sun, 27 Nov 2022 17:14:27 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[2022 OuiOui（위위）연말 공연 NEW OU！]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=207471</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=207471</guid>
-            <pubDate>Sat, 26 Nov 2022 08:17:43 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.02  ~<br> 2022.12.02]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/11/20221115135040a5b08e5b-b6ea-4aa6-a2b1-b00f4cfe5cca.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[프롬 정규 3집 〈Mood，sunday〉 발매기념 쇼케이스 콘서트]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=207522</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=207522</guid>
-            <pubDate>Sat, 26 Nov 2022 08:17:43 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.04  ~<br> 2022.12.04]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/11/20221108102257442165e4-27c9-4b3f-beee-e26688a48e6f.JPEG/melon/resize/90x125/strip/true" length="0" type="image/JPEG/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 버둥 연말 단독공연［분신술］]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=207600</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=207600</guid>
-            <pubDate>Sat, 26 Nov 2022 08:17:43 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.10  ~<br> 2022.12.10]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/11/20221122170120be7ec062-db88-48ef-8535-d2cf2aa5e834.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[PL（피엘）겨울콘서트 〈FRAME〉]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=207558</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=207558</guid>
-            <pubDate>Sat, 26 Nov 2022 08:17:43 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.18  ~<br> 2022.12.18]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/11/20221117095751c2a74908-518c-4d6b-8e0e-86c1afb3d645.png/melon/resize/90x125/strip/true" length="0" type="image/png/melon/resize/90x125/strip/true"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://ticket.melon.com/place/index.htm?placeId=724</id>
+    <title>멜론 티켓 ─ 구름아래소극장</title>
+    <updated>2022-11-27T18:16:54.117Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://ticket.melon.com/place/favicon.ico</icon>
+</feed>
