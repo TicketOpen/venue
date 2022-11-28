@@ -1,51 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>멜론 티켓 ─ CJ아지트 광흥창</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Mon, 28 Nov 2022 11:14:23 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[TUNE UP STAGE：ROCK MY WORLD  튠업 스테이지：락 마이 월드]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=207556</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=207556</guid>
-            <pubDate>Mon, 28 Nov 2022 09:16:10 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.02  ~<br> 2022.12.02]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/11/202211141807324b3207a8-2cc6-4773-80ad-30953a7de0ad.png/melon/resize/90x125/strip/true" length="0" type="image/png/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 엔분의일：Outro]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=207526</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=207526</guid>
-            <pubDate>Mon, 28 Nov 2022 09:16:10 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.11  ~<br> 2022.12.11]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/11/20221108160652a8418203-b026-4997-9270-cf56fce0a255.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[HeMeets 연말 단독 콘서트 ‘OFFICE＆DOWNTOWN’]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=207609</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=207609</guid>
-            <pubDate>Mon, 28 Nov 2022 09:16:10 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.17  ~<br> 2022.12.17]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/11/2022112409552247d6e513-439b-4c11-8100-90ec12ad964a.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 잭킹콩 단독공연［JKC Exhibition：Four Seasons］]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=207617</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=207617</guid>
-            <pubDate>Mon, 28 Nov 2022 09:16:10 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.18  ~<br> 2022.12.18]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/11/2022112415415138f73d26-9879-475d-91db-fe63df5bb0c3.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[먼데이프로젝트 시즌5 ［온더달 단독 콘서트 ‘낭만실종’］]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=207607</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=207607</guid>
-            <pubDate>Mon, 28 Nov 2022 09:16:10 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.21  ~<br> 2022.12.21]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/11/20221123114243c52402d1-3363-4491-99e2-d46332b6e16a.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://ticket.melon.com/place/index.htm?placeId=329</id>
+    <title>멜론 티켓 ─ CJ아지트 광흥창</title>
+    <updated>2022-11-28T12:27:29.883Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://ticket.melon.com/place/favicon.ico</icon>
+</feed>
