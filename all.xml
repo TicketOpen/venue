@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Nov 2022 04:19:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Nov 2022 05:15:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -341,7 +341,7 @@
             <guid>https://ticket.melon.com/performance/index.htm?prodId=207617</guid>
             <pubDate>Mon, 28 Nov 2022 13:26:40 GMT</pubDate>
             <content:encoded><![CDATA[2022.12.18  ~<br> 2022.12.18]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/11/2022112415415138f73d26-9879-475d-91db-fe63df5bb0c3.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/11/20221129140326f880ebf6-f2fc-4687-a8a8-d15c0bde85ab.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[먼데이프로젝트 시즌5 ［온더달 단독 콘서트 ‘낭만실종’］ (멜론 티켓 ─ CJ아지트 광흥창)]]></title>
