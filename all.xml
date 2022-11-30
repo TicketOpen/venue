@@ -1,7 +1,379 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://TicketOpen.github.io/venue/all.xml</id>
-    <title>Combined feed</title>
-    <updated>2022-11-30T20:15:42.269Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Combined feed</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 30 Nov 2022 21:15:47 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[전자양 단독 콘서트 ‘우리는 언제나 엄청나게 멋진 공연．．．’ (멜론 티켓 ─ 롤링홀)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207466</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207466</guid>
+            <pubDate>Wed, 30 Nov 2022 21:12:56 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.03  ~<br> 2022.12.03]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/10/20221025180813ec2f5ce9-d287-4aa1-ab0e-4dd97cfa000b.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[신인류 단독 콘서트 ‘두 발이 땅에 닿질 않겠죠’ (멜론 티켓 ─ 롤링홀)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207487</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207487</guid>
+            <pubDate>Wed, 30 Nov 2022 21:12:56 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.09  ~<br> 2022.12.09]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/11/20221101144721199531b0-67f1-4c08-a0ee-1fafff7e5e0e.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[용용 단독 콘서트 ‘12：34’ (멜론 티켓 ─ 롤링홀)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207511</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207511</guid>
+            <pubDate>Wed, 30 Nov 2022 21:12:56 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.11  ~<br> 2022.12.11]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/11/202211071040053967a84e-9df3-4133-acd3-6b9ae21ca74f.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[SAAY 단독 콘서트：mise－en－scène (멜론 티켓 ─ 롤링홀)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207476</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207476</guid>
+            <pubDate>Wed, 30 Nov 2022 21:12:56 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.15  ~<br> 2022.12.15]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/10/202210271719249f4bcd53-76af-424d-afa4-9b64958f3aa6.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[밴드 uni（유니）첫 단독콘서트 Dive into The World！ (멜론 티켓 ─ 롤링홀)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207567</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207567</guid>
+            <pubDate>Wed, 30 Nov 2022 21:12:56 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.18  ~<br> 2022.12.18]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/11/20221115190947f43e3415-b375-4ddb-8576-bcd4fef7fc28.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[김유나 연말 단독 콘서트：‘You＆Me’ (멜론 티켓 ─ 롤링홀)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207506</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207506</guid>
+            <pubDate>Wed, 30 Nov 2022 21:12:56 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.23  ~<br> 2022.12.23]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/11/202211071009073329d865-0608-428c-961d-9f3752d67926.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[ONEWE ‘ONE day in the WEnter（겨울의 어느 날）’ (멜론 티켓 ─ 롤링홀)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207620</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207620</guid>
+            <pubDate>Wed, 30 Nov 2022 21:12:56 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.24  ~<br> 2022.12.25]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/11/20221125112117d55e50d3-0dc3-4f9e-adb0-738e6b710f4d.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[프롬 단독 콘서트 ‘봄밤에 다시 만나’ (멜론 티켓 ─ 롤링홀)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207602</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207602</guid>
+            <pubDate>Wed, 30 Nov 2022 21:12:56 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.31  ~<br> 2022.12.31]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/11/20221122173350db63b829-2b3f-4aeb-b1f9-afec1d2347f8.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[초승（CHOSNG）겨울 단독콘서트 ‘꿈의 테두리에서’ (멜론 티켓 ─ 웨스트브릿지)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207505</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207505</guid>
+            <pubDate>Wed, 30 Nov 2022 21:13:09 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.04  ~<br> 2022.12.04]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/11/20221103162800a25dacd4-5325-4563-acd9-264f290e7231.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[O．O．O 2022 단독 공연〈Out Of〉 (멜론 티켓 ─ 웨스트브릿지)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207613</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207613</guid>
+            <pubDate>Wed, 30 Nov 2022 21:13:09 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.16  ~<br> 2022.12.16]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/11/20221123173504a5f4f3dc-23e4-4139-b8ac-6933511741ab.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[Questions From Our Night －한로로＆숨비 (멜론 티켓 ─ 웨스트브릿지)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207565</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207565</guid>
+            <pubDate>Wed, 30 Nov 2022 21:13:09 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.18  ~<br> 2022.12.18]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/11/20221117093404bfeb9ab1-c02d-42cf-87b0-ac9180da13d1.png/melon/resize/90x125/strip/true" length="0" type="image/png/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 이정권 크리스마스 콘서트 ‘메리정권스마스’ (멜론 티켓 ─ 웨스트브릿지)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207495</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207495</guid>
+            <pubDate>Wed, 30 Nov 2022 21:13:09 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.24  ~<br> 2022.12.24]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/11/2022110717223990d0afdf-d8ad-4fe5-9954-91007fdbb0d5.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[박시환 2022 연말콘서트 Fall in LOVE (멜론 티켓 ─ 웨스트브릿지)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207530</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207530</guid>
+            <pubDate>Wed, 30 Nov 2022 21:13:09 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.31  ~<br> 2022.12.31]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/11/202211091324577ac1fd6b-45d7-422e-9428-191f7b2fd343.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[튜즈데이비치클럽 쇼케이스 (멜론 티켓 ─ 프리즘홀)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207586</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207586</guid>
+            <pubDate>Wed, 30 Nov 2022 21:13:23 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.02  ~<br> 2022.12.02]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/11/2022111813572990e0c433-4424-4217-8490-9e845543704a.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[러블레스 〈낙과〉 발매 기념 단독 공연 (멜론 티켓 ─ 프리즘홀)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207562</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207562</guid>
+            <pubDate>Wed, 30 Nov 2022 21:13:23 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.10  ~<br> 2022.12.10]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/11/202211151519064ef64e84-e750-4825-b24e-81c6cd9f509a.png/melon/resize/90x125/strip/true" length="0" type="image/png/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[Christmas week：인디셈버 페스티벌 (멜론 티켓 ─ 프리즘홀)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207619</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207619</guid>
+            <pubDate>Wed, 30 Nov 2022 21:13:23 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.21  ~<br> 2022.12.21]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/11/20221124170612f27413e6-2f7b-4aa8-95cb-2483f201d2e1.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[트랙제로 Alive－Vol．9  한국 재즈보컬 스페셜 2편 (멜론 티켓 ─ 벨로주)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207486</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207486</guid>
+            <pubDate>Wed, 30 Nov 2022 21:13:36 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.01  ~<br> 2022.12.01]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/11/20221104164306024afaef-1376-49a0-9d1b-2b73cb6ef05d.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[휘현 졸업공연 TOGETHER 음악은 함께 하는 것！ (멜론 티켓 ─ 벨로주)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207510</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207510</guid>
+            <pubDate>Wed, 30 Nov 2022 21:13:36 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.02  ~<br> 2022.12.02]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/11/202211041654119a49a644-0747-4b79-983a-698095654827.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[곽진언 소극장 콘서트－Op．5 (멜론 티켓 ─ 벨로주)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207532</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207532</guid>
+            <pubDate>Wed, 30 Nov 2022 21:13:36 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.03  ~<br> 2022.12.04]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/11/2022110914331304b9c5c4-9224-4910-93f4-70ecf1bc4926.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[먼데이프로젝트 시즌5 ORIGINAL［화노 단독 콘서트］ (멜론 티켓 ─ 벨로주)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207527</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207527</guid>
+            <pubDate>Wed, 30 Nov 2022 21:13:36 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.05  ~<br> 2022.12.05]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/11/202211081702190de0364f-9972-4377-ae30-4e758b6cea3b.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[먼데이프로젝트 시즌5 청춘의 밤［구만 단독 콘서트］ (멜론 티켓 ─ 벨로주)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207525</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207525</guid>
+            <pubDate>Wed, 30 Nov 2022 21:13:36 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.06  ~<br> 2022.12.06]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/11/20221108152623310b7a28-8bd6-4887-9656-5d4c3c42079b.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[Year－end new－song (멜론 티켓 ─ 벨로주)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207590</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207590</guid>
+            <pubDate>Wed, 30 Nov 2022 21:13:36 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.09  ~<br> 2022.12.09]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/11/202211181657581b420c8c-5dcc-4642-80b6-b95b5805ec86.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[옥상달빛 팬미팅 〈주주총회〉 (멜론 티켓 ─ 벨로주)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207547</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207547</guid>
+            <pubDate>Wed, 30 Nov 2022 21:13:36 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.16  ~<br> 2022.12.18]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/11/2022112813463995fd8b4a-9095-466a-84ce-d208861fb5a6.png/melon/resize/90x125/strip/true" length="0" type="image/png/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[밴드 웨더보트 첫 번째 단독 콘서트－An Extraordinary Day (멜론 티켓 ─ 벨로주)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207611</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207611</guid>
+            <pubDate>Wed, 30 Nov 2022 21:13:36 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.22  ~<br> 2022.12.22]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/11/20221123165108c9247f8e-a775-43fb-9c19-8aa4e492b6b9.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 OuiOui（위위）연말 공연 NEW OU！ (멜론 티켓 ─ 구름아래소극장)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207471</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207471</guid>
+            <pubDate>Wed, 30 Nov 2022 21:13:49 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.02  ~<br> 2022.12.02]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/11/20221115135040a5b08e5b-b6ea-4aa6-a2b1-b00f4cfe5cca.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[프롬 정규 3집 〈Mood，sunday〉 발매기념 쇼케이스 콘서트 (멜론 티켓 ─ 구름아래소극장)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207522</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207522</guid>
+            <pubDate>Wed, 30 Nov 2022 21:13:49 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.04  ~<br> 2022.12.04]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/11/20221108102257442165e4-27c9-4b3f-beee-e26688a48e6f.JPEG/melon/resize/90x125/strip/true" length="0" type="image/JPEG/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 버둥 연말 단독공연［분신술］ (멜론 티켓 ─ 구름아래소극장)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207600</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207600</guid>
+            <pubDate>Wed, 30 Nov 2022 21:13:49 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.10  ~<br> 2022.12.10]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/11/20221122170120be7ec062-db88-48ef-8535-d2cf2aa5e834.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[PL（피엘）겨울콘서트 〈FRAME〉 (멜론 티켓 ─ 구름아래소극장)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207558</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207558</guid>
+            <pubDate>Wed, 30 Nov 2022 21:13:49 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.18  ~<br> 2022.12.18]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/11/20221117095751c2a74908-518c-4d6b-8e0e-86c1afb3d645.png/melon/resize/90x125/strip/true" length="0" type="image/png/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[로칼하이프리즘스테이지 기부콘서트 ‘나눔’ (멜론 티켓 ─ 구름아래소극장)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207639</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207639</guid>
+            <pubDate>Wed, 30 Nov 2022 21:13:49 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.23  ~<br> 2022.12.23]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/11/20221129134747801e1497-e0bb-42ae-8e30-093786a8a0f7.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[weplay Ep．2：태인 (멜론 티켓 ─ 구름아래소극장)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207626</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207626</guid>
+            <pubDate>Wed, 30 Nov 2022 21:13:49 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.31  ~<br> 2022.12.31]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/11/202211281412250b2fe9cd-e7fc-4892-a202-a35a7c2aa0ee.png/melon/resize/90x125/strip/true" length="0" type="image/png/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[기수 NUMBER PROJECT 콘서트 (멜론 티켓 ─ KT&G 상상마당 라이브홀)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207398</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207398</guid>
+            <pubDate>Wed, 30 Nov 2022 21:14:01 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.04  ~<br> 2022.12.04]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/10/20221006171520f598eb01-d94b-4c50-aea2-4e25b54aeecc.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[The Poles 단독공연 ‘The High Tide Club FOREVER！’ (멜론 티켓 ─ KT&G 상상마당 라이브홀)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207498</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207498</guid>
+            <pubDate>Wed, 30 Nov 2022 21:14:01 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.09  ~<br> 2022.12.09]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/11/20221121182038d18fbe09-ef9f-4415-9a8c-ea8e36fc081a.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 이랑 연말 단독 공연 〈PRIDE〉－지정좌석 (멜론 티켓 ─ KT&G 상상마당 라이브홀)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207542</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207542</guid>
+            <pubDate>Wed, 30 Nov 2022 21:14:01 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.10  ~<br> 2022.12.10]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/11/20221111164154bfbdb5b6-e8ab-4c9e-8927-5977f0e46478.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 이랑 연말 단독 공연 〈PRIDE〉－스탠딩 (멜론 티켓 ─ KT&G 상상마당 라이브홀)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207543</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207543</guid>
+            <pubDate>Wed, 30 Nov 2022 21:14:01 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.11  ~<br> 2022.12.11]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/11/2022111116433648f75e17-ab02-47b3-aa3f-9b59f68cc70d.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[PAIR PLAY：Vol．3 어바웃x김새녘 (멜론 티켓 ─ KT&G 상상마당 라이브홀)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207610</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207610</guid>
+            <pubDate>Wed, 30 Nov 2022 21:14:01 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.12  ~<br> 2022.12.12]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/11/2022112315512517653e40-e782-4bd2-8397-021f85192145.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 김사월 연말 단독 공연 〈밖은 너무 추워 나는〉 (멜론 티켓 ─ KT&G 상상마당 라이브홀)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207549</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207549</guid>
+            <pubDate>Wed, 30 Nov 2022 21:14:01 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.17  ~<br> 2022.12.18]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/11/20221114114152db099f86-a006-4626-af46-5bc648720d0d.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 정우의［Frame］ (멜론 티켓 ─ KT&G 상상마당 라이브홀)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207592</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207592</guid>
+            <pubDate>Wed, 30 Nov 2022 21:14:01 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.29  ~<br> 2022.12.29]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/11/202211211139255d01329c-3c96-4f47-88be-6b83594e2a99.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[모트 단독공연［HAPPY NEW EAR！］ (멜론 티켓 ─ KT&G 상상마당 라이브홀)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207539</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207539</guid>
+            <pubDate>Wed, 30 Nov 2022 21:14:01 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.31  ~<br> 2022.12.31]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/11/20221114133922b5c1dff3-7435-46d8-ba17-303bc18769c8.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[TUNE UP STAGE：ROCK MY WORLD  튠업 스테이지：락 마이 월드 (멜론 티켓 ─ CJ아지트 광흥창)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207556</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207556</guid>
+            <pubDate>Wed, 30 Nov 2022 21:14:26 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.02  ~<br> 2022.12.02]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/11/202211141807324b3207a8-2cc6-4773-80ad-30953a7de0ad.png/melon/resize/90x125/strip/true" length="0" type="image/png/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 엔분의일：Outro (멜론 티켓 ─ CJ아지트 광흥창)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207526</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207526</guid>
+            <pubDate>Wed, 30 Nov 2022 21:14:26 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.11  ~<br> 2022.12.11]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/11/20221108160652a8418203-b026-4997-9270-cf56fce0a255.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[HeMeets 연말 단독 콘서트 ‘OFFICE＆DOWNTOWN’ (멜론 티켓 ─ CJ아지트 광흥창)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207609</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207609</guid>
+            <pubDate>Wed, 30 Nov 2022 21:14:26 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.17  ~<br> 2022.12.17]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/11/2022112409552247d6e513-439b-4c11-8100-90ec12ad964a.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 잭킹콩 단독공연［JKC Exhibition：Four Seasons］ (멜론 티켓 ─ CJ아지트 광흥창)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207617</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207617</guid>
+            <pubDate>Wed, 30 Nov 2022 21:14:26 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.18  ~<br> 2022.12.18]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/11/20221129140326f880ebf6-f2fc-4687-a8a8-d15c0bde85ab.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[먼데이프로젝트 시즌5 ［온더달 단독 콘서트 ‘낭만실종’］ (멜론 티켓 ─ CJ아지트 광흥창)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207607</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207607</guid>
+            <pubDate>Wed, 30 Nov 2022 21:14:26 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.21  ~<br> 2022.12.21]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/11/20221123114243c52402d1-3363-4491-99e2-d46332b6e16a.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 신지훈 단독 콘서트 ‘Winter Neverland’ (멜론 티켓 ─ 노들섬)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207443</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207443</guid>
+            <pubDate>Wed, 30 Nov 2022 21:15:02 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.09  ~<br> 2022.12.10]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/10/2022101911071740b7b4ff-999b-4176-8944-beeb6e05d802.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[안예은단독콘서트 제6회（안밀린）오타쿠리스마스 (멜론 티켓 ─ 노들섬)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207622</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207622</guid>
+            <pubDate>Wed, 30 Nov 2022 21:15:02 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.25  ~<br> 2022.12.25]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/11/20221125134859a39725a6-b923-4c93-91d6-cfbe5e37d0c5.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 주은 FANMEETING 〈JU：mp〉 (멜론 티켓 ─ 공간 와디즈)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207589</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207589</guid>
+            <pubDate>Wed, 30 Nov 2022 21:15:15 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.17  ~<br> 2022.12.17]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/11/202211181805465fb71312-903c-4e46-a276-187d09245344.png/melon/resize/90x125/strip/true" length="0" type="image/png/melon/resize/90x125/strip/true"/>
+        </item>
+    </channel>
+</rss>
