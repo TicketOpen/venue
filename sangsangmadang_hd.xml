@@ -4,7 +4,7 @@
         <title>멜론 티켓 ─ KT&amp;G 상상마당 라이브홀</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Dec 2022 01:17:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Dec 2022 03:10:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -54,6 +54,14 @@
             <pubDate>Thu, 01 Dec 2022 01:16:09 GMT</pubDate>
             <content:encoded><![CDATA[2022.12.17  ~<br> 2022.12.18]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/11/20221114114152db099f86-a006-4626-af46-5bc648720d0d.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[먼데이프로젝트 시즌5［김정훈 앨범발매 단독 콘서트 ‘Disapper’］]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207645</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207645</guid>
+            <pubDate>Thu, 01 Dec 2022 03:08:43 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.28  ~<br> 2022.12.28]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/11/20221130143616b73a394f-ad64-4429-8a39-fa9a805cd178.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[2022 정우의［Frame］]]></title>
