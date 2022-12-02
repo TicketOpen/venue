@@ -1,27 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>멜론 티켓 ─ 공간 와디즈</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Fri, 02 Dec 2022 18:18:52 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[2022 주은 FANMEETING 〈JU：mp〉]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=207589</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=207589</guid>
-            <pubDate>Fri, 02 Dec 2022 12:26:35 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.17  ~<br> 2022.12.17]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/11/202211181805465fb71312-903c-4e46-a276-187d09245344.png/melon/resize/90x125/strip/true" length="0" type="image/png/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 장재인 BOOK CONCERT 〈Jane Air〉]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=207629</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=207629</guid>
-            <pubDate>Fri, 02 Dec 2022 12:26:35 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.18  ~<br> 2022.12.18]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/11/20221128115933403c8db6-a522-4e0e-9b8a-26a6b762b8ae.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://ticket.melon.com/place/index.htm?placeId=1083</id>
+    <title>멜론 티켓 ─ 공간 와디즈</title>
+    <updated>2022-12-02T19:11:34.736Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://ticket.melon.com/place/favicon.ico</icon>
+</feed>
