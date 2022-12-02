@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Dec 2022 14:14:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Dec 2022 15:14:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -120,14 +120,6 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/11/20221130135013e93e72ce-ef94-4930-bc68-bacb47fc4f23.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
-            <title><![CDATA[튜즈데이비치클럽 쇼케이스 (멜론 티켓 ─ 프리즘홀)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=207586</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=207586</guid>
-            <pubDate>Fri, 02 Dec 2022 12:24:48 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.02  ~<br> 2022.12.02]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/11/2022111813572990e0c433-4424-4217-8490-9e845543704a.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
             <title><![CDATA[러블레스 〈낙과〉 발매 기념 단독 공연 (멜론 티켓 ─ 프리즘홀)]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=207562</link>
             <guid>https://ticket.melon.com/performance/index.htm?prodId=207562</guid>
@@ -142,14 +134,6 @@
             <pubDate>Fri, 02 Dec 2022 12:24:48 GMT</pubDate>
             <content:encoded><![CDATA[2022.12.21  ~<br> 2022.12.21]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/11/20221124170612f27413e6-2f7b-4aa8-95cb-2483f201d2e1.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[휘현 졸업공연 TOGETHER 음악은 함께 하는 것！ (멜론 티켓 ─ 벨로주)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=207510</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=207510</guid>
-            <pubDate>Fri, 02 Dec 2022 12:25:01 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.02  ~<br> 2022.12.02]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/11/202211041654119a49a644-0747-4b79-983a-698095654827.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[곽진언 소극장 콘서트－Op．5 (멜론 티켓 ─ 벨로주)]]></title>
@@ -198,14 +182,6 @@
             <pubDate>Fri, 02 Dec 2022 12:25:01 GMT</pubDate>
             <content:encoded><![CDATA[2022.12.22  ~<br> 2022.12.22]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/11/20221123165108c9247f8e-a775-43fb-9c19-8aa4e492b6b9.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 OuiOui（위위）연말 공연 NEW OU！ (멜론 티켓 ─ 구름아래소극장)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=207471</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=207471</guid>
-            <pubDate>Fri, 02 Dec 2022 12:25:12 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.02  ~<br> 2022.12.02]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/11/20221115135040a5b08e5b-b6ea-4aa6-a2b1-b00f4cfe5cca.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[프롬 정규 3집 〈Mood，sunday〉 발매기념 쇼케이스 콘서트 (멜론 티켓 ─ 구름아래소극장)]]></title>
@@ -326,14 +302,6 @@
             <pubDate>Fri, 02 Dec 2022 12:25:25 GMT</pubDate>
             <content:encoded><![CDATA[2022.12.31  ~<br> 2022.12.31]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/11/20221114133922b5c1dff3-7435-46d8-ba17-303bc18769c8.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[TUNE UP STAGE：ROCK MY WORLD  튠업 스테이지：락 마이 월드 (멜론 티켓 ─ CJ아지트 광흥창)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=207556</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=207556</guid>
-            <pubDate>Fri, 02 Dec 2022 12:25:50 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.02  ~<br> 2022.12.02]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/11/202211141807324b3207a8-2cc6-4773-80ad-30953a7de0ad.png/melon/resize/90x125/strip/true" length="0" type="image/png/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[2022 엔분의일：Outro (멜론 티켓 ─ CJ아지트 광흥창)]]></title>

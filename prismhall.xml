@@ -4,17 +4,9 @@
         <title>멜론 티켓 ─ 프리즘홀</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Dec 2022 14:14:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Dec 2022 15:14:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[튜즈데이비치클럽 쇼케이스]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=207586</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=207586</guid>
-            <pubDate>Fri, 02 Dec 2022 12:24:48 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.02  ~<br> 2022.12.02]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/11/2022111813572990e0c433-4424-4217-8490-9e845543704a.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
         <item>
             <title><![CDATA[러블레스 〈낙과〉 발매 기념 단독 공연]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=207562</link>
