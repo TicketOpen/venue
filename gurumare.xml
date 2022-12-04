@@ -4,17 +4,9 @@
         <title>멜론 티켓 ─ 구름아래소극장</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 04 Dec 2022 14:14:57 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Dec 2022 15:14:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[프롬 정규 3집 〈Mood，sunday〉 발매기념 쇼케이스 콘서트]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=207522</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=207522</guid>
-            <pubDate>Sun, 04 Dec 2022 13:18:43 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.04  ~<br> 2022.12.04]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/11/20221108102257442165e4-27c9-4b3f-beee-e26688a48e6f.JPEG/melon/resize/90x125/strip/true" length="0" type="image/JPEG/melon/resize/90x125/strip/true"/>
-        </item>
         <item>
             <title><![CDATA[2022 버둥 연말 단독공연［분신술］]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=207600</link>

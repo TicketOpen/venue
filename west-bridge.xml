@@ -4,17 +4,9 @@
         <title>멜론 티켓 ─ 웨스트브릿지</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 04 Dec 2022 14:14:57 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Dec 2022 15:14:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[초승（CHOSNG）겨울 단독콘서트 ‘꿈의 테두리에서’]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=207505</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=207505</guid>
-            <pubDate>Sun, 04 Dec 2022 13:18:13 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.04  ~<br> 2022.12.04]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/11/20221103162800a25dacd4-5325-4563-acd9-264f290e7231.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
         <item>
             <title><![CDATA[O．O．O 2022 단독 공연〈Out Of〉]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=207613</link>
