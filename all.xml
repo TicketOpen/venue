@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Dec 2022 07:15:30 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Dec 2022 08:19:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,7 +248,7 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/11/20221114114152db099f86-a006-4626-af46-5bc648720d0d.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
-            <title><![CDATA[먼데이프로젝트 시즌5［김정훈 앨범발매 단독 콘서트 ‘Disapper’］ (멜론 티켓 ─ KT&G 상상마당 라이브홀)]]></title>
+            <title><![CDATA[먼데이프로젝트 시즌5［김정훈 앨범발매 단독 콘서트 ‘Disappear’］ (멜론 티켓 ─ KT&G 상상마당 라이브홀)]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=207645</link>
             <guid>https://ticket.melon.com/performance/index.htm?prodId=207645</guid>
             <pubDate>Mon, 05 Dec 2022 07:14:06 GMT</pubDate>
