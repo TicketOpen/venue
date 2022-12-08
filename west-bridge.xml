@@ -1,51 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>멜론 티켓 ─ 웨스트브릿지</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Thu, 08 Dec 2022 01:05:00 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[O．O．O 2022 단독 공연〈Out Of〉]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=207613</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=207613</guid>
-            <pubDate>Wed, 07 Dec 2022 15:14:00 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.16  ~<br> 2022.12.16]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/11/20221123173504a5f4f3dc-23e4-4139-b8ac-6933511741ab.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[Questions From Our Night －한로로＆숨비]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=207565</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=207565</guid>
-            <pubDate>Wed, 07 Dec 2022 15:14:00 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.18  ~<br> 2022.12.18]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/11/20221117093404bfeb9ab1-c02d-42cf-87b0-ac9180da13d1.png/melon/resize/90x125/strip/true" length="0" type="image/png/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 이정권 크리스마스 콘서트 ‘메리정권스마스’]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=207495</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=207495</guid>
-            <pubDate>Wed, 07 Dec 2022 15:14:00 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.24  ~<br> 2022.12.24]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/11/2022110717223990d0afdf-d8ad-4fe5-9954-91007fdbb0d5.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[박시환 2022 연말콘서트 Fall in LOVE]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=207530</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=207530</guid>
-            <pubDate>Wed, 07 Dec 2022 15:14:00 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.31  ~<br> 2022.12.31]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/11/202211091324577ac1fd6b-45d7-422e-9428-191f7b2fd343.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[BADLAMB 단독 콘서트－UNIVERSAL ANXIETY]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=207644</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=207644</guid>
-            <pubDate>Wed, 07 Dec 2022 15:14:00 GMT</pubDate>
-            <content:encoded><![CDATA[2023.01.07  ~<br> 2023.01.07]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/11/20221130135013e93e72ce-ef94-4930-bc68-bacb47fc4f23.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://ticket.melon.com/place/index.htm?placeId=293</id>
+    <title>멜론 티켓 ─ 웨스트브릿지</title>
+    <updated>2022-12-08T02:43:21.197Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://ticket.melon.com/place/favicon.ico</icon>
+</feed>
