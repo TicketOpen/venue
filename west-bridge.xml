@@ -4,7 +4,7 @@
         <title>멜론 티켓 ─ 웨스트브릿지</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 09 Dec 2022 01:06:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Dec 2022 02:45:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -40,7 +40,7 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/11/202211091324577ac1fd6b-45d7-422e-9428-191f7b2fd343.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
-            <title><![CDATA[BADLAMB 단독 콘서트－UNIVERSAL ANXIETY]]></title>
+            <title><![CDATA[BADLAMB（배드램）단독 콘서트－UNIVERSAL ANXIETY]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=207644</link>
             <guid>https://ticket.melon.com/performance/index.htm?prodId=207644</guid>
             <pubDate>Thu, 08 Dec 2022 21:13:16 GMT</pubDate>
