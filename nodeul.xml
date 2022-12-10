@@ -4,17 +4,9 @@
         <title>멜론 티켓 ─ 노들섬</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 10 Dec 2022 14:14:46 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 10 Dec 2022 15:15:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[2022 신지훈 단독 콘서트 ‘Winter Neverland’]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=207443</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=207443</guid>
-            <pubDate>Sat, 10 Dec 2022 06:19:38 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.09  ~<br> 2022.12.10]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/10/2022101911071740b7b4ff-999b-4176-8944-beeb6e05d802.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
         <item>
             <title><![CDATA[안예은단독콘서트 제6회（안밀린）오타쿠리스마스]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=207622</link>

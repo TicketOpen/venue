@@ -4,17 +4,9 @@
         <title>멜론 티켓 ─ 구름아래소극장</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 10 Dec 2022 14:14:46 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 10 Dec 2022 15:15:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[2022 버둥 연말 단독공연［분신술］]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=207600</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=207600</guid>
-            <pubDate>Sat, 10 Dec 2022 06:18:32 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.10  ~<br> 2022.12.10]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/11/20221122170120be7ec062-db88-48ef-8535-d2cf2aa5e834.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
         <item>
             <title><![CDATA[PL（피엘）겨울콘서트 〈FRAME〉]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=207558</link>

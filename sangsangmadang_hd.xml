@@ -4,17 +4,9 @@
         <title>멜론 티켓 ─ KT&amp;G 상상마당 라이브홀</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 10 Dec 2022 14:14:46 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 10 Dec 2022 15:15:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[2022 이랑 연말 단독 공연 〈PRIDE〉－지정좌석]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=207542</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=207542</guid>
-            <pubDate>Sat, 10 Dec 2022 06:18:43 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.10  ~<br> 2022.12.10]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/11/20221111164154bfbdb5b6-e8ab-4c9e-8927-5977f0e46478.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
         <item>
             <title><![CDATA[2022 이랑 연말 단독 공연 〈PRIDE〉－스탠딩]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=207543</link>
