@@ -4,17 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 11 Dec 2022 14:13:50 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 11 Dec 2022 15:15:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[용용 단독 콘서트 ‘12：34’ (멜론 티켓 ─ 롤링홀)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=207511</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=207511</guid>
-            <pubDate>Sun, 11 Dec 2022 05:12:17 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.11  ~<br> 2022.12.11]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/11/202211071040053967a84e-9df3-4133-acd3-6b9ae21ca74f.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
         <item>
             <title><![CDATA[SAAY 단독 콘서트：mise－en－scène (멜론 티켓 ─ 롤링홀)]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=207476</link>
@@ -208,14 +200,6 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/11/202211281412250b2fe9cd-e7fc-4892-a202-a35a7c2aa0ee.png/melon/resize/90x125/strip/true" length="0" type="image/png/melon/resize/90x125/strip/true"/>
         </item>
         <item>
-            <title><![CDATA[2022 이랑 연말 단독 공연 〈PRIDE〉－스탠딩 (멜론 티켓 ─ KT&G 상상마당 라이브홀)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=207543</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=207543</guid>
-            <pubDate>Sun, 11 Dec 2022 05:13:14 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.11  ~<br> 2022.12.11]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/11/2022111116433648f75e17-ab02-47b3-aa3f-9b59f68cc70d.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
             <title><![CDATA[PAIR PLAY：Vol．3 어바웃x김새녘 (멜론 티켓 ─ KT&G 상상마당 라이브홀)]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=207610</link>
             <guid>https://ticket.melon.com/performance/index.htm?prodId=207610</guid>
@@ -262,14 +246,6 @@
             <pubDate>Sun, 11 Dec 2022 05:13:14 GMT</pubDate>
             <content:encoded><![CDATA[2023.01.14  ~<br> 2023.01.14]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/12/20221207155730af3c10d6-c145-47fa-81b7-0ca8b331d341.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 엔분의일：Outro (멜론 티켓 ─ CJ아지트 광흥창)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=207526</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=207526</guid>
-            <pubDate>Sun, 11 Dec 2022 05:13:35 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.11  ~<br> 2022.12.11]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/11/20221108160652a8418203-b026-4997-9270-cf56fce0a255.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[HeMeets 연말 단독 콘서트 ‘OFFICE＆DOWNTOWN’ (멜론 티켓 ─ CJ아지트 광흥창)]]></title>
