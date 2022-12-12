@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 12 Dec 2022 09:15:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Dec 2022 10:17:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -72,7 +72,7 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/12/20221209092524c83d0268-dd71-4123-b326-2dcf4370fd62.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
-            <title><![CDATA[오프더메뉴 단독 콘서트：롤링 28주년 기념 공연 (멜론 티켓 ─ 롤링홀)]]></title>
+            <title><![CDATA[오프더메뉴 단독 콘서트 ‘Point Of View’：롤링 28주년 기념 공연 (멜론 티켓 ─ 롤링홀)]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=207682</link>
             <guid>https://ticket.melon.com/performance/index.htm?prodId=207682</guid>
             <pubDate>Mon, 12 Dec 2022 09:13:43 GMT</pubDate>
