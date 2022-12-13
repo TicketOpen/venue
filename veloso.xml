@@ -1,35 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>멜론 티켓 ─ 벨로주</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Tue, 13 Dec 2022 14:15:11 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[옥상달빛 팬미팅 〈주주총회〉]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=207547</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=207547</guid>
-            <pubDate>Mon, 12 Dec 2022 05:13:14 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.16  ~<br> 2022.12.18]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/11/2022112813463995fd8b4a-9095-466a-84ce-d208861fb5a6.png/melon/resize/90x125/strip/true" length="0" type="image/png/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[밴드 웨더보트 첫 번째 단독 콘서트－An Extraordinary Day]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=207611</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=207611</guid>
-            <pubDate>Mon, 12 Dec 2022 05:13:14 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.22  ~<br> 2022.12.22]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/11/20221123165108c9247f8e-a775-43fb-9c19-8aa4e492b6b9.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[곽진언 소극장 콘서트－Op．6]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=207678</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=207678</guid>
-            <pubDate>Mon, 12 Dec 2022 05:13:14 GMT</pubDate>
-            <content:encoded><![CDATA[2023.01.14  ~<br> 2023.01.15]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/12/2022120818121034f1d8ce-afe8-4612-8cc7-47cc4ce71f60.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://ticket.melon.com/place/index.htm?placeId=12</id>
+    <title>멜론 티켓 ─ 벨로주</title>
+    <updated>2022-12-13T15:17:38.384Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://ticket.melon.com/place/favicon.ico</icon>
+</feed>
