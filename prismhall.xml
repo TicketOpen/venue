@@ -4,7 +4,7 @@
         <title>멜론 티켓 ─ 프리즘홀</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Dec 2022 02:13:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Dec 2022 03:16:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Thu, 15 Dec 2022 18:15:13 GMT</pubDate>
             <content:encoded><![CDATA[2022.12.21  ~<br> 2022.12.21]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/11/20221124170612f27413e6-2f7b-4aa8-95cb-2483f201d2e1.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[더베인x오오오：크리스마스크로스]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207694</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207694</guid>
+            <pubDate>Fri, 16 Dec 2022 03:14:07 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.25  ~<br> 2022.12.25]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/12/20221215184945b560fce9-9b3e-4ff9-bd26-89ef7d667c61.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
