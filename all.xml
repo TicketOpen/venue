@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 21 Dec 2022 14:14:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Dec 2022 15:15:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -160,14 +160,6 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/12/20221212154250780ed7f4-a9be-40ca-a271-0a6b65ef27a5.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
-            <title><![CDATA[Christmas week：인디셈버 페스티벌 (멜론 티켓 ─ 프리즘홀)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=207619</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=207619</guid>
-            <pubDate>Tue, 20 Dec 2022 23:13:17 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.21  ~<br> 2022.12.21]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/11/20221124170612f27413e6-2f7b-4aa8-95cb-2483f201d2e1.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
             <title><![CDATA[더베인x오오오：크리스마스크로스 (멜론 티켓 ─ 프리즘홀)]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=207694</link>
             <guid>https://ticket.melon.com/performance/index.htm?prodId=207694</guid>
@@ -270,14 +262,6 @@
             <pubDate>Tue, 20 Dec 2022 23:13:50 GMT</pubDate>
             <content:encoded><![CDATA[2023.01.14  ~<br> 2023.01.14]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/12/20221207155730af3c10d6-c145-47fa-81b7-0ca8b331d341.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[먼데이프로젝트 시즌5 ［온더달 단독 콘서트 ‘낭만실종’］ (멜론 티켓 ─ CJ아지트 광흥창)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=207607</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=207607</guid>
-            <pubDate>Tue, 20 Dec 2022 23:14:11 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.21  ~<br> 2022.12.21]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/11/20221123114243c52402d1-3363-4491-99e2-d46332b6e16a.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[안예은단독콘서트 제6회（안밀린）오타쿠리스마스 (멜론 티켓 ─ 노들섬)]]></title>
