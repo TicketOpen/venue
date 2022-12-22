@@ -4,7 +4,7 @@
         <title>멜론 티켓 ─ 롤링홀</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 22 Dec 2022 02:17:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Dec 2022 03:16:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -126,6 +126,14 @@
             <pubDate>Wed, 21 Dec 2022 03:14:05 GMT</pubDate>
             <content:encoded><![CDATA[2023.01.29  ~<br> 2023.01.29]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/12/202212201229043e28ca3a-16cf-4553-8e8d-73cb81b6cb1e.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[스탠딩에그 단독 콘서트 ‘스탠딩 콘서트’：롤링 28주년 기념 공연]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207701</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207701</guid>
+            <pubDate>Thu, 22 Dec 2022 03:13:46 GMT</pubDate>
+            <content:encoded><![CDATA[2023.02.04  ~<br> 2023.02.04]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/12/202212201448181d58097e-6c04-4488-a83a-c71f53ab0e5e.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
