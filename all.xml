@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 22 Dec 2022 14:14:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Dec 2022 15:17:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -176,28 +176,12 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/12/20221215184945b560fce9-9b3e-4ff9-bd26-89ef7d667c61.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
-            <title><![CDATA[밴드 웨더보트 첫 번째 단독 콘서트－An Extraordinary Day (멜론 티켓 ─ 벨로주)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=207611</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=207611</guid>
-            <pubDate>Tue, 20 Dec 2022 23:13:28 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.22  ~<br> 2022.12.22]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/11/20221123165108c9247f8e-a775-43fb-9c19-8aa4e492b6b9.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
             <title><![CDATA[곽진언 소극장 콘서트－Op．6 (멜론 티켓 ─ 벨로주)]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=207678</link>
             <guid>https://ticket.melon.com/performance/index.htm?prodId=207678</guid>
             <pubDate>Tue, 20 Dec 2022 23:13:28 GMT</pubDate>
             <content:encoded><![CDATA[2023.01.14  ~<br> 2023.01.15]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/12/2022120818121034f1d8ce-afe8-4612-8cc7-47cc4ce71f60.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[메리 크리스투아！（Merry Christua！） (멜론 티켓 ─ 구름아래소극장)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=207646</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=207646</guid>
-            <pubDate>Tue, 20 Dec 2022 23:13:39 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.22  ~<br> 2022.12.22]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/11/20221130152600bce219a3-d7de-480d-bad3-871a1b835fab.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[로칼하이프리즘스테이지 기부콘서트 ‘나눔’ (멜론 티켓 ─ 구름아래소극장)]]></title>
