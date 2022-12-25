@@ -4,17 +4,9 @@
         <title>멜론 티켓 ─ 구름아래소극장</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 25 Dec 2022 14:12:35 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 Dec 2022 15:14:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[로맨틱펀치의 단독공연 96번째 로맨틱파티]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=207657</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=207657</guid>
-            <pubDate>Tue, 20 Dec 2022 23:13:39 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.24  ~<br> 2022.12.25]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/12/20221202162419d72025c3-ecf2-4c70-9a69-e2762fc77fb4.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
         <item>
             <title><![CDATA[weplay Ep．2：태인]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=207626</link>
