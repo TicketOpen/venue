@@ -4,17 +4,9 @@
         <title>멜론 티켓 ─ 웨스트브릿지</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 31 Dec 2022 14:12:47 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 31 Dec 2022 15:14:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[박시환 2022 연말콘서트 Fall in LOVE]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=207530</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=207530</guid>
-            <pubDate>Sat, 31 Dec 2022 03:13:51 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.31  ~<br> 2022.12.31]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/11/202211091324577ac1fd6b-45d7-422e-9428-191f7b2fd343.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
         <item>
             <title><![CDATA[BADLAMB（배드램）단독 콘서트－UNIVERSAL ANXIETY]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=207644</link>

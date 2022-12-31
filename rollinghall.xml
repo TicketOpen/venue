@@ -4,17 +4,9 @@
         <title>멜론 티켓 ─ 롤링홀</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 31 Dec 2022 14:12:47 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 31 Dec 2022 15:14:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[프롬 단독 콘서트 ‘봄밤에 다시 만나’]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=207602</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=207602</guid>
-            <pubDate>Sat, 31 Dec 2022 03:13:42 GMT</pubDate>
-            <content:encoded><![CDATA[2022.12.31  ~<br> 2022.12.31]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/11/20221122173350db63b829-2b3f-4aeb-b1f9-afec1d2347f8.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
         <item>
             <title><![CDATA[크리스탈 티 단독 콘서트 ‘겨울엔 야자수’：롤링 28주년 기념 공연]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=207670</link>
