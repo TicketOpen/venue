@@ -1,8 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://ticket.melon.com/place/index.htm?placeId=293</id>
-    <title>멜론 티켓 ─ 웨스트브릿지</title>
-    <updated>2022-12-31T02:12:19.241Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://ticket.melon.com/place/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>멜론 티켓 ─ 웨스트브릿지</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sat, 31 Dec 2022 03:15:44 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[박시환 2022 연말콘서트 Fall in LOVE]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207530</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207530</guid>
+            <pubDate>Sat, 31 Dec 2022 03:13:51 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.31  ~<br> 2022.12.31]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/11/202211091324577ac1fd6b-45d7-422e-9428-191f7b2fd343.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[BADLAMB（배드램）단독 콘서트－UNIVERSAL ANXIETY]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207644</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207644</guid>
+            <pubDate>Sat, 31 Dec 2022 03:13:51 GMT</pubDate>
+            <content:encoded><![CDATA[2023.01.07  ~<br> 2023.01.07]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/11/20221130135013e93e72ce-ef94-4930-bc68-bacb47fc4f23.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[황푸하 3집 발매 기념 쇼케이스［두 얼굴］with TEHO]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207685</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207685</guid>
+            <pubDate>Sat, 31 Dec 2022 03:13:51 GMT</pubDate>
+            <content:encoded><![CDATA[2023.01.14  ~<br> 2023.01.14]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/12/20221212154250780ed7f4-a9be-40ca-a271-0a6b65ef27a5.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 이정권 크리스마스 콘서트 ‘메리정권스마스’]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207495</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207495</guid>
+            <pubDate>Sat, 31 Dec 2022 03:13:51 GMT</pubDate>
+            <content:encoded><![CDATA[2023.02.12  ~<br> 2023.02.12]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/11/2022110717223990d0afdf-d8ad-4fe5-9954-91007fdbb0d5.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+    </channel>
+</rss>
