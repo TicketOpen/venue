@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 Jan 2023 05:14:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Jan 2023 06:17:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -104,7 +104,7 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/12/202212201448181d58097e-6c04-4488-a83a-c71f53ab0e5e.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
-            <title><![CDATA[HeMeets：Weird Toy Shop (멜론 티켓 ─ 롤링홀)]]></title>
+            <title><![CDATA[HeMeets 단독 콘서트 〈HeMeets：Weird Toy Shop〉 (멜론 티켓 ─ 롤링홀)]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=207735</link>
             <guid>https://ticket.melon.com/performance/index.htm?prodId=207735</guid>
             <pubDate>Wed, 04 Jan 2023 05:12:30 GMT</pubDate>
