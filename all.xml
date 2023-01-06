@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 06 Jan 2023 08:19:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Jan 2023 09:14:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -224,6 +224,14 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/01/202301031647063317bd2d-1eb6-47df-8911-2c49d29ec970.jpeg/melon/resize/90x125/strip/true" length="0" type="image/jpeg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
+            <title><![CDATA[2023 소각소각 콘서트 “WINTER BLOSSOM” (멜론 티켓 ─ 벨로주)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207737</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207737</guid>
+            <pubDate>Fri, 06 Jan 2023 09:13:11 GMT</pubDate>
+            <content:encoded><![CDATA[2023.02.11  ~<br> 2023.02.11]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/01/2023010411013861bfef0c-a0e8-40fd-ae42-85928acfad1a.png/melon/resize/90x125/strip/true" length="0" type="image/png/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
             <title><![CDATA[프레젠트프로젝트 〈SING SANG SONG：87dance 단독 콘서트 ‘Preview of COLOR PAPER HOTEL’〉 (멜론 티켓 ─ 구름아래소극장)]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=207691</link>
             <guid>https://ticket.melon.com/performance/index.htm?prodId=207691</guid>
@@ -278,6 +286,14 @@
             <pubDate>Sat, 31 Dec 2022 03:15:13 GMT</pubDate>
             <content:encoded><![CDATA[2023.01.26  ~<br> 2023.01.27]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/01/20230104152947a658a161-d528-43b0-a470-64109081c9a9.jpeg/melon/resize/90x125/strip/true" length="0" type="image/jpeg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[김승민 첫 단독 콘서트［Double－sidedness］ (멜론 티켓 ─ 노들섬)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207744</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207744</guid>
+            <pubDate>Fri, 06 Jan 2023 09:14:15 GMT</pubDate>
+            <content:encoded><![CDATA[2023.02.04  ~<br> 2023.02.04]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/01/20230105174124c523e7f8-e4eb-4723-8a29-88f1e088f48d.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
