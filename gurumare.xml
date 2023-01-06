@@ -4,7 +4,7 @@
         <title>멜론 티켓 ─ 구름아래소극장</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 06 Jan 2023 03:16:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Jan 2023 04:17:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,7 @@
             <guid>https://ticket.melon.com/performance/index.htm?prodId=207691</guid>
             <pubDate>Sat, 31 Dec 2022 03:14:20 GMT</pubDate>
             <content:encoded><![CDATA[2023.01.14  ~<br> 2023.01.14]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/12/20221219145251c26c4582-bde0-4674-ba85-ccf936b05d4f.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/web/thumb/Noimage_90x125.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[암호（AMHO）싱글 발매 기념 콘서트 〈세션맨〉]]></title>
@@ -21,7 +21,7 @@
             <guid>https://ticket.melon.com/performance/index.htm?prodId=207728</guid>
             <pubDate>Wed, 04 Jan 2023 05:13:09 GMT</pubDate>
             <content:encoded><![CDATA[2023.01.29  ~<br> 2023.01.29]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/01/202301031620469b4fc6c4-a13c-47fb-bced-231283eb21d8.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/web/thumb/Noimage_90x125.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
