@@ -4,7 +4,7 @@
         <title>멜론 티켓 ─ 웨스트브릿지</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 Jan 2023 08:20:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Jan 2023 09:17:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,12 +24,12 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/12/20221228110957d6b4f92d-0a75-4f9e-ae0e-c79a2f6c5d8f.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
-            <title><![CDATA[2022 이정권 크리스마스 콘서트 ‘메리정권스마스’]]></title>
+            <title><![CDATA[2023 이정권 단독 콘서트 ‘다시，너에게 닿기를’]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=207495</link>
             <guid>https://ticket.melon.com/performance/index.htm?prodId=207495</guid>
             <pubDate>Thu, 12 Jan 2023 04:15:49 GMT</pubDate>
             <content:encoded><![CDATA[2023.02.12  ~<br> 2023.02.12]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2022/11/2022110717223990d0afdf-d8ad-4fe5-9954-91007fdbb0d5.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/01/2023011217475583fe66b8-d13f-4c00-9b20-3e7aef2759db.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
