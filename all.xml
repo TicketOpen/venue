@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 17 Jan 2023 05:14:21 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Jan 2023 06:18:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -238,6 +238,14 @@
             <pubDate>Sun, 15 Jan 2023 16:16:33 GMT</pubDate>
             <content:encoded><![CDATA[2023.02.04  ~<br> 2023.02.04]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/01/20230105180702ae5b3aa1-15f7-4053-911b-cea1313c71c3.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[빌리어코스티 정규 3집 발매기념공연 〈STEREO FILTER〉 (멜론 티켓 ─ CJ아지트 광흥창)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207776</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207776</guid>
+            <pubDate>Tue, 17 Jan 2023 06:17:35 GMT</pubDate>
+            <content:encoded><![CDATA[2023.02.11  ~<br> 2023.02.12]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/01/2023011616082609952298-f1e1-4e88-bf60-8ba0aec54290.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[2022 WORLD TOUR JAY B TAPE：PRESS PAUSE ENCORE in SEOUL (멜론 티켓 ─ 노들섬)]]></title>
