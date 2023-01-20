@@ -4,7 +4,7 @@
         <title>멜론 티켓 ─ 구름아래소극장</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 20 Jan 2023 04:18:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Jan 2023 05:15:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Wed, 18 Jan 2023 08:17:39 GMT</pubDate>
             <content:encoded><![CDATA[2023.02.04  ~<br> 2023.02.04]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/01/20230105180702ae5b3aa1-15f7-4053-911b-cea1313c71c3.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[모브닝 콘서트［점등－The Light Of Hope］]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207779</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207779</guid>
+            <pubDate>Fri, 20 Jan 2023 05:13:50 GMT</pubDate>
+            <content:encoded><![CDATA[2023.02.25  ~<br> 2023.02.25]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/01/202301181326279b2f050c-2642-4152-9be6-1229d14231c5.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
