@@ -4,17 +4,9 @@
         <title>멜론 티켓 ─ 프리즘홀</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 23 Jan 2023 14:15:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Jan 2023 15:17:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[키라라：그냥하는 단독공연 시즌 2－FINAL]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=207739</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=207739</guid>
-            <pubDate>Mon, 23 Jan 2023 08:17:24 GMT</pubDate>
-            <content:encoded><![CDATA[2023.01.23  ~<br> 2023.01.23]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/01/202301041702088e01570d-f22b-4f11-88ea-aa6e169da018.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
         <item>
             <title><![CDATA[ICE BREAKING]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=207727</link>
