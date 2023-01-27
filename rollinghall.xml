@@ -4,7 +4,7 @@
         <title>멜론 티켓 ─ 롤링홀</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 Jan 2023 02:44:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Jan 2023 03:16:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -158,6 +158,14 @@
             <pubDate>Thu, 26 Jan 2023 03:14:24 GMT</pubDate>
             <content:encoded><![CDATA[2023.03.04  ~<br> 2023.03.05]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/01/20230120151934a28e5a4c-fe77-446c-b971-7aa63f160cc4.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[크리스피 단독 콘서트 ‘DAYDREAMING’：롤링 28주년 기념 공연]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207793</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207793</guid>
+            <pubDate>Fri, 27 Jan 2023 03:14:03 GMT</pubDate>
+            <content:encoded><![CDATA[2023.03.09  ~<br> 2023.03.09]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/01/20230126154005a1d72d30-3389-4d91-a63c-94e362b40975.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
