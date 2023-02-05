@@ -4,17 +4,9 @@
         <title>멜론 티켓 ─ 웨스트브릿지</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 Feb 2023 14:13:36 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Feb 2023 15:14:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[참솜 소극장 단독공연 ‘winter chamsom’]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=207760</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=207760</guid>
-            <pubDate>Sat, 28 Jan 2023 03:13:33 GMT</pubDate>
-            <content:encoded><![CDATA[2023.02.04  ~<br> 2023.02.05]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/01/20230112152314cd667e8c-0eba-40a9-a7b5-c1929ea56031.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
         <item>
             <title><![CDATA[2023 이정권 단독 콘서트 ‘다시，너에게 닿기를’]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=207495</link>
