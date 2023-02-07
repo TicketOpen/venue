@@ -4,7 +4,7 @@
         <title>멜론 티켓 ─ 롤링홀</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Feb 2023 02:39:41 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Feb 2023 03:16:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -134,6 +134,14 @@
             <pubDate>Sat, 28 Jan 2023 03:13:23 GMT</pubDate>
             <content:encoded><![CDATA[2023.03.09  ~<br> 2023.03.09]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/01/20230126154005a1d72d30-3389-4d91-a63c-94e362b40975.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[이븐이프 단독 콘서트 ‘Dopamine’：롤링 28주년 기념 공연]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207805</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207805</guid>
+            <pubDate>Tue, 07 Feb 2023 03:14:12 GMT</pubDate>
+            <content:encoded><![CDATA[2023.03.10  ~<br> 2023.03.10]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/02/20230206091823e1e421b5-e6b7-4369-b208-4ffd156b6a4c.png/melon/resize/90x125/strip/true" length="0" type="image/png/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
