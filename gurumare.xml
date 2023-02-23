@@ -4,7 +4,7 @@
         <title>멜론 티켓 ─ 구름아래소극장</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Feb 2023 08:19:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Feb 2023 09:16:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -32,7 +32,7 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/02/20230210115849dcdd4ca8-202f-44dd-baae-896cc56845c6.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
-            <title><![CDATA[먼데이프로젝트 시즌6 순간의 노래［정우 단독 콘서트〕]]></title>
+            <title><![CDATA[먼데이프로젝트 시즌6 순간의 노래［정우 단독 콘서트］]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=207887</link>
             <guid>https://ticket.melon.com/performance/index.htm?prodId=207887</guid>
             <pubDate>Thu, 23 Feb 2023 03:17:46 GMT</pubDate>
