@@ -4,7 +4,7 @@
         <title>멜론 티켓 ─ 프리즘홀</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 25 Feb 2023 04:18:21 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Feb 2023 05:14:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Sat, 25 Feb 2023 03:17:49 GMT</pubDate>
             <content:encoded><![CDATA[2023.03.16  ~<br> 2023.03.16]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/02/20230223151100821f49fd-9c26-4023-b0b7-e1c47027bfb1.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[티키타카 콘서트：MADMANS ESPRIT]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207900</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207900</guid>
+            <pubDate>Sat, 25 Feb 2023 05:12:58 GMT</pubDate>
+            <content:encoded><![CDATA[2023.03.17  ~<br> 2023.03.17]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/02/20230224150139ade59a8a-7a86-4029-bbef-5dd0fb0793aa.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
