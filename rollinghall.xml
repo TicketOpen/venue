@@ -4,7 +4,7 @@
         <title>멜론 티켓 ─ 롤링홀</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Feb 2023 02:49:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Feb 2023 03:21:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -126,6 +126,14 @@
             <pubDate>Sat, 25 Feb 2023 03:17:25 GMT</pubDate>
             <content:encoded><![CDATA[2023.04.01  ~<br> 2023.04.01]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/02/202302201545325d9bfb49-bca3-4220-9575-ef9342de8ee8.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[앤드오어 단독 콘서트 ‘illuminate’：롤링 28주년 기념 공연]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207890</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207890</guid>
+            <pubDate>Mon, 27 Feb 2023 03:19:37 GMT</pubDate>
+            <content:encoded><![CDATA[2023.04.06  ~<br> 2023.04.06]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/02/20230227090349dc9bfd08-1c2d-4a97-a0b7-9b43a60a0998.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
