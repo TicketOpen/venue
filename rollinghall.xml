@@ -4,7 +4,7 @@
         <title>멜론 티켓 ─ 롤링홀</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Feb 2023 02:48:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Feb 2023 03:20:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -120,6 +120,14 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/02/202302141718174d0a8ede-0d7a-42c1-be21-26aeb941b931.jpeg/melon/resize/90x125/strip/true" length="0" type="image/jpeg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
+            <title><![CDATA[베리코이버니 단독 콘서트 ‘Black Bunny Begins’：롤링 28주년 기념 공연]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207906</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207906</guid>
+            <pubDate>Tue, 28 Feb 2023 03:18:18 GMT</pubDate>
+            <content:encoded><![CDATA[2023.03.30  ~<br> 2023.03.30]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/02/20230227144002e3e8ca57-d5e7-435f-8f2f-7b4d1ce1df27.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
             <title><![CDATA[레코즈 단독 콘서트 ‘Recoz⎽us’：롤링 28주년 기념 공연]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=207881</link>
             <guid>https://ticket.melon.com/performance/index.htm?prodId=207881</guid>
@@ -134,6 +142,14 @@
             <pubDate>Mon, 27 Feb 2023 10:15:35 GMT</pubDate>
             <content:encoded><![CDATA[2023.04.01  ~<br> 2023.04.01]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/02/202302201545325d9bfb49-bca3-4220-9575-ef9342de8ee8.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[아디오스 오디오 단독 콘서트 ‘A SENSE OF’：롤링 28주년 기념 공연]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207876</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207876</guid>
+            <pubDate>Tue, 28 Feb 2023 03:18:18 GMT</pubDate>
+            <content:encoded><![CDATA[2023.04.02  ~<br> 2023.04.02]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/02/2023022709210790e0b61b-5b43-4955-b619-243dacbd05a4.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[앤드오어 단독 콘서트 ‘illuminate’：롤링 28주년 기념 공연]]></title>
