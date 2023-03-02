@@ -1,35 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>멜론 티켓 ─ 프리즘홀</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Thu, 02 Mar 2023 01:13:48 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[티키타카 콘서트：김정훈]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=207883</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=207883</guid>
-            <pubDate>Mon, 27 Feb 2023 10:15:53 GMT</pubDate>
-            <content:encoded><![CDATA[2023.03.10  ~<br> 2023.03.10]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/02/202302201740237b02b045-554f-4b75-a051-ddec6b039aa9.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[티키타카 콘서트：2Z]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=207895</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=207895</guid>
-            <pubDate>Mon, 27 Feb 2023 10:15:53 GMT</pubDate>
-            <content:encoded><![CDATA[2023.03.16  ~<br> 2023.03.16]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/02/20230223151100821f49fd-9c26-4023-b0b7-e1c47027bfb1.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[티키타카 콘서트：MADMANS ESPRIT]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=207900</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=207900</guid>
-            <pubDate>Mon, 27 Feb 2023 10:15:53 GMT</pubDate>
-            <content:encoded><![CDATA[2023.03.17  ~<br> 2023.03.17]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/02/20230224150139ade59a8a-7a86-4029-bbef-5dd0fb0793aa.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://ticket.melon.com/place/index.htm?placeId=731</id>
+    <title>멜론 티켓 ─ 프리즘홀</title>
+    <updated>2023-03-02T02:53:17.617Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://ticket.melon.com/place/favicon.ico</icon>
+</feed>
