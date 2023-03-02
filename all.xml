@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Mar 2023 08:20:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Mar 2023 09:16:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -246,6 +246,14 @@
             <pubDate>Thu, 02 Mar 2023 03:22:59 GMT</pubDate>
             <content:encoded><![CDATA[2023.04.05  ~<br> 2023.04.05]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/02/20230228133248a99fdf82-a025-4d1c-b71a-fec6fbe6f975.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[리소 pat pat 첫번째 단독 콘서트 (멜론 티켓 ─ 구름아래소극장)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207917</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207917</guid>
+            <pubDate>Thu, 02 Mar 2023 09:14:45 GMT</pubDate>
+            <content:encoded><![CDATA[2023.04.08  ~<br> 2023.04.08]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/02/20230228171134a1a123f0-542c-433c-a94e-0ca9c27b0358.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[배인혁의 몬스터 오디세이 발매 기념 콘서트 (멜론 티켓 ─ KT&G 상상마당 라이브홀)]]></title>
