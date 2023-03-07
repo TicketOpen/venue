@@ -4,7 +4,7 @@
         <title>멜론 티켓 ─ 노들섬</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Mar 2023 02:59:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Mar 2023 03:30:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -21,7 +21,7 @@
             <guid>https://ticket.melon.com/performance/index.htm?prodId=207903</guid>
             <pubDate>Mon, 06 Mar 2023 05:15:03 GMT</pubDate>
             <content:encoded><![CDATA[2023.03.25  ~<br> 2023.03.25]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/02/2023022715404270344b6e-c83b-4796-a39d-bb093ac7aae0.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/03/20230307114129dc33b045-6676-40fe-b9d9-42480e743a31.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
