@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Mar 2023 10:16:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Mar 2023 11:13:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -318,6 +318,14 @@
             <pubDate>Tue, 14 Mar 2023 19:14:11 GMT</pubDate>
             <content:encoded><![CDATA[2023.03.25  ~<br> 2023.03.25]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/02/20230227131109c66a3d4b-914e-45c0-8164-a6fd9c515907.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[사운드힐즈 EP 발매 쇼케이스 〈Re－Imagined〉 part．1 (멜론 티켓 ─ CJ아지트 광흥창)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207975</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207975</guid>
+            <pubDate>Wed, 15 Mar 2023 11:12:42 GMT</pubDate>
+            <content:encoded><![CDATA[2023.04.09  ~<br> 2023.04.09]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/03/202303141730226504be5e-f83a-467c-814e-366e827edf20.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[2023 구원찬 단독공연 〈Object〉 (멜론 티켓 ─ 노들섬)]]></title>
