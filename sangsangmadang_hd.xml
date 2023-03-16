@@ -1,35 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>멜론 티켓 ─ KT&amp;G 상상마당 라이브홀</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Thu, 16 Mar 2023 04:18:16 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[플디 STATION：빈센트블루 단독 콘서트]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=207879</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=207879</guid>
-            <pubDate>Tue, 14 Mar 2023 19:13:50 GMT</pubDate>
-            <content:encoded><![CDATA[2023.03.25  ~<br> 2023.03.25]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/02/20230217171825be40dd58-c13b-44e0-bbcd-c9f9e793586a.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[먼데이프로젝트 시즌6 My Universe［김현창 단독 콘서트］]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=207914</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=207914</guid>
-            <pubDate>Tue, 14 Mar 2023 19:13:50 GMT</pubDate>
-            <content:encoded><![CDATA[2023.03.29  ~<br> 2023.03.29]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/02/202302281421363530c555-26c6-493a-b73f-8c0c6241b6e2.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[먼데이프로젝트 시즌6 ORIGINAL［카디 단독 콘서트］]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=207971</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=207971</guid>
-            <pubDate>Wed, 15 Mar 2023 03:15:04 GMT</pubDate>
-            <content:encoded><![CDATA[2023.04.12  ~<br> 2023.04.12]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/03/2023031413442241dd8f22-76ad-44ec-8a9a-a2559528ca8c.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://ticket.melon.com/place/index.htm?placeId=913</id>
+    <title>멜론 티켓 ─ KT&amp;G 상상마당 라이브홀</title>
+    <updated>2023-03-16T05:13:23.287Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://ticket.melon.com/place/favicon.ico</icon>
+</feed>
