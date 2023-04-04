@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Apr 2023 01:02:46 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Apr 2023 02:10:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -158,6 +158,14 @@
             <pubDate>Wed, 29 Mar 2023 08:17:36 GMT</pubDate>
             <content:encoded><![CDATA[2023.04.21  ~<br> 2023.04.23]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/03/202303101352545d8b0002-6cac-4d35-aa0d-1be73ef498bd.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[Round and Round vol．1 사뮈 ＆ 해서웨이 (멜론 티켓 ─ 웨스트브릿지)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=208038</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=208038</guid>
+            <pubDate>Tue, 04 Apr 2023 02:08:06 GMT</pubDate>
+            <content:encoded><![CDATA[2023.05.07  ~<br> 2023.05.07]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/03/2023033016442362a8af48-b3e0-4f70-95db-56e660d10bab.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[티키타카 콘서트：은종 (멜론 티켓 ─ 프리즘홀)]]></title>
