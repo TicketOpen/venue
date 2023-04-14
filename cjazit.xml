@@ -1,8 +1,51 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://ticket.melon.com/place/index.htm?placeId=329</id>
-    <title>멜론 티켓 ─ CJ아지트 광흥창</title>
-    <updated>2023-04-14T18:15:56.372Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://ticket.melon.com/place/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>멜론 티켓 ─ CJ아지트 광흥창</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Fri, 14 Apr 2023 19:12:12 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[바당바당 단독 콘서트 ‘우리의 바다에’]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=208053</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=208053</guid>
+            <pubDate>Fri, 14 Apr 2023 19:11:13 GMT</pubDate>
+            <content:encoded><![CDATA[2023.04.22  ~<br> 2023.04.22]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/04/2023040509432822e26f94-1c41-4eee-b370-9ce02b00e05f.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[진동욱 단독 콘서트 〈나는 비행기〉]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=208030</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=208030</guid>
+            <pubDate>Fri, 14 Apr 2023 19:11:13 GMT</pubDate>
+            <content:encoded><![CDATA[2023.04.23  ~<br> 2023.04.23]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/03/20230328110035ed002ab9-fd34-40ca-ba6c-26d9286e6053.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[“이츠” 2nd 정규앨범 발매기념 단독 콘서트 〈Narcissus〉]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=208048</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=208048</guid>
+            <pubDate>Fri, 14 Apr 2023 19:11:13 GMT</pubDate>
+            <content:encoded><![CDATA[2023.04.29  ~<br> 2023.04.29]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/04/20230404144743b9a42fd6-e962-4542-b82f-5b1210e0395f.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[BULGOGIDISCO 단독 콘서트 〈DAGAGA〉]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=208006</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=208006</guid>
+            <pubDate>Fri, 14 Apr 2023 19:11:13 GMT</pubDate>
+            <content:encoded><![CDATA[2023.04.30  ~<br> 2023.04.30]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/03/20230321150418a7dc3ae1-f2f8-4d53-b7be-13314e0f1405.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[TUNE UP STAGE：Jclef 앨범발매기념 쇼케이스－O，PRUNED！：HOMEMADE JAM]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=208057</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=208057</guid>
+            <pubDate>Fri, 14 Apr 2023 19:11:13 GMT</pubDate>
+            <content:encoded><![CDATA[2023.05.13  ~<br> 2023.05.13]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/04/202304061341138fc8d391-79f1-43f8-aa81-863a6f2b2541.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+    </channel>
+</rss>
