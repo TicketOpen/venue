@@ -1,7 +1,307 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://TicketOpen.github.io/venue/all.xml</id>
-    <title>Combined feed</title>
-    <updated>2023-04-15T05:11:50.645Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Combined feed</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sat, 15 Apr 2023 06:18:16 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[윤딴딴 단독 콘서트 ‘28청춘’：롤링 28주년 기념 공연 (멜론 티켓 ─ 롤링홀)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207974</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207974</guid>
+            <pubDate>Sat, 15 Apr 2023 06:16:13 GMT</pubDate>
+            <content:encoded><![CDATA[2023.04.21  ~<br> 2023.04.21]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/03/202303141533361219fff8-fc49-413c-a277-25db27d8ecce.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[네미시스 단독 콘서트 ‘우리들의 봄’：롤링 28주년 기념 공연 (멜론 티켓 ─ 롤링홀)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=208001</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=208001</guid>
+            <pubDate>Sat, 15 Apr 2023 06:16:13 GMT</pubDate>
+            <content:encoded><![CDATA[2023.04.23  ~<br> 2023.04.23]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/03/20230320150557e67f01ac-d740-4456-9806-158656feaf88.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[김현창 단독 콘서트 ‘이름이 불려 살아지는 날도 있어’：롤링 28주년 기념 공연 (멜론 티켓 ─ 롤링홀)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=208019</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=208019</guid>
+            <pubDate>Sat, 15 Apr 2023 06:16:13 GMT</pubDate>
+            <content:encoded><![CDATA[2023.04.28  ~<br> 2023.04.28]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/03/202303240901484c210e89-68ff-4583-8c64-8e0d497b066a.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[S（e）oul Station 2023［Sarah Kang］Live in Seoul (멜론 티켓 ─ 롤링홀)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207937</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207937</guid>
+            <pubDate>Sat, 15 Apr 2023 06:16:13 GMT</pubDate>
+            <content:encoded><![CDATA[2023.04.29  ~<br> 2023.04.30]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/03/20230307144629b462e3f3-1f23-4b50-917a-479314853f5a.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[SAAY 단독 콘서트 ‘mise－en－scène：ENCORE’：롤링 28주년 기념 공연 (멜론 티켓 ─ 롤링홀)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=208005</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=208005</guid>
+            <pubDate>Sat, 15 Apr 2023 06:16:13 GMT</pubDate>
+            <content:encoded><![CDATA[2023.05.05  ~<br> 2023.05.05]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/03/20230321134610ae6e59c7-096f-4757-92d4-1bcf22298002.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[체리필터 단독 콘서트：롤링 28주년 기념 공연 (멜론 티켓 ─ 롤링홀)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=208040</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=208040</guid>
+            <pubDate>Sat, 15 Apr 2023 06:16:13 GMT</pubDate>
+            <content:encoded><![CDATA[2023.05.06  ~<br> 2023.05.06]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/03/202303311028110aa7f0a8-9d66-4489-80d2-d54f356a7a3f.png/melon/resize/90x125/strip/true" length="0" type="image/png/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[임헌일 단독 콘서트 ‘작은 독백’：롤링 28주년 기념 공연 (멜론 티켓 ─ 롤링홀)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=208014</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=208014</guid>
+            <pubDate>Sat, 15 Apr 2023 06:16:13 GMT</pubDate>
+            <content:encoded><![CDATA[2023.05.07  ~<br> 2023.05.07]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/03/20230323101944856d7abd-1f2c-4932-9d40-666100966e7b.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[이고도 단독 콘서트 ‘유기시절（遺棄時節）’：롤링 28주년 기념 공연 (멜론 티켓 ─ 롤링홀)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=208017</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=208017</guid>
+            <pubDate>Sat, 15 Apr 2023 06:16:13 GMT</pubDate>
+            <content:encoded><![CDATA[2023.05.11  ~<br> 2023.05.11]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/03/20230327085201364c3cfb-4cb0-4fd5-82ed-5d60810c1815.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[팔칠댄스（87dance）단독 콘서트：롤링 28주년 기념 공연 (멜론 티켓 ─ 롤링홀)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=208024</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=208024</guid>
+            <pubDate>Sat, 15 Apr 2023 06:16:13 GMT</pubDate>
+            <content:encoded><![CDATA[2023.05.12  ~<br> 2023.05.12]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/03/20230327133535d4f9e004-e53e-45e9-89ea-7eb9c98799a1.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[S（e）oul Station 2023［Jesse Barrera，Michael Carreon，Albert Posis］Live in Seoul (멜론 티켓 ─ 롤링홀)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207923</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207923</guid>
+            <pubDate>Sat, 15 Apr 2023 06:16:13 GMT</pubDate>
+            <content:encoded><![CDATA[2023.05.14  ~<br> 2023.05.14]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/04/20230411100255c8c14232-b954-447d-8b0b-f8d4d77aca35.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[너드커넥션 단독 콘서트：롤링 28주년 기념 공연 (멜론 티켓 ─ 롤링홀)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=208028</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=208028</guid>
+            <pubDate>Sat, 15 Apr 2023 06:16:13 GMT</pubDate>
+            <content:encoded><![CDATA[2023.05.20  ~<br> 2023.05.20]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/03/20230328092638b464148f-355f-4b8e-a055-fd25599051fe.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[블랙홀 단독 콘서트 ‘LOG IN’：롤링 28주년 기념 공연 (멜론 티켓 ─ 롤링홀)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=208071</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=208071</guid>
+            <pubDate>Sat, 15 Apr 2023 06:16:13 GMT</pubDate>
+            <content:encoded><![CDATA[2023.05.21  ~<br> 2023.05.21]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/04/202304101333548af87a22-1fe0-4901-8605-d6e363aa935c.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[지소쿠리클럽 단독 콘서트 ‘jisokuryClub：Making Friends’：롤링 28주년 기념 공연 (멜론 티켓 ─ 롤링홀)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=208078</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=208078</guid>
+            <pubDate>Sat, 15 Apr 2023 06:16:13 GMT</pubDate>
+            <content:encoded><![CDATA[2023.05.26  ~<br> 2023.05.26]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/04/20230411110944799b7c17-57e2-41b0-bec5-0ad3020aa7f7.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[팔칠댄스（87dance），［COLOR PAPER HOTEL］Residence (멜론 티켓 ─ 웨스트브릿지)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=208012</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=208012</guid>
+            <pubDate>Sat, 15 Apr 2023 06:16:22 GMT</pubDate>
+            <content:encoded><![CDATA[2023.04.16  ~<br> 2023.04.16]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/03/20230322153725ad9c7dc7-0c69-428c-83e8-73001e4c18b8.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[다정한 사월 2023 (멜론 티켓 ─ 웨스트브릿지)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207960</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207960</guid>
+            <pubDate>Sat, 15 Apr 2023 06:16:22 GMT</pubDate>
+            <content:encoded><![CDATA[2023.04.21  ~<br> 2023.04.23]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/03/202303101352545d8b0002-6cac-4d35-aa0d-1be73ef498bd.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[Round and Round vol．1 사뮈 ＆ 해서웨이 (멜론 티켓 ─ 웨스트브릿지)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=208038</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=208038</guid>
+            <pubDate>Sat, 15 Apr 2023 06:16:22 GMT</pubDate>
+            <content:encoded><![CDATA[2023.05.07  ~<br> 2023.05.07]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/03/2023033016442362a8af48-b3e0-4f70-95db-56e660d10bab.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[먼데이프로젝트 시즌6［화노 단독 콘서트 “昇天”］ (멜론 티켓 ─ 프리즘홀)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=208050</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=208050</guid>
+            <pubDate>Sat, 15 Apr 2023 06:16:32 GMT</pubDate>
+            <content:encoded><![CDATA[2023.05.04  ~<br> 2023.05.04]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/04/202304041805365152fdb4-725f-4fc0-b31b-72b74bf5cf63.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[곽진언 소극장 콘서트－Op．7 (멜론 티켓 ─ 벨로주)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207927</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207927</guid>
+            <pubDate>Sat, 15 Apr 2023 06:16:42 GMT</pubDate>
+            <content:encoded><![CDATA[2023.04.14  ~<br> 2023.04.15]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/03/20230309160148cedf9e2e-1049-4e36-9729-f85157c73b35.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[신현빈，위아영 〈Spring Holiday〉 (멜론 티켓 ─ 벨로주)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207901</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207901</guid>
+            <pubDate>Sat, 15 Apr 2023 06:16:42 GMT</pubDate>
+            <content:encoded><![CDATA[2023.04.16  ~<br> 2023.04.16]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/02/2023022713153342ac0ae5-367b-4f13-81d0-b1405859c7ec.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[Mercury 88 Vol．3 (멜론 티켓 ─ 벨로주)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=208010</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=208010</guid>
+            <pubDate>Sat, 15 Apr 2023 06:16:42 GMT</pubDate>
+            <content:encoded><![CDATA[2023.04.19  ~<br> 2023.04.19]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/03/2023032810113603df3f74-7ef1-4cb3-9b7d-1df10d52480d.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[APRIL SHOWER：에이프릴 세컨드 Come Back Party (멜론 티켓 ─ 벨로주)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207989</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207989</guid>
+            <pubDate>Sat, 15 Apr 2023 06:16:42 GMT</pubDate>
+            <content:encoded><![CDATA[2023.04.22  ~<br> 2023.04.22]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/03/20230320092243dd0ae624-fee4-489f-b190-2e1fd7a263dc.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[장들레입니다 (멜론 티켓 ─ 벨로주)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=208026</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=208026</guid>
+            <pubDate>Sat, 15 Apr 2023 06:16:42 GMT</pubDate>
+            <content:encoded><![CDATA[2023.04.29  ~<br> 2023.04.30]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/03/202303271628034ce2487f-7c6a-4b94-b9eb-338023393d78.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[BAND DALDAM 1st concert 〈 소년비행사 〉 (멜론 티켓 ─ 벨로주)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=208069</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=208069</guid>
+            <pubDate>Sat, 15 Apr 2023 06:16:42 GMT</pubDate>
+            <content:encoded><![CDATA[2023.05.06  ~<br> 2023.05.06]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/04/20230407200833f55d8dc7-7471-4785-9341-d5c7e270e87a.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[먼데이프로젝트 시즌6 Our Universe［맥거핀 단독 콘서트］ (멜론 티켓 ─ 구름아래소극장)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=207970</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=207970</guid>
+            <pubDate>Sat, 15 Apr 2023 06:16:51 GMT</pubDate>
+            <content:encoded><![CDATA[2023.04.17  ~<br> 2023.04.17]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/03/20230314112338cfc78430-82cd-4406-9244-381239ae4057.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[김준서 생일 기념 팬미팅 〈스물 세번째 기록〉 (멜론 티켓 ─ 구름아래소극장)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=208076</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=208076</guid>
+            <pubDate>Sat, 15 Apr 2023 06:16:51 GMT</pubDate>
+            <content:encoded><![CDATA[2023.05.07  ~<br> 2023.05.07]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/04/202304111049335a9baf78-e466-41ca-8d42-7b1511b0c7be.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[이현주 팬미팅 〈현주의 숲〉 (멜론 티켓 ─ 구름아래소극장)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=208043</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=208043</guid>
+            <pubDate>Sat, 15 Apr 2023 06:16:51 GMT</pubDate>
+            <content:encoded><![CDATA[2023.05.12  ~<br> 2023.05.13]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/04/20230403111231ea0173da-64dd-414f-ae87-be173d4c793c.png/melon/resize/90x125/strip/true" length="0" type="image/png/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[9001 단독공연 ‘Spring Break’ (멜론 티켓 ─ KT&G 상상마당 라이브홀)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=208018</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=208018</guid>
+            <pubDate>Sat, 15 Apr 2023 06:17:01 GMT</pubDate>
+            <content:encoded><![CDATA[2023.04.15  ~<br> 2023.04.16]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/03/202303281406374dee3eb9-a34f-48d8-98a7-7c387501ab39.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[From the Otherside：JACKINGCONG X OFF THE MENU (멜론 티켓 ─ KT&G 상상마당 라이브홀)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=208027</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=208027</guid>
+            <pubDate>Sat, 15 Apr 2023 06:17:01 GMT</pubDate>
+            <content:encoded><![CDATA[2023.04.23  ~<br> 2023.04.23]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/03/20230329172648b180892c-e089-4fbb-a60c-1299f2d412f3.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[PAIR PLAY：Vol．4 크리스피x튜즈데이비치클럽 (멜론 티켓 ─ KT&G 상상마당 라이브홀)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=208089</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=208089</guid>
+            <pubDate>Sat, 15 Apr 2023 06:17:01 GMT</pubDate>
+            <content:encoded><![CDATA[2023.05.05  ~<br> 2023.05.05]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/04/202304131355378b36b42b-d6ec-4115-948b-b4e01bf54e18.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[The Poles 단독공연 Morning after． (멜론 티켓 ─ KT&G 상상마당 라이브홀)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=208086</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=208086</guid>
+            <pubDate>Sat, 15 Apr 2023 06:17:01 GMT</pubDate>
+            <content:encoded><![CDATA[2023.05.06  ~<br> 2023.05.06]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/04/202304121741563daaf871-e937-48a5-9245-ac96dbbc9da5.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[바당바당 단독 콘서트 ‘우리의 바다에’ (멜론 티켓 ─ CJ아지트 광흥창)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=208053</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=208053</guid>
+            <pubDate>Sat, 15 Apr 2023 06:17:20 GMT</pubDate>
+            <content:encoded><![CDATA[2023.04.22  ~<br> 2023.04.22]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/04/2023040509432822e26f94-1c41-4eee-b370-9ce02b00e05f.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[진동욱 단독 콘서트 〈나는 비행기〉 (멜론 티켓 ─ CJ아지트 광흥창)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=208030</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=208030</guid>
+            <pubDate>Sat, 15 Apr 2023 06:17:20 GMT</pubDate>
+            <content:encoded><![CDATA[2023.04.23  ~<br> 2023.04.23]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/03/20230328110035ed002ab9-fd34-40ca-ba6c-26d9286e6053.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[“이츠” 2nd 정규앨범 발매기념 단독 콘서트 〈Narcissus〉 (멜론 티켓 ─ CJ아지트 광흥창)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=208048</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=208048</guid>
+            <pubDate>Sat, 15 Apr 2023 06:17:20 GMT</pubDate>
+            <content:encoded><![CDATA[2023.04.29  ~<br> 2023.04.29]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/04/20230404144743b9a42fd6-e962-4542-b82f-5b1210e0395f.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[BULGOGIDISCO 단독 콘서트 〈DAGAGA〉 (멜론 티켓 ─ CJ아지트 광흥창)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=208006</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=208006</guid>
+            <pubDate>Sat, 15 Apr 2023 06:17:20 GMT</pubDate>
+            <content:encoded><![CDATA[2023.04.30  ~<br> 2023.04.30]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/03/20230321150418a7dc3ae1-f2f8-4d53-b7be-13314e0f1405.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[TUNE UP STAGE：Jclef 앨범발매기념 쇼케이스－O，PRUNED！：HOMEMADE JAM (멜론 티켓 ─ CJ아지트 광흥창)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=208057</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=208057</guid>
+            <pubDate>Sat, 15 Apr 2023 06:17:20 GMT</pubDate>
+            <content:encoded><![CDATA[2023.05.13  ~<br> 2023.05.13]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/04/202304061341138fc8d391-79f1-43f8-aa81-863a6f2b2541.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[Glen Check 단독 콘서트 〈Mind Surfing〉 (멜론 티켓 ─ 예스24 라이브홀)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=208035</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=208035</guid>
+            <pubDate>Sat, 15 Apr 2023 06:17:29 GMT</pubDate>
+            <content:encoded><![CDATA[2023.05.05  ~<br> 2023.05.05]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/04/2023040309041579e3653b-3efa-4541-b78e-169554529e0a.jpeg/melon/resize/90x125/strip/true" length="0" type="image/jpeg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[먼데이프로젝트 시즌6 ORIGINAL［암호 단독 콘서트］ (멜론 티켓 ─ 노들섬)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=208009</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=208009</guid>
+            <pubDate>Sat, 15 Apr 2023 06:17:45 GMT</pubDate>
+            <content:encoded><![CDATA[2023.04.20  ~<br> 2023.04.20]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/03/20230322142942aa9b2a3f-872d-418d-b0d4-f2ae6a55ba1a.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+    </channel>
+</rss>
