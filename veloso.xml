@@ -4,17 +4,9 @@
         <title>멜론 티켓 ─ 벨로주</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 16 Apr 2023 14:12:24 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Apr 2023 15:13:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[신현빈，위아영 〈Spring Holiday〉]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=207901</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=207901</guid>
-            <pubDate>Sat, 15 Apr 2023 06:16:42 GMT</pubDate>
-            <content:encoded><![CDATA[2023.04.16  ~<br> 2023.04.16]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/02/2023022713153342ac0ae5-367b-4f13-81d0-b1405859c7ec.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
         <item>
             <title><![CDATA[Mercury 88 Vol．3]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=208010</link>
