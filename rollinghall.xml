@@ -4,7 +4,7 @@
         <title>멜론 티켓 ─ 롤링홀</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Apr 2023 02:05:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Apr 2023 03:15:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -110,6 +110,14 @@
             <pubDate>Sat, 15 Apr 2023 06:16:13 GMT</pubDate>
             <content:encoded><![CDATA[2023.05.26  ~<br> 2023.05.26]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/04/20230411110944799b7c17-57e2-41b0-bec5-0ad3020aa7f7.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[9001 단독 콘서트 ‘9001．mp3’：롤링 28주년 기념 공연]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=208093</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=208093</guid>
+            <pubDate>Tue, 18 Apr 2023 03:13:42 GMT</pubDate>
+            <content:encoded><![CDATA[2023.05.27  ~<br> 2023.05.28]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/04/202304171747524eb38cb8-44d2-479e-9e43-54b15efbd775.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
