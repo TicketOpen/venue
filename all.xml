@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Apr 2023 02:13:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Apr 2023 03:15:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -118,6 +118,14 @@
             <pubDate>Tue, 18 Apr 2023 03:13:42 GMT</pubDate>
             <content:encoded><![CDATA[2023.05.27  ~<br> 2023.05.28]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/04/202304171747524eb38cb8-44d2-479e-9e43-54b15efbd775.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[메써드X해머링X크럭스 ‘METAL INJECTION’：롤링 28주년 기념 공연 (멜론 티켓 ─ 롤링홀)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=208102</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=208102</guid>
+            <pubDate>Wed, 19 Apr 2023 03:13:50 GMT</pubDate>
+            <content:encoded><![CDATA[2023.06.04  ~<br> 2023.06.04]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/04/202304180918143f39ef76-0ac5-49b8-a8fa-686fc0764403.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[다정한 사월 2023 (멜론 티켓 ─ 웨스트브릿지)]]></title>
