@@ -1,27 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>멜론 티켓 ─ 노들섬</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Wed, 19 Apr 2023 22:13:34 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[먼데이프로젝트 시즌6 ORIGINAL［암호 단독 콘서트］]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=208009</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=208009</guid>
-            <pubDate>Sat, 15 Apr 2023 06:17:45 GMT</pubDate>
-            <content:encoded><![CDATA[2023.04.20  ~<br> 2023.04.20]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/03/20230322142942aa9b2a3f-872d-418d-b0d4-f2ae6a55ba1a.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[놀러와요 더 커진 키카코하우스]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=208083</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=208083</guid>
-            <pubDate>Wed, 19 Apr 2023 02:13:21 GMT</pubDate>
-            <content:encoded><![CDATA[2023.05.14  ~<br> 2023.05.14]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/04/202304171627347182c296-e02f-474b-87e4-cc50b0f091b6.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://ticket.melon.com/place/index.htm?placeId=902</id>
+    <title>멜론 티켓 ─ 노들섬</title>
+    <updated>2023-04-19T23:13:09.124Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://ticket.melon.com/place/favicon.ico</icon>
+</feed>
