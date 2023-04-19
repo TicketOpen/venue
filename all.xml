@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Apr 2023 03:15:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Apr 2023 09:18:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -45,7 +45,7 @@
             <guid>https://ticket.melon.com/performance/index.htm?prodId=208005</guid>
             <pubDate>Sat, 15 Apr 2023 06:16:13 GMT</pubDate>
             <content:encoded><![CDATA[2023.05.05  ~<br> 2023.05.05]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/03/20230321134610ae6e59c7-096f-4757-92d4-1bcf22298002.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/04/20230419144424b227eb80-7452-447a-9269-24ebe23b5d26.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[체리필터 단독 콘서트：롤링 28주년 기념 공연 (멜론 티켓 ─ 롤링홀)]]></title>
@@ -286,6 +286,14 @@
             <pubDate>Sat, 15 Apr 2023 06:17:20 GMT</pubDate>
             <content:encoded><![CDATA[2023.05.13  ~<br> 2023.05.13]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/04/202304061341138fc8d391-79f1-43f8-aa81-863a6f2b2541.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[Tuesday Beach Club 〈COCO〉 (멜론 티켓 ─ CJ아지트 광흥창)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=208104</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=208104</guid>
+            <pubDate>Wed, 19 Apr 2023 09:17:25 GMT</pubDate>
+            <content:encoded><![CDATA[2023.05.20  ~<br> 2023.05.20]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/04/202304180952030cc3d0f5-5b0a-42eb-8c5c-efce66e2af87.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[Glen Check 단독 콘서트 〈Mind Surfing〉 (멜론 티켓 ─ 예스24 라이브홀)]]></title>
