@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 May 2023 02:07:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 May 2023 03:15:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -56,14 +56,6 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/04/20230425153859c426ebd1-5570-4fc6-80e2-98e26cbafcaf.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
-            <title><![CDATA[S（e）oul Station 2023［Jesse Barrera，Michael Carreon，Albert Posis］Live in Seoul (멜론 티켓 ─ 롤링홀)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=207923</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=207923</guid>
-            <pubDate>Tue, 02 May 2023 08:15:23 GMT</pubDate>
-            <content:encoded><![CDATA[2023.05.14  ~<br> 2023.05.14]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/04/20230411100255c8c14232-b954-447d-8b0b-f8d4d77aca35.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
             <title><![CDATA[Merry May (멜론 티켓 ─ 롤링홀)]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=208097</link>
             <guid>https://ticket.melon.com/performance/index.htm?prodId=208097</guid>
@@ -102,6 +94,14 @@
             <pubDate>Tue, 02 May 2023 08:15:23 GMT</pubDate>
             <content:encoded><![CDATA[2023.05.27  ~<br> 2023.05.28]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/04/202304171747524eb38cb8-44d2-479e-9e43-54b15efbd775.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[강승원의 노후대책 ‘여름’：롤링 28주년 기념 공연 (멜론 티켓 ─ 롤링홀)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=208146</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=208146</guid>
+            <pubDate>Wed, 03 May 2023 03:13:20 GMT</pubDate>
+            <content:encoded><![CDATA[2023.06.02  ~<br> 2023.06.02]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/05/202305020905450fc0a9fb-956b-4ad2-98d9-80c052fcd67c.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[메써드X해머링X크럭스 ‘METAL INJECTION’：롤링 28주년 기념 공연 (멜론 티켓 ─ 롤링홀)]]></title>
