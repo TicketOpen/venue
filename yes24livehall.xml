@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://ticket.melon.com/place/index.htm?placeId=11</id>
-    <title>멜론 티켓 ─ 예스24 라이브홀</title>
-    <updated>2023-05-04T03:13:48.791Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://ticket.melon.com/place/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>멜론 티켓 ─ 예스24 라이브홀</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Thu, 04 May 2023 04:16:35 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Glen Check 단독 콘서트 〈Mind Surfing〉]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=208035</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=208035</guid>
+            <pubDate>Thu, 04 May 2023 04:15:39 GMT</pubDate>
+            <content:encoded><![CDATA[2023.05.05  ~<br> 2023.05.05]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/04/2023040309041579e3653b-3efa-4541-b78e-169554529e0a.jpeg/melon/resize/90x125/strip/true" length="0" type="image/jpeg/melon/resize/90x125/strip/true"/>
+        </item>
+    </channel>
+</rss>
