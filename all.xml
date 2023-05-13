@@ -4,17 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 13 May 2023 14:12:11 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 May 2023 15:13:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[S（e）oul Station 2023［Beautiful Noise］Live in Seoul (멜론 티켓 ─ 롤링홀)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=208125</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=208125</guid>
-            <pubDate>Fri, 12 May 2023 04:14:10 GMT</pubDate>
-            <content:encoded><![CDATA[2023.05.13  ~<br> 2023.05.13]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/04/20230425153859c426ebd1-5570-4fc6-80e2-98e26cbafcaf.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
         <item>
             <title><![CDATA[Merry May (멜론 티켓 ─ 롤링홀)]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=208097</link>
@@ -168,14 +160,6 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/05/202305041638351768d78d-f0d6-40ae-b6be-6fceb7b93e83.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
-            <title><![CDATA[곽진언 소극장 콘서트－Op．8 (멜론 티켓 ─ 벨로주)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=208119</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=208119</guid>
-            <pubDate>Fri, 12 May 2023 04:14:41 GMT</pubDate>
-            <content:encoded><![CDATA[2023.05.12  ~<br> 2023.05.13]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/04/202304241032572f3f9c4f-601e-41e9-b2db-43c70f48995c.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
             <title><![CDATA[트랙제로 Alive－Vol．12 트랙제로 이달의 아티스트 oceanfromtheblue (멜론 티켓 ─ 벨로주)]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=208225</link>
             <guid>https://ticket.melon.com/performance/index.htm?prodId=208225</guid>
@@ -214,14 +198,6 @@
             <pubDate>Fri, 12 May 2023 04:14:41 GMT</pubDate>
             <content:encoded><![CDATA[2023.06.04  ~<br> 2023.06.04]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/05/20230503110901cb0cbd5a-892a-420e-9a4b-8b3b2ce8aa5f.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[이현주 팬미팅 〈현주의 숲〉 (멜론 티켓 ─ 구름아래소극장)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=208043</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=208043</guid>
-            <pubDate>Fri, 12 May 2023 04:14:51 GMT</pubDate>
-            <content:encoded><![CDATA[2023.05.12  ~<br> 2023.05.13]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/04/20230403111231ea0173da-64dd-414f-ae87-be173d4c793c.png/melon/resize/90x125/strip/true" length="0" type="image/png/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[유지애 2nd Fanmeeting 〈TO YOO〉 (멜론 티켓 ─ 구름아래소극장)]]></title>
