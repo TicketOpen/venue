@@ -4,7 +4,7 @@
         <title>멜론 티켓 ─ CJ아지트 광흥창</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 May 2023 10:16:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 May 2023 11:16:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,14 @@
             <pubDate>Wed, 17 May 2023 02:33:23 GMT</pubDate>
             <content:encoded><![CDATA[2023.05.31  ~<br> 2023.05.31]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/05/20230515184905eca9af90-5402-4dab-bef7-9eb9d539e910.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[‘요새’]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=208250</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=208250</guid>
+            <pubDate>Wed, 17 May 2023 11:15:14 GMT</pubDate>
+            <content:encoded><![CDATA[2023.06.04  ~<br> 2023.06.04]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/05/202305161554432006855a-c6bd-4b68-a129-4037c830c201.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[슈가볼 단독콘서트 ‘밀린얘기’]]></title>
