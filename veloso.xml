@@ -1,75 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>멜론 티켓 ─ 벨로주</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Sun, 21 May 2023 02:38:04 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[트랙제로 Alive－Vol．12 트랙제로 이달의 아티스트 oceanfromtheblue]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=208225</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=208225</guid>
-            <pubDate>Sat, 20 May 2023 04:14:32 GMT</pubDate>
-            <content:encoded><![CDATA[2023.05.25  ~<br> 2023.05.25]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/05/202305121427329a02ed50-978f-4f63-8f99-5ba4bd1e38c5.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[김정훈，정석훈 〈Lights〉]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=208128</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=208128</guid>
-            <pubDate>Sat, 20 May 2023 04:14:32 GMT</pubDate>
-            <content:encoded><![CDATA[2023.05.28  ~<br> 2023.05.28]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/04/20230425110514e22ce7c1-1a4e-4d2a-9d5a-e03ee6156192.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[The Breakfast Club：윤석철 X 세진 발매기념 쇼케이스]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=208224</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=208224</guid>
-            <pubDate>Sat, 20 May 2023 04:14:32 GMT</pubDate>
-            <content:encoded><![CDATA[2023.06.02  ~<br> 2023.06.02]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/05/20230512165813e5d2977a-0c02-4b6b-80d4-e60f8c17e978.png/melon/resize/90x125/strip/true" length="0" type="image/png/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[주윤하＿단독공연 alone again]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=208221</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=208221</guid>
-            <pubDate>Sat, 20 May 2023 04:14:32 GMT</pubDate>
-            <content:encoded><![CDATA[2023.06.03  ~<br> 2023.06.03]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/05/202305111008211b78dd2f-db1e-4229-b93e-bae8fd7b73ab.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[써드스톤 EP Psychiatric Hospital 발매기념 공연]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=208174</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=208174</guid>
-            <pubDate>Sat, 20 May 2023 04:14:32 GMT</pubDate>
-            <content:encoded><![CDATA[2023.06.04  ~<br> 2023.06.04]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/05/20230503110901cb0cbd5a-892a-420e-9a4b-8b3b2ce8aa5f.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[2023 스웨덴세탁소 단독 콘서트 ‘이토록 아름다운 오늘에’]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=208249</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=208249</guid>
-            <pubDate>Sat, 20 May 2023 04:14:32 GMT</pubDate>
-            <content:encoded><![CDATA[2023.06.06  ~<br> 2023.06.06]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/05/2023051710322017276483-c4e3-4897-8240-4f741903bbaa.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[곽진언 소극장 콘서트－Op．9]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=208234</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=208234</guid>
-            <pubDate>Sat, 20 May 2023 04:14:32 GMT</pubDate>
-            <content:encoded><![CDATA[2023.06.09  ~<br> 2023.06.10]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/05/20230512165822e2161b20-e376-4df6-b48b-ca1b2cdcde42.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[Flight0618：ANDOR 편]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=208237</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=208237</guid>
-            <pubDate>Sat, 20 May 2023 04:14:32 GMT</pubDate>
-            <content:encoded><![CDATA[2023.06.18  ~<br> 2023.06.18]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/05/20230516090432097f9e43-2f36-478a-9a12-e599583fffe3.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://ticket.melon.com/place/index.htm?placeId=12</id>
+    <title>멜론 티켓 ─ 벨로주</title>
+    <updated>2023-05-21T03:13:45.864Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://ticket.melon.com/place/favicon.ico</icon>
+</feed>
