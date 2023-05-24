@@ -4,7 +4,7 @@
         <title>멜론 티켓 ─ CJ아지트 광흥창</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 May 2023 02:16:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 May 2023 04:16:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,6 +46,14 @@
             <pubDate>Sun, 21 May 2023 21:14:14 GMT</pubDate>
             <content:encoded><![CDATA[2023.06.11  ~<br> 2023.06.11]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/05/2023051109205730a9d20b-4f79-4b21-9161-b284fe919a90.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[먼데이프로젝트 시즌6 OUR SUMMER［아디오스 오디오 단독 콘서트］]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=208277</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=208277</guid>
+            <pubDate>Wed, 24 May 2023 04:15:26 GMT</pubDate>
+            <content:encoded><![CDATA[2023.06.21  ~<br> 2023.06.21]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/05/2023052218002943445642-2474-4efd-9a49-b2f58d75df56.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
