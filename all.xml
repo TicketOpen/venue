@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 May 2023 08:18:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 May 2023 09:14:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -262,6 +262,22 @@
             <pubDate>Wed, 24 May 2023 04:15:26 GMT</pubDate>
             <content:encoded><![CDATA[2023.06.21  ~<br> 2023.06.21]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/05/2023052218002943445642-2474-4efd-9a49-b2f58d75df56.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[그리즐리（Grizzly）Concert：Summer House (멜론 티켓 ─ CJ아지트 광흥창)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=208267</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=208267</guid>
+            <pubDate>Wed, 24 May 2023 09:13:08 GMT</pubDate>
+            <content:encoded><![CDATA[2023.06.25  ~<br> 2023.06.25]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/05/2023051910125724b3cc9c-8b68-44c8-8678-1c652e172d6a.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[죠지 단독 콘서트 〈FRR〉 (멜론 티켓 ─ 예스24 라이브홀)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=208280</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=208280</guid>
+            <pubDate>Wed, 24 May 2023 09:13:18 GMT</pubDate>
+            <content:encoded><![CDATA[2023.06.17  ~<br> 2023.06.17]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/05/2023052411101947aa9e39-52c4-432e-8acf-e97701fde129.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[밍기뉴 단독콘서트 “사랑한다는 말이 통하지 않을 정도로” (멜론 티켓 ─ 노들섬)]]></title>
