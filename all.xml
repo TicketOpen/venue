@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 May 2023 08:17:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 May 2023 10:15:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -54,6 +54,14 @@
             <pubDate>Thu, 25 May 2023 04:17:04 GMT</pubDate>
             <content:encoded><![CDATA[2023.06.16  ~<br> 2023.06.17]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/04/202304171032527c72c723-0f2b-45b3-8354-664da97cb5c8.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[네미시스 라이브 콘서트 ‘여름의 시작’ (멜론 티켓 ─ 롤링홀)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=208286</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=208286</guid>
+            <pubDate>Fri, 26 May 2023 10:13:00 GMT</pubDate>
+            <content:encoded><![CDATA[2023.06.18  ~<br> 2023.06.18]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/05/20230524142002b7f0b054-45e2-4651-ba21-f11dc4b19fe1.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[이제 단독 콘서트：롤링 28주년 기념 공연 (멜론 티켓 ─ 롤링홀)]]></title>
@@ -254,6 +262,14 @@
             <pubDate>Thu, 25 May 2023 04:18:32 GMT</pubDate>
             <content:encoded><![CDATA[2023.06.21  ~<br> 2023.06.21]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/05/2023052218002943445642-2474-4efd-9a49-b2f58d75df56.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[양반들 EP 에루화 발매 기념 공연 “해가 났다네 Sun‘s Out” (멜론 티켓 ─ CJ아지트 광흥창)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=208292</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=208292</guid>
+            <pubDate>Fri, 26 May 2023 10:15:03 GMT</pubDate>
+            <content:encoded><![CDATA[2023.06.24  ~<br> 2023.06.24]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/05/202305261714359c850ee4-646f-471f-be7e-8ffad941a975.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[그리즐리（Grizzly）Concert：Summer House (멜론 티켓 ─ CJ아지트 광흥창)]]></title>

@@ -4,7 +4,7 @@
         <title>멜론 티켓 ─ 롤링홀</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 May 2023 08:17:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 May 2023 10:15:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -54,6 +54,14 @@
             <pubDate>Thu, 25 May 2023 04:17:04 GMT</pubDate>
             <content:encoded><![CDATA[2023.06.16  ~<br> 2023.06.17]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/04/202304171032527c72c723-0f2b-45b3-8354-664da97cb5c8.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[네미시스 라이브 콘서트 ‘여름의 시작’]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=208286</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=208286</guid>
+            <pubDate>Fri, 26 May 2023 10:13:00 GMT</pubDate>
+            <content:encoded><![CDATA[2023.06.18  ~<br> 2023.06.18]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/05/20230524142002b7f0b054-45e2-4651-ba21-f11dc4b19fe1.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[이제 단독 콘서트：롤링 28주년 기념 공연]]></title>
