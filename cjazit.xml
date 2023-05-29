@@ -1,8 +1,59 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://ticket.melon.com/place/index.htm?placeId=329</id>
-    <title>멜론 티켓 ─ CJ아지트 광흥창</title>
-    <updated>2023-05-29T22:12:24.230Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://ticket.melon.com/place/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>멜론 티켓 ─ CJ아지트 광흥창</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Mon, 29 May 2023 23:13:47 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2023 TUNE UP 24기 쇼케이스]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=208245</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=208245</guid>
+            <pubDate>Mon, 29 May 2023 23:12:52 GMT</pubDate>
+            <content:encoded><![CDATA[2023.05.31  ~<br> 2023.05.31]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/05/20230515184905eca9af90-5402-4dab-bef7-9eb9d539e910.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[‘요새’]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=208250</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=208250</guid>
+            <pubDate>Mon, 29 May 2023 23:12:52 GMT</pubDate>
+            <content:encoded><![CDATA[2023.06.04  ~<br> 2023.06.04]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/05/202305161554432006855a-c6bd-4b68-a129-4037c830c201.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[슈가볼 단독콘서트 ‘밀린얘기’]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=208219</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=208219</guid>
+            <pubDate>Mon, 29 May 2023 23:12:52 GMT</pubDate>
+            <content:encoded><![CDATA[2023.06.11  ~<br> 2023.06.11]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/05/2023051109205730a9d20b-4f79-4b21-9161-b284fe919a90.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[먼데이프로젝트 시즌6 OUR SUMMER［아디오스 오디오 단독 콘서트］]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=208277</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=208277</guid>
+            <pubDate>Mon, 29 May 2023 23:12:52 GMT</pubDate>
+            <content:encoded><![CDATA[2023.06.21  ~<br> 2023.06.21]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/05/2023052218002943445642-2474-4efd-9a49-b2f58d75df56.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[양반들 EP 에루화 발매 기념 공연 “해가 났다네 Sun‘s Out”]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=208292</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=208292</guid>
+            <pubDate>Mon, 29 May 2023 23:12:52 GMT</pubDate>
+            <content:encoded><![CDATA[2023.06.24  ~<br> 2023.06.24]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/05/202305261714359c850ee4-646f-471f-be7e-8ffad941a975.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[그리즐리（Grizzly）Concert：Summer House]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=208267</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=208267</guid>
+            <pubDate>Mon, 29 May 2023 23:12:52 GMT</pubDate>
+            <content:encoded><![CDATA[2023.06.25  ~<br> 2023.06.25]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/05/2023051910125724b3cc9c-8b68-44c8-8678-1c652e172d6a.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+    </channel>
+</rss>
