@@ -4,17 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 04 Jun 2023 14:14:34 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Jun 2023 15:12:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[메써드X해머링X크럭스 ‘METAL INJECTION’：롤링 28주년 기념 공연 (멜론 티켓 ─ 롤링홀)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=208102</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=208102</guid>
-            <pubDate>Fri, 02 Jun 2023 14:10:50 GMT</pubDate>
-            <content:encoded><![CDATA[2023.06.04  ~<br> 2023.06.04]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/04/202304180918143f39ef76-0ac5-49b8-a8fa-686fc0764403.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
         <item>
             <title><![CDATA[더픽스 단독 콘서트 “I WANT IT ALL！”：롤링 28주년 기념 공연 (멜론 티켓 ─ 롤링홀)]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=208150</link>
@@ -88,14 +80,6 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/05/20230530181948fd25bf39-f97e-450f-9c23-c5aae6530438.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
-            <title><![CDATA[써드스톤 EP Psychiatric Hospital 발매기념 공연 (멜론 티켓 ─ 벨로주)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=208174</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=208174</guid>
-            <pubDate>Fri, 02 Jun 2023 14:11:25 GMT</pubDate>
-            <content:encoded><![CDATA[2023.06.04  ~<br> 2023.06.04]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/05/20230503110901cb0cbd5a-892a-420e-9a4b-8b3b2ce8aa5f.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
             <title><![CDATA[2023 스웨덴세탁소 단독 콘서트 ‘이토록 아름다운 오늘에’ (멜론 티켓 ─ 벨로주)]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=208249</link>
             <guid>https://ticket.melon.com/performance/index.htm?prodId=208249</guid>
@@ -136,14 +120,6 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/05/20230531100103e4773175-db73-4e5d-b747-b5729f3a0468.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
-            <title><![CDATA[춘길＆모세 2023 소극장 콘서트 ‘언제나 입춘대길’ (멜론 티켓 ─ 구름아래소극장)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=208220</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=208220</guid>
-            <pubDate>Fri, 02 Jun 2023 14:11:36 GMT</pubDate>
-            <content:encoded><![CDATA[2023.06.04  ~<br> 2023.06.04]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/05/2023051109285372f1ff76-a01f-47c6-8914-d39c42d0e6e7.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
             <title><![CDATA[먼데이프로젝트 시즌6 My Universe ［김준서 단독 콘서트］ (멜론 티켓 ─ 구름아래소극장)]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=208214</link>
             <guid>https://ticket.melon.com/performance/index.htm?prodId=208214</guid>
@@ -174,22 +150,6 @@
             <pubDate>Fri, 02 Jun 2023 14:11:36 GMT</pubDate>
             <content:encoded><![CDATA[2023.07.08  ~<br> 2023.07.08]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/05/202305081518089dcf9f0f-6655-4228-a22d-e3dcf0234981.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[크르르 〈어제에 오늘을 덧대어〉 (멜론 티켓 ─ KT&G 상상마당 라이브홀)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=208197</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=208197</guid>
-            <pubDate>Fri, 02 Jun 2023 14:11:47 GMT</pubDate>
-            <content:encoded><![CDATA[2023.06.03  ~<br> 2023.06.04]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/05/202305081630377b072d4a-44f1-49ca-bad8-3bd6b507d07f.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[‘요새’ (멜론 티켓 ─ CJ아지트 광흥창)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=208250</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=208250</guid>
-            <pubDate>Fri, 02 Jun 2023 14:12:10 GMT</pubDate>
-            <content:encoded><![CDATA[2023.06.04  ~<br> 2023.06.04]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/05/202305161554432006855a-c6bd-4b68-a129-4037c830c201.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[슈가볼 단독콘서트 ‘밀린얘기’ (멜론 티켓 ─ CJ아지트 광흥창)]]></title>
