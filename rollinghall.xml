@@ -4,17 +4,9 @@
         <title>멜론 티켓 ─ 롤링홀</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 06 Jun 2023 14:14:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Jun 2023 15:15:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[더픽스 단독 콘서트 “I WANT IT ALL！”：롤링 28주년 기념 공연]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=208150</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=208150</guid>
-            <pubDate>Tue, 06 Jun 2023 09:12:19 GMT</pubDate>
-            <content:encoded><![CDATA[2023.06.06  ~<br> 2023.06.06]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/04/202304280924535b3e63b2-8e51-436d-bff1-462eab6954ed.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
         <item>
             <title><![CDATA[디어클라우드 단독 콘서트：롤링 28주년 기념 공연]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=208098</link>
