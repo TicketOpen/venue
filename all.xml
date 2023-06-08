@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Jun 2023 04:17:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Jun 2023 06:17:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -208,7 +208,7 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/05/202305021344411c24919f-f429-425b-a8ba-377372d99a93.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
-            <title><![CDATA[TUNE UP STAGE：MUSIC OASIS (멜론 티켓 ─ 노들섬)]]></title>
+            <title><![CDATA[TUNE UP STAGE：MUSIC OASIS 튠업 스테이지：뮤직 오아시스 (멜론 티켓 ─ 노들섬)]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=208349</link>
             <guid>https://ticket.melon.com/performance/index.htm?prodId=208349</guid>
             <pubDate>Thu, 08 Jun 2023 04:16:40 GMT</pubDate>
