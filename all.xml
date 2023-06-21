@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 21 Jun 2023 14:13:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Jun 2023 15:14:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -174,14 +174,6 @@
             <pubDate>Mon, 19 Jun 2023 11:12:14 GMT</pubDate>
             <content:encoded><![CDATA[2023.07.09  ~<br> 2023.07.09]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/06/2023060911401392c6314f-4fda-43dc-9729-6f2b73f92d60.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[먼데이프로젝트 시즌6 OUR SUMMER［아디오스 오디오 단독 콘서트］ (멜론 티켓 ─ CJ아지트 광흥창)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=208277</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=208277</guid>
-            <pubDate>Mon, 19 Jun 2023 11:12:33 GMT</pubDate>
-            <content:encoded><![CDATA[2023.06.21  ~<br> 2023.06.21]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/05/2023052218002943445642-2474-4efd-9a49-b2f58d75df56.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[양반들 EP 에루화 발매 기념 공연 “해가 났다네 Sun‘s Out” (멜론 티켓 ─ CJ아지트 광흥창)]]></title>
