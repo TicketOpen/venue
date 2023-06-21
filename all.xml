@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 21 Jun 2023 08:18:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Jun 2023 09:14:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -222,6 +222,14 @@
             <pubDate>Mon, 19 Jun 2023 11:12:33 GMT</pubDate>
             <content:encoded><![CDATA[2023.07.02  ~<br> 2023.07.02]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/06/202306131448032061b87c-6261-4984-b992-847256f6ea32.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2023 신지훈 소극장 콘서트 ‘여름의 소리’ (멜론 티켓 ─ CJ아지트 광흥창)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=208416</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=208416</guid>
+            <pubDate>Wed, 21 Jun 2023 09:13:21 GMT</pubDate>
+            <content:encoded><![CDATA[2023.08.04  ~<br> 2023.08.13]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/06/202306211318257dd01df5-e2a3-4b2a-9ec3-78c49e5644be.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[TUNE UP STAGE：MUSIC OASIS 튠업 스테이지：뮤직 오아시스 (멜론 티켓 ─ 노들섬)]]></title>
