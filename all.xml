@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 22 Jun 2023 08:20:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Jun 2023 09:15:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,6 +46,14 @@
             <pubDate>Mon, 19 Jun 2023 11:11:26 GMT</pubDate>
             <content:encoded><![CDATA[2023.07.15  ~<br> 2023.07.15]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/06/202306081506435b05ba9d-22e8-40d9-82ac-8002ccc7059c.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2023 보라미유 단독 콘서트 ‘SEE，YU！’ (멜론 티켓 ─ 롤링홀)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=208408</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=208408</guid>
+            <pubDate>Thu, 22 Jun 2023 09:12:41 GMT</pubDate>
+            <content:encoded><![CDATA[2023.07.16  ~<br> 2023.07.16]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/06/202306211302491f1be1a3-38f5-476e-96df-ef23ffb2281b.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[D Festival＃1 〈CONNECTION〉 at Rollinghall (멜론 티켓 ─ 롤링홀)]]></title>
