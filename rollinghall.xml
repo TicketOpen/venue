@@ -4,17 +4,9 @@
         <title>멜론 티켓 ─ 롤링홀</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 25 Jun 2023 14:15:17 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 Jun 2023 15:15:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[정석훈 단독 콘서트 ‘우리의 여름’：롤링 28주년 기념 공연]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=208132</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=208132</guid>
-            <pubDate>Mon, 19 Jun 2023 11:11:26 GMT</pubDate>
-            <content:encoded><![CDATA[2023.06.25  ~<br> 2023.06.25]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/04/20230425144217fc2dec40-8f90-437d-8917-22d3ab872a2d.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
         <item>
             <title><![CDATA[은종 단독 콘서트 ‘낭랑 28세’：롤링 28주년 기념 공연]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=208158</link>
