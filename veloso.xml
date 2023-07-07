@@ -1,8 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://ticket.melon.com/place/index.htm?placeId=12</id>
-    <title>멜론 티켓 ─ 벨로주</title>
-    <updated>2023-07-07T17:13:03.624Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://ticket.melon.com/place/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>멜론 티켓 ─ 벨로주</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Fri, 07 Jul 2023 18:19:44 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[전기뱀장어 정규3집 발매 기념 공연 〈세계 동심원의 날〉]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=208398</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=208398</guid>
+            <pubDate>Fri, 07 Jul 2023 18:18:00 GMT</pubDate>
+            <content:encoded><![CDATA[2023.07.07  ~<br> 2023.07.08]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/06/20230619085538d3f59ee1-c257-4bd1-b8fb-e4303c91a49f.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[먼데이프로젝트 시즌6 My Universe［신현빈 단독 콘서트］]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=208428</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=208428</guid>
+            <pubDate>Fri, 07 Jul 2023 18:18:00 GMT</pubDate>
+            <content:encoded><![CDATA[2023.07.26  ~<br> 2023.07.26]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/06/2023062811245894c32007-5129-4da2-955b-d7bbc9f0951e.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[After Thoughts Showcase 001［After Thoughts］]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=208421</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=208421</guid>
+            <pubDate>Fri, 07 Jul 2023 18:18:00 GMT</pubDate>
+            <content:encoded><![CDATA[2023.08.06  ~<br> 2023.08.06]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/06/20230623102219dacbebd5-cce0-43df-a779-262a43ff44b9.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+    </channel>
+</rss>
