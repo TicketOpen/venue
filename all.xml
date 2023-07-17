@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Jul 2023 14:15:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Jul 2023 15:16:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -78,14 +78,6 @@
             <pubDate>Thu, 13 Jul 2023 04:16:09 GMT</pubDate>
             <content:encoded><![CDATA[2023.08.25  ~<br> 2023.08.25]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/07/202307121545431c6245ce-768c-465e-bee9-eaa0f08ca17c.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[먼데이프로젝트 시즌6［피에타 단독 콘서트 “뼈와 살”］ (멜론 티켓 ─ 웨스트브릿지)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=208407</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=208407</guid>
-            <pubDate>Tue, 11 Jul 2023 22:12:52 GMT</pubDate>
-            <content:encoded><![CDATA[2023.07.17  ~<br> 2023.07.17]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/06/2023061915445031745839-fbf1-422f-84b5-0ae69a03b0b5.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[초승 상영회 〈우리의 그늘〉 (멜론 티켓 ─ 웨스트브릿지)]]></title>
