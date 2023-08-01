@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 01 Aug 2023 04:16:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Aug 2023 05:14:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -96,7 +96,7 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/07/20230725134219186485b2-5140-4d76-b1a1-1d35efac7571.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
-            <title><![CDATA[크리스피 단독 콘서트：CMYK LIVE (멜론 티켓 ─ 롤링홀)]]></title>
+            <title><![CDATA[크리스피 단독콘서트 ‘Bruise Boy’：CMYK LIVE (멜론 티켓 ─ 롤링홀)]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=208568</link>
             <guid>https://ticket.melon.com/performance/index.htm?prodId=208568</guid>
             <pubDate>Tue, 01 Aug 2023 03:17:55 GMT</pubDate>
