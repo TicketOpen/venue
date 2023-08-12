@@ -4,17 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 12 Aug 2023 13:14:43 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Aug 2023 16:19:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[제이클레프（Jclef）：흠，흠 5주년 콘서트 (멜론 티켓 ─ 롤링홀)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=208471</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=208471</guid>
-            <pubDate>Sat, 12 Aug 2023 13:12:31 GMT</pubDate>
-            <content:encoded><![CDATA[2023.08.12  ~<br> 2023.08.12]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/07/20230706161624a2d66b00-6199-49a6-833d-9650e534ab3c.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
         <item>
             <title><![CDATA[마치（MRCH）단독 콘서트 ‘Festival！’ (멜론 티켓 ─ 롤링홀)]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=208506</link>
