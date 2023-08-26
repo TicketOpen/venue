@@ -4,17 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 26 Aug 2023 14:11:31 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Aug 2023 15:14:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[안다영 단독 콘서트 ‘sweet and awful social club！！！’ (멜론 티켓 ─ 롤링홀)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=208511</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=208511</guid>
-            <pubDate>Fri, 25 Aug 2023 22:12:25 GMT</pubDate>
-            <content:encoded><![CDATA[2023.08.26  ~<br> 2023.08.26]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/07/202307170959225cb3d7d1-d18f-44e7-9749-e2a82914c3f5.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
         <item>
             <title><![CDATA[ABOUT（어바웃）단독 콘서트 ‘SUMMERTIME SADNESS’ (멜론 티켓 ─ 롤링홀)]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=208570</link>
@@ -96,14 +88,6 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/07/2023072716240964e31cc9-acb4-4ff5-823e-82b37b410ba2.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
-            <title><![CDATA[2023 슈가볼 음주 콘서트 〈취한밤들：It＇s me，summer〉 (멜론 티켓 ─ 프리즘홀)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=208512</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=208512</guid>
-            <pubDate>Fri, 25 Aug 2023 22:12:48 GMT</pubDate>
-            <content:encoded><![CDATA[2023.08.25  ~<br> 2023.08.26]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/07/20230717105331d98b7139-2f1d-411d-b1cd-6c65b97dad4e.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
             <title><![CDATA[워킹애프터유：중요한 건 꺾이지 않는 마음 투어 파이널！ (멜론 티켓 ─ 프리즘홀)]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=208581</link>
             <guid>https://ticket.melon.com/performance/index.htm?prodId=208581</guid>
@@ -174,14 +158,6 @@
             <pubDate>Fri, 25 Aug 2023 22:13:22 GMT</pubDate>
             <content:encoded><![CDATA[2023.09.10  ~<br> 2023.09.10]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/08/2023080214451230faf763-fcc9-4b13-9dc3-d01fbbe6e0dc.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[2023 블루파프리카 단독콘서트 〈Serenade〉 (멜론 티켓 ─ CJ아지트 광흥창)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=208541</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=208541</guid>
-            <pubDate>Fri, 25 Aug 2023 22:13:45 GMT</pubDate>
-            <content:encoded><![CDATA[2023.08.25  ~<br> 2023.08.26]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/07/202307241550057bee9ad6-b23f-4261-8e69-605b6b119cce.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[지선 20주년 앵콜 콘서트 〈스무번째 여름，그리고．．．〉 (멜론 티켓 ─ CJ아지트 광흥창)]]></title>
