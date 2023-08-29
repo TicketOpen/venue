@@ -4,7 +4,7 @@
         <title>멜론 티켓 ─ 벨로주</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Aug 2023 07:14:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Aug 2023 08:17:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -32,7 +32,7 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/08/20230822151453ac122180-175c-4f85-97ae-e2fc57344932.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
-            <title><![CDATA[그＿냥 단독공연 〈CosMos〉]]></title>
+            <title><![CDATA[〈CosMos〉]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=208670</link>
             <guid>https://ticket.melon.com/performance/index.htm?prodId=208670</guid>
             <pubDate>Tue, 29 Aug 2023 05:13:07 GMT</pubDate>
