@@ -1,8 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://ticket.melon.com/place/index.htm?placeId=12</id>
-    <title>멜론 티켓 ─ 벨로주</title>
-    <updated>2023-08-29T09:13:03.146Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://ticket.melon.com/place/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>멜론 티켓 ─ 벨로주</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Tue, 29 Aug 2023 10:16:14 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[사공 단독공연]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=208651</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=208651</guid>
+            <pubDate>Tue, 29 Aug 2023 10:14:26 GMT</pubDate>
+            <content:encoded><![CDATA[2023.09.09  ~<br> 2023.09.09]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/08/2023082111084185b2ce04-cfb3-4156-b75d-f440f967c5fc.png/melon/resize/90x125/strip/true" length="0" type="image/png/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[곽진언 소극장 콘서트－Op．10]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=208571</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=208571</guid>
+            <pubDate>Tue, 29 Aug 2023 10:14:26 GMT</pubDate>
+            <content:encoded><![CDATA[2023.09.16  ~<br> 2023.09.17]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/07/20230728144836134181ba-edc3-427a-bd2c-9481081f12bc.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[먼데이프로젝트 시즌6 Our Universe［제인팝 단독 콘서트］]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=208658</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=208658</guid>
+            <pubDate>Tue, 29 Aug 2023 10:14:26 GMT</pubDate>
+            <content:encoded><![CDATA[2023.09.18  ~<br> 2023.09.18]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/08/20230822151453ac122180-175c-4f85-97ae-e2fc57344932.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[〈CosMos〉]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=208670</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=208670</guid>
+            <pubDate>Tue, 29 Aug 2023 10:14:26 GMT</pubDate>
+            <content:encoded><![CDATA[2023.09.23  ~<br> 2023.09.23]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/08/202308291135488d75e402-5d84-4a20-b6b8-df4013734f9d.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+    </channel>
+</rss>
