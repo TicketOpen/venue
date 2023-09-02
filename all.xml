@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 02 Sep 2023 14:13:28 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Sep 2023 15:13:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -70,14 +70,6 @@
             <pubDate>Fri, 01 Sep 2023 20:12:09 GMT</pubDate>
             <content:encoded><![CDATA[2023.10.28  ~<br> 2023.10.28]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/09/20230901101415288ceca7-2086-45a8-b7e4-56c63f699516.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[정아로 단독 콘서트 ‘마음의 날씨’ (멜론 티켓 ─ 웨스트브릿지)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=208562</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=208562</guid>
-            <pubDate>Fri, 01 Sep 2023 20:12:20 GMT</pubDate>
-            <content:encoded><![CDATA[2023.09.02  ~<br> 2023.09.02]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/07/2023072716240964e31cc9-acb4-4ff5-823e-82b37b410ba2.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[김세헌＆네미시스 JOINT LIVE CONCERT (멜론 티켓 ─ 웨스트브릿지)]]></title>
@@ -152,14 +144,6 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/08/202308291135488d75e402-5d84-4a20-b6b8-df4013734f9d.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
-            <title><![CDATA[윤서빈 팬미팅 ‘Holiday in SEOBIN’ (멜론 티켓 ─ 구름아래소극장)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=208615</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=208615</guid>
-            <pubDate>Fri, 01 Sep 2023 20:12:52 GMT</pubDate>
-            <content:encoded><![CDATA[2023.09.02  ~<br> 2023.09.02]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/08/20230810101016d079e5dd-b471-4c0d-be48-5b8ee4622167.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
             <title><![CDATA[강아솔 X 주윤하 〈우리 다시 만날 때〉 (멜론 티켓 ─ 구름아래소극장)]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=208594</link>
             <guid>https://ticket.melon.com/performance/index.htm?prodId=208594</guid>
@@ -182,14 +166,6 @@
             <pubDate>Fri, 01 Sep 2023 20:13:04 GMT</pubDate>
             <content:encoded><![CDATA[2023.09.23  ~<br> 2023.09.24]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/08/2023082414170926bf3472-f4fb-482a-9be0-0ce44a316144.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[지선 20주년 앵콜 콘서트 〈스무번째 여름，그리고．．．〉 (멜론 티켓 ─ CJ아지트 광흥창)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=208595</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=208595</guid>
-            <pubDate>Fri, 01 Sep 2023 20:13:25 GMT</pubDate>
-            <content:encoded><![CDATA[2023.09.02  ~<br> 2023.09.02]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/08/20230809104959fa075956-f88d-4069-abb3-168618348941.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[먼데이프로젝트 시즌6 My Universe［루루 단독 콘서트］ (멜론 티켓 ─ CJ아지트 광흥창)]]></title>
