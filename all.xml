@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Sep 2023 02:20:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Sep 2023 03:14:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,14 @@
             <pubDate>Fri, 01 Sep 2023 20:12:09 GMT</pubDate>
             <content:encoded><![CDATA[2023.09.17  ~<br> 2023.09.17]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/07/20230724134659b7b291e4-a463-485e-a8db-8ba29b1174a0.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[행로난 단독 콘서트 〈우로보로스〉 (멜론 티켓 ─ 롤링홀)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=208700</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=208700</guid>
+            <pubDate>Mon, 04 Sep 2023 03:12:15 GMT</pubDate>
+            <content:encoded><![CDATA[2023.09.22  ~<br> 2023.09.22]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/09/202309040916096a6fe9f3-9f59-440d-8d39-d15db2d18f50.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[다브다 EP 발매 콘서트［Yonder］ (멜론 티켓 ─ 롤링홀)]]></title>
@@ -158,6 +166,14 @@
             <pubDate>Fri, 01 Sep 2023 20:13:25 GMT</pubDate>
             <content:encoded><![CDATA[2023.09.06  ~<br> 2023.09.06]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/08/202308090854458a68da0c-8e44-4bcd-b959-9d74db067a34.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[신직선 EP ‘연결’ 발매 기념 쇼케이스：Connected． (멜론 티켓 ─ CJ아지트 광흥창)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=208693</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=208693</guid>
+            <pubDate>Mon, 04 Sep 2023 03:13:27 GMT</pubDate>
+            <content:encoded><![CDATA[2023.09.15  ~<br> 2023.09.15]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/09/20230901102915d88547a4-2383-42f5-aa3c-cc10f6127036.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[MUSIC RUNWAY ＃2：아디오스오디오 X 크리스탈 티 (멜론 티켓 ─ CJ아지트 광흥창)]]></title>
