@@ -4,7 +4,7 @@
         <title>멜론 티켓 ─ CJ아지트 광흥창</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Sep 2023 10:14:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Sep 2023 11:12:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,14 @@
             <pubDate>Wed, 06 Sep 2023 11:11:06 GMT</pubDate>
             <content:encoded><![CDATA[2023.10.07  ~<br> 2023.10.07]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/08/2023083013543418e50833-f55c-42ff-aded-e26e68a55179.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[MIGHT GET LOUD VOL．1]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=208716</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=208716</guid>
+            <pubDate>Thu, 07 Sep 2023 11:11:46 GMT</pubDate>
+            <content:encoded><![CDATA[2023.10.14  ~<br> 2023.10.14]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/09/2023090613541981275f92-4d8e-44be-8013-2c5d37725833.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
