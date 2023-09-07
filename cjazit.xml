@@ -1,51 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>멜론 티켓 ─ CJ아지트 광흥창</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Thu, 07 Sep 2023 17:12:21 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[신직선 EP ‘연결’ 발매 기념 쇼케이스：Connected．]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=208693</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=208693</guid>
-            <pubDate>Wed, 06 Sep 2023 11:11:06 GMT</pubDate>
-            <content:encoded><![CDATA[2023.09.15  ~<br> 2023.09.15]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/09/20230901102915d88547a4-2383-42f5-aa3c-cc10f6127036.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[이형주 정규 1집 쇼케이스 “우리는 서로를 간직하려고”]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=208698</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=208698</guid>
-            <pubDate>Wed, 06 Sep 2023 11:11:06 GMT</pubDate>
-            <content:encoded><![CDATA[2023.09.22  ~<br> 2023.09.22]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/09/2023090116141939f230fa-54c1-40d3-831a-46e460bd27b6.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[MUSIC RUNWAY ＃2：아디오스오디오 X 크리스탈 티]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=208649</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=208649</guid>
-            <pubDate>Wed, 06 Sep 2023 11:11:06 GMT</pubDate>
-            <content:encoded><![CDATA[2023.09.23  ~<br> 2023.09.23]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/08/202308210911059cc0937e-a90a-4df3-8827-01c447d17a5a.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[MUSIC RUNWAY ＃3：로우행잉프루츠 X 잭킹콩]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=208686</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=208686</guid>
-            <pubDate>Wed, 06 Sep 2023 11:11:06 GMT</pubDate>
-            <content:encoded><![CDATA[2023.10.07  ~<br> 2023.10.07]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/08/2023083013543418e50833-f55c-42ff-aded-e26e68a55179.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[MIGHT GET LOUD VOL．1]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=208716</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=208716</guid>
-            <pubDate>Thu, 07 Sep 2023 11:11:46 GMT</pubDate>
-            <content:encoded><![CDATA[2023.10.14  ~<br> 2023.10.14]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/09/2023090613541981275f92-4d8e-44be-8013-2c5d37725833.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://ticket.melon.com/place/index.htm?placeId=329</id>
+    <title>멜론 티켓 ─ CJ아지트 광흥창</title>
+    <updated>2023-09-07T18:15:38.591Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://ticket.melon.com/place/favicon.ico</icon>
+</feed>
