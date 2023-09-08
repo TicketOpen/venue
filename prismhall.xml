@@ -4,17 +4,9 @@
         <title>멜론 티켓 ─ 프리즘홀</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Sep 2023 12:27:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Sep 2023 15:12:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[티키타카 콘서트 : 로우행잉프루츠]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=208617</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=208617</guid>
-            <pubDate>Thu, 07 Sep 2023 19:10:41 GMT</pubDate>
-            <content:encoded><![CDATA[2023.09.08  ~<br> 2023.09.08]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/08/20230810105621307ea44d-8e38-4d86-8826-2da553e1fd20.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
         <item>
             <title><![CDATA[피에타x사막꽃：아무 것도 아닌 것이 될 수도 있는 모든 것]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=208701</link>
