@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Sep 2023 04:15:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Sep 2023 06:18:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -134,6 +134,14 @@
             <pubDate>Thu, 07 Sep 2023 19:10:51 GMT</pubDate>
             <content:encoded><![CDATA[2023.09.23  ~<br> 2023.09.23]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/08/202308291135488d75e402-5d84-4a20-b6b8-df4013734f9d.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[음악으로 듣는 과학：재즈와 함께하는 과학토크 콘서트 (멜론 티켓 ─ 벨로주)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=208724</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=208724</guid>
+            <pubDate>Fri, 08 Sep 2023 06:16:30 GMT</pubDate>
+            <content:encoded><![CDATA[2023.10.13  ~<br> 2023.10.14]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/09/20230907135149010452c5-c75a-492f-bcb3-2835808048ad.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[강아솔 X 주윤하 〈우리 다시 만날 때〉 (멜론 티켓 ─ 구름아래소극장)]]></title>
