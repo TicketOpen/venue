@@ -4,17 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Sep 2023 14:12:22 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Sep 2023 15:12:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[크리스피 단독콘서트 ‘Bruise Boy’：CMYK LIVE (멜론 티켓 ─ 롤링홀)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=208568</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=208568</guid>
-            <pubDate>Thu, 07 Sep 2023 19:10:20 GMT</pubDate>
-            <content:encoded><![CDATA[2023.09.10  ~<br> 2023.09.10]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/07/20230731151905c6f01009-e7b6-48df-ac53-e183f6833cbf.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
         <item>
             <title><![CDATA[우물 EP앨범 발매 기념 콘서트 ‘마른／정원’ (멜론 티켓 ─ 롤링홀)]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=208628</link>
@@ -126,14 +118,6 @@
             <pubDate>Fri, 08 Sep 2023 06:16:30 GMT</pubDate>
             <content:encoded><![CDATA[2023.10.13  ~<br> 2023.10.14]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/09/20230907135149010452c5-c75a-492f-bcb3-2835808048ad.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[It’s begun EP．4 예빛－‘조금 멀지 않은 그곳에’ (멜론 티켓 ─ KT&G 상상마당 라이브홀)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=208590</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=208590</guid>
-            <pubDate>Thu, 07 Sep 2023 19:11:10 GMT</pubDate>
-            <content:encoded><![CDATA[2023.09.10  ~<br> 2023.09.10]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/08/2023080214451230faf763-fcc9-4b13-9dc3-d01fbbe6e0dc.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[한로로 1st 단독콘서트 ‘이상비행’ (멜론 티켓 ─ KT&G 상상마당 라이브홀)]]></title>
