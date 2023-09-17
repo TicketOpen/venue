@@ -4,17 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Sep 2023 14:12:06 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Sep 2023 15:13:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[락킷걸 첫 단독 콘서트：never stop rock (멜론 티켓 ─ 롤링홀)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=208542</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=208542</guid>
-            <pubDate>Sun, 17 Sep 2023 08:13:29 GMT</pubDate>
-            <content:encoded><![CDATA[2023.09.17  ~<br> 2023.09.17]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/07/20230724134659b7b291e4-a463-485e-a8db-8ba29b1174a0.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
         <item>
             <title><![CDATA[행로난 단독 콘서트 〈우로보로스〉 (멜론 티켓 ─ 롤링홀)]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=208700</link>
@@ -104,14 +96,6 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/09/20230904095145eb13424e-4f42-44ef-a291-539effcf3782.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
-            <title><![CDATA[곽진언 소극장 콘서트－Op．10 (멜론 티켓 ─ 벨로주)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=208571</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=208571</guid>
-            <pubDate>Sun, 17 Sep 2023 08:13:59 GMT</pubDate>
-            <content:encoded><![CDATA[2023.09.16  ~<br> 2023.09.17]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/07/20230728144836134181ba-edc3-427a-bd2c-9481081f12bc.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
             <title><![CDATA[먼데이프로젝트 시즌6 Our Universe［제인팝 단독 콘서트］ (멜론 티켓 ─ 벨로주)]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=208658</link>
             <guid>https://ticket.melon.com/performance/index.htm?prodId=208658</guid>
@@ -174,14 +158,6 @@
             <pubDate>Sun, 17 Sep 2023 08:14:38 GMT</pubDate>
             <content:encoded><![CDATA[2023.10.14  ~<br> 2023.10.14]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/09/2023090613541981275f92-4d8e-44be-8013-2c5d37725833.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[MAMAMOO＋ 1ST FAN CONCERT ‘TWO RABBITS CODE’ (멜론 티켓 ─ 예스24 라이브홀)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=208640</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=208640</guid>
-            <pubDate>Sun, 17 Sep 2023 08:14:48 GMT</pubDate>
-            <content:encoded><![CDATA[2023.09.16  ~<br> 2023.09.17]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/08/2023082116531695220bc6-3906-4104-9ecb-b49c7e5fc461.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
