@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Sep 2023 14:14:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Sep 2023 15:16:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -102,14 +102,6 @@
             <pubDate>Mon, 18 Sep 2023 10:13:19 GMT</pubDate>
             <content:encoded><![CDATA[2023.10.15  ~<br> 2023.10.15]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/09/20230918181925ecc8690b-e9ee-4b19-abb5-19db832820ec.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[먼데이프로젝트 시즌6 Our Universe［제인팝 단독 콘서트］ (멜론 티켓 ─ 벨로주)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=208658</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=208658</guid>
-            <pubDate>Mon, 18 Sep 2023 10:13:29 GMT</pubDate>
-            <content:encoded><![CDATA[2023.09.18  ~<br> 2023.09.18]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/08/20230822151453ac122180-175c-4f85-97ae-e2fc57344932.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[〈CosMos〉 (멜론 티켓 ─ 벨로주)]]></title>
