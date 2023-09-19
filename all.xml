@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Sep 2023 04:18:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Sep 2023 05:14:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -102,6 +102,14 @@
             <pubDate>Mon, 18 Sep 2023 10:13:19 GMT</pubDate>
             <content:encoded><![CDATA[2023.10.06  ~<br> 2023.10.06]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/09/20230904095145eb13424e-4f42-44ef-a291-539effcf3782.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[YEGNYx베리코이버니x투데이올드스니커즈：프리즘홀 10주년 기념공연 ‘A．D．10’ (멜론 티켓 ─ 프리즘홀)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=208791</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=208791</guid>
+            <pubDate>Tue, 19 Sep 2023 05:13:03 GMT</pubDate>
+            <content:encoded><![CDATA[2023.10.13  ~<br> 2023.10.13]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/09/2023091910182019b54383-a699-49de-81eb-58acfc5b77de.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[친구가되자 vol．2：전기뱀장어 x 공중그늘 (멜론 티켓 ─ 프리즘홀)]]></title>
