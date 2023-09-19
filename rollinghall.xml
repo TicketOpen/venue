@@ -4,7 +4,7 @@
         <title>멜론 티켓 ─ 롤링홀</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Sep 2023 02:21:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Sep 2023 03:18:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Mon, 18 Sep 2023 10:12:57 GMT</pubDate>
             <content:encoded><![CDATA[2023.10.07  ~<br> 2023.10.08]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/08/202308291706495d8637f3-e42d-4df4-9d08-d30e0c45527e.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[양반들 New Moon EP Showcase]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=208790</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=208790</guid>
+            <pubDate>Tue, 19 Sep 2023 03:15:54 GMT</pubDate>
+            <content:encoded><![CDATA[2023.10.26  ~<br> 2023.10.26]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/09/20230919092441cdc9a88a-af61-4125-8a2d-3fad8ba1a724.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[2023 Halloween Night 라이브 콘서트]]></title>
