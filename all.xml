@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Sep 2023 07:13:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Sep 2023 09:15:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -174,6 +174,14 @@
             <pubDate>Mon, 18 Sep 2023 10:14:10 GMT</pubDate>
             <content:encoded><![CDATA[2023.10.14  ~<br> 2023.10.14]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/09/2023090613541981275f92-4d8e-44be-8013-2c5d37725833.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[그리즐리（Grizzly）Concert：Autumn House (멜론 티켓 ─ CJ아지트 광흥창)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=208792</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=208792</guid>
+            <pubDate>Tue, 19 Sep 2023 09:14:38 GMT</pubDate>
+            <content:encoded><![CDATA[2023.10.21  ~<br> 2023.10.21]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/09/2023091911473167e0a8ba-634c-4417-b54f-3cd01fb58fc5.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
