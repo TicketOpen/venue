@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Sep 2023 13:18:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Sep 2023 17:12:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -54,14 +54,6 @@
             <pubDate>Mon, 18 Sep 2023 10:12:57 GMT</pubDate>
             <content:encoded><![CDATA[2023.11.04  ~<br> 2023.11.04]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/09/20230912091944aa51515b-4c85-4502-be01-82df4e30e682.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[먼데이프로젝트 시즌6 My Universe［이준형 단독 콘서트］ (멜론 티켓 ─ 웨스트브릿지)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=208688</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=208688</guid>
-            <pubDate>Mon, 18 Sep 2023 10:13:08 GMT</pubDate>
-            <content:encoded><![CDATA[2023.09.19  ~<br> 2023.09.19]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/08/2023083109422656709db2-f0ca-41a4-b3eb-ef2fd17112f7.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[먼데이프로젝트 시즌6 청춘의 밤［튜즈데이비치클럽 단독 콘서트］ (멜론 티켓 ─ 웨스트브릿지)]]></title>
