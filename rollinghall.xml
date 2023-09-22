@@ -4,17 +4,9 @@
         <title>멜론 티켓 ─ 롤링홀</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Sep 2023 14:13:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Sep 2023 15:14:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[행로난 단독 콘서트 〈우로보로스〉]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=208700</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=208700</guid>
-            <pubDate>Thu, 21 Sep 2023 11:12:06 GMT</pubDate>
-            <content:encoded><![CDATA[2023.09.22  ~<br> 2023.09.22]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/09/202309040916096a6fe9f3-9f59-440d-8d39-d15db2d18f50.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
         <item>
             <title><![CDATA[다브다 EP 발매 콘서트［Yonder］]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=208647</link>
