@@ -4,9 +4,65 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Sep 2023 08:20:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Sep 2023 09:14:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김준서 콘서트：3인칭 (멜론 티켓 ─ 롤링홀)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=208682</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=208682</guid>
+            <pubDate>Thu, 28 Sep 2023 09:12:19 GMT</pubDate>
+            <content:encoded><![CDATA[2023.10.07  ~<br> 2023.10.08]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/08/202308291706495d8637f3-e42d-4df4-9d08-d30e0c45527e.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[썸머소울 싱글 발매 기념 단독 콘서트：Ruby＆Ride (멜론 티켓 ─ 롤링홀)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=208794</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=208794</guid>
+            <pubDate>Thu, 28 Sep 2023 09:12:19 GMT</pubDate>
+            <content:encoded><![CDATA[2023.10.20  ~<br> 2023.10.20]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/09/20230919151236531f5c7e-1bda-4b95-8ee7-db5dc9c46104.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[양반들 New Moon EP Showcase (멜론 티켓 ─ 롤링홀)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=208790</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=208790</guid>
+            <pubDate>Thu, 28 Sep 2023 09:12:19 GMT</pubDate>
+            <content:encoded><![CDATA[2023.10.26  ~<br> 2023.10.26]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/09/20230919092441cdc9a88a-af61-4125-8a2d-3fad8ba1a724.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[Izykite＆JAEMAN＆JUNGSOOMIN：RED STATION＃6 (멜론 티켓 ─ 롤링홀)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=208800</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=208800</guid>
+            <pubDate>Thu, 28 Sep 2023 09:12:19 GMT</pubDate>
+            <content:encoded><![CDATA[2023.10.27  ~<br> 2023.10.27]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/09/20230921093707fba97395-87e4-410c-a5c1-2cddc6885fa8.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2023 Halloween Night 라이브 콘서트 (멜론 티켓 ─ 롤링홀)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=208690</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=208690</guid>
+            <pubDate>Thu, 28 Sep 2023 09:12:19 GMT</pubDate>
+            <content:encoded><![CDATA[2023.10.28  ~<br> 2023.10.28]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/09/20230904091832fd865311-882f-42d4-81fa-9b86faa409e1.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[ANDOR 단독 콘서트：ESCAPE ROUTE (멜론 티켓 ─ 롤링홀)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=208815</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=208815</guid>
+            <pubDate>Thu, 28 Sep 2023 09:12:19 GMT</pubDate>
+            <content:encoded><![CDATA[2023.11.03  ~<br> 2023.11.03]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/09/20230922180405caf29742-639e-4c65-8e92-f2207a8d2d56.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[크라잉넛 X 킹곤즈（킹고너츠 Vol．3） (멜론 티켓 ─ 롤링홀)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=208739</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=208739</guid>
+            <pubDate>Thu, 28 Sep 2023 09:12:19 GMT</pubDate>
+            <content:encoded><![CDATA[2023.11.04  ~<br> 2023.11.04]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/09/20230912091944aa51515b-4c85-4502-be01-82df4e30e682.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[9001 단독 콘서트 〈gool kids〉 (멜론 티켓 ─ 웨스트브릿지)]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=208762</link>
