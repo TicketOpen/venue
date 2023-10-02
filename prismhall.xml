@@ -1,67 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>멜론 티켓 ─ 프리즘홀</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Mon, 02 Oct 2023 09:15:28 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[스트릿건즈x레이지본x분리수거밴드：프리즘홀 10주년 기념공연 ‘A．D．10’]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=208765</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=208765</guid>
-            <pubDate>Fri, 29 Sep 2023 22:11:17 GMT</pubDate>
-            <content:encoded><![CDATA[2023.10.02  ~<br> 2023.10.02]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/09/202309141121041e9b1bc4-6248-4f8c-aea9-9953e78e1f3e.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[피에타x사막꽃：아무 것도 아닌 것이 될 수도 있는 모든 것]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=208701</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=208701</guid>
-            <pubDate>Fri, 29 Sep 2023 22:11:17 GMT</pubDate>
-            <content:encoded><![CDATA[2023.10.06  ~<br> 2023.10.06]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/09/20230904095145eb13424e-4f42-44ef-a291-539effcf3782.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[YEGNYx베리코이버니x투데이올드스니커즈：프리즘홀 10주년 기념공연 ‘A．D．10’]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=208791</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=208791</guid>
-            <pubDate>Fri, 29 Sep 2023 22:11:17 GMT</pubDate>
-            <content:encoded><![CDATA[2023.10.13  ~<br> 2023.10.13]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/09/2023091910182019b54383-a699-49de-81eb-58acfc5b77de.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[친구가되자 vol．2：전기뱀장어 x 공중그늘]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=208788</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=208788</guid>
-            <pubDate>Fri, 29 Sep 2023 22:11:17 GMT</pubDate>
-            <content:encoded><![CDATA[2023.10.15  ~<br> 2023.10.15]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/09/20230918181925ecc8690b-e9ee-4b19-abb5-19db832820ec.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[팔칠댄스x잭킹콩：프리즘홀 10주년 기념공연 ‘A．D．10’]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=208801</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=208801</guid>
-            <pubDate>Fri, 29 Sep 2023 22:11:17 GMT</pubDate>
-            <content:encoded><![CDATA[2023.10.20  ~<br> 2023.10.20]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/09/2023092111401780d57eb2-3fcd-430a-a815-b8f6a7a8e42f.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[까데호x킹스턴루디스카x키라라：프리즘홀 10주년 기념공연 ‘A．D．10’]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=208803</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=208803</guid>
-            <pubDate>Fri, 29 Sep 2023 22:11:17 GMT</pubDate>
-            <content:encoded><![CDATA[2023.10.21  ~<br> 2023.10.21]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/09/2023092113501683367df4-3896-4c72-a3d8-a3068fe10652.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[다브다x제이통：프리즘홀 10주년 기념공연 ‘A．D．10‘]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=208804</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=208804</guid>
-            <pubDate>Fri, 29 Sep 2023 22:11:17 GMT</pubDate>
-            <content:encoded><![CDATA[2023.10.22  ~<br> 2023.10.22]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/09/20230921140308f3d61820-970d-41ef-94c0-28bea2e64bd0.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://ticket.melon.com/place/index.htm?placeId=731</id>
+    <title>멜론 티켓 ─ 프리즘홀</title>
+    <updated>2023-10-02T10:14:26.205Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://ticket.melon.com/place/favicon.ico</icon>
+</feed>
