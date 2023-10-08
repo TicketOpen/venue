@@ -4,17 +4,9 @@
         <title>멜론 티켓 ─ 롤링홀</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 08 Oct 2023 14:11:43 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Oct 2023 15:13:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[김준서 콘서트：3인칭]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=208682</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=208682</guid>
-            <pubDate>Fri, 06 Oct 2023 06:15:49 GMT</pubDate>
-            <content:encoded><![CDATA[2023.10.07  ~<br> 2023.10.08]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/08/202308291706495d8637f3-e42d-4df4-9d08-d30e0c45527e.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
         <item>
             <title><![CDATA[썸머소울 싱글 발매 기념 단독 콘서트：Ruby＆Ride]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=208794</link>
