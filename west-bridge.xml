@@ -1,8 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://ticket.melon.com/place/index.htm?placeId=293</id>
-    <title>멜론 티켓 ─ 웨스트브릿지</title>
-    <updated>2023-10-14T16:14:22.148Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://ticket.melon.com/place/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>멜론 티켓 ─ 웨스트브릿지</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sat, 14 Oct 2023 17:12:39 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[9001 단독 콘서트 〈gool kids〉]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=208762</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=208762</guid>
+            <pubDate>Sat, 14 Oct 2023 17:10:26 GMT</pubDate>
+            <content:encoded><![CDATA[2023.10.14  ~<br> 2023.10.15]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/09/202309141013208763042c-93e7-4f86-9f6a-b1e17a549039.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[Flight1112：기욱（ONEWE）편]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=208853</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=208853</guid>
+            <pubDate>Sat, 14 Oct 2023 17:10:26 GMT</pubDate>
+            <content:encoded><![CDATA[2023.11.12  ~<br> 2023.11.12]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/10/20231006084925cbb309b0-0367-474d-b3c3-c843112f9b3e.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+    </channel>
+</rss>
