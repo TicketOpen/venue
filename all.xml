@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 14 Oct 2023 14:12:02 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 14 Oct 2023 15:13:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -96,14 +96,6 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/10/20231006084925cbb309b0-0367-474d-b3c3-c843112f9b3e.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
-            <title><![CDATA[디어클라우드：프리즘홀 10주년 기념공연 ‘A．D．10’ (멜론 티켓 ─ 프리즘홀)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=208855</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=208855</guid>
-            <pubDate>Fri, 06 Oct 2023 06:16:13 GMT</pubDate>
-            <content:encoded><![CDATA[2023.10.14  ~<br> 2023.10.14]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/10/20231005185859e1b8ebff-f24e-4590-8e3e-89091743ce37.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
             <title><![CDATA[친구가되자 vol．2：전기뱀장어 x 공중그늘 (멜론 티켓 ─ 프리즘홀)]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=208788</link>
             <guid>https://ticket.melon.com/performance/index.htm?prodId=208788</guid>
@@ -150,14 +142,6 @@
             <pubDate>Fri, 06 Oct 2023 06:16:13 GMT</pubDate>
             <content:encoded><![CDATA[2023.11.05  ~<br> 2023.11.05]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/10/20231005180249a889bb9a-1e21-4e8d-81c9-d230bb6e5973.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[음악으로 듣는 과학：재즈와 함께하는 과학토크 콘서트 (멜론 티켓 ─ 벨로주)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=208724</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=208724</guid>
-            <pubDate>Fri, 06 Oct 2023 06:16:24 GMT</pubDate>
-            <content:encoded><![CDATA[2023.10.13  ~<br> 2023.10.14]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/09/20230907135149010452c5-c75a-492f-bcb3-2835808048ad.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[Blue is Rock－DALDAM X HEYMEN (멜론 티켓 ─ 벨로주)]]></title>
@@ -214,14 +198,6 @@
             <pubDate>Wed, 11 Oct 2023 00:52:58 GMT</pubDate>
             <content:encoded><![CDATA[2023.11.11  ~<br> 2023.11.11]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/10/20231006111836cb9e1714-ba0a-47a2-9870-6aba64699822.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[MIGHT GET LOUD VOL．1 (멜론 티켓 ─ CJ아지트 광흥창)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=208716</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=208716</guid>
-            <pubDate>Fri, 06 Oct 2023 06:17:10 GMT</pubDate>
-            <content:encoded><![CDATA[2023.10.14  ~<br> 2023.10.14]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/09/2023090613541981275f92-4d8e-44be-8013-2c5d37725833.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[그리즐리（Grizzly）Concert：Autumn House (멜론 티켓 ─ CJ아지트 광흥창)]]></title>
