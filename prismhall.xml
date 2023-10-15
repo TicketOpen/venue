@@ -1,51 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>멜론 티켓 ─ 프리즘홀</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Sun, 15 Oct 2023 16:15:50 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[팔칠댄스x잭킹콩：프리즘홀 10주년 기념공연 ‘A．D．10’]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=208801</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=208801</guid>
-            <pubDate>Sat, 14 Oct 2023 17:10:37 GMT</pubDate>
-            <content:encoded><![CDATA[2023.10.20  ~<br> 2023.10.20]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/09/2023092111401780d57eb2-3fcd-430a-a815-b8f6a7a8e42f.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[까데호x킹스턴루디스카x키라라：프리즘홀 10주년 기념공연 ‘A．D．10’]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=208803</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=208803</guid>
-            <pubDate>Sat, 14 Oct 2023 17:10:37 GMT</pubDate>
-            <content:encoded><![CDATA[2023.10.21  ~<br> 2023.10.21]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/09/2023092113501683367df4-3896-4c72-a3d8-a3068fe10652.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[다브다x제이통：프리즘홀 10주년 기념공연 ‘A．D．10‘]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=208804</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=208804</guid>
-            <pubDate>Sat, 14 Oct 2023 17:10:37 GMT</pubDate>
-            <content:encoded><![CDATA[2023.10.22  ~<br> 2023.10.22]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/09/20230921140308f3d61820-970d-41ef-94c0-28bea2e64bd0.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[권나무：프리즘홀 10주년 기념공연 ‘A．D．10’]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=208820</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=208820</guid>
-            <pubDate>Sat, 14 Oct 2023 17:10:37 GMT</pubDate>
-            <content:encoded><![CDATA[2023.11.04  ~<br> 2023.11.04]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/09/20230926122539a5944aa4-4e21-4413-a3ad-e3fb21d6d0f5.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[정홍일x손진욱x2Z：프리즘홀 10주년 기념공연 ‘A．D．10’]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=208849</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=208849</guid>
-            <pubDate>Sat, 14 Oct 2023 17:10:37 GMT</pubDate>
-            <content:encoded><![CDATA[2023.11.05  ~<br> 2023.11.05]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/10/20231005180249a889bb9a-1e21-4e8d-81c9-d230bb6e5973.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://ticket.melon.com/place/index.htm?placeId=731</id>
+    <title>멜론 티켓 ─ 프리즘홀</title>
+    <updated>2023-10-15T17:11:48.171Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://ticket.melon.com/place/favicon.ico</icon>
+</feed>
