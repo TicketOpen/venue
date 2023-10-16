@@ -4,7 +4,7 @@
         <title>멜론 티켓 ─ 롤링홀</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 16 Oct 2023 02:24:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Oct 2023 03:15:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -78,6 +78,14 @@
             <pubDate>Sun, 15 Oct 2023 18:14:29 GMT</pubDate>
             <content:encoded><![CDATA[2023.11.17  ~<br> 2023.11.17]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/10/20231012113636343376a2-bc48-4f54-9327-b8eefce536d8.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[웨스턴카잇 겨울 단독 콘서트]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=208883</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=208883</guid>
+            <pubDate>Mon, 16 Oct 2023 03:12:54 GMT</pubDate>
+            <content:encoded><![CDATA[2023.11.24  ~<br> 2023.11.24]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/10/20231011160157d1e5b9b5-8b19-46cb-bd99-93cf97f99825.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
