@@ -1,8 +1,51 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://ticket.melon.com/place/index.htm?placeId=12</id>
-    <title>멜론 티켓 ─ 벨로주</title>
-    <updated>2023-10-19T08:16:17.456Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://ticket.melon.com/place/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>멜론 티켓 ─ 벨로주</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Thu, 19 Oct 2023 09:14:33 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Blue is Rock－DALDAM X HEYMEN]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=208826</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=208826</guid>
+            <pubDate>Thu, 19 Oct 2023 09:12:58 GMT</pubDate>
+            <content:encoded><![CDATA[2023.10.28  ~<br> 2023.10.28]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/09/202309271101246ac6bc98-4f4d-4764-8857-a01e19a9e2c2.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[김제형 X 숨비 토크콘서트 〈초연：2막 2장〉]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=208813</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=208813</guid>
+            <pubDate>Thu, 19 Oct 2023 09:12:58 GMT</pubDate>
+            <content:encoded><![CDATA[2023.10.29  ~<br> 2023.10.29]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/09/202309221332393ecd59be-7ab7-449a-97ac-847ea924bc53.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[공연 커다란 개념（이민휘，브로큰티스，전자양）]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=208906</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=208906</guid>
+            <pubDate>Thu, 19 Oct 2023 09:12:58 GMT</pubDate>
+            <content:encoded><![CDATA[2023.11.05  ~<br> 2023.11.05]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/10/20231017144157bd5238b5-5322-438f-9025-ab1da9219495.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[이설아 2집 쇼케이스 ‘작은 마을’]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=208874</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=208874</guid>
+            <pubDate>Thu, 19 Oct 2023 09:12:58 GMT</pubDate>
+            <content:encoded><![CDATA[2023.11.11  ~<br> 2023.11.11]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/10/202310101953503eaefe6c-9f4c-4fce-9c0e-e6bf1c90da70.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[시와 단독공연 〈나의 한 해〉]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=208911</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=208911</guid>
+            <pubDate>Thu, 19 Oct 2023 09:12:58 GMT</pubDate>
+            <content:encoded><![CDATA[2023.11.12  ~<br> 2023.11.12]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/10/202310181432570baf127e-b6a3-42f1-8204-886203bd532e.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+    </channel>
+</rss>
