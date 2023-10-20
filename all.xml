@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 20 Oct 2023 09:14:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Oct 2023 11:13:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -206,6 +206,14 @@
             <pubDate>Thu, 19 Oct 2023 09:12:58 GMT</pubDate>
             <content:encoded><![CDATA[2023.11.12  ~<br> 2023.11.12]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/10/202310181432570baf127e-b6a3-42f1-8204-886203bd532e.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[이주영 발라드 2023 “안녕，오랜만이야．” (멜론 티켓 ─ 벨로주)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=208931</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=208931</guid>
+            <pubDate>Fri, 20 Oct 2023 11:11:56 GMT</pubDate>
+            <content:encoded><![CDATA[2023.11.19  ~<br> 2023.11.19]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/10/20231019165117eb86d6b9-881d-46e7-a27f-10849ebf5f90.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[DREAM WALKER ＃3：해서웨이 (멜론 티켓 ─ 구름아래소극장)]]></title>
