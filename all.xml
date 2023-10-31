@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 Oct 2023 07:13:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Oct 2023 08:17:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -254,6 +254,14 @@
             <pubDate>Mon, 30 Oct 2023 21:12:16 GMT</pubDate>
             <content:encoded><![CDATA[2023.11.18  ~<br> 2023.11.18]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/10/202310061454064c435d20-7a5f-4b5e-80ff-42494499c737.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[브로큰 발렌타인 단독 콘서트－FIVE (멜론 티켓 ─ 노들섬)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=208964</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=208964</guid>
+            <pubDate>Tue, 31 Oct 2023 08:16:56 GMT</pubDate>
+            <content:encoded><![CDATA[2023.11.25  ~<br> 2023.11.25]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/10/202310311554364c56a9a1-1d6b-4b62-a1ff-92f800417426.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
