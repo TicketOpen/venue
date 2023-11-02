@@ -1,43 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>멜론 티켓 ─ 구름아래소극장</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Thu, 02 Nov 2023 09:14:55 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[김마리 정규 1집 〈러브레터〉 발매 기념 단독 공연]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=208890</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=208890</guid>
-            <pubDate>Wed, 01 Nov 2023 14:11:58 GMT</pubDate>
-            <content:encoded><![CDATA[2023.11.04  ~<br> 2023.11.04]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/10/20231013095524f8478840-a786-4b3a-b770-fb4e3fa77b83.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[해피성중데이]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=208918</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=208918</guid>
-            <pubDate>Wed, 01 Nov 2023 14:11:58 GMT</pubDate>
-            <content:encoded><![CDATA[2023.11.11  ~<br> 2023.11.11]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/10/20231019103901407a7bab-4835-414a-8f38-f8263340fb4b.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[신해경 단독 공연 with 이능룡 〈제비 학 육구〉]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=208981</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=208981</guid>
-            <pubDate>Wed, 01 Nov 2023 14:11:58 GMT</pubDate>
-            <content:encoded><![CDATA[2023.11.25  ~<br> 2023.11.26]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/10/20231030173015d9a6ce71-c5aa-4e3a-b420-00ec21374a0a.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[먼데이프로젝트 시즌6 순간의 노래［1415 단독 콘서트］]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=208949</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=208949</guid>
-            <pubDate>Wed, 01 Nov 2023 14:11:58 GMT</pubDate>
-            <content:encoded><![CDATA[2023.11.27  ~<br> 2023.11.27]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/10/20231024134357d15e5246-0ebf-4f15-a68f-9ea071a06674.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://ticket.melon.com/place/index.htm?placeId=724</id>
+    <title>멜론 티켓 ─ 구름아래소극장</title>
+    <updated>2023-11-02T10:14:12.925Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://ticket.melon.com/place/favicon.ico</icon>
+</feed>
