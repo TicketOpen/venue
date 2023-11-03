@@ -4,7 +4,7 @@
         <title>멜론 티켓 ─ 노들섬</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Nov 2023 10:16:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Nov 2023 11:12:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Thu, 02 Nov 2023 12:24:06 GMT</pubDate>
             <content:encoded><![CDATA[2023.12.02  ~<br> 2023.12.02]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/11/202311021144410f6ad0a7-2c27-48da-b9be-2163cf0686f5.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[오왠 연말 브랜드 단독 콘서트 ‘ALWAYS WITH YOU’]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=209005</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=209005</guid>
+            <pubDate>Fri, 03 Nov 2023 11:12:14 GMT</pubDate>
+            <content:encoded><![CDATA[2023.12.03  ~<br> 2023.12.03]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/11/2023110215214178f35a2f-032d-456f-9efc-28a39d3f05db.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
