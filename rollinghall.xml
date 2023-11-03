@@ -4,17 +4,9 @@
         <title>멜론 티켓 ─ 롤링홀</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Nov 2023 13:17:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Nov 2023 15:16:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[ANDOR 단독 콘서트：ESCAPE ROUTE]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=208815</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=208815</guid>
-            <pubDate>Thu, 02 Nov 2023 12:22:06 GMT</pubDate>
-            <content:encoded><![CDATA[2023.11.03  ~<br> 2023.11.03]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/09/20230922180405caf29742-639e-4c65-8e92-f2207a8d2d56.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
         <item>
             <title><![CDATA[크라잉넛 X 킹곤즈（킹고너츠 Vol．3）]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=208739</link>
