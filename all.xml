@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Nov 2023 02:24:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Nov 2023 03:14:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -32,6 +32,14 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/10/20231012113636343376a2-bc48-4f54-9327-b8eefce536d8.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
+            <title><![CDATA[2023 씬디 프레젠트 Vol．9（evenif（이븐이프）X Tuesday Beach Club（튜즈데이비치클럽）） (멜론 티켓 ─ 롤링홀)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=208996</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=208996</guid>
+            <pubDate>Tue, 07 Nov 2023 03:12:24 GMT</pubDate>
+            <content:encoded><![CDATA[2023.11.21  ~<br> 2023.11.21]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/11/20231107111748c5cf90ac-4418-4601-878a-8d736c3457e6.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
             <title><![CDATA[웨스턴카잇 겨울 단독 콘서트 (멜론 티켓 ─ 롤링홀)]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=208883</link>
             <guid>https://ticket.melon.com/performance/index.htm?prodId=208883</guid>
@@ -46,6 +54,14 @@
             <pubDate>Sun, 05 Nov 2023 01:54:38 GMT</pubDate>
             <content:encoded><![CDATA[2023.12.01  ~<br> 2023.12.01]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/10/202310171747116e4e4122-e25f-4cc9-95e2-3d131f10291a.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[아워테잎스 단독 콘서트：Rise (멜론 티켓 ─ 롤링홀)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=209027</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=209027</guid>
+            <pubDate>Tue, 07 Nov 2023 03:12:24 GMT</pubDate>
+            <content:encoded><![CDATA[2023.12.03  ~<br> 2023.12.03]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/11/202311061946008ac6f6a7-e708-4b11-8417-4b82efb57051.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[이글루베이 단독 콘서트 ‘장막’ (멜론 티켓 ─ 롤링홀)]]></title>
@@ -126,6 +142,14 @@
             <pubDate>Sun, 05 Nov 2023 01:55:00 GMT</pubDate>
             <content:encoded><![CDATA[2023.11.18  ~<br> 2023.11.18]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/10/20231018092801f12e6932-11fc-4b4a-9906-c61629ef9aa2.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2023 씬디 프레젠트 Vol．9（전현재X민트그레이X크랙샷X팔칠댄스（87dance）） (멜론 티켓 ─ 프리즘홀)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=209012</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=209012</guid>
+            <pubDate>Tue, 07 Nov 2023 03:12:46 GMT</pubDate>
+            <content:encoded><![CDATA[2023.11.23  ~<br> 2023.11.23]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/11/20231107111811c7b349ea-4122-4f21-93dd-eed10aa37fe4.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[이설아 2집 쇼케이스 ‘작은 마을’ (멜론 티켓 ─ 벨로주)]]></title>
