@@ -4,7 +4,7 @@
         <title>멜론 티켓 ─ KT&amp;G 상상마당 라이브홀</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Nov 2023 04:20:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Nov 2023 05:13:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -37,7 +37,7 @@
             <guid>https://ticket.melon.com/performance/index.htm?prodId=209011</guid>
             <pubDate>Sun, 05 Nov 2023 01:55:33 GMT</pubDate>
             <content:encoded><![CDATA[2023.11.26  ~<br> 2023.11.26]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/11/2023110309493419004cc5-df0f-40ed-b636-b609655be570.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/11/202311091321190973ed3b-a5f2-400c-9aaf-024ec3720a23.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
