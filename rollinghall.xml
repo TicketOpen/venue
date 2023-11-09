@@ -4,7 +4,7 @@
         <title>멜론 티켓 ─ 롤링홀</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Nov 2023 02:26:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Nov 2023 03:15:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -94,6 +94,14 @@
             <pubDate>Mon, 06 Nov 2023 03:12:32 GMT</pubDate>
             <content:encoded><![CDATA[2023.12.15  ~<br> 2023.12.15]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/11/202311061132179d1969c4-d03f-4280-acbd-d02f13eb4707.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[톡식（TOXIC）단독 콘서트：Starry Night]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=209028</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=209028</guid>
+            <pubDate>Thu, 09 Nov 2023 03:12:39 GMT</pubDate>
+            <content:encoded><![CDATA[2023.12.22  ~<br> 2023.12.22]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/11/202311070949567928f1fb-ca48-4a97-902e-5ea65208c627.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
