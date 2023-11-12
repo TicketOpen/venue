@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 Nov 2023 14:12:49 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Nov 2023 15:14:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -88,14 +88,6 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/11/202311070949567928f1fb-ca48-4a97-902e-5ea65208c627.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
-            <title><![CDATA[Flight1112：기욱（ONEWE）편 (멜론 티켓 ─ 웨스트브릿지)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=208853</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=208853</guid>
-            <pubDate>Sun, 05 Nov 2023 01:54:49 GMT</pubDate>
-            <content:encoded><![CDATA[2023.11.12  ~<br> 2023.11.12]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/10/20231006084925cbb309b0-0367-474d-b3c3-c843112f9b3e.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
             <title><![CDATA[먼데이프로젝트 시즌6 Our Universe［더 픽스 단독 콘서트］ (멜론 티켓 ─ 웨스트브릿지)]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=208908</link>
             <guid>https://ticket.melon.com/performance/index.htm?prodId=208908</guid>
@@ -142,14 +134,6 @@
             <pubDate>Tue, 07 Nov 2023 03:12:46 GMT</pubDate>
             <content:encoded><![CDATA[2023.11.23  ~<br> 2023.11.23]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/11/20231107111811c7b349ea-4122-4f21-93dd-eed10aa37fe4.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[시와 단독공연 〈나의 한 해〉 (멜론 티켓 ─ 벨로주)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=208911</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=208911</guid>
-            <pubDate>Sun, 05 Nov 2023 01:55:11 GMT</pubDate>
-            <content:encoded><![CDATA[2023.11.12  ~<br> 2023.11.12]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/10/202310181432570baf127e-b6a3-42f1-8204-886203bd532e.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[사뮈 단독 공연 〈가을은 흐릿한 오후－동백〉 (멜론 티켓 ─ 벨로주)]]></title>
@@ -286,14 +270,6 @@
             <pubDate>Sun, 05 Nov 2023 01:55:33 GMT</pubDate>
             <content:encoded><![CDATA[2023.11.26  ~<br> 2023.11.26]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/11/202311091321190973ed3b-a5f2-400c-9aaf-024ec3720a23.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[jerd 1st Concert［BOMM］ (멜론 티켓 ─ CJ아지트 광흥창)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=208880</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=208880</guid>
-            <pubDate>Sun, 05 Nov 2023 01:55:54 GMT</pubDate>
-            <content:encoded><![CDATA[2023.11.12  ~<br> 2023.11.12]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/10/20231011144138378a4840-5964-4154-8f1e-ae7733bbc982.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[모트 단독공연［미리 크리스모스］ (멜론 티켓 ─ CJ아지트 광흥창)]]></title>
