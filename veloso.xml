@@ -4,17 +4,9 @@
         <title>멜론 티켓 ─ 벨로주</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 18 Nov 2023 14:11:44 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Nov 2023 15:12:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[사뮈 단독 공연 〈가을은 흐릿한 오후－동백〉]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=208951</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=208951</guid>
-            <pubDate>Sun, 05 Nov 2023 01:55:11 GMT</pubDate>
-            <content:encoded><![CDATA[2023.11.18  ~<br> 2023.11.18]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/10/2023102414482365fb1aca-f86b-4cdd-b0ab-56c99ac639d7.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
         <item>
             <title><![CDATA[이주영 발라드 2023 “안녕，오랜만이야．”]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=208931</link>
