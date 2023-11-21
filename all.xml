@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Nov 2023 02:00:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Nov 2023 03:15:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -78,6 +78,14 @@
             <pubDate>Thu, 09 Nov 2023 03:12:39 GMT</pubDate>
             <content:encoded><![CDATA[2023.12.22  ~<br> 2023.12.22]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/11/202311070949567928f1fb-ca48-4a97-902e-5ea65208c627.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[김준서［집］ (멜론 티켓 ─ 롤링홀)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=209131</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=209131</guid>
+            <pubDate>Tue, 21 Nov 2023 03:13:14 GMT</pubDate>
+            <content:encoded><![CDATA[2023.12.30  ~<br> 2023.12.30]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/11/202311201804079e82f2be-059c-48a4-89f7-8e2ecdc581d7.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[정석훈 단독 콘서트 ‘연말결산：年末決算’ (멜론 티켓 ─ 롤링홀)]]></title>
