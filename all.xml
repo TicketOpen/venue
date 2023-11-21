@@ -4,17 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Nov 2023 14:14:46 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Nov 2023 15:14:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[2023 씬디 프레젠트 Vol．9．이븐이프 X 튜즈데이비치 클럽 (멜론 티켓 ─ 롤링홀)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=208996</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=208996</guid>
-            <pubDate>Tue, 07 Nov 2023 03:12:24 GMT</pubDate>
-            <content:encoded><![CDATA[2023.11.21  ~<br> 2023.11.21]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/11/20231117132946d3c255ff-1c24-47a6-bb94-0f8c5ef2aec9.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
         <item>
             <title><![CDATA[웨스턴카잇 겨울 단독 콘서트 (멜론 티켓 ─ 롤링홀)]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=208883</link>
