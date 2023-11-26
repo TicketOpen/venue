@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 Nov 2023 14:12:46 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Nov 2023 15:13:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -152,14 +152,6 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/11/20231115115207d8f1483e-7072-4b47-b22e-389163cdea2d.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
-            <title><![CDATA[임세모 겨울 단독 공연 〈2023 올해도 잘 살았다！〉 (멜론 티켓 ─ 벨로주)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=208942</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=208942</guid>
-            <pubDate>Sun, 05 Nov 2023 01:55:11 GMT</pubDate>
-            <content:encoded><![CDATA[2023.11.26  ~<br> 2023.11.26]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/10/20231023151750e0d977dc-1e32-4ffa-972d-aee565cee2cf.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
             <title><![CDATA[먼데이프로젝트 시즌6［JUNE（준）단독 콘서트 “Ending”］ (멜론 티켓 ─ 벨로주)]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=209041</link>
             <guid>https://ticket.melon.com/performance/index.htm?prodId=209041</guid>
@@ -206,14 +198,6 @@
             <pubDate>Fri, 17 Nov 2023 11:12:46 GMT</pubDate>
             <content:encoded><![CDATA[2023.12.31  ~<br> 2023.12.31]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/11/20231116151454b90a284e-4b06-4372-ae98-5409b22db656.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[신해경 단독 공연 with 이능룡 〈제비 학 육구〉 (멜론 티켓 ─ 구름아래소극장)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=208981</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=208981</guid>
-            <pubDate>Sun, 05 Nov 2023 01:55:22 GMT</pubDate>
-            <content:encoded><![CDATA[2023.11.25  ~<br> 2023.11.26]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/10/20231030173015d9a6ce71-c5aa-4e3a-b420-00ec21374a0a.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[먼데이프로젝트 시즌6 순간의 노래［1415 단독 콘서트］ (멜론 티켓 ─ 구름아래소극장)]]></title>
@@ -286,14 +270,6 @@
             <pubDate>Thu, 23 Nov 2023 05:14:21 GMT</pubDate>
             <content:encoded><![CDATA[2023.12.31  ~<br> 2023.12.31]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/11/20231123105132c3bc8037-8831-4336-8296-71e9261dea10.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[OFF－Live with 9（송재경） (멜론 티켓 ─ KT&G 상상마당 라이브홀)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=209011</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=209011</guid>
-            <pubDate>Sun, 05 Nov 2023 01:55:33 GMT</pubDate>
-            <content:encoded><![CDATA[2023.11.26  ~<br> 2023.11.26]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/11/202311091321190973ed3b-a5f2-400c-9aaf-024ec3720a23.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[안다영 연말 단독공연：xoxo (멜론 티켓 ─ KT&G 상상마당 라이브홀)]]></title>
