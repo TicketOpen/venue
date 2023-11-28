@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Nov 2023 23:14:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Nov 2023 02:29:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -166,6 +166,14 @@
             <pubDate>Fri, 17 Nov 2023 11:12:35 GMT</pubDate>
             <content:encoded><![CDATA[2023.12.15  ~<br> 2023.12.15]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/11/20231115115207d8f1483e-7072-4b47-b22e-389163cdea2d.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[히어로 2023 (멜론 티켓 ─ 프리즘홀)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=209129</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=209129</guid>
+            <pubDate>Tue, 28 Nov 2023 02:27:59 GMT</pubDate>
+            <content:encoded><![CDATA[2023.12.17  ~<br> 2023.12.17]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/11/202311270909427fb90124-5ddb-4d58-864b-10a631d30958.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[먼데이프로젝트 시즌6［JUNE（준）단독 콘서트 “Ending”］ (멜론 티켓 ─ 벨로주)]]></title>
