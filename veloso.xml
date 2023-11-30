@@ -4,17 +4,9 @@
         <title>멜론 티켓 ─ 벨로주</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Nov 2023 14:13:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Nov 2023 15:15:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[먼데이프로젝트 시즌6 ORIGINAL［다브다 단독 콘서트］]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=208988</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=208988</guid>
-            <pubDate>Sun, 05 Nov 2023 01:55:11 GMT</pubDate>
-            <content:encoded><![CDATA[2023.11.30  ~<br> 2023.11.30]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/10/20231031193159324126ce-e1b6-463a-8faf-5881f2ba24e4.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
         <item>
             <title><![CDATA[이희상 단독콘서트 〈Childhood〉]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=209017</link>
