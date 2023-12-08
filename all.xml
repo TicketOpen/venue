@@ -4,17 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Dec 2023 14:14:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Dec 2023 15:17:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[이글루베이 단독 콘서트 ‘장막’ (멜론 티켓 ─ 롤링홀)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=208963</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=208963</guid>
-            <pubDate>Sun, 05 Nov 2023 01:54:38 GMT</pubDate>
-            <content:encoded><![CDATA[2023.12.08  ~<br> 2023.12.08]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/10/202310261422104c6e615f-1469-4c63-b9b3-e996fba306de.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
         <item>
             <title><![CDATA[맥거핀 단독 콘서트：Mr．Education2 (멜론 티켓 ─ 롤링홀)]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=208985</link>
@@ -302,14 +294,6 @@
             <pubDate>Fri, 24 Nov 2023 05:12:57 GMT</pubDate>
             <content:encoded><![CDATA[2023.12.29  ~<br> 2023.12.29]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/11/2023112410171648170fda-5476-4bfa-ba56-73aac66011ea.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[우예린 단독공연 ［Alice in ‘tokki’ land］ (멜론 티켓 ─ CJ아지트 광흥창)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=209026</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=209026</guid>
-            <pubDate>Wed, 08 Nov 2023 09:13:35 GMT</pubDate>
-            <content:encoded><![CDATA[2023.12.08  ~<br> 2023.12.08]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/11/2023110619202443dc3c27-d5df-497b-b629-b32c6f207a79.png/melon/resize/90x125/strip/true" length="0" type="image/png/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[크래커（CRACKER）1st Concert：CRACKER is BASAK (멜론 티켓 ─ CJ아지트 광흥창)]]></title>
