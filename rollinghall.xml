@@ -4,7 +4,7 @@
         <title>멜론 티켓 ─ 롤링홀</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Dec 2023 02:28:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Dec 2023 03:15:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -110,6 +110,14 @@
             <pubDate>Thu, 07 Dec 2023 03:13:04 GMT</pubDate>
             <content:encoded><![CDATA[2024.01.05  ~<br> 2024.01.05]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/12/20231205140117e63ecade-264a-4acf-948e-3e71119247e1.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[화노 단독 콘서트 “우리의 날은 또 저물어 가겠죠”：롤링 29주년 기념 공연]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=209204</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=209204</guid>
+            <pubDate>Fri, 08 Dec 2023 03:12:50 GMT</pubDate>
+            <content:encoded><![CDATA[2024.01.11  ~<br> 2024.01.11]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/12/2023120615270450042e5a-608c-41c8-9c32-cf91ea52efef.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[yebit 2024 NEW YEAR’S CONCERT：롤링 29주년 기념 공연]]></title>
