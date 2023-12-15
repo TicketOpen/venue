@@ -4,7 +4,7 @@
         <title>멜론 티켓 ─ 웨스트브릿지</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Dec 2023 02:28:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Dec 2023 03:15:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,6 +46,14 @@
             <pubDate>Tue, 05 Dec 2023 10:13:51 GMT</pubDate>
             <content:encoded><![CDATA[2024.01.12  ~<br> 2024.01.12]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/12/20231204160600a564a411-aae9-4e0f-95f0-c3c18ee45715.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[NETM 레이블 콘서트 〈No one Ever Told Me〉]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=209236</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=209236</guid>
+            <pubDate>Fri, 15 Dec 2023 03:13:21 GMT</pubDate>
+            <content:encoded><![CDATA[2024.01.13  ~<br> 2024.01.13]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/12/20231214134800b39b3b17-136b-4eab-847c-2bd58570b6ea.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
