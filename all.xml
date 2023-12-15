@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Dec 2023 04:16:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Dec 2023 05:14:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -238,6 +238,14 @@
             <pubDate>Thu, 14 Dec 2023 03:13:45 GMT</pubDate>
             <content:encoded><![CDATA[2024.01.08  ~<br> 2024.01.08]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/12/2023121316095577024ffb-f975-4ee0-96fe-3a973ba902ff.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[Rosie（로지） (멜론 티켓 ─ 벨로주)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=209216</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=209216</guid>
+            <pubDate>Fri, 15 Dec 2023 05:12:21 GMT</pubDate>
+            <content:encoded><![CDATA[2024.01.13  ~<br> 2024.01.13]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/12/20231214171245108b7741-748e-45e0-beab-f28f7839741b.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[윤딴딴 겨울 독백 콘서트 〈기타하고 나하고 2023〉 (멜론 티켓 ─ 구름아래소극장)]]></title>
