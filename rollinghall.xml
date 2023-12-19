@@ -4,7 +4,7 @@
         <title>멜론 티켓 ─ 롤링홀</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Dec 2023 02:28:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Dec 2023 03:16:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -126,6 +126,14 @@
             <pubDate>Fri, 15 Dec 2023 03:13:12 GMT</pubDate>
             <content:encoded><![CDATA[2024.01.20  ~<br> 2024.01.20]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/12/202312151442056480ba26-2c75-4595-902c-dc5199daff74.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[PL（피엘）단독 콘서트 ‘Prologue’：롤링 29주년 기념 공연]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=209249</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=209249</guid>
+            <pubDate>Tue, 19 Dec 2023 03:14:02 GMT</pubDate>
+            <content:encoded><![CDATA[2024.01.21  ~<br> 2024.01.21]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/12/2023121817190427507dfb-0f5d-462f-b3d5-0400b90331a2.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
