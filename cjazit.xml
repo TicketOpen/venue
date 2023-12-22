@@ -4,17 +4,9 @@
         <title>멜론 티켓 ─ CJ아지트 광흥창</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Dec 2023 14:14:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Dec 2023 15:13:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[매미（MEMI）EP 발매 기념 콘서트 〈M3MI〉]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=209117</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=209117</guid>
-            <pubDate>Mon, 20 Nov 2023 10:14:50 GMT</pubDate>
-            <content:encoded><![CDATA[2023.12.22  ~<br> 2023.12.22]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/11/20231117143952bd939173-23d6-4278-b156-b8d63e3ed0b3.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
         <item>
             <title><![CDATA[리베로시스（Liberosis）단독 콘서트 〈Re－mind〉]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=209052</link>
