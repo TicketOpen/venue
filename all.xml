@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Dec 2023 02:25:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Dec 2023 03:15:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -134,6 +134,14 @@
             <pubDate>Tue, 19 Dec 2023 03:14:02 GMT</pubDate>
             <content:encoded><![CDATA[2024.01.21  ~<br> 2024.01.21]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/12/2023121817190427507dfb-0f5d-462f-b3d5-0400b90331a2.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[MY AUNT MARY “DRIFT”－롤링 29주년 기념 공연 (멜론 티켓 ─ 롤링홀)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=209259</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=209259</guid>
+            <pubDate>Fri, 22 Dec 2023 03:12:57 GMT</pubDate>
+            <content:encoded><![CDATA[2024.01.27  ~<br> 2024.01.28]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/12/20231221164113de762e38-4d9e-4aa5-adba-02c067b11fe5.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[MARIE christmas：김마리 연말 단독콘서트 (멜론 티켓 ─ 웨스트브릿지)]]></title>
