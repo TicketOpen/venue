@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 23 Dec 2023 10:14:03 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Dec 2023 11:11:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -318,6 +318,14 @@
             <pubDate>Fri, 15 Dec 2023 04:15:42 GMT</pubDate>
             <content:encoded><![CDATA[2024.01.19  ~<br> 2024.01.19]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/12/202312141555274695bce2-75fb-42c8-b566-968c6b3745af.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[YAHO！ (멜론 티켓 ─ CJ아지트 광흥창)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=209261</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=209261</guid>
+            <pubDate>Sat, 23 Dec 2023 11:10:56 GMT</pubDate>
+            <content:encoded><![CDATA[2024.01.20  ~<br> 2024.01.20]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/12/202312221138392ba9e80a-7b78-449e-9b77-50e1bb39b9e0.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[2024 ONEUS FAN CONCERT ‘지구와 달 사이 Pt．2’ (멜론 티켓 ─ 예스24 라이브홀)]]></title>
