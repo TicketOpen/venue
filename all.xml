@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Dec 2023 02:24:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Dec 2023 03:15:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -134,6 +134,14 @@
             <pubDate>Wed, 27 Dec 2023 03:13:18 GMT</pubDate>
             <content:encoded><![CDATA[2024.02.02  ~<br> 2024.02.02]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/12/2023122616315512bd1f14-cb0c-4fad-89c0-696496f253b4.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[암호 단독 콘서트 ‘The Soloist’：롤링 29주년 기념 공연 (멜론 티켓 ─ 롤링홀)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=209270</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=209270</guid>
+            <pubDate>Thu, 28 Dec 2023 03:12:58 GMT</pubDate>
+            <content:encoded><![CDATA[2024.02.03  ~<br> 2024.02.04]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/12/2023122713485871ed84ce-466d-44df-9891-202b53c8ab03.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[2023 네미시스 연말 콘서트 season’s greetings！ (멜론 티켓 ─ 웨스트브릿지)]]></title>
