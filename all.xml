@@ -4,17 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Dec 2023 14:13:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Dec 2023 15:17:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[위수의 연말 단독공연 〈2023 다짐 해！〉 (멜론 티켓 ─ 롤링홀)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=209199</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=209199</guid>
-            <pubDate>Wed, 06 Dec 2023 04:15:07 GMT</pubDate>
-            <content:encoded><![CDATA[2023.12.29  ~<br> 2023.12.29]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/12/2023120514493219cb62b0-415e-4c44-a774-15e35e44c034.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
         <item>
             <title><![CDATA[김준서［집］ (멜론 티켓 ─ 롤링홀)]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=209131</link>
@@ -176,22 +168,6 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/12/20231226155953cf7b2af3-f4c1-4173-817c-641fc8124249.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
-            <title><![CDATA[KIRARA＆CIFIKA：頂上會談 (멜론 티켓 ─ 프리즘홀)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=209205</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=209205</guid>
-            <pubDate>Wed, 06 Dec 2023 10:14:53 GMT</pubDate>
-            <content:encoded><![CDATA[2023.12.29  ~<br> 2023.12.29]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/12/20231206174313872aa462-f9b2-4404-80e8-84b4ba5a15c2.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[오오오（O．O．O）ISLAND TO ISLAND (멜론 티켓 ─ 벨로주)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=209182</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=209182</guid>
-            <pubDate>Mon, 04 Dec 2023 09:15:05 GMT</pubDate>
-            <content:encoded><![CDATA[2023.12.29  ~<br> 2023.12.29]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/12/20231201170751b767f047-9d8d-431c-9523-f2a2f908cb1f.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
             <title><![CDATA[OoOo（오넷）첫번째 단독 콘서트：The NABI (멜론 티켓 ─ 벨로주)]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=209167</link>
             <guid>https://ticket.melon.com/performance/index.htm?prodId=209167</guid>
@@ -254,14 +230,6 @@
             <pubDate>Tue, 19 Dec 2023 09:13:00 GMT</pubDate>
             <content:encoded><![CDATA[2024.01.14  ~<br> 2024.01.14]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/12/2023122015583792c90636-013e-4f05-9e39-71b1521588f8.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[안다영 연말 단독공연：xoxo (멜론 티켓 ─ KT&G 상상마당 라이브홀)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=209150</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=209150</guid>
-            <pubDate>Fri, 24 Nov 2023 05:12:57 GMT</pubDate>
-            <content:encoded><![CDATA[2023.12.29  ~<br> 2023.12.29]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/11/2023112410171648170fda-5476-4bfa-ba56-73aac66011ea.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[BAND CHANZE 앨범발매 기념 쇼케이스－UTOPIA (멜론 티켓 ─ CJ아지트 광흥창)]]></title>
