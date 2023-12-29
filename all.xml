@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Dec 2023 00:45:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Dec 2023 01:42:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -216,7 +216,7 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/12/2023121316095577024ffb-f975-4ee0-96fe-3a973ba902ff.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
-            <title><![CDATA[Rosie（로지） (멜론 티켓 ─ 벨로주)]]></title>
+            <title><![CDATA[Rosie［로지］ (멜론 티켓 ─ 벨로주)]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=209216</link>
             <guid>https://ticket.melon.com/performance/index.htm?prodId=209216</guid>
             <pubDate>Fri, 15 Dec 2023 05:12:21 GMT</pubDate>
