@@ -4,17 +4,9 @@
         <title>멜론 티켓 ─ 웨스트브릿지</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 30 Dec 2023 14:12:32 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Dec 2023 15:12:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[2023 네미시스 연말 콘서트 season’s greetings！]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=209016</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=209016</guid>
-            <pubDate>Mon, 06 Nov 2023 09:13:24 GMT</pubDate>
-            <content:encoded><![CDATA[2023.12.30  ~<br> 2023.12.30]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/11/20231103150737349aa28c-e34d-417c-acc3-6a27ebe06005.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
         <item>
             <title><![CDATA[이민휘 2집 발매 기념 단독공연［미래의 고향］]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=209184</link>
