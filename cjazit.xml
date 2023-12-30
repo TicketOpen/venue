@@ -1,43 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>멜론 티켓 ─ CJ아지트 광흥창</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Sat, 30 Dec 2023 21:13:49 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[BAND CHANZE 앨범발매 기념 쇼케이스－UTOPIA]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=209227</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=209227</guid>
-            <pubDate>Thu, 14 Dec 2023 03:14:30 GMT</pubDate>
-            <content:encoded><![CDATA[2024.01.12  ~<br> 2024.01.12]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/12/20231215163831bffde3b7-7b41-4247-b05e-df483691447c.png/melon/resize/90x125/strip/true" length="0" type="image/png/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[레인보우 노트 단독공연［Rainbow Dairy］]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=209166</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=209166</guid>
-            <pubDate>Wed, 29 Nov 2023 11:13:11 GMT</pubDate>
-            <content:encoded><![CDATA[2024.01.13  ~<br> 2024.01.13]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/11/2023112811163354bb3bf2-7ca6-49f8-9aea-1d5bc2a9dfe4.png/melon/resize/90x125/strip/true" length="0" type="image/png/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[신설희 〈우리는 모두 누군가의 꿈이었지〉 앨범 발매기념 단독공연]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=209239</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=209239</guid>
-            <pubDate>Fri, 15 Dec 2023 04:15:42 GMT</pubDate>
-            <content:encoded><![CDATA[2024.01.19  ~<br> 2024.01.19]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/12/202312141555274695bce2-75fb-42c8-b566-968c6b3745af.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[YAHO！]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=209261</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=209261</guid>
-            <pubDate>Sat, 23 Dec 2023 11:10:56 GMT</pubDate>
-            <content:encoded><![CDATA[2024.01.20  ~<br> 2024.01.20]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/12/202312221138392ba9e80a-7b78-449e-9b77-50e1bb39b9e0.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://ticket.melon.com/place/index.htm?placeId=329</id>
+    <title>멜론 티켓 ─ CJ아지트 광흥창</title>
+    <updated>2023-12-30T22:11:31.081Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://ticket.melon.com/place/favicon.ico</icon>
+</feed>
