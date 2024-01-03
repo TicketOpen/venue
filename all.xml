@@ -4,17 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Jan 2024 07:13:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Jan 2024 09:14:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[찬주 싱글 발매 기념 콘서트 ‘Fireplace for Your Winter’：롤링 29주년 기념 공연 (멜론 티켓 ─ 롤링홀)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=209187</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=209187</guid>
-            <pubDate>Sat, 30 Dec 2023 23:11:11 GMT</pubDate>
-            <content:encoded><![CDATA[2024.01.04  ~<br> 2024.01.04]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/12/2023120411454021b379aa-f395-4991-965e-65902274141c.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
         <item>
             <title><![CDATA[피에타 단독 콘서트 ‘열상’：롤링 29주년 기념 공연 (멜론 티켓 ─ 롤링홀)]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=209198</link>
@@ -86,6 +78,14 @@
             <pubDate>Sat, 30 Dec 2023 23:11:11 GMT</pubDate>
             <content:encoded><![CDATA[2024.01.21  ~<br> 2024.01.21]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/12/2023121817190427507dfb-0f5d-462f-b3d5-0400b90331a2.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[찬주 싱글 발매 기념 콘서트 ‘Fireplace for Your Winter’：롤링 29주년 기념 공연 (멜론 티켓 ─ 롤링홀)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=209187</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=209187</guid>
+            <pubDate>Sat, 30 Dec 2023 23:11:11 GMT</pubDate>
+            <content:encoded><![CDATA[2024.01.25  ~<br> 2024.01.25]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/01/20240103180024ad684efc-358b-4a00-bda1-da1c46ab1f83.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[MY AUNT MARY “DRIFT”－롤링 29주년 기념 공연 (멜론 티켓 ─ 롤링홀)]]></title>
