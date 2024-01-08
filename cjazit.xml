@@ -4,7 +4,7 @@
         <title>멜론 티켓 ─ CJ아지트 광흥창</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Jan 2024 08:20:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Jan 2024 09:15:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -45,7 +45,7 @@
             <guid>https://ticket.melon.com/performance/index.htm?prodId=209273</guid>
             <pubDate>Tue, 02 Jan 2024 05:17:05 GMT</pubDate>
             <content:encoded><![CDATA[2024.01.27  ~<br> 2024.01.27]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/12/202312291440336e236624-5e11-429f-8c8e-f64032dacb4f.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/01/202401081800416986c279-a1fb-48d7-bf53-70182c1de335.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
