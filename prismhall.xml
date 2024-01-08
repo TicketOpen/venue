@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://ticket.melon.com/place/index.htm?placeId=731</id>
-    <title>멜론 티켓 ─ 프리즘홀</title>
-    <updated>2024-01-08T09:15:15.910Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://ticket.melon.com/place/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>멜론 티켓 ─ 프리즘홀</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Mon, 08 Jan 2024 11:12:52 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[친구가 되자 vol．3：브로콜리너마저 x 전기뱀장어]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=209292</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=209292</guid>
+            <pubDate>Mon, 08 Jan 2024 11:11:20 GMT</pubDate>
+            <content:encoded><![CDATA[2024.01.20  ~<br> 2024.01.20]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/01/20240108172940df5f95ae-2024-410b-9a76-73257526d828.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+    </channel>
+</rss>

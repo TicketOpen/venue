@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Jan 2024 09:15:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Jan 2024 11:12:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -142,6 +142,14 @@
             <pubDate>Sat, 30 Dec 2023 23:11:23 GMT</pubDate>
             <content:encoded><![CDATA[2024.02.04  ~<br> 2024.02.04]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/12/20231226155953cf7b2af3-f4c1-4173-817c-641fc8124249.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[친구가 되자 vol．3：브로콜리너마저 x 전기뱀장어 (멜론 티켓 ─ 프리즘홀)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=209292</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=209292</guid>
+            <pubDate>Mon, 08 Jan 2024 11:11:20 GMT</pubDate>
+            <content:encoded><![CDATA[2024.01.20  ~<br> 2024.01.20]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/01/20240108172940df5f95ae-2024-410b-9a76-73257526d828.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[먼데이프로젝트 시즌6［프랭클리 단독 콘서트 “GOOD LUCK”］ (멜론 티켓 ─ 벨로주)]]></title>
