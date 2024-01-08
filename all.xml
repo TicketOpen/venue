@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Jan 2024 07:13:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Jan 2024 08:20:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -158,6 +158,14 @@
             <pubDate>Sat, 30 Dec 2023 23:11:45 GMT</pubDate>
             <content:encoded><![CDATA[2024.01.13  ~<br> 2024.01.13]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/12/20231214171245108b7741-748e-45e0-beab-f28f7839741b.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[9 단독콘서트 ‘고고학써클 2024 신년회’ (멜론 티켓 ─ 벨로주)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=209301</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=209301</guid>
+            <pubDate>Mon, 08 Jan 2024 08:18:26 GMT</pubDate>
+            <content:encoded><![CDATA[2024.01.27  ~<br> 2024.01.27]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/01/202401051947372a386c07-482b-49bc-9ecb-42b5161c6e6e.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[Flight0128：기탁 편 (멜론 티켓 ─ 벨로주)]]></title>
