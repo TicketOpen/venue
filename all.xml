@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Jan 2024 00:57:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Jan 2024 01:58:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -182,6 +182,14 @@
             <pubDate>Sat, 30 Dec 2023 23:11:56 GMT</pubDate>
             <content:encoded><![CDATA[2024.01.14  ~<br> 2024.01.14]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/12/2023122015583792c90636-013e-4f05-9e39-71b1521588f8.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2024 LEE BYEONG CHAN FAN MEETING Yellow Re：born (멜론 티켓 ─ 구름아래소극장)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=209291</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=209291</guid>
+            <pubDate>Tue, 09 Jan 2024 01:57:03 GMT</pubDate>
+            <content:encoded><![CDATA[2024.01.21  ~<br> 2024.01.21]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/01/20240104192922a36691df-71f8-4641-9015-b59837bd160a.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[BAND CHANZE 앨범발매 기념 쇼케이스－UTOPIA (멜론 티켓 ─ CJ아지트 광흥창)]]></title>
