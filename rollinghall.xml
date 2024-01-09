@@ -4,7 +4,7 @@
         <title>멜론 티켓 ─ 롤링홀</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Jan 2024 02:30:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Jan 2024 03:19:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -110,6 +110,14 @@
             <pubDate>Sat, 30 Dec 2023 23:11:11 GMT</pubDate>
             <content:encoded><![CDATA[2024.02.03  ~<br> 2024.02.04]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/12/2023122713485871ed84ce-466d-44df-9891-202b53c8ab03.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[펜텐 단독 콘서트 ‘Rekindling of the Youth’：롤링 29주년 기념 공연]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=209286</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=209286</guid>
+            <pubDate>Tue, 09 Jan 2024 03:17:11 GMT</pubDate>
+            <content:encoded><![CDATA[2024.02.15  ~<br> 2024.02.15]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/01/20240108100641583408db-a0bc-4dc4-a2ff-f1236854df52.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
