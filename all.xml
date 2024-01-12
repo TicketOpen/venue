@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Jan 2024 02:30:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Jan 2024 03:15:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -118,6 +118,14 @@
             <pubDate>Wed, 10 Jan 2024 03:13:16 GMT</pubDate>
             <content:encoded><![CDATA[2024.02.16  ~<br> 2024.02.16]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/01/2024010914105053896134-7628-477d-a3be-a23efedc0396.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[노브레인 단독 콘서트 ‘노래부인’：롤링 29주년 기념 공연 (멜론 티켓 ─ 롤링홀)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=209328</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=209328</guid>
+            <pubDate>Fri, 12 Jan 2024 03:13:05 GMT</pubDate>
+            <content:encoded><![CDATA[2024.02.17  ~<br> 2024.02.17]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/01/20240110154008aabd905a-1d2c-4e89-9d0c-0aba825d55c1.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[이민휘 2집 발매 기념 단독공연［미래의 고향］ (멜론 티켓 ─ 웨스트브릿지)]]></title>
