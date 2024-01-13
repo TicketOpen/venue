@@ -4,17 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 13 Jan 2024 14:14:21 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Jan 2024 15:13:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[슈가볼 단독 콘서트 ‘The sour’：롤링 29주년 기념 공연 (멜론 티켓 ─ 롤링홀)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=209213</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=209213</guid>
-            <pubDate>Sat, 30 Dec 2023 23:11:11 GMT</pubDate>
-            <content:encoded><![CDATA[2024.01.13  ~<br> 2024.01.13]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/12/20231211102735cf7042b4-7dc9-45c9-b886-c1ef2c9ba0f5.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
         <item>
             <title><![CDATA[Luminance루미넌스：각자의 다른 빛이 피어날 때 (멜론 티켓 ─ 롤링홀)]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=209241</link>
@@ -128,14 +120,6 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/01/202401091637233fac091e-56e9-4aa7-b1a7-ca843d54b8ed.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
-            <title><![CDATA[NETM 레이블 콘서트 〈No one Ever Told Me〉 (멜론 티켓 ─ 웨스트브릿지)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=209236</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=209236</guid>
-            <pubDate>Sat, 30 Dec 2023 23:11:23 GMT</pubDate>
-            <content:encoded><![CDATA[2024.01.13  ~<br> 2024.01.13]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/12/20231218101918ef473b48-8e25-4fa8-aca5-8f29be916dfb.png/melon/resize/90x125/strip/true" length="0" type="image/png/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
             <title><![CDATA[박시환 콘서트 ‘같이 걷자’ (멜론 티켓 ─ 웨스트브릿지)]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=209293</link>
             <guid>https://ticket.melon.com/performance/index.htm?prodId=209293</guid>
@@ -158,14 +142,6 @@
             <pubDate>Mon, 08 Jan 2024 11:11:20 GMT</pubDate>
             <content:encoded><![CDATA[2024.01.20  ~<br> 2024.01.20]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/01/20240108172940df5f95ae-2024-410b-9a76-73257526d828.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[Rosie［로지］ (멜론 티켓 ─ 벨로주)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=209216</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=209216</guid>
-            <pubDate>Sat, 30 Dec 2023 23:11:45 GMT</pubDate>
-            <content:encoded><![CDATA[2024.01.13  ~<br> 2024.01.13]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/12/20231214171245108b7741-748e-45e0-beab-f28f7839741b.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[9 단독콘서트 ‘고고학써클 2024 신년회’ (멜론 티켓 ─ 벨로주)]]></title>
@@ -222,14 +198,6 @@
             <pubDate>Wed, 10 Jan 2024 05:13:34 GMT</pubDate>
             <content:encoded><![CDATA[2024.02.03  ~<br> 2024.02.04]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/01/2024010514461412c3f85a-6fcd-4b44-bc24-0b7a90861ec9.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[레인보우 노트 단독공연［Rainbow Dairy］ (멜론 티켓 ─ CJ아지트 광흥창)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=209166</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=209166</guid>
-            <pubDate>Sat, 30 Dec 2023 23:12:29 GMT</pubDate>
-            <content:encoded><![CDATA[2024.01.13  ~<br> 2024.01.13]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/11/2023112811163354bb3bf2-7ca6-49f8-9aea-1d5bc2a9dfe4.png/melon/resize/90x125/strip/true" length="0" type="image/png/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[신설희 〈우리는 모두 누군가의 꿈이었지〉 앨범 발매기념 단독공연 (멜론 티켓 ─ CJ아지트 광흥창)]]></title>
