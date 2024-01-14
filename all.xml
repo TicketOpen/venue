@@ -4,17 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 14 Jan 2024 14:15:22 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Jan 2024 15:16:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[Luminance루미넌스：각자의 다른 빛이 피어날 때 (멜론 티켓 ─ 롤링홀)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=209241</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=209241</guid>
-            <pubDate>Sat, 30 Dec 2023 23:11:11 GMT</pubDate>
-            <content:encoded><![CDATA[2024.01.14  ~<br> 2024.01.14]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/12/202312151123538a228405-b8e6-41bf-8ac7-ce6ad9462db6.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
         <item>
             <title><![CDATA[2024 마네퀸 미니 팬미팅：Queen Meeting (멜론 티켓 ─ 롤링홀)]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=209237</link>
@@ -166,14 +158,6 @@
             <pubDate>Thu, 11 Jan 2024 07:12:33 GMT</pubDate>
             <content:encoded><![CDATA[2024.02.03  ~<br> 2024.02.03]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/01/20240110191612b400b09b-04ac-4629-99cb-095ea66336cd.png/melon/resize/90x125/strip/true" length="0" type="image/png/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[그리즐리（Grizzly）Concert：Winter House (멜론 티켓 ─ 구름아래소극장)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=209250</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=209250</guid>
-            <pubDate>Sat, 30 Dec 2023 23:11:56 GMT</pubDate>
-            <content:encoded><![CDATA[2024.01.14  ~<br> 2024.01.14]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/12/2023122015583792c90636-013e-4f05-9e39-71b1521588f8.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[2024 LEE BYEONG CHAN FAN MEETING Yellow Re：born (멜론 티켓 ─ 구름아래소극장)]]></title>
