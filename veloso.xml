@@ -4,7 +4,7 @@
         <title>멜론 티켓 ─ 벨로주</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Jan 2024 07:16:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Jan 2024 08:19:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Thu, 11 Jan 2024 07:12:33 GMT</pubDate>
             <content:encoded><![CDATA[2024.02.03  ~<br> 2024.02.03]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/01/20240110191612b400b09b-04ac-4629-99cb-095ea66336cd.png/melon/resize/90x125/strip/true" length="0" type="image/png/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[On Our Own]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=209380</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=209380</guid>
+            <pubDate>Fri, 19 Jan 2024 08:18:10 GMT</pubDate>
+            <content:encoded><![CDATA[2024.02.25  ~<br> 2024.02.25]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/01/202401181950459215bd6b-a69b-45cb-88cc-600b501833a5.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
