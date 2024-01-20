@@ -4,17 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 20 Jan 2024 13:14:45 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Jan 2024 15:13:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[크랙샷 단독 콘서트 ‘We are Crackshot’：롤링 29주년 기념 공연 (멜론 티켓 ─ 롤링홀)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=209231</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=209231</guid>
-            <pubDate>Sat, 30 Dec 2023 23:11:11 GMT</pubDate>
-            <content:encoded><![CDATA[2024.01.20  ~<br> 2024.01.20]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/12/202312151442056480ba26-2c75-4595-902c-dc5199daff74.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
         <item>
             <title><![CDATA[PL（피엘）단독 콘서트 ‘Prologue’：롤링 29주년 기념 공연 (멜론 티켓 ─ 롤링홀)]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=209249</link>
@@ -136,14 +128,6 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/12/20231226155953cf7b2af3-f4c1-4173-817c-641fc8124249.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
-            <title><![CDATA[친구가 되자 vol．3：브로콜리너마저 x 전기뱀장어 (멜론 티켓 ─ 프리즘홀)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=209292</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=209292</guid>
-            <pubDate>Mon, 08 Jan 2024 11:11:20 GMT</pubDate>
-            <content:encoded><![CDATA[2024.01.20  ~<br> 2024.01.20]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/01/20240108172940df5f95ae-2024-410b-9a76-73257526d828.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
             <title><![CDATA[9 단독콘서트 ‘고고학써클 2024 신년회’ (멜론 티켓 ─ 벨로주)]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=209301</link>
             <guid>https://ticket.melon.com/performance/index.htm?prodId=209301</guid>
@@ -198,14 +182,6 @@
             <pubDate>Wed, 10 Jan 2024 05:13:34 GMT</pubDate>
             <content:encoded><![CDATA[2024.02.03  ~<br> 2024.02.04]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/01/2024010514461412c3f85a-6fcd-4b44-bc24-0b7a90861ec9.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[YAHO！ (멜론 티켓 ─ CJ아지트 광흥창)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=209261</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=209261</guid>
-            <pubDate>Sat, 30 Dec 2023 23:12:29 GMT</pubDate>
-            <content:encoded><![CDATA[2024.01.20  ~<br> 2024.01.20]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/12/202312221138392ba9e80a-7b78-449e-9b77-50e1bb39b9e0.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[싱어송라이터 손예지 첫 단독공연 〈안녕〉 (멜론 티켓 ─ CJ아지트 광흥창)]]></title>
