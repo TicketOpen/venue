@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Jan 2024 01:00:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Jan 2024 03:15:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -78,6 +78,14 @@
             <pubDate>Mon, 15 Jan 2024 04:15:29 GMT</pubDate>
             <content:encoded><![CDATA[2024.02.18  ~<br> 2024.02.18]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/01/202401111107560091c04d-9e90-4c00-b74b-859f5cbf6908.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[oceanfromtheblue Live ＠Rolling Hall：롤링 29주년 기념 공연 (멜론 티켓 ─ 롤링홀)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=209367</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=209367</guid>
+            <pubDate>Mon, 22 Jan 2024 03:13:47 GMT</pubDate>
+            <content:encoded><![CDATA[2024.02.23  ~<br> 2024.02.23]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/01/20240117140556e6fbe722-e139-4ee9-9f8a-4e1ef4921ed6.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[9001 단독 콘서트 ‘Playground’：롤링 29주년 기념 공연 (멜론 티켓 ─ 롤링홀)]]></title>
@@ -174,6 +182,14 @@
             <pubDate>Tue, 02 Jan 2024 05:17:05 GMT</pubDate>
             <content:encoded><![CDATA[2024.01.26  ~<br> 2024.01.27]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/01/202401081800416986c279-a1fb-48d7-bf53-70182c1de335.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[BAND DALDAM concert 〈신사〉 (멜론 티켓 ─ CJ아지트 광흥창)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=209406</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=209406</guid>
+            <pubDate>Mon, 22 Jan 2024 03:14:48 GMT</pubDate>
+            <content:encoded><![CDATA[2024.02.24  ~<br> 2024.02.24]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/01/20240122100108086f899e-1a62-4ef3-943f-d27fc4f903a4.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
