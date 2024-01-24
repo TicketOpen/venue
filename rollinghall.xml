@@ -4,7 +4,7 @@
         <title>멜론 티켓 ─ 롤링홀</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Jan 2024 02:33:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Jan 2024 03:16:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -102,6 +102,14 @@
             <pubDate>Wed, 17 Jan 2024 03:13:26 GMT</pubDate>
             <content:encoded><![CDATA[2024.02.29  ~<br> 2024.02.29]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/01/20240115172633810e6db2-27c5-4c38-8c88-4e2d64c0ec17.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[YB LIGHTS；Prologue 롤링 29주년 기념 공연]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=209407</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=209407</guid>
+            <pubDate>Wed, 24 Jan 2024 03:14:35 GMT</pubDate>
+            <content:encoded><![CDATA[2024.03.01  ~<br> 2024.03.02]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/01/20240122150637c6e78cdf-0387-45a6-b503-d75ad6d3d9d9.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>

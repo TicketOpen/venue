@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Jan 2024 02:33:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Jan 2024 03:16:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -104,6 +104,14 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/01/20240115172633810e6db2-27c5-4c38-8c88-4e2d64c0ec17.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
+            <title><![CDATA[YB LIGHTS；Prologue 롤링 29주년 기념 공연 (멜론 티켓 ─ 롤링홀)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=209407</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=209407</guid>
+            <pubDate>Wed, 24 Jan 2024 03:14:35 GMT</pubDate>
+            <content:encoded><![CDATA[2024.03.01  ~<br> 2024.03.02]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/01/20240122150637c6e78cdf-0387-45a6-b503-d75ad6d3d9d9.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
             <title><![CDATA[이민휘 2집 발매 기념 단독공연［미래의 고향］ (멜론 티켓 ─ 웨스트브릿지)]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=209184</link>
             <guid>https://ticket.melon.com/performance/index.htm?prodId=209184</guid>
@@ -150,6 +158,14 @@
             <pubDate>Thu, 11 Jan 2024 07:12:33 GMT</pubDate>
             <content:encoded><![CDATA[2024.02.03  ~<br> 2024.02.03]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/01/20240110191612b400b09b-04ac-4629-99cb-095ea66336cd.png/melon/resize/90x125/strip/true" length="0" type="image/png/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[먼데이프로젝트 시즌7［김승주 단독 콘서트 “가짜열혈멸종프로젝트”］ (멜론 티켓 ─ 벨로주)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=209409</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=209409</guid>
+            <pubDate>Wed, 24 Jan 2024 03:15:05 GMT</pubDate>
+            <content:encoded><![CDATA[2024.02.19  ~<br> 2024.02.19]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/01/202401222131133d283592-515b-4372-9c69-07cfabe0311e.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[On Our Own (멜론 티켓 ─ 벨로주)]]></title>
