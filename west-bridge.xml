@@ -1,8 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://ticket.melon.com/place/index.htm?placeId=293</id>
-    <title>멜론 티켓 ─ 웨스트브릿지</title>
-    <updated>2024-01-25T11:13:12.411Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://ticket.melon.com/place/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>멜론 티켓 ─ 웨스트브릿지</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Thu, 25 Jan 2024 12:26:57 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이민휘 2집 발매 기념 단독공연［미래의 고향］]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=209184</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=209184</guid>
+            <pubDate>Thu, 25 Jan 2024 12:24:57 GMT</pubDate>
+            <content:encoded><![CDATA[2024.01.12  ~<br> 2024.01.25]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/01/202401091637233fac091e-56e9-4aa7-b1a7-ca843d54b8ed.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[박시환 콘서트 ‘같이 걷자’]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=209293</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=209293</guid>
+            <pubDate>Thu, 25 Jan 2024 12:24:57 GMT</pubDate>
+            <content:encoded><![CDATA[2024.01.27  ~<br> 2024.01.27]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/01/20240104205114a840f8e6-9b4c-4965-a280-cd5b5fc67982.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2023 엔분의일：Dreamers]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=209264</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=209264</guid>
+            <pubDate>Thu, 25 Jan 2024 12:24:57 GMT</pubDate>
+            <content:encoded><![CDATA[2024.02.04  ~<br> 2024.02.04]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/12/20231226155953cf7b2af3-f4c1-4173-817c-641fc8124249.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+    </channel>
+</rss>
