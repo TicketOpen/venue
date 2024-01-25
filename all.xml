@@ -4,17 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Jan 2024 12:26:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Jan 2024 15:16:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[찬주 싱글 발매 기념 콘서트 ‘Fireplace for Your Winter’：롤링 29주년 기념 공연 (멜론 티켓 ─ 롤링홀)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=209187</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=209187</guid>
-            <pubDate>Thu, 25 Jan 2024 12:24:46 GMT</pubDate>
-            <content:encoded><![CDATA[2024.01.25  ~<br> 2024.01.25]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/01/20240103180024ad684efc-358b-4a00-bda1-da1c46ab1f83.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
         <item>
             <title><![CDATA[MY AUNT MARY “DRIFT”－롤링 29주년 기념 공연 (멜론 티켓 ─ 롤링홀)]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=209259</link>
@@ -110,14 +102,6 @@
             <pubDate>Thu, 25 Jan 2024 12:24:46 GMT</pubDate>
             <content:encoded><![CDATA[2024.03.01  ~<br> 2024.03.02]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/01/20240122150637c6e78cdf-0387-45a6-b503-d75ad6d3d9d9.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[이민휘 2집 발매 기념 단독공연［미래의 고향］ (멜론 티켓 ─ 웨스트브릿지)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=209184</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=209184</guid>
-            <pubDate>Thu, 25 Jan 2024 12:24:57 GMT</pubDate>
-            <content:encoded><![CDATA[2024.01.12  ~<br> 2024.01.25]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/01/202401091637233fac091e-56e9-4aa7-b1a7-ca843d54b8ed.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[박시환 콘서트 ‘같이 걷자’ (멜론 티켓 ─ 웨스트브릿지)]]></title>
