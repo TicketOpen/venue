@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Jan 2024 01:50:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Jan 2024 02:22:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -190,6 +190,14 @@
             <pubDate>Tue, 02 Jan 2024 05:17:05 GMT</pubDate>
             <content:encoded><![CDATA[2024.01.26  ~<br> 2024.01.27]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/01/202401081800416986c279-a1fb-48d7-bf53-70182c1de335.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2024 아이디얼스 단독 콘서트 〈SPACE STATION〉 (멜론 티켓 ─ CJ아지트 광흥창)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=209424</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=209424</guid>
+            <pubDate>Fri, 26 Jan 2024 02:21:26 GMT</pubDate>
+            <content:encoded><![CDATA[2024.02.18  ~<br> 2024.02.18]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/01/2024012516081544fcd178-1408-4acf-95ed-58a3044356c0.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[BAND DALDAM concert 〈신사〉 (멜론 티켓 ─ CJ아지트 광흥창)]]></title>
