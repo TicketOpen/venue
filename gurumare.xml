@@ -4,7 +4,7 @@
         <title>멜론 티켓 ─ 구름아래소극장</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Jan 2024 02:22:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Jan 2024 03:17:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Thu, 25 Jan 2024 12:25:27 GMT</pubDate>
             <content:encoded><![CDATA[2024.02.03  ~<br> 2024.02.04]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/01/2024010514461412c3f85a-6fcd-4b44-bc24-0b7a90861ec9.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[VROMANCE 1ST CONCERT［VROMANCE의 작업실：＃처음］]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=209364</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=209364</guid>
+            <pubDate>Fri, 26 Jan 2024 03:15:32 GMT</pubDate>
+            <content:encoded><![CDATA[2024.02.17  ~<br> 2024.02.18]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/01/2024012513182488f9d893-5bca-4dff-b7b3-c3c022274052.png/melon/resize/90x125/strip/true" length="0" type="image/png/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
