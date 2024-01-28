@@ -4,17 +4,9 @@
         <title>멜론 티켓 ─ 벨로주</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 28 Jan 2024 14:11:42 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Jan 2024 16:14:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[Flight0128：기탁 편]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=209267</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=209267</guid>
-            <pubDate>Thu, 25 Jan 2024 12:25:17 GMT</pubDate>
-            <content:encoded><![CDATA[2024.01.28  ~<br> 2024.01.28]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2023/12/202312270941551bf0f74f-bccf-49d2-b902-0d44ee1d9d38.png/melon/resize/90x125/strip/true" length="0" type="image/png/melon/resize/90x125/strip/true"/>
-        </item>
         <item>
             <title><![CDATA[2024 오리엔째이션 〈채보훈〉]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=209331</link>
