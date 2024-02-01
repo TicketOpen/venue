@@ -4,7 +4,7 @@
         <title>멜론 티켓 ─ 벨로주</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Feb 2024 05:13:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Feb 2024 06:17:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Sun, 28 Jan 2024 23:14:17 GMT</pubDate>
             <content:encoded><![CDATA[2024.02.19  ~<br> 2024.02.19]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/01/202401222131133d283592-515b-4372-9c69-07cfabe0311e.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[박기훈 정규 2집 발매 기념 쇼케이스]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=209437</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=209437</guid>
+            <pubDate>Thu, 01 Feb 2024 06:16:16 GMT</pubDate>
+            <content:encoded><![CDATA[2024.02.24  ~<br> 2024.02.24]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/01/202401291902136b1a371f-4cfb-48ed-a411-6980cff927fa.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[On Our Own]]></title>
