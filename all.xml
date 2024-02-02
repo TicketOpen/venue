@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Feb 2024 10:16:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Feb 2024 11:12:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -222,6 +222,14 @@
             <pubDate>Fri, 02 Feb 2024 04:16:28 GMT</pubDate>
             <content:encoded><![CDATA[2024.02.24  ~<br> 2024.02.25]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/01/202401291742439e7fb0ce-3fdd-40be-b125-08cb25341b1e.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[103번째 로맨틱파티 (멜론 티켓 ─ 노들섬)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=209465</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=209465</guid>
+            <pubDate>Fri, 02 Feb 2024 11:11:39 GMT</pubDate>
+            <content:encoded><![CDATA[2024.03.09  ~<br> 2024.03.10]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/02/2024020120420154f7a2ee-e101-4894-b01a-8eb25e9d66a7.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
