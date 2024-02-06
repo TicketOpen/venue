@@ -4,7 +4,7 @@
         <title>멜론 티켓 ─ 롤링홀</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 06 Feb 2024 02:21:05 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Feb 2024 03:17:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -94,6 +94,14 @@
             <pubDate>Tue, 06 Feb 2024 02:19:14 GMT</pubDate>
             <content:encoded><![CDATA[2024.03.10  ~<br> 2024.03.10]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/02/20240201195804b7faa426-a70f-4456-857d-867f99fece21.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[Monday Off With Bluesy 단독 콘서트 “Midnight blue”：롤링 29주년 기념 공연]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=209467</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=209467</guid>
+            <pubDate>Tue, 06 Feb 2024 03:14:59 GMT</pubDate>
+            <content:encoded><![CDATA[2024.03.14  ~<br> 2024.03.14]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/02/20240202110833cde50eea-021c-4920-9ca3-91fa265307a8.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[ROCK SPRING 2024－나른한 봄날의 신나는 Rock Party－]]></title>
