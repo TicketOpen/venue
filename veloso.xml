@@ -4,7 +4,7 @@
         <title>멜론 티켓 ─ 벨로주</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Feb 2024 04:18:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Feb 2024 05:20:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Thu, 15 Feb 2024 02:19:02 GMT</pubDate>
             <content:encoded><![CDATA[2024.02.25  ~<br> 2024.02.25]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/01/202401181950459215bd6b-a69b-45cb-88cc-600b501833a5.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2024 김주댕 Concert 〈Santa－Fe〉]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=209492</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=209492</guid>
+            <pubDate>Thu, 15 Feb 2024 05:18:25 GMT</pubDate>
+            <content:encoded><![CDATA[2024.03.02  ~<br> 2024.03.02]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/02/20240207174850c54f5c9a-0970-44e9-aa09-c8bf04d040f1.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[먼데이프로젝트 시즌7［이준형 단독 콘서트 “3월에는 사랑을 주세요”］]]></title>
