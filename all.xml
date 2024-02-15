@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Feb 2024 05:20:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Feb 2024 06:17:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -238,6 +238,14 @@
             <pubDate>Thu, 15 Feb 2024 02:19:19 GMT</pubDate>
             <content:encoded><![CDATA[2024.03.03  ~<br> 2024.03.03]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/02/20240205101515e2f49550-9517-4744-ae5c-c8c8f1031d37.png/melon/resize/90x125/strip/true" length="0" type="image/png/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[음율 1ST FAN－CON ‘눈 맞춤’ (멜론 티켓 ─ KT&G 상상마당 라이브홀)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=209510</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=209510</guid>
+            <pubDate>Thu, 15 Feb 2024 06:16:03 GMT</pubDate>
+            <content:encoded><![CDATA[2024.03.16  ~<br> 2024.03.16]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/02/20240214165545798c7c74-4734-47fc-9dce-639b7fe561d6.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[2024 아이디얼스 단독 콘서트 〈SPACE STATION〉 (멜론 티켓 ─ CJ아지트 광흥창)]]></title>
