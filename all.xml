@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Feb 2024 02:20:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Feb 2024 03:16:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -136,6 +136,14 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/02/20240208120059ca9b4429-184d-4a94-a5ec-52b25aff2eb9.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
+            <title><![CDATA[잠비나이 단독 콘서트 ‘Contrast’：롤링 29주년 기념 공연 (멜론 티켓 ─ 롤링홀)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=209511</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=209511</guid>
+            <pubDate>Thu, 15 Feb 2024 03:14:16 GMT</pubDate>
+            <content:encoded><![CDATA[2024.03.22  ~<br> 2024.03.22]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/02/2024021418032454885bd3-a215-468b-84ce-a35de12461fe.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
             <title><![CDATA[ROCK SPRING 2024－나른한 봄날의 신나는 Rock Party－ (멜론 티켓 ─ 롤링홀)]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=209470</link>
             <guid>https://ticket.melon.com/performance/index.htm?prodId=209470</guid>
@@ -150,6 +158,14 @@
             <pubDate>Thu, 15 Feb 2024 02:18:42 GMT</pubDate>
             <content:encoded><![CDATA[2024.02.16  ~<br> 2024.02.16]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/02/2024020109120236ec0943-475e-4d0b-98dd-cb151e06d92e.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[먼데이프로젝트 시즌7［Lacuna（라쿠나）단독 콘서트 “라쿠나 1교시”］ (멜론 티켓 ─ 웨스트브릿지)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=209513</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=209513</guid>
+            <pubDate>Thu, 15 Feb 2024 03:14:25 GMT</pubDate>
+            <content:encoded><![CDATA[2024.03.11  ~<br> 2024.03.11]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/02/20240214182517f5ce354c-3be0-4f0e-926e-5953adc13626.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[먼데이프로젝트 시즌7［김승주 단독 콘서트 “가짜열혈멸종프로젝트”］ (멜론 티켓 ─ 벨로주)]]></title>
