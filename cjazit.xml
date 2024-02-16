@@ -1,8 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://ticket.melon.com/place/index.htm?placeId=329</id>
-    <title>멜론 티켓 ─ CJ아지트 광흥창</title>
-    <updated>2024-02-16T20:12:25.373Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://ticket.melon.com/place/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>멜론 티켓 ─ CJ아지트 광흥창</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Fri, 16 Feb 2024 21:12:26 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2024 아이디얼스 단독 콘서트 〈SPACE STATION〉]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=209424</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=209424</guid>
+            <pubDate>Fri, 16 Feb 2024 21:11:27 GMT</pubDate>
+            <content:encoded><![CDATA[2024.02.18  ~<br> 2024.02.18]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/01/2024012516081544fcd178-1408-4acf-95ed-58a3044356c0.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[BAND DALDAM concert 〈신사〉]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=209406</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=209406</guid>
+            <pubDate>Fri, 16 Feb 2024 21:11:27 GMT</pubDate>
+            <content:encoded><![CDATA[2024.02.24  ~<br> 2024.02.24]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/01/20240122100108086f899e-1a62-4ef3-943f-d27fc4f903a4.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[윤토벤 첫 단독 콘서트 “첫，만남”]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=209502</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=209502</guid>
+            <pubDate>Fri, 16 Feb 2024 21:11:27 GMT</pubDate>
+            <content:encoded><![CDATA[2024.03.02  ~<br> 2024.03.02]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/02/20240213152320c1d4ee26-0c30-441b-a834-4582bb70178d.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+    </channel>
+</rss>
