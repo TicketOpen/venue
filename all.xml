@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Feb 2024 10:16:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Feb 2024 11:11:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -142,6 +142,14 @@
             <pubDate>Mon, 19 Feb 2024 09:12:51 GMT</pubDate>
             <content:encoded><![CDATA[2024.03.11  ~<br> 2024.03.11]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/02/20240214182517f5ce354c-3be0-4f0e-926e-5953adc13626.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[티카콘（TIKACON）：다양성 (멜론 티켓 ─ 프리즘홀)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=209523</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=209523</guid>
+            <pubDate>Mon, 19 Feb 2024 11:10:23 GMT</pubDate>
+            <content:encoded><![CDATA[2024.03.15  ~<br> 2024.03.15]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/02/202402191804009dbdec65-cce1-4026-a283-f5c7c2053108.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[먼데이프로젝트 시즌7［김승주 단독 콘서트 “가짜열혈멸종프로젝트”］ (멜론 티켓 ─ 벨로주)]]></title>
