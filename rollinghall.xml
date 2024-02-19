@@ -4,7 +4,7 @@
         <title>멜론 티켓 ─ 롤링홀</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Feb 2024 02:21:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Feb 2024 03:15:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -118,6 +118,14 @@
             <pubDate>Mon, 19 Feb 2024 01:47:15 GMT</pubDate>
             <content:encoded><![CDATA[2024.03.23  ~<br> 2024.03.23]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/02/2024021516371375ee3db3-0e9c-4238-becd-18a0192ca9af.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[예빈나다 단독 콘서트 ‘Stay with me’：롤링 29주년 기념 공연]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=209519</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=209519</guid>
+            <pubDate>Mon, 19 Feb 2024 03:13:05 GMT</pubDate>
+            <content:encoded><![CDATA[2024.03.24  ~<br> 2024.03.24]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/02/20240216103810168ec1b9-cebd-4e98-9645-a1b3df8fafa1.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[ROCK SPRING 2024－나른한 봄날의 신나는 Rock Party－]]></title>
