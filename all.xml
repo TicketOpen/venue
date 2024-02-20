@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 Feb 2024 01:45:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Feb 2024 02:19:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -230,6 +230,14 @@
             <pubDate>Mon, 19 Feb 2024 19:11:02 GMT</pubDate>
             <content:encoded><![CDATA[2024.03.02  ~<br> 2024.03.02]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/02/20240213152320c1d4ee26-0c30-441b-a834-4582bb70178d.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[Personal Jazz (멜론 티켓 ─ CJ아지트 광흥창)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=209524</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=209524</guid>
+            <pubDate>Tue, 20 Feb 2024 02:18:13 GMT</pubDate>
+            <content:encoded><![CDATA[2024.03.16  ~<br> 2024.03.16]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/02/202402191416357a2d038c-f8c8-484b-970d-1dd51a10630f.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[WOOSEOK 1ST FANMEETING ‘불멍：BULMUNG’ (멜론 티켓 ─ 노들섬)]]></title>
