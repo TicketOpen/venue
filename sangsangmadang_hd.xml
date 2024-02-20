@@ -1,8 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://ticket.melon.com/place/index.htm?placeId=913</id>
-    <title>멜론 티켓 ─ KT&amp;G 상상마당 라이브홀</title>
-    <updated>2024-02-20T06:17:14.116Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://ticket.melon.com/place/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>멜론 티켓 ─ KT&amp;G 상상마당 라이브홀</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Tue, 20 Feb 2024 07:14:12 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[PAIR PLAY：Vol．8 모스크바서핑클럽x코토바]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=209468</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=209468</guid>
+            <pubDate>Tue, 20 Feb 2024 07:12:51 GMT</pubDate>
+            <content:encoded><![CDATA[2024.03.03  ~<br> 2024.03.03]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/02/20240205101515e2f49550-9517-4744-ae5c-c8c8f1031d37.png/melon/resize/90x125/strip/true" length="0" type="image/png/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[음율 1ST FAN－CON ‘눈 맞춤’]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=209510</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=209510</guid>
+            <pubDate>Tue, 20 Feb 2024 07:12:51 GMT</pubDate>
+            <content:encoded><![CDATA[2024.03.16  ~<br> 2024.03.16]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/02/20240214165545798c7c74-4734-47fc-9dce-639b7fe561d6.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+    </channel>
+</rss>
