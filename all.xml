@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 24 Feb 2024 14:11:39 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Feb 2024 15:12:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -144,14 +144,6 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/02/202402230921385d6d65e5-9eae-4cde-9371-11740aa2ec3a.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
-            <title><![CDATA[박기훈 정규 2집 발매 기념 쇼케이스 (멜론 티켓 ─ 벨로주)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=209437</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=209437</guid>
-            <pubDate>Sat, 24 Feb 2024 12:19:30 GMT</pubDate>
-            <content:encoded><![CDATA[2024.02.24  ~<br> 2024.02.24]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/01/202401291902136b1a371f-4cfb-48ed-a411-6980cff927fa.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
             <title><![CDATA[On Our Own (멜론 티켓 ─ 벨로주)]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=209380</link>
             <guid>https://ticket.melon.com/performance/index.htm?prodId=209380</guid>
@@ -214,14 +206,6 @@
             <pubDate>Sat, 24 Feb 2024 12:19:52 GMT</pubDate>
             <content:encoded><![CDATA[2024.03.16  ~<br> 2024.03.16]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/02/20240214165545798c7c74-4734-47fc-9dce-639b7fe561d6.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[BAND DALDAM concert 〈신사〉 (멜론 티켓 ─ CJ아지트 광흥창)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=209406</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=209406</guid>
-            <pubDate>Sat, 24 Feb 2024 12:20:13 GMT</pubDate>
-            <content:encoded><![CDATA[2024.02.24  ~<br> 2024.02.24]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/01/20240122100108086f899e-1a62-4ef3-943f-d27fc4f903a4.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[윤토벤 첫 단독 콘서트 “첫，만남” (멜론 티켓 ─ CJ아지트 광흥창)]]></title>
