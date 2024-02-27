@@ -1,8 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://ticket.melon.com/place/index.htm?placeId=731</id>
-    <title>멜론 티켓 ─ 프리즘홀</title>
-    <updated>2024-02-27T21:11:16.197Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://ticket.melon.com/place/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>멜론 티켓 ─ 프리즘홀</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Tue, 27 Feb 2024 22:16:09 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[티카콘（TIKACON）：다양성]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=209523</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=209523</guid>
+            <pubDate>Tue, 27 Feb 2024 22:14:23 GMT</pubDate>
+            <content:encoded><![CDATA[2024.03.15  ~<br> 2024.03.15]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/02/202402191804009dbdec65-cce1-4026-a283-f5c7c2053108.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[DRINK DANCE AND LOVE ALL：효도앤베이스 X 까데호]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=209541</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=209541</guid>
+            <pubDate>Tue, 27 Feb 2024 22:14:23 GMT</pubDate>
+            <content:encoded><![CDATA[2024.03.22  ~<br> 2024.03.22]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/02/202402230921385d6d65e5-9eae-4cde-9371-11740aa2ec3a.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+    </channel>
+</rss>
