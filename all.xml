@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 28 Feb 2024 02:20:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Feb 2024 03:14:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -110,6 +110,14 @@
             <pubDate>Wed, 28 Feb 2024 02:19:06 GMT</pubDate>
             <content:encoded><![CDATA[2024.03.30  ~<br> 2024.03.30]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/02/202402261527541d460603-e89c-4d03-8722-45fffe7a5624.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[맥거핀 단독 콘서트 ‘Storm In A Teacup’：롤링 29주년 기념 공연 (멜론 티켓 ─ 롤링홀)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=209550</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=209550</guid>
+            <pubDate>Wed, 28 Feb 2024 03:12:48 GMT</pubDate>
+            <content:encoded><![CDATA[2024.03.31  ~<br> 2024.03.31]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/02/2024022714371550cd5428-c85c-4cd0-9a6c-c28c5599b865.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[ROCK SPRING 2024－나른한 봄날의 신나는 Rock Party－ (멜론 티켓 ─ 롤링홀)]]></title>
