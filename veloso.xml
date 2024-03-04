@@ -1,27 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>멜론 티켓 ─ 벨로주</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Mon, 04 Mar 2024 07:02:17 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[먼데이프로젝트 시즌7［이준형 단독 콘서트 “3월에는 사랑을 주세요”］]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=209489</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=209489</guid>
-            <pubDate>Mon, 04 Mar 2024 03:06:55 GMT</pubDate>
-            <content:encoded><![CDATA[2024.03.04  ~<br> 2024.03.04]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/02/202402071028255e9ef798-046e-4afc-8220-3426ed42b562.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[둥절2024［우리사이의 육하원칙］]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=209552</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=209552</guid>
-            <pubDate>Mon, 04 Mar 2024 03:06:55 GMT</pubDate>
-            <content:encoded><![CDATA[2024.03.30  ~<br> 2024.03.31]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/02/202402271748431f47ce0d-ed1d-4678-b11a-9a45793ad13e.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://ticket.melon.com/place/index.htm?placeId=12</id>
+    <title>멜론 티켓 ─ 벨로주</title>
+    <updated>2024-03-04T07:59:52.536Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://ticket.melon.com/place/favicon.ico</icon>
+</feed>
