@@ -4,7 +4,7 @@
         <title>멜론 티켓 ─ 롤링홀</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Mar 2024 09:14:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Mar 2024 11:13:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -102,6 +102,14 @@
             <pubDate>Wed, 06 Mar 2024 08:16:47 GMT</pubDate>
             <content:encoded><![CDATA[2024.04.04  ~<br> 2024.04.04]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/03/20240302232929420bea19-f980-4477-9ec2-6261e25fe588.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[피싱걸스 ‘VISIBLE WORLD’ 발매 기념 단독 공연]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=209576</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=209576</guid>
+            <pubDate>Wed, 06 Mar 2024 11:11:47 GMT</pubDate>
+            <content:encoded><![CDATA[2024.04.06  ~<br> 2024.04.06]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/03/202403061333124be4732c-a300-428a-8428-1d968f9f49bd.png/melon/resize/90x125/strip/true" length="0" type="image/png/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[전자양 단독 콘서트 ‘울집TV엄청큼’：롤링 29주년 기념 공연]]></title>
