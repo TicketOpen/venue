@@ -1,27 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>멜론 티켓 ─ 웨스트브릿지</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Wed, 13 Mar 2024 23:14:50 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[Standy by Rockshow！！]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=209581</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=209581</guid>
-            <pubDate>Wed, 13 Mar 2024 23:12:42 GMT</pubDate>
-            <content:encoded><![CDATA[2024.03.24  ~<br> 2024.03.24]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/03/202403061839554b3e7bea-20e2-4717-a296-1f42e4dc450b.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[Blue is Rock－DALDAM X DASUTT]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=209563</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=209563</guid>
-            <pubDate>Wed, 13 Mar 2024 23:12:42 GMT</pubDate>
-            <content:encoded><![CDATA[2024.03.30  ~<br> 2024.03.30]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/03/20240304102557a15fadf1-cfc1-4430-a215-61c8fd7334e7.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://ticket.melon.com/place/index.htm?placeId=293</id>
+    <title>멜론 티켓 ─ 웨스트브릿지</title>
+    <updated>2024-03-14T00:52:23.169Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://ticket.melon.com/place/favicon.ico</icon>
+</feed>
