@@ -4,7 +4,7 @@
         <title>멜론 티켓 ─ 롤링홀</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Mar 2024 02:20:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Mar 2024 03:16:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -134,6 +134,14 @@
             <pubDate>Thu, 14 Mar 2024 23:12:55 GMT</pubDate>
             <content:encoded><![CDATA[2024.04.19  ~<br> 2024.04.19]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/03/20240312153420bb554105-e992-43ef-a04a-31d0f417c116.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[보라미유 단독 콘서트 ‘SPRING，YU’：롤링 29주년 기념 공연]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=209620</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=209620</guid>
+            <pubDate>Fri, 15 Mar 2024 03:14:15 GMT</pubDate>
+            <content:encoded><![CDATA[2024.04.20  ~<br> 2024.04.20]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/03/2024031509545605cb52a5-8dd0-446a-8a11-15fdbe8927a6.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[너，내 동료가 돼라！－재패니메이션 OST 콘서트－]]></title>
