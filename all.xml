@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Mar 2024 04:15:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Mar 2024 07:15:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -230,6 +230,14 @@
             <pubDate>Thu, 21 Mar 2024 20:14:03 GMT</pubDate>
             <content:encoded><![CDATA[2024.03.31  ~<br> 2024.03.31]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/03/202403042130223a37e167-7c67-4264-a194-0082c040dcff.png/melon/resize/90x125/strip/true" length="0" type="image/png/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[We (멜론 티켓 ─ CJ아지트 광흥창)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=209635</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=209635</guid>
+            <pubDate>Fri, 22 Mar 2024 07:14:41 GMT</pubDate>
+            <content:encoded><![CDATA[2024.04.06  ~<br> 2024.04.06]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/03/2024032115465336b06026-36dd-4e2f-8fae-d503b6aa729a.png/melon/resize/90x125/strip/true" length="0" type="image/png/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[먼데이프로젝트 시즌7［화노 단독 콘서트 ‘Who＇s Next’］ (멜론 티켓 ─ CJ아지트 광흥창)]]></title>
