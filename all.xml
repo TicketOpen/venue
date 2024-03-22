@@ -4,17 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Mar 2024 14:14:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Mar 2024 15:13:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[잠비나이 단독 콘서트 ‘Contrast’：롤링 29주년 기념 공연 (멜론 티켓 ─ 롤링홀)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=209511</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=209511</guid>
-            <pubDate>Fri, 22 Mar 2024 12:21:05 GMT</pubDate>
-            <content:encoded><![CDATA[2024.03.22  ~<br> 2024.03.22]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/02/2024021418032454885bd3-a215-468b-84ce-a35de12461fe.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
         <item>
             <title><![CDATA[블랙홀 단독 콘서트 ‘블랙홀 2024’：롤링 29주년 기념 공연 (멜론 티켓 ─ 롤링홀)]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=209517</link>
@@ -158,14 +150,6 @@
             <pubDate>Fri, 22 Mar 2024 12:21:16 GMT</pubDate>
             <content:encoded><![CDATA[2024.04.14  ~<br> 2024.04.14]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/03/20240319171122ab5c425b-bdb1-46a2-a152-3f4c853a3b9c.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[DRINK DANCE AND LOVE ALL：효도앤베이스 X 까데호 (멜론 티켓 ─ 프리즘홀)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=209541</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=209541</guid>
-            <pubDate>Fri, 22 Mar 2024 12:21:26 GMT</pubDate>
-            <content:encoded><![CDATA[2024.03.22  ~<br> 2024.03.22]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/02/202402230921385d6d65e5-9eae-4cde-9371-11740aa2ec3a.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[티카콘（TIKACON）：블루파프리카 (멜론 티켓 ─ 프리즘홀)]]></title>
