@@ -4,17 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Mar 2024 14:12:24 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Mar 2024 15:13:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[예빈나다 단독 콘서트 ‘Stay with me’：롤링 29주년 기념 공연 (멜론 티켓 ─ 롤링홀)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=209519</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=209519</guid>
-            <pubDate>Sun, 24 Mar 2024 11:09:28 GMT</pubDate>
-            <content:encoded><![CDATA[2024.03.24  ~<br> 2024.03.24]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/02/20240216103810168ec1b9-cebd-4e98-9645-a1b3df8fafa1.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
         <item>
             <title><![CDATA[크라잉넛 단독 콘서트 ‘Spring Roll’：롤링 29주년 기념 공연 (멜론 티켓 ─ 롤링홀)]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=209547</link>
@@ -112,14 +104,6 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/02/2024022917270001c24de5-85b9-41a5-af0d-8fdb8c6e003b.png/melon/resize/90x125/strip/true" length="0" type="image/png/melon/resize/90x125/strip/true"/>
         </item>
         <item>
-            <title><![CDATA[Standy by Rockshow！！ (멜론 티켓 ─ 웨스트브릿지)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=209581</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=209581</guid>
-            <pubDate>Sun, 24 Mar 2024 11:09:37 GMT</pubDate>
-            <content:encoded><![CDATA[2024.03.24  ~<br> 2024.03.24]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/03/202403061839554b3e7bea-20e2-4717-a296-1f42e4dc450b.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
             <title><![CDATA[Blue is Rock－DALDAM X DASUTT (멜론 티켓 ─ 웨스트브릿지)]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=209563</link>
             <guid>https://ticket.melon.com/performance/index.htm?prodId=209563</guid>
@@ -150,14 +134,6 @@
             <pubDate>Sun, 24 Mar 2024 11:09:45 GMT</pubDate>
             <content:encoded><![CDATA[2024.03.29  ~<br> 2024.03.29]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/02/20240228144933f1fd7fcc-07ca-4522-a56f-fd9472a27414.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[SONGMATE Vol．7 예빛 X 연정 (멜론 티켓 ─ 벨로주)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=209565</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=209565</guid>
-            <pubDate>Sun, 24 Mar 2024 11:09:54 GMT</pubDate>
-            <content:encoded><![CDATA[2024.03.24  ~<br> 2024.03.24]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/03/20240305164532617c102e-5324-4cad-8ba0-c383c692f030.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[둥절2024［우리사이의 육하원칙］ (멜론 티켓 ─ 벨로주)]]></title>

@@ -4,17 +4,9 @@
         <title>멜론 티켓 ─ 롤링홀</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Mar 2024 14:12:24 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Mar 2024 15:13:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[예빈나다 단독 콘서트 ‘Stay with me’：롤링 29주년 기념 공연]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=209519</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=209519</guid>
-            <pubDate>Sun, 24 Mar 2024 11:09:28 GMT</pubDate>
-            <content:encoded><![CDATA[2024.03.24  ~<br> 2024.03.24]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/02/20240216103810168ec1b9-cebd-4e98-9645-a1b3df8fafa1.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
         <item>
             <title><![CDATA[크라잉넛 단독 콘서트 ‘Spring Roll’：롤링 29주년 기념 공연]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=209547</link>
