@@ -1,8 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://ticket.melon.com/place/index.htm?placeId=293</id>
-    <title>멜론 티켓 ─ 웨스트브릿지</title>
-    <updated>2024-03-25T07:13:04.970Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://ticket.melon.com/place/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>멜론 티켓 ─ 웨스트브릿지</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Mon, 25 Mar 2024 10:15:16 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Blue is Rock－DALDAM X DASUTT]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=209563</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=209563</guid>
+            <pubDate>Mon, 25 Mar 2024 10:13:35 GMT</pubDate>
+            <content:encoded><![CDATA[2024.03.30  ~<br> 2024.03.30]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/03/20240304102557a15fadf1-cfc1-4430-a215-61c8fd7334e7.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[파츠 첫번째 단독 쇼케이스 PATZ Showcase［Trace of Visitors］]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=209647</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=209647</guid>
+            <pubDate>Mon, 25 Mar 2024 10:13:35 GMT</pubDate>
+            <content:encoded><![CDATA[2024.04.05  ~<br> 2024.04.05]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/03/20240322135738dcac3660-07e6-424c-a2dd-696009a143c9.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[홍석민 정규앨범 발매 기념 단독 콘서트 “내 노래”]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=209631</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=209631</guid>
+            <pubDate>Mon, 25 Mar 2024 10:13:35 GMT</pubDate>
+            <content:encoded><![CDATA[2024.04.14  ~<br> 2024.04.14]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/03/20240319171122ab5c425b-bdb1-46a2-a152-3f4c853a3b9c.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+    </channel>
+</rss>
