@@ -1,8 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://ticket.melon.com/place/index.htm?placeId=12</id>
-    <title>멜론 티켓 ─ 벨로주</title>
-    <updated>2024-03-28T05:14:32.548Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://ticket.melon.com/place/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>멜론 티켓 ─ 벨로주</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Thu, 28 Mar 2024 06:19:10 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[둥절2024［우리사이의 육하원칙］]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=209552</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=209552</guid>
+            <pubDate>Thu, 28 Mar 2024 06:17:32 GMT</pubDate>
+            <content:encoded><![CDATA[2024.03.30  ~<br> 2024.03.31]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/02/202402271748431f47ce0d-ed1d-4678-b11a-9a45793ad13e.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[최정윤 단독 콘서트 ‘Secret’]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=209634</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=209634</guid>
+            <pubDate>Thu, 28 Mar 2024 06:17:32 GMT</pubDate>
+            <content:encoded><![CDATA[2024.04.20  ~<br> 2024.04.20]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/03/20240319165916468fec82-c470-4341-8403-86500803cbaa.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[먼데이프로젝트 시즌7 청춘의 밤［엔분의일 단독 콘서트］]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=209662</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=209662</guid>
+            <pubDate>Thu, 28 Mar 2024 06:17:32 GMT</pubDate>
+            <content:encoded><![CDATA[2024.04.22  ~<br> 2024.04.22]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/03/20240326204210b1cbdf89-8cc7-493e-9653-f28c5aaf4cd8.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+    </channel>
+</rss>
