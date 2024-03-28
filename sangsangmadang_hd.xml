@@ -1,19 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>멜론 티켓 ─ KT&amp;G 상상마당 라이브홀</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Thu, 28 Mar 2024 17:14:27 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[아일 전국투어 〈HERE I’ll AM〉 서울앵콜]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=209626</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=209626</guid>
-            <pubDate>Thu, 28 Mar 2024 16:15:47 GMT</pubDate>
-            <content:encoded><![CDATA[2024.03.30  ~<br> 2024.03.30]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/03/20240315163243a98aaa71-1387-4721-8a42-7e51e699cdf3.png/melon/resize/90x125/strip/true" length="0" type="image/png/melon/resize/90x125/strip/true"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://ticket.melon.com/place/index.htm?placeId=913</id>
+    <title>멜론 티켓 ─ KT&amp;G 상상마당 라이브홀</title>
+    <updated>2024-03-28T18:16:08.607Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://ticket.melon.com/place/favicon.ico</icon>
+</feed>
