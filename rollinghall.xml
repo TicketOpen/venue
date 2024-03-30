@@ -4,17 +4,9 @@
         <title>멜론 티켓 ─ 롤링홀</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 30 Mar 2024 14:12:18 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Mar 2024 15:14:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[크라잉넛 단독 콘서트 ‘Spring Roll’：롤링 29주년 기념 공연]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=209547</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=209547</guid>
-            <pubDate>Sat, 30 Mar 2024 07:12:44 GMT</pubDate>
-            <content:encoded><![CDATA[2024.03.30  ~<br> 2024.03.30]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/02/202402261527541d460603-e89c-4d03-8722-45fffe7a5624.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
         <item>
             <title><![CDATA[맥거핀 단독 콘서트 ‘Storm In A Teacup’：롤링 29주년 기념 공연]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=209550</link>

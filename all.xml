@@ -4,17 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 30 Mar 2024 14:12:18 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Mar 2024 15:14:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[크라잉넛 단독 콘서트 ‘Spring Roll’：롤링 29주년 기념 공연 (멜론 티켓 ─ 롤링홀)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=209547</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=209547</guid>
-            <pubDate>Sat, 30 Mar 2024 07:12:44 GMT</pubDate>
-            <content:encoded><![CDATA[2024.03.30  ~<br> 2024.03.30]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/02/202402261527541d460603-e89c-4d03-8722-45fffe7a5624.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
         <item>
             <title><![CDATA[맥거핀 단독 콘서트 ‘Storm In A Teacup’：롤링 29주년 기념 공연 (멜론 티켓 ─ 롤링홀)]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=209550</link>
@@ -104,14 +96,6 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/02/2024022917270001c24de5-85b9-41a5-af0d-8fdb8c6e003b.png/melon/resize/90x125/strip/true" length="0" type="image/png/melon/resize/90x125/strip/true"/>
         </item>
         <item>
-            <title><![CDATA[Blue is Rock－DALDAM X DASUTT (멜론 티켓 ─ 웨스트브릿지)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=209563</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=209563</guid>
-            <pubDate>Sat, 30 Mar 2024 07:12:53 GMT</pubDate>
-            <content:encoded><![CDATA[2024.03.30  ~<br> 2024.03.30]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/03/20240304102557a15fadf1-cfc1-4430-a215-61c8fd7334e7.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
             <title><![CDATA[파츠 첫번째 단독 쇼케이스 PATZ Showcase［Trace of Visitors］ (멜론 티켓 ─ 웨스트브릿지)]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=209647</link>
             <guid>https://ticket.melon.com/performance/index.htm?prodId=209647</guid>
@@ -174,22 +158,6 @@
             <pubDate>Sat, 30 Mar 2024 07:13:20 GMT</pubDate>
             <content:encoded><![CDATA[2024.04.28  ~<br> 2024.04.28]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/03/2024032621131596a4cceb-6592-4a23-914d-86620af5803a.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[아일 전국투어 〈HERE I’ll AM〉 서울앵콜 (멜론 티켓 ─ KT&G 상상마당 라이브홀)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=209626</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=209626</guid>
-            <pubDate>Sat, 30 Mar 2024 07:13:28 GMT</pubDate>
-            <content:encoded><![CDATA[2024.03.30  ~<br> 2024.03.30]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/03/20240315163243a98aaa71-1387-4721-8a42-7e51e699cdf3.png/melon/resize/90x125/strip/true" length="0" type="image/png/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[2024 잭킹콩 정규 2집 쇼케이스［Apophenia］ (멜론 티켓 ─ CJ아지트 광흥창)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=209609</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=209609</guid>
-            <pubDate>Sat, 30 Mar 2024 07:13:45 GMT</pubDate>
-            <content:encoded><![CDATA[2024.03.30  ~<br> 2024.03.30]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/03/202403131559364e2f335a-3908-472c-8ed2-765d024925b2.png/melon/resize/90x125/strip/true" length="0" type="image/png/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[이준형 스탠딩 단독공연：Spring Up！－3월에는 환희를 주세요 (멜론 티켓 ─ CJ아지트 광흥창)]]></title>
