@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Apr 2024 10:15:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Apr 2024 11:17:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -158,6 +158,14 @@
             <pubDate>Mon, 01 Apr 2024 08:18:59 GMT</pubDate>
             <content:encoded><![CDATA[2024.04.28  ~<br> 2024.04.28]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/03/2024032621131596a4cceb-6592-4a23-914d-86620af5803a.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[유희도 Birthday Eve Concert (멜론 티켓 ─ KT&G 상상마당 라이브홀)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=209684</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=209684</guid>
+            <pubDate>Mon, 01 Apr 2024 11:15:46 GMT</pubDate>
+            <content:encoded><![CDATA[2024.04.21  ~<br> 2024.04.21]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/04/202404011648372218e770-cece-4bd5-aeaf-d4b0ecf59b48.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[We (멜론 티켓 ─ CJ아지트 광흥창)]]></title>
