@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Apr 2024 10:15:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Apr 2024 11:12:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -134,6 +134,14 @@
             <pubDate>Tue, 02 Apr 2024 08:15:46 GMT</pubDate>
             <content:encoded><![CDATA[2024.05.05  ~<br> 2024.05.05]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/04/202404021534451e760dee-bc9d-4761-8e29-d57151373869.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[DRINK DANCE AND LOVE ALL vol．2：루디스텔로 x 아이디얼스 (멜론 티켓 ─ 프리즘홀)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=209698</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=209698</guid>
+            <pubDate>Tue, 02 Apr 2024 11:11:15 GMT</pubDate>
+            <content:encoded><![CDATA[2024.04.19  ~<br> 2024.04.19]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/04/202404021324396bd3579e-503f-4a4c-a16f-9f45e3bb7434.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[최정윤 단독 콘서트 ‘Secret’ (멜론 티켓 ─ 벨로주)]]></title>
