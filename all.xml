@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Apr 2024 04:18:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Apr 2024 05:14:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -206,6 +206,14 @@
             <pubDate>Wed, 03 Apr 2024 04:18:02 GMT</pubDate>
             <content:encoded><![CDATA[2024.04.17  ~<br> 2024.04.17]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/03/202403201630431f33db72-df59-4212-8df1-d3d910edff65.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[TUNE UP STAGE：청춘，Fantasy (멜론 티켓 ─ CJ아지트 광흥창)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=209688</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=209688</guid>
+            <pubDate>Wed, 03 Apr 2024 05:14:03 GMT</pubDate>
+            <content:encoded><![CDATA[2024.04.20  ~<br> 2024.04.20]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/04/20240401205031249e4289-f24d-4b5b-a0aa-deb46355e712.png/melon/resize/90x125/strip/true" length="0" type="image/png/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[스텔라장 단독 콘서트 〈Interstellar Festival 2024〉 (멜론 티켓 ─ 노들섬)]]></title>
