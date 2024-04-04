@@ -4,7 +4,7 @@
         <title>멜론 티켓 ─ CJ아지트 광흥창</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Apr 2024 02:23:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Apr 2024 03:16:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,14 @@
             <pubDate>Thu, 04 Apr 2024 02:22:53 GMT</pubDate>
             <content:encoded><![CDATA[2024.04.20  ~<br> 2024.04.20]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/04/20240401205031249e4289-f24d-4b5b-a0aa-deb46355e712.png/melon/resize/90x125/strip/true" length="0" type="image/png/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[OVERTIME－승부차기]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=209706</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=209706</guid>
+            <pubDate>Thu, 04 Apr 2024 03:15:29 GMT</pubDate>
+            <content:encoded><![CDATA[2024.05.12  ~<br> 2024.05.12]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/04/202404031448394e28fdad-dff0-48fc-bf2e-3715d4e565de.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
