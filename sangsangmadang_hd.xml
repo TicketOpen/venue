@@ -1,8 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://ticket.melon.com/place/index.htm?placeId=913</id>
-    <title>멜론 티켓 ─ KT&amp;G 상상마당 라이브홀</title>
-    <updated>2024-04-05T21:12:16.856Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://ticket.melon.com/place/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>멜론 티켓 ─ KT&amp;G 상상마당 라이브홀</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Fri, 05 Apr 2024 22:15:11 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[유희도 Birthday Eve Concert]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=209684</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=209684</guid>
+            <pubDate>Fri, 05 Apr 2024 22:13:55 GMT</pubDate>
+            <content:encoded><![CDATA[2024.04.21  ~<br> 2024.04.21]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/04/202404011648372218e770-cece-4bd5-aeaf-d4b0ecf59b48.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[마치 단독 콘서트 〈Traveler〉：경성 편]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=209724</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=209724</guid>
+            <pubDate>Fri, 05 Apr 2024 22:13:55 GMT</pubDate>
+            <content:encoded><![CDATA[2024.05.11  ~<br> 2024.05.12]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/04/202404051531023b755365-3291-4059-a990-a36c5fd997b8.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+    </channel>
+</rss>
