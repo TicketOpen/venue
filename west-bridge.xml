@@ -1,43 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>멜론 티켓 ─ 웨스트브릿지</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Mon, 08 Apr 2024 13:16:32 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[홍석민 정규앨범 발매 기념 단독 콘서트 “내 노래”]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=209631</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=209631</guid>
-            <pubDate>Mon, 08 Apr 2024 13:14:33 GMT</pubDate>
-            <content:encoded><![CDATA[2024.04.14  ~<br> 2024.04.14]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/03/20240319171122ab5c425b-bdb1-46a2-a152-3f4c853a3b9c.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[손진욱 팬 사인회［NOOK：FAN Vol．2 Aphrodite］]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=209680</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=209680</guid>
-            <pubDate>Mon, 08 Apr 2024 13:14:33 GMT</pubDate>
-            <content:encoded><![CDATA[2024.04.27  ~<br> 2024.04.28]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/03/2024032823084008bc6a70-4aec-4bdb-a1e2-4f63a1db08b7.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[손진욱 콘서트［NOOK：CON Vol．2 Aphrodite］]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=209678</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=209678</guid>
-            <pubDate>Mon, 08 Apr 2024 13:14:33 GMT</pubDate>
-            <content:encoded><![CDATA[2024.04.27  ~<br> 2024.04.28]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/03/20240328223035e6becb06-67eb-45de-b1cc-c9d1fdc69457.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[BAND DALDAM concert 〈 축제 〉]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=209681</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=209681</guid>
-            <pubDate>Mon, 08 Apr 2024 13:14:33 GMT</pubDate>
-            <content:encoded><![CDATA[2024.05.05  ~<br> 2024.05.05]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/04/202404021534451e760dee-bc9d-4761-8e29-d57151373869.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://ticket.melon.com/place/index.htm?placeId=293</id>
+    <title>멜론 티켓 ─ 웨스트브릿지</title>
+    <updated>2024-04-08T14:13:20.960Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://ticket.melon.com/place/favicon.ico</icon>
+</feed>
