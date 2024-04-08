@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Apr 2024 06:20:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Apr 2024 07:16:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -206,6 +206,14 @@
             <pubDate>Mon, 08 Apr 2024 04:16:36 GMT</pubDate>
             <content:encoded><![CDATA[2024.05.12  ~<br> 2024.05.12]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/04/202404031448394e28fdad-dff0-48fc-bf2e-3715d4e565de.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2024 ONEWE 3rd Live Concert ‘O！NEW E！volution Ⅲ’ (멜론 티켓 ─ 예스24 라이브홀)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=209725</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=209725</guid>
+            <pubDate>Mon, 08 Apr 2024 07:15:23 GMT</pubDate>
+            <content:encoded><![CDATA[2024.05.04  ~<br> 2024.05.05]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/04/2024040515310439c016b6-5d31-47e7-8ad1-ece5738cfca7.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[스텔라장 단독 콘서트 〈Interstellar Festival 2024〉 (멜론 티켓 ─ 노들섬)]]></title>
