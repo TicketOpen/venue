@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 Apr 2024 08:15:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Apr 2024 09:13:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -190,6 +190,14 @@
             <pubDate>Mon, 15 Apr 2024 07:11:23 GMT</pubDate>
             <content:encoded><![CDATA[2024.04.20  ~<br> 2024.04.20]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/04/20240401205031249e4289-f24d-4b5b-a0aa-deb46355e712.png/melon/resize/90x125/strip/true" length="0" type="image/png/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[TUNE UP STAGE：ANOTHER ROOM (멜론 티켓 ─ CJ아지트 광흥창)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=209756</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=209756</guid>
+            <pubDate>Mon, 15 Apr 2024 09:12:53 GMT</pubDate>
+            <content:encoded><![CDATA[2024.05.04  ~<br> 2024.05.04]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/04/2024041517065965d683b7-20e6-4de2-ad5a-60255c464958.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[live SUM 2024：까치산，달담，향（HYANG） (멜론 티켓 ─ CJ아지트 광흥창)]]></title>
