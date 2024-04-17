@@ -4,7 +4,7 @@
         <title>멜론 티켓 ─ 웨스트브릿지</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Apr 2024 07:15:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Apr 2024 10:17:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,14 @@
             <pubDate>Wed, 17 Apr 2024 06:18:45 GMT</pubDate>
             <content:encoded><![CDATA[2024.05.06  ~<br> 2024.05.06]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/04/202404111055173b913aa3-af3a-4876-af62-207b61e25cc5.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[KHANXYNOVA]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=209769</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=209769</guid>
+            <pubDate>Wed, 17 Apr 2024 10:15:09 GMT</pubDate>
+            <content:encoded><![CDATA[2024.05.12  ~<br> 2024.05.12]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/04/20240416160500a7aa6c54-4be2-4580-8071-655348f23ca0.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[KAG X 4 LUTHIERS]]></title>
