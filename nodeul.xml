@@ -4,17 +4,9 @@
         <title>멜론 티켓 ─ 노들섬</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 20 Apr 2024 14:12:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Apr 2024 15:16:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[이브x로맨틱펀치]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=209644</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=209644</guid>
-            <pubDate>Sat, 20 Apr 2024 08:16:51 GMT</pubDate>
-            <content:encoded><![CDATA[2024.04.20  ~<br> 2024.04.20]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/03/20240321165022432649b6-8a51-404a-9a49-71353f27da8e.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
         <item>
             <title><![CDATA[먼데이프로젝트 시즌7 My Universe［안예은 단독 콘서트］]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=209671</link>
