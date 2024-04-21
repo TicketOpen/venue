@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 21 Apr 2024 14:13:01 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Apr 2024 15:15:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -96,14 +96,6 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/04/202404161808276fa9ffc6-c761-4aee-9f7a-6c38cbfc2033.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
-            <title><![CDATA[New Link 정규 1집 쇼케이스［NOW WE ARE DREAMING］ (멜론 티켓 ─ 벨로주)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=209673</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=209673</guid>
-            <pubDate>Sun, 21 Apr 2024 12:21:52 GMT</pubDate>
-            <content:encoded><![CDATA[2024.04.21  ~<br> 2024.04.21]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/03/20240328172109f08b2bcd-7a68-45d6-806a-d9723332efb9.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
             <title><![CDATA[먼데이프로젝트 시즌7 청춘의 밤［엔분의일 단독 콘서트］ (멜론 티켓 ─ 벨로주)]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=209662</link>
             <guid>https://ticket.melon.com/performance/index.htm?prodId=209662</guid>
@@ -150,14 +142,6 @@
             <pubDate>Sun, 21 Apr 2024 12:22:00 GMT</pubDate>
             <content:encoded><![CDATA[2024.05.15  ~<br> 2024.05.15]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/04/20240417204114368f5c31-b2dc-4713-b6a5-bdc5ff3a07d4.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[유희도 Birthday Eve Concert (멜론 티켓 ─ KT&G 상상마당 라이브홀)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=209684</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=209684</guid>
-            <pubDate>Sun, 21 Apr 2024 12:22:08 GMT</pubDate>
-            <content:encoded><![CDATA[2024.04.21  ~<br> 2024.04.21]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/04/202404011648372218e770-cece-4bd5-aeaf-d4b0ecf59b48.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[마치 단독 콘서트 〈Traveler〉：경성 편 (멜론 티켓 ─ KT&G 상상마당 라이브홀)]]></title>
