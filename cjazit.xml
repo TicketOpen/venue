@@ -1,51 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>멜론 티켓 ─ CJ아지트 광흥창</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Tue, 23 Apr 2024 02:25:18 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[TUNE UP STAGE：ANOTHER ROOM]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=209756</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=209756</guid>
-            <pubDate>Tue, 23 Apr 2024 01:53:33 GMT</pubDate>
-            <content:encoded><![CDATA[2024.05.04  ~<br> 2024.05.04]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/04/2024041517065965d683b7-20e6-4de2-ad5a-60255c464958.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[live SUM 2024：까치산，달담，향（HYANG）]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=209709</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=209709</guid>
-            <pubDate>Tue, 23 Apr 2024 01:53:33 GMT</pubDate>
-            <content:encoded><![CDATA[2024.05.11  ~<br> 2024.05.11]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/04/202404031726290c78a34b-7d8a-4f55-ab2a-dff735a2b57a.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[OVERTIME－승부차기]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=209706</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=209706</guid>
-            <pubDate>Tue, 23 Apr 2024 01:53:33 GMT</pubDate>
-            <content:encoded><![CDATA[2024.05.12  ~<br> 2024.05.12]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/04/202404031448394e28fdad-dff0-48fc-bf2e-3715d4e565de.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[최성 단독 콘서트 〈치유계〉]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=209768</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=209768</guid>
-            <pubDate>Tue, 23 Apr 2024 01:53:33 GMT</pubDate>
-            <content:encoded><![CDATA[2024.05.17  ~<br> 2024.05.18]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/04/20240416201911ab392efa-f788-4622-a06b-a526133756d4.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[TUNE UP STAGE：Under the Peach Tree]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=209783</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=209783</guid>
-            <pubDate>Tue, 23 Apr 2024 01:53:33 GMT</pubDate>
-            <content:encoded><![CDATA[2024.05.23  ~<br> 2024.05.23]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/04/20240418173442fe092b81-ceb2-43d3-a59f-dc59e5208865.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://ticket.melon.com/place/index.htm?placeId=329</id>
+    <title>멜론 티켓 ─ CJ아지트 광흥창</title>
+    <updated>2024-04-23T03:13:35.266Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://ticket.melon.com/place/favicon.ico</icon>
+</feed>
