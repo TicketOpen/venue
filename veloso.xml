@@ -4,7 +4,7 @@
         <title>멜론 티켓 ─ 벨로주</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Apr 2024 10:14:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Apr 2024 11:15:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Thu, 25 Apr 2024 07:13:17 GMT</pubDate>
             <content:encoded><![CDATA[2024.05.25  ~<br> 2024.05.25]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/04/2024041918455865a03845-cac0-4757-936c-dd67580c0f5c.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[문없는집 단독공연 〈타임캡슐〉]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=209808</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=209808</guid>
+            <pubDate>Thu, 25 Apr 2024 11:13:39 GMT</pubDate>
+            <content:encoded><![CDATA[2024.05.26  ~<br> 2024.05.26]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/04/2024042415071703d2aa85-8169-43f5-9617-9adae095a8df.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
