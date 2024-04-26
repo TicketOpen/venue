@@ -4,7 +4,7 @@
         <title>멜론 티켓 ─ 벨로주</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Apr 2024 02:25:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Apr 2024 03:16:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Fri, 26 Apr 2024 02:24:07 GMT</pubDate>
             <content:encoded><![CDATA[2024.05.14  ~<br> 2024.05.17]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/04/202404121350288ab1e090-03dc-499f-9c9e-9677fc9ead2e.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[결 단독공연 ‘ㄱ’]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=209814</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=209814</guid>
+            <pubDate>Fri, 26 Apr 2024 03:15:11 GMT</pubDate>
+            <content:encoded><![CDATA[2024.05.18  ~<br> 2024.05.19]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/04/2024042516434983ec8ea0-7c99-4b3d-93c7-dc22a849c44e.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[Blue is Rock－DALDAM X HYANG]]></title>
