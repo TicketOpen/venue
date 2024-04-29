@@ -1,51 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>멜론 티켓 ─ 웨스트브릿지</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Mon, 29 Apr 2024 08:19:06 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[BAND DALDAM concert 〈 축제 〉]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=209681</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=209681</guid>
-            <pubDate>Mon, 29 Apr 2024 08:17:28 GMT</pubDate>
-            <content:encoded><![CDATA[2024.05.05  ~<br> 2024.05.05]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/04/202404021534451e760dee-bc9d-4761-8e29-d57151373869.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[2024 Spring 9와 숫자들 Concert ‘DRIVE－IN’]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=209731</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=209731</guid>
-            <pubDate>Mon, 29 Apr 2024 08:17:28 GMT</pubDate>
-            <content:encoded><![CDATA[2024.05.06  ~<br> 2024.05.06]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/04/202404111055173b913aa3-af3a-4876-af62-207b61e25cc5.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[배기성 콘서트 ‘기성시대’]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=209815</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=209815</guid>
-            <pubDate>Mon, 29 Apr 2024 08:17:28 GMT</pubDate>
-            <content:encoded><![CDATA[2024.05.11  ~<br> 2024.05.11]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/04/20240425170608c62d162f-5235-4b1c-a76b-fac62a37c9f9.png/melon/resize/90x125/strip/true" length="0" type="image/png/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[KHANXYNOVA]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=209769</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=209769</guid>
-            <pubDate>Mon, 29 Apr 2024 08:17:28 GMT</pubDate>
-            <content:encoded><![CDATA[2024.05.12  ~<br> 2024.05.12]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/04/20240416160500a7aa6c54-4be2-4580-8071-655348f23ca0.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[KAG X 4 LUTHIERS]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=209767</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=209767</guid>
-            <pubDate>Mon, 29 Apr 2024 08:17:28 GMT</pubDate>
-            <content:encoded><![CDATA[2024.05.15  ~<br> 2024.05.15]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/04/202404161411545bd13562-ae90-4e16-8082-45c493c169dc.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://ticket.melon.com/place/index.htm?placeId=293</id>
+    <title>멜론 티켓 ─ 웨스트브릿지</title>
+    <updated>2024-04-29T09:14:24.205Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://ticket.melon.com/place/favicon.ico</icon>
+</feed>
