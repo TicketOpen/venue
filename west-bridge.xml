@@ -4,17 +4,9 @@
         <title>멜론 티켓 ─ 웨스트브릿지</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 May 2024 14:14:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 May 2024 15:15:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[2024 Spring 9와 숫자들 Concert ‘DRIVE－IN’]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=209731</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=209731</guid>
-            <pubDate>Mon, 06 May 2024 11:10:31 GMT</pubDate>
-            <content:encoded><![CDATA[2024.05.06  ~<br> 2024.05.06]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/04/202404111055173b913aa3-af3a-4876-af62-207b61e25cc5.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
         <item>
             <title><![CDATA[배기성 콘서트 ‘기성시대’]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=209815</link>
