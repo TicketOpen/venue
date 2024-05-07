@@ -4,7 +4,7 @@
         <title>멜론 티켓 ─ 벨로주</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 May 2024 04:18:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 May 2024 05:17:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,6 +46,14 @@
             <pubDate>Mon, 06 May 2024 22:15:30 GMT</pubDate>
             <content:encoded><![CDATA[2024.05.26  ~<br> 2024.05.27]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/05/2024050711471374787baf-1a5c-4e37-ae5d-58d8cc750122.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[우주히피 “우리의 저녁”]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=209841</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=209841</guid>
+            <pubDate>Tue, 07 May 2024 05:15:47 GMT</pubDate>
+            <content:encoded><![CDATA[2024.06.08  ~<br> 2024.06.08]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/05/20240507092709b58fd8c1-acfa-4bda-8ad0-5cded6b85bd0.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
