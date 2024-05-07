@@ -4,7 +4,7 @@
         <title>멜론 티켓 ─ 벨로주</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 May 2024 02:32:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 May 2024 03:18:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -44,8 +44,8 @@
             <link>https://ticket.melon.com/performance/index.htm?prodId=209808</link>
             <guid>https://ticket.melon.com/performance/index.htm?prodId=209808</guid>
             <pubDate>Mon, 06 May 2024 22:15:30 GMT</pubDate>
-            <content:encoded><![CDATA[2024.05.26  ~<br> 2024.05.26]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/04/2024042415071703d2aa85-8169-43f5-9617-9adae095a8df.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+            <content:encoded><![CDATA[2024.05.26  ~<br> 2024.05.27]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/05/2024050711471374787baf-1a5c-4e37-ae5d-58d8cc750122.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
