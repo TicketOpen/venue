@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 May 2024 10:15:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 May 2024 11:15:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -94,6 +94,14 @@
             <pubDate>Wed, 08 May 2024 09:13:40 GMT</pubDate>
             <content:encoded><![CDATA[2024.06.06  ~<br> 2024.06.06]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/05/20240507170754a13d6968-bccb-4543-a8b3-fffa5e3e97b6.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[DRINK DANCE AND LOVE ALL：김오키 뻐킹매드니스 X 잭킹콩 (멜론 티켓 ─ 프리즘홀)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=209854</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=209854</guid>
+            <pubDate>Wed, 08 May 2024 11:13:41 GMT</pubDate>
+            <content:encoded><![CDATA[2024.06.07  ~<br> 2024.06.07]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/05/202405081615480d62449e-e3bf-456b-b102-f5be62aacb0b.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[MY AUNT MARY 단독 공연－2024 ‘CIRCLE’ live (멜론 티켓 ─ 벨로주)]]></title>
