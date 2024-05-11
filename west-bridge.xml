@@ -1,35 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>멜론 티켓 ─ 웨스트브릿지</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Sat, 11 May 2024 20:14:47 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[KHANXYNOVA]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=209769</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=209769</guid>
-            <pubDate>Sat, 11 May 2024 20:13:06 GMT</pubDate>
-            <content:encoded><![CDATA[2024.05.12  ~<br> 2024.05.12]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/04/20240416160500a7aa6c54-4be2-4580-8071-655348f23ca0.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[KAG X 4 LUTHIERS]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=209767</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=209767</guid>
-            <pubDate>Sat, 11 May 2024 20:13:06 GMT</pubDate>
-            <content:encoded><![CDATA[2024.05.15  ~<br> 2024.05.15]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/04/202404161411545bd13562-ae90-4e16-8082-45c493c169dc.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[악퉁 X 더베인 조인트콘서트]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=209845</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=209845</guid>
-            <pubDate>Sat, 11 May 2024 20:13:06 GMT</pubDate>
-            <content:encoded><![CDATA[2024.06.02  ~<br> 2024.06.02]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/05/20240507215031a6e777ec-eeb1-4add-84ec-279476a380c8.png/melon/resize/90x125/strip/true" length="0" type="image/png/melon/resize/90x125/strip/true"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://ticket.melon.com/place/index.htm?placeId=293</id>
+    <title>멜론 티켓 ─ 웨스트브릿지</title>
+    <updated>2024-05-11T21:12:34.972Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://ticket.melon.com/place/favicon.ico</icon>
+</feed>
