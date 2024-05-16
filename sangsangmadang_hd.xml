@@ -1,35 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>멜론 티켓 ─ KT&amp;G 상상마당 라이브홀</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Thu, 16 May 2024 01:57:26 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[MUSIC RUNWAY：베리코이버니 X 크리스피 〈Love ‘n’ Roll〉]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=209761</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=209761</guid>
-            <pubDate>Thu, 16 May 2024 00:56:52 GMT</pubDate>
-            <content:encoded><![CDATA[2024.05.19  ~<br> 2024.05.19]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/04/2024041610320901335a46-f32f-4696-966e-c0de873f212c.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[게이트플라워즈 2집 발매 공연：Majors of Minors]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=209852</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=209852</guid>
-            <pubDate>Thu, 16 May 2024 00:56:52 GMT</pubDate>
-            <content:encoded><![CDATA[2024.06.01  ~<br> 2024.06.01]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/05/20240508133050299491fd-5c80-4c31-9cde-dc7bb4d876af.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[다린 EP ‘serenade’ 발매 기념 콘서트－서울]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=209853</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=209853</guid>
-            <pubDate>Thu, 16 May 2024 00:56:52 GMT</pubDate>
-            <content:encoded><![CDATA[2024.06.16  ~<br> 2024.06.16]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/05/2024050815144959f8c15d-10f3-4d85-adc2-b3f93b141321.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://ticket.melon.com/place/index.htm?placeId=913</id>
+    <title>멜론 티켓 ─ KT&amp;G 상상마당 라이브홀</title>
+    <updated>2024-05-16T02:26:52.979Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://ticket.melon.com/place/favicon.ico</icon>
+</feed>
