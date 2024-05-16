@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 May 2024 05:15:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 May 2024 07:12:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -190,6 +190,14 @@
             <pubDate>Thu, 16 May 2024 04:15:46 GMT</pubDate>
             <content:encoded><![CDATA[2024.06.01  ~<br> 2024.06.01]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/05/20240508133050299491fd-5c80-4c31-9cde-dc7bb4d876af.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[싱어송와이더＃1 주니엘 (멜론 티켓 ─ KT&G 상상마당 라이브홀)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=209880</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=209880</guid>
+            <pubDate>Thu, 16 May 2024 07:11:09 GMT</pubDate>
+            <content:encoded><![CDATA[2024.06.14  ~<br> 2024.06.14]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/05/202405161457461e558107-b191-4f73-9d66-946124a74f1b.png/melon/resize/90x125/strip/true" length="0" type="image/png/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[다린 EP ‘serenade’ 발매 기념 콘서트－서울 (멜론 티켓 ─ KT&G 상상마당 라이브홀)]]></title>
