@@ -1,51 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>멜론 티켓 ─ 롤링홀</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Sat, 18 May 2024 08:16:14 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[해리빅버튼 단독 콘서트 ‘Desire’：롤링 29주년 기념 공연]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=209728</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=209728</guid>
-            <pubDate>Sat, 18 May 2024 06:15:39 GMT</pubDate>
-            <content:encoded><![CDATA[2024.05.19  ~<br> 2024.05.19]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/04/2024040516460381c297d6-64a2-492c-a244-1073770a99a5.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[나인 9colors 발매 기념 단독 콘서트：롤링 29주년 기념 공연]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=209826</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=209826</guid>
-            <pubDate>Sat, 18 May 2024 06:15:39 GMT</pubDate>
-            <content:encoded><![CDATA[2024.06.09  ~<br> 2024.06.09]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/04/20240429150410275a1c14-dc38-4d80-bbe7-cc683ea959b9.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[영소 단독 콘서트 ‘STAY’：롤링 29주년 기념 공연]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=209878</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=209878</guid>
-            <pubDate>Sat, 18 May 2024 06:15:39 GMT</pubDate>
-            <content:encoded><![CDATA[2024.06.15  ~<br> 2024.06.16]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/05/20240513154828dfee420f-e16c-4696-9b0d-af565240797f.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[소각소각 단독 콘서트 ‘우리 같이！ㅅㄱㅅㄱ’：롤링 29주년 기념 공연]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=209872</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=209872</guid>
-            <pubDate>Sat, 18 May 2024 06:15:39 GMT</pubDate>
-            <content:encoded><![CDATA[2024.06.21  ~<br> 2024.06.21]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/05/2024051017541756bead97-5384-4601-b51f-201cd0b28183.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[강 단독 콘서트 ‘Pose’：롤링 29주년 기념 공연]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=209891</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=209891</guid>
-            <pubDate>Sat, 18 May 2024 06:15:39 GMT</pubDate>
-            <content:encoded><![CDATA[2024.06.27  ~<br> 2024.06.27]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/05/20240514113505e844f0e3-e430-44b9-a973-3b93752c9082.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://ticket.melon.com/place/index.htm?placeId=43</id>
+    <title>멜론 티켓 ─ 롤링홀</title>
+    <updated>2024-05-18T09:13:54.112Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://ticket.melon.com/place/favicon.ico</icon>
+</feed>
