@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 May 2024 14:12:58 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 May 2024 15:16:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -126,14 +126,6 @@
             <pubDate>Sun, 26 May 2024 12:22:12 GMT</pubDate>
             <content:encoded><![CDATA[2024.07.13  ~<br> 2024.07.13]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/05/202405081941431f5b86b9-87ba-4b5a-a328-1a47c621ef4d.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[Flight0526：우석 편 (멜론 티켓 ─ 구름아래소극장)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=209785</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=209785</guid>
-            <pubDate>Sun, 26 May 2024 12:22:22 GMT</pubDate>
-            <content:encoded><![CDATA[2024.05.26  ~<br> 2024.05.26]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/05/2024050712022654291803-800c-4818-86b6-8bb70c118aa8.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[게이트플라워즈 2집 발매 공연：Majors of Minors (멜론 티켓 ─ KT&G 상상마당 라이브홀)]]></title>
