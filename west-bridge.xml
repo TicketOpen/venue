@@ -4,9 +4,17 @@
         <title>멜론 티켓 ─ 웨스트브릿지</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 May 2024 08:19:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 May 2024 09:19:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[전자양 단독공연 〈KING OF NOISE〉]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=209937</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=209937</guid>
+            <pubDate>Tue, 28 May 2024 09:17:06 GMT</pubDate>
+            <content:encoded><![CDATA[2024.06.30  ~<br> 2024.06.30]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/05/2024052715352661abbe3c-93b3-45b0-ac69-033a96988511.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
         <item>
             <title><![CDATA[악퉁 X 더베인 조인트콘서트]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=209845</link>
