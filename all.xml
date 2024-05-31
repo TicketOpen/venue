@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 31 May 2024 02:34:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 May 2024 03:18:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -144,6 +144,14 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/05/202405081941431f5b86b9-87ba-4b5a-a328-1a47c621ef4d.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
+            <title><![CDATA[박준하（JUNHA PARK）단독 콘서트 〈한여름 밤의 꿈〉 (멜론 티켓 ─ 구름아래소극장)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=209953</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=209953</guid>
+            <pubDate>Fri, 31 May 2024 03:16:36 GMT</pubDate>
+            <content:encoded><![CDATA[2024.06.29  ~<br> 2024.06.29]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/05/20240530132433e904a6c6-0467-484c-9c07-41c26b25e4b5.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
             <title><![CDATA[게이트플라워즈 2집 발매 공연：Majors of Minors (멜론 티켓 ─ KT&G 상상마당 라이브홀)]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=209852</link>
             <guid>https://ticket.melon.com/performance/index.htm?prodId=209852</guid>
@@ -190,6 +198,14 @@
             <pubDate>Fri, 31 May 2024 00:58:21 GMT</pubDate>
             <content:encoded><![CDATA[2024.06.29  ~<br> 2024.06.29]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/05/2024052916245540ba1dcb-2adf-4000-860e-2b7ece7df6ef.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[피에타 단독 공연 ‘독백의 단어’ (멜론 티켓 ─ KT&G 상상마당 라이브홀)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=209955</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=209955</guid>
+            <pubDate>Fri, 31 May 2024 03:16:47 GMT</pubDate>
+            <content:encoded><![CDATA[2024.07.06  ~<br> 2024.07.06]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/05/2024053015253006c80a7b-a1e8-4f47-ace4-87110ee00dcc.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[〈지구의 마지막 밤 vol．4〉 김승주 (멜론 티켓 ─ CJ아지트 광흥창)]]></title>
