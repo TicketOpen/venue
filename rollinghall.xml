@@ -4,7 +4,7 @@
         <title>멜론 티켓 ─ 롤링홀</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Jun 2024 02:37:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Jun 2024 05:18:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -62,6 +62,14 @@
             <pubDate>Mon, 03 Jun 2024 01:00:38 GMT</pubDate>
             <content:encoded><![CDATA[2024.07.04  ~<br> 2024.07.04]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/05/2024052816123648dc90e5-ebe8-4557-a7a2-c6154ff0761b.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[모스크바서핑클럽 X ddbb 콘서트：Ghost ＆ Zombie]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=209964</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=209964</guid>
+            <pubDate>Mon, 03 Jun 2024 05:16:05 GMT</pubDate>
+            <content:encoded><![CDATA[2024.07.11  ~<br> 2024.07.11]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/05/202405311051433a65e5f4-c2fa-4df9-bf31-1c28bd1987d6.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
