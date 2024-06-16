@@ -1,8 +1,59 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://ticket.melon.com/place/index.htm?placeId=913</id>
-    <title>멜론 티켓 ─ KT&amp;G 상상마당 라이브홀</title>
-    <updated>2024-06-16T12:23:49.387Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://ticket.melon.com/place/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>멜론 티켓 ─ KT&amp;G 상상마당 라이브홀</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sun, 16 Jun 2024 13:15:52 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[다린 EP ‘serenade’ 발매 기념 콘서트－서울]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=209853</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=209853</guid>
+            <pubDate>Sun, 16 Jun 2024 13:14:45 GMT</pubDate>
+            <content:encoded><![CDATA[2024.06.16  ~<br> 2024.06.16]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/05/2024050815144959f8c15d-10f3-4d85-adc2-b3f93b141321.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[BAND DALDAM concert 〈동아리〉]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=209918</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=209918</guid>
+            <pubDate>Sun, 16 Jun 2024 13:14:45 GMT</pubDate>
+            <content:encoded><![CDATA[2024.06.22  ~<br> 2024.06.22]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/05/20240521163634a237c530-615e-40b2-a118-a5d0ccfb68d0.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[크리스피 단독 콘서트：Teenage Dirtbag]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=209947</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=209947</guid>
+            <pubDate>Sun, 16 Jun 2024 13:14:45 GMT</pubDate>
+            <content:encoded><![CDATA[2024.06.29  ~<br> 2024.06.29]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/05/2024052916245540ba1dcb-2adf-4000-860e-2b7ece7df6ef.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[피에타 단독 공연 ‘독백의 단어’]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=209955</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=209955</guid>
+            <pubDate>Sun, 16 Jun 2024 13:14:45 GMT</pubDate>
+            <content:encoded><![CDATA[2024.07.06  ~<br> 2024.07.06]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/05/2024053015253006c80a7b-a1e8-4f47-ace4-87110ee00dcc.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[PAIR PLAY：Vol．9 Bump2Soul x Soul delivery]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=209973</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=209973</guid>
+            <pubDate>Sun, 16 Jun 2024 13:14:45 GMT</pubDate>
+            <content:encoded><![CDATA[2024.07.07  ~<br> 2024.07.07]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/06/20240605091303d66254bf-dde1-4fd8-8f04-db68178c856b.png/melon/resize/90x125/strip/true" length="0" type="image/png/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[싱어송와이더 ＃2 초승]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210003</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210003</guid>
+            <pubDate>Sun, 16 Jun 2024 13:14:45 GMT</pubDate>
+            <content:encoded><![CDATA[2024.07.19  ~<br> 2024.07.19]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/06/2024061310070583557a5f-e2f1-4a12-a630-21434c9dcaef.png/melon/resize/90x125/strip/true" length="0" type="image/png/melon/resize/90x125/strip/true"/>
+        </item>
+    </channel>
+</rss>
