@@ -1,43 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>멜론 티켓 ─ CJ아지트 광흥창</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Tue, 18 Jun 2024 06:21:28 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[TUNE UP STAGE［튠업 25기 선정기념 공연 ＃01．향（HYANG）X 터치드（TOUCHED）］]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=209971</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=209971</guid>
-            <pubDate>Tue, 18 Jun 2024 05:14:46 GMT</pubDate>
-            <content:encoded><![CDATA[2024.06.19  ~<br> 2024.06.19]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/06/202406051047083ee96a15-9a83-40cb-80d4-027523bd8129.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[TUNE UP STAGE［튠업 25기 선정기념 공연 ＃02．blah X 마치（MRCH）］]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=209972</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=209972</guid>
-            <pubDate>Tue, 18 Jun 2024 05:14:46 GMT</pubDate>
-            <content:encoded><![CDATA[2024.06.20  ~<br> 2024.06.20]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/06/20240605111846f152b52d-41d0-493d-97a7-16b6b4561188.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[TUNE UP STAGE［튠업 25기 선정기념 공연 ＃03．김뜻돌 X 다섯］]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=209974</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=209974</guid>
-            <pubDate>Tue, 18 Jun 2024 05:14:46 GMT</pubDate>
-            <content:encoded><![CDATA[2024.06.21  ~<br> 2024.06.21]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/06/20240605112011be668f29-09ae-41b4-b7e3-5e4ad074711c.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[〈Red C：The Red Sea〉 1st Album Concert]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=209988</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=209988</guid>
-            <pubDate>Tue, 18 Jun 2024 05:14:46 GMT</pubDate>
-            <content:encoded><![CDATA[2024.06.29  ~<br> 2024.06.29]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/06/202406071754178d0a7dc6-33ff-4282-b5f3-41bf833e546a.png/melon/resize/90x125/strip/true" length="0" type="image/png/melon/resize/90x125/strip/true"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://ticket.melon.com/place/index.htm?placeId=329</id>
+    <title>멜론 티켓 ─ CJ아지트 광흥창</title>
+    <updated>2024-06-18T07:13:22.193Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://ticket.melon.com/place/favicon.ico</icon>
+</feed>
