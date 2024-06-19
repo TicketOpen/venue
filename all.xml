@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Jun 2024 08:18:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Jun 2024 10:16:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -262,6 +262,14 @@
             <pubDate>Wed, 19 Jun 2024 04:18:37 GMT</pubDate>
             <content:encoded><![CDATA[2024.06.29  ~<br> 2024.06.29]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/06/202406071754178d0a7dc6-33ff-4282-b5f3-41bf833e546a.png/melon/resize/90x125/strip/true" length="0" type="image/png/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[태비 단독콘서트 CINEMA (멜론 티켓 ─ CJ아지트 광흥창)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210027</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210027</guid>
+            <pubDate>Wed, 19 Jun 2024 10:15:32 GMT</pubDate>
+            <content:encoded><![CDATA[2024.07.14  ~<br> 2024.07.14]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/06/20240618141045454d958d-c490-41d9-985a-fff25bb1180d.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[한로로 2nd EP 발매기념 단독콘서트 ‘집’ (멜론 티켓 ─ 노들섬)]]></title>
