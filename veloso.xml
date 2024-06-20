@@ -1,8 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://ticket.melon.com/place/index.htm?placeId=12</id>
-    <title>멜론 티켓 ─ 벨로주</title>
-    <updated>2024-06-20T08:18:50.252Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://ticket.melon.com/place/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>멜론 티켓 ─ 벨로주</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Thu, 20 Jun 2024 09:16:43 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[먼데이프로젝트 시즌7［W24 EP앨범 발매 쇼케이스 ‘MMM’］]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=209921</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=209921</guid>
+            <pubDate>Thu, 20 Jun 2024 09:15:20 GMT</pubDate>
+            <content:encoded><![CDATA[2024.06.20  ~<br> 2024.06.20]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/05/202405230906328f3b9e6f-642c-4374-84ec-f836306fa3c9.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[먼데이프로젝트 시즌7 OUR SUMMER［잭킹콩 단독 콘서트］]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=209977</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=209977</guid>
+            <pubDate>Thu, 20 Jun 2024 09:15:20 GMT</pubDate>
+            <content:encoded><![CDATA[2024.07.01  ~<br> 2024.07.01]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/06/20240605111002e7f81676-f34a-4e8b-aff1-140f26d6071e.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[사공 단독 콘서트：휴일]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=209861</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=209861</guid>
+            <pubDate>Thu, 20 Jun 2024 09:15:20 GMT</pubDate>
+            <content:encoded><![CDATA[2024.07.13  ~<br> 2024.07.13]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/05/202405081941431f5b86b9-87ba-4b5a-a328-1a47c621ef4d.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[실수 덜하는 루루의 빈혈 수치 정상 축 공연]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210023</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210023</guid>
+            <pubDate>Thu, 20 Jun 2024 09:15:20 GMT</pubDate>
+            <content:encoded><![CDATA[2024.07.27  ~<br> 2024.07.27]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/06/202406181047324229e86d-471f-4b36-8a48-239f9c8c897a.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+    </channel>
+</rss>
