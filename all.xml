@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 22 Jun 2024 14:15:45 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Jun 2024 15:14:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -158,14 +158,6 @@
             <pubDate>Sat, 22 Jun 2024 14:14:10 GMT</pubDate>
             <content:encoded><![CDATA[2024.07.21  ~<br> 2024.07.21]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/06/202406171528495bf2eaeb-4a38-448d-981b-4f7b1be273b3.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[BAND DALDAM concert 〈동아리〉 (멜론 티켓 ─ KT&G 상상마당 라이브홀)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=209918</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=209918</guid>
-            <pubDate>Sat, 22 Jun 2024 14:14:21 GMT</pubDate>
-            <content:encoded><![CDATA[2024.06.22  ~<br> 2024.06.22]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/05/20240521163634a237c530-615e-40b2-a118-a5d0ccfb68d0.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[크리스피 단독 콘서트：Teenage Dirtbag (멜론 티켓 ─ KT&G 상상마당 라이브홀)]]></title>
