@@ -1,8 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://ticket.melon.com/place/index.htm?placeId=329</id>
-    <title>멜론 티켓 ─ CJ아지트 광흥창</title>
-    <updated>2024-06-22T01:58:06.069Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://ticket.melon.com/place/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>멜론 티켓 ─ CJ아지트 광흥창</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sat, 22 Jun 2024 02:31:29 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[〈Red C：The Red Sea〉 1st Album Concert]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=209988</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=209988</guid>
+            <pubDate>Sat, 22 Jun 2024 02:30:31 GMT</pubDate>
+            <content:encoded><![CDATA[2024.06.29  ~<br> 2024.06.29]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/06/202406071754178d0a7dc6-33ff-4282-b5f3-41bf833e546a.png/melon/resize/90x125/strip/true" length="0" type="image/png/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[태비 단독콘서트 CINEMA]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210027</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210027</guid>
+            <pubDate>Sat, 22 Jun 2024 02:30:31 GMT</pubDate>
+            <content:encoded><![CDATA[2024.07.14  ~<br> 2024.07.14]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/06/20240618141045454d958d-c490-41d9-985a-fff25bb1180d.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[이준형 EP 선공개 콘서트 〈피할 수 없는〉]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210035</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210035</guid>
+            <pubDate>Sat, 22 Jun 2024 02:30:31 GMT</pubDate>
+            <content:encoded><![CDATA[2024.07.27  ~<br> 2024.07.27]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/06/20240621163746b0dca7c5-0308-4e16-a593-745f154d0d70.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+    </channel>
+</rss>
