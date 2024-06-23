@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 23 Jun 2024 14:14:17 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 23 Jun 2024 15:14:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -238,14 +238,6 @@
             <pubDate>Sun, 23 Jun 2024 11:11:07 GMT</pubDate>
             <content:encoded><![CDATA[2024.07.27  ~<br> 2024.07.27]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/06/20240621163746b0dca7c5-0308-4e16-a593-745f154d0d70.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[한로로 2nd EP 발매기념 단독콘서트 ‘집’ (멜론 티켓 ─ 노들섬)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=209915</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=209915</guid>
-            <pubDate>Sun, 23 Jun 2024 11:11:29 GMT</pubDate>
-            <content:encoded><![CDATA[2024.06.22  ~<br> 2024.06.23]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/05/202405221654305b0766c1-a800-4acf-99f2-a1bc4c508cda.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[김현창 첫 정규 앨범 단독 콘서트 〈살아서 슬퍼야지，그렇게 선명히 너를 사랑해야지〉 (멜론 티켓 ─ 노들섬)]]></title>
