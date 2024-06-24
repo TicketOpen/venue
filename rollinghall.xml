@@ -4,7 +4,7 @@
         <title>멜론 티켓 ─ 롤링홀</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Jun 2024 02:06:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Jun 2024 03:18:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -78,6 +78,14 @@
             <pubDate>Mon, 24 Jun 2024 00:59:36 GMT</pubDate>
             <content:encoded><![CDATA[2024.07.27  ~<br> 2024.07.27]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/06/202406171456351a07d278-2c7a-45a8-a7db-29079b833e7d.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[장들레 단독 콘서트 ‘롱타임노씨’]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210038</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210038</guid>
+            <pubDate>Mon, 24 Jun 2024 03:16:36 GMT</pubDate>
+            <content:encoded><![CDATA[2024.08.02  ~<br> 2024.08.02]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/06/20240620205842af47ec29-32f5-4d52-96c9-2d0088f133a4.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
