@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Jun 2024 02:04:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Jun 2024 03:20:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -206,6 +206,14 @@
             <pubDate>Fri, 28 Jun 2024 02:03:04 GMT</pubDate>
             <content:encoded><![CDATA[2024.07.19  ~<br> 2024.07.19]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/06/2024061310070583557a5f-e2f1-4a12-a630-21434c9dcaef.png/melon/resize/90x125/strip/true" length="0" type="image/png/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[Hathaw9y X PATZ ‘Leap’ (멜론 티켓 ─ KT&G 상상마당 라이브홀)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210060</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210060</guid>
+            <pubDate>Fri, 28 Jun 2024 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[2024.07.27  ~<br> 2024.07.27]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/06/202406271338106fce0edb-fc28-4f18-b8ef-6791d664874e.png/melon/resize/90x125/strip/true" length="0" type="image/png/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[킹스턴 루디스카 20주년 단독 콘서트 (멜론 티켓 ─ KT&G 상상마당 라이브홀)]]></title>
