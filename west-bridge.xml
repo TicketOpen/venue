@@ -4,7 +4,7 @@
         <title>멜론 티켓 ─ 웨스트브릿지</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Jul 2024 04:18:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Jul 2024 05:15:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Tue, 02 Jul 2024 03:14:50 GMT</pubDate>
             <content:encoded><![CDATA[2024.07.20  ~<br> 2024.07.20]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/06/20240618183935fc6bc92c-c99f-472c-9471-85526fb037f5.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[D82 meet up live]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210075</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210075</guid>
+            <pubDate>Tue, 02 Jul 2024 05:13:49 GMT</pubDate>
+            <content:encoded><![CDATA[2024.08.02  ~<br> 2024.08.02]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/07/20240701202425039025a6-6a51-40f8-933c-a2d522eb7247.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[아리아라이브 2024 이모션 인 서울]]></title>
