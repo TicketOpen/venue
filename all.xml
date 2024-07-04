@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Jul 2024 02:05:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Jul 2024 03:18:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -150,6 +150,14 @@
             <pubDate>Wed, 03 Jul 2024 17:14:14 GMT</pubDate>
             <content:encoded><![CDATA[2024.07.28  ~<br> 2024.07.28]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/07/20240701093655e346dc38-7fa4-4089-a389-3e080f1d3519.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2024 다린 여름 콘서트 〈열대야：Ride out a storm〉 (멜론 티켓 ─ 벨로주)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210083</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210083</guid>
+            <pubDate>Thu, 04 Jul 2024 03:17:05 GMT</pubDate>
+            <content:encoded><![CDATA[2024.08.02  ~<br> 2024.08.04]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/07/20240703145859522da01c-5b14-4696-b601-fd86acbc7203.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[춘길＆모세 2024 소극장 공연 ‘발라드콘서트로트’ (멜론 티켓 ─ 구름아래소극장)]]></title>
