@@ -4,17 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 06 Jul 2024 14:13:41 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Jul 2024 15:16:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[박소은 단독 공연 〈마지막 문장：오 너와 나 그렇게 쌓여가는 너와 나〉 (멜론 티켓 ─ 롤링홀)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=209986</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=209986</guid>
-            <pubDate>Sat, 06 Jul 2024 14:11:33 GMT</pubDate>
-            <content:encoded><![CDATA[2024.07.06  ~<br> 2024.07.06]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/06/2024061213494652eb59d6-f237-4d31-b7c1-405df748bb34.png/melon/resize/90x125/strip/true" length="0" type="image/png/melon/resize/90x125/strip/true"/>
-        </item>
         <item>
             <title><![CDATA[UNEDUCATED KID 2nd Concert 〈The Cult〉 (멜론 티켓 ─ 롤링홀)]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=210025</link>
@@ -166,14 +158,6 @@
             <pubDate>Sat, 06 Jul 2024 14:12:14 GMT</pubDate>
             <content:encoded><![CDATA[2024.07.27  ~<br> 2024.07.27]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/07/202407031500532f926362-e8aa-4a99-9119-accd8bc13c9e.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[피에타 단독 공연 ‘독백의 단어’ (멜론 티켓 ─ KT&G 상상마당 라이브홀)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=209955</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=209955</guid>
-            <pubDate>Sat, 06 Jul 2024 14:12:24 GMT</pubDate>
-            <content:encoded><![CDATA[2024.07.06  ~<br> 2024.07.06]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/05/2024053015253006c80a7b-a1e8-4f47-ace4-87110ee00dcc.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[PAIR PLAY：Vol．9 Bump2Soul x Soul delivery (멜론 티켓 ─ KT&G 상상마당 라이브홀)]]></title>
