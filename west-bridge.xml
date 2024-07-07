@@ -1,8 +1,51 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://ticket.melon.com/place/index.htm?placeId=293</id>
-    <title>멜론 티켓 ─ 웨스트브릿지</title>
-    <updated>2024-07-07T20:13:24.652Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://ticket.melon.com/place/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>멜론 티켓 ─ 웨스트브릿지</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sun, 07 Jul 2024 21:15:50 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2024 네미시스 라이브 콘서트 ‘여름 편지’]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210030</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210030</guid>
+            <pubDate>Sun, 07 Jul 2024 21:13:44 GMT</pubDate>
+            <content:encoded><![CDATA[2024.07.20  ~<br> 2024.07.20]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/06/20240618183935fc6bc92c-c99f-472c-9471-85526fb037f5.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[EK 1st CONCERT［ESCAPE］]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210073</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210073</guid>
+            <pubDate>Sun, 07 Jul 2024 21:13:44 GMT</pubDate>
+            <content:encoded><![CDATA[2024.07.28  ~<br> 2024.07.28]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/07/2024070309262183e96693-e13e-4ecd-92e4-9a7998ae0d3b.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[D82 meet up live]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210075</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210075</guid>
+            <pubDate>Sun, 07 Jul 2024 21:13:44 GMT</pubDate>
+            <content:encoded><![CDATA[2024.08.02  ~<br> 2024.08.02]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/07/20240701202425039025a6-6a51-40f8-933c-a2d522eb7247.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[아리아라이브 2024 이모션 인 서울]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=209982</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=209982</guid>
+            <pubDate>Sun, 07 Jul 2024 21:13:44 GMT</pubDate>
+            <content:encoded><![CDATA[2024.08.17  ~<br> 2024.08.17]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/06/202406071001336719d30d-8840-4e9b-9970-930e894b0a98.png/melon/resize/90x125/strip/true" length="0" type="image/png/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[악퉁 X 더베인 조인트콘서트]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=209845</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=209845</guid>
+            <pubDate>Sun, 07 Jul 2024 21:13:44 GMT</pubDate>
+            <content:encoded><![CDATA[2024.08.18  ~<br> 2024.08.18]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/05/20240513160525dfcd2f66-916b-464a-ad6c-56516c08e7fb.png/melon/resize/90x125/strip/true" length="0" type="image/png/melon/resize/90x125/strip/true"/>
+        </item>
+    </channel>
+</rss>
