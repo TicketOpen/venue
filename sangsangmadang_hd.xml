@@ -1,8 +1,51 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://ticket.melon.com/place/index.htm?placeId=913</id>
-    <title>멜론 티켓 ─ KT&amp;G 상상마당 라이브홀</title>
-    <updated>2024-07-08T01:01:45.095Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://ticket.melon.com/place/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>멜론 티켓 ─ KT&amp;G 상상마당 라이브홀</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Mon, 08 Jul 2024 02:10:17 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[버둥 뮤직트립：trip over music in Seoul]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=209992</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=209992</guid>
+            <pubDate>Mon, 08 Jul 2024 02:08:53 GMT</pubDate>
+            <content:encoded><![CDATA[2024.07.13  ~<br> 2024.07.13]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/06/20240620114020dc27cd24-bdb4-46b9-9556-3d1213b7d120.png/melon/resize/90x125/strip/true" length="0" type="image/png/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[이번 정류장은－EP．2 예빛]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210012</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210012</guid>
+            <pubDate>Mon, 08 Jul 2024 02:08:53 GMT</pubDate>
+            <content:encoded><![CDATA[2024.07.14  ~<br> 2024.07.14]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/06/20240614113211a4da87cb-9e18-4c7c-99cd-1388b8ccd298.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[싱어송와이더 ＃2 초승]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210003</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210003</guid>
+            <pubDate>Mon, 08 Jul 2024 02:08:53 GMT</pubDate>
+            <content:encoded><![CDATA[2024.07.19  ~<br> 2024.07.19]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/06/2024061310070583557a5f-e2f1-4a12-a630-21434c9dcaef.png/melon/resize/90x125/strip/true" length="0" type="image/png/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[Hathaw9y X PATZ ‘Leap’]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210060</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210060</guid>
+            <pubDate>Mon, 08 Jul 2024 02:08:53 GMT</pubDate>
+            <content:encoded><![CDATA[2024.07.27  ~<br> 2024.07.27]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/06/202406271338106fce0edb-fc28-4f18-b8ef-6791d664874e.png/melon/resize/90x125/strip/true" length="0" type="image/png/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[킹스턴 루디스카 20주년 단독 콘서트]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210021</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210021</guid>
+            <pubDate>Mon, 08 Jul 2024 02:08:53 GMT</pubDate>
+            <content:encoded><![CDATA[2024.08.09  ~<br> 2024.08.09]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/06/2024061812051955b264a5-dd0b-4d8c-8842-37ed92c485f4.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+    </channel>
+</rss>
