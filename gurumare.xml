@@ -1,8 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://ticket.melon.com/place/index.htm?placeId=724</id>
-    <title>멜론 티켓 ─ 구름아래소극장</title>
-    <updated>2024-07-12T20:14:51.722Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://ticket.melon.com/place/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>멜론 티켓 ─ 구름아래소극장</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Fri, 12 Jul 2024 21:16:16 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[춘길＆모세 2024 소극장 공연 ‘발라드콘서트로트’]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210028</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210028</guid>
+            <pubDate>Fri, 12 Jul 2024 21:14:45 GMT</pubDate>
+            <content:encoded><![CDATA[2024.07.14  ~<br> 2024.07.14]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/06/202406181443285476383f-2a12-446d-9ae3-dc00984e0001.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[유지애 2024 Fanmeeting［DELIGHT：여름비］]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210084</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210084</guid>
+            <pubDate>Fri, 12 Jul 2024 21:14:45 GMT</pubDate>
+            <content:encoded><![CDATA[2024.07.27  ~<br> 2024.07.27]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/07/202407031500532f926362-e8aa-4a99-9119-accd8bc13c9e.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+    </channel>
+</rss>
