@@ -4,17 +4,9 @@
         <title>멜론 티켓 ─ 벨로주</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 13 Jul 2024 14:13:07 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Jul 2024 15:15:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[사공 단독 콘서트：휴일]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=209861</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=209861</guid>
-            <pubDate>Sat, 13 Jul 2024 10:13:36 GMT</pubDate>
-            <content:encoded><![CDATA[2024.07.13  ~<br> 2024.07.13]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/05/202405081941431f5b86b9-87ba-4b5a-a328-1a47c621ef4d.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
         <item>
             <title><![CDATA[소금창고 개방 vol．4 〈여름날의 생각〉]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=210064</link>

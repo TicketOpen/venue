@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 13 Jul 2024 14:13:07 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Jul 2024 15:15:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -104,14 +104,6 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/05/20240513160525dfcd2f66-916b-464a-ad6c-56516c08e7fb.png/melon/resize/90x125/strip/true" length="0" type="image/png/melon/resize/90x125/strip/true"/>
         </item>
         <item>
-            <title><![CDATA[사공 단독 콘서트：휴일 (멜론 티켓 ─ 벨로주)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=209861</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=209861</guid>
-            <pubDate>Sat, 13 Jul 2024 10:13:36 GMT</pubDate>
-            <content:encoded><![CDATA[2024.07.13  ~<br> 2024.07.13]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/05/202405081941431f5b86b9-87ba-4b5a-a328-1a47c621ef4d.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
             <title><![CDATA[소금창고 개방 vol．4 〈여름날의 생각〉 (멜론 티켓 ─ 벨로주)]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=210064</link>
             <guid>https://ticket.melon.com/performance/index.htm?prodId=210064</guid>
@@ -160,14 +152,6 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/07/202407031500532f926362-e8aa-4a99-9119-accd8bc13c9e.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
-            <title><![CDATA[버둥 뮤직트립：trip over music in Seoul (멜론 티켓 ─ KT&G 상상마당 라이브홀)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=209992</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=209992</guid>
-            <pubDate>Sat, 13 Jul 2024 10:13:54 GMT</pubDate>
-            <content:encoded><![CDATA[2024.07.13  ~<br> 2024.07.13]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/06/20240620114020dc27cd24-bdb4-46b9-9556-3d1213b7d120.png/melon/resize/90x125/strip/true" length="0" type="image/png/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
             <title><![CDATA[이번 정류장은－EP．2 예빛 (멜론 티켓 ─ KT&G 상상마당 라이브홀)]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=210012</link>
             <guid>https://ticket.melon.com/performance/index.htm?prodId=210012</guid>
@@ -206,14 +190,6 @@
             <pubDate>Sat, 13 Jul 2024 10:13:54 GMT</pubDate>
             <content:encoded><![CDATA[2024.08.11  ~<br> 2024.08.11]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/07/20240710135730193f6602-d385-40c2-8bd9-bb44a09711a2.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[Summer Breeze (멜론 티켓 ─ CJ아지트 광흥창)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=210067</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=210067</guid>
-            <pubDate>Sat, 13 Jul 2024 10:14:11 GMT</pubDate>
-            <content:encoded><![CDATA[2024.07.13  ~<br> 2024.07.13]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/07/20240711184933bfa39f5c-4029-442b-aaff-f5b589349a4f.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[태비 단독콘서트 CINEMA (멜론 티켓 ─ CJ아지트 광흥창)]]></title>
