@@ -1,35 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>멜론 티켓 ─ CJ아지트 광흥창</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Sat, 27 Jul 2024 19:13:20 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[Blue is Rock－DALDAM X GIFT]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=210042</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=210042</guid>
-            <pubDate>Sat, 27 Jul 2024 16:21:28 GMT</pubDate>
-            <content:encoded><![CDATA[2024.07.28  ~<br> 2024.07.28]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/06/202406241530334917e210-afdd-4389-b433-856e9a6ffcd5.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[엔분의일 단독 콘서트 〈2024 HIGHTENSION〉]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=210140</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=210140</guid>
-            <pubDate>Sat, 27 Jul 2024 16:21:28 GMT</pubDate>
-            <content:encoded><![CDATA[2024.08.17  ~<br> 2024.08.17]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/07/20240722090841af695e90-53b9-4ba4-b8cc-3f839f4908c0.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[소년：달 단독 공연 〈여름이 꺼진 거리까지〉]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=210167</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=210167</guid>
-            <pubDate>Sat, 27 Jul 2024 16:21:28 GMT</pubDate>
-            <content:encoded><![CDATA[2024.08.31  ~<br> 2024.08.31]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/07/20240725090649b7dc4285-a05c-4358-a7b7-89964ec55c30.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://ticket.melon.com/place/index.htm?placeId=329</id>
+    <title>멜론 티켓 ─ CJ아지트 광흥창</title>
+    <updated>2024-07-27T20:13:59.275Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://ticket.melon.com/place/favicon.ico</icon>
+</feed>
