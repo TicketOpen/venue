@@ -1,8 +1,51 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://ticket.melon.com/place/index.htm?placeId=12</id>
-    <title>멜론 티켓 ─ 벨로주</title>
-    <updated>2024-07-30T19:12:28.890Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://ticket.melon.com/place/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>멜론 티켓 ─ 벨로주</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Tue, 30 Jul 2024 20:15:46 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2024 다린 여름 콘서트 〈열대야：Ride out a storm〉]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210083</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210083</guid>
+            <pubDate>Tue, 30 Jul 2024 20:14:06 GMT</pubDate>
+            <content:encoded><![CDATA[2024.08.02  ~<br> 2024.08.04]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/07/20240703145859522da01c-5b14-4696-b601-fd86acbc7203.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[이병찬 여름 소극장 공연 ‘한여름밤，그리고’]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210148</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210148</guid>
+            <pubDate>Tue, 30 Jul 2024 20:14:06 GMT</pubDate>
+            <content:encoded><![CDATA[2024.08.08  ~<br> 2024.08.24]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/07/202407161706350d4cd0ec-c285-4eca-a062-bcf8e907ec4e.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[먼데이프로젝트 시즌7 OUR SUMMER［길라 단독 콘서트］]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210146</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210146</guid>
+            <pubDate>Tue, 30 Jul 2024 20:14:06 GMT</pubDate>
+            <content:encoded><![CDATA[2024.08.12  ~<br> 2024.08.12]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/07/20240715214509c109c8fd-69ea-4fde-919c-f53408421300.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[먼데이프로젝트 시즌7 My Universe［시소（siso）단독 콘서트］]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210141</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210141</guid>
+            <pubDate>Tue, 30 Jul 2024 20:14:06 GMT</pubDate>
+            <content:encoded><![CDATA[2024.08.14  ~<br> 2024.08.14]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/07/20240712165316c4cf5d2f-0cf6-4415-9a5b-53a2fd63cc29.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[Memories of you：비안 정규 5집 발매 기념공연]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210176</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210176</guid>
+            <pubDate>Tue, 30 Jul 2024 20:14:06 GMT</pubDate>
+            <content:encoded><![CDATA[2024.09.12  ~<br> 2024.09.12]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/07/20240724094842a8c8a834-c5ad-4790-be16-a2e08407d11a.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+    </channel>
+</rss>
