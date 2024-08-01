@@ -1,8 +1,59 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://ticket.melon.com/place/index.htm?placeId=913</id>
-    <title>멜론 티켓 ─ KT&amp;G 상상마당 라이브홀</title>
-    <updated>2024-08-01T17:14:15.930Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://ticket.melon.com/place/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>멜론 티켓 ─ KT&amp;G 상상마당 라이브홀</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Thu, 01 Aug 2024 18:21:03 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[킹스턴 루디스카 20주년 단독 콘서트]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210021</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210021</guid>
+            <pubDate>Thu, 01 Aug 2024 18:19:45 GMT</pubDate>
+            <content:encoded><![CDATA[2024.08.09  ~<br> 2024.08.09]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/06/2024061812051955b264a5-dd0b-4d8c-8842-37ed92c485f4.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[쿠잉 단독 콘서트［SUMMER KISS］]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210116</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210116</guid>
+            <pubDate>Thu, 01 Aug 2024 18:19:45 GMT</pubDate>
+            <content:encoded><![CDATA[2024.08.11  ~<br> 2024.08.11]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/07/20240710135730193f6602-d385-40c2-8bd9-bb44a09711a2.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[먼데이프로젝트 시즌7 OUR SUMMER［카디 단독 콘서트］]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210152</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210152</guid>
+            <pubDate>Thu, 01 Aug 2024 18:19:45 GMT</pubDate>
+            <content:encoded><![CDATA[2024.08.15  ~<br> 2024.08.15]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/07/2024071717282099fa340d-dd0f-4c97-a40a-9599ae30fe26.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[먼데이프로젝트 시즌7［유승우 앨범 발매 기념 단독 콘서트 “playlist”］]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210215</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210215</guid>
+            <pubDate>Thu, 01 Aug 2024 18:19:45 GMT</pubDate>
+            <content:encoded><![CDATA[2024.08.29  ~<br> 2024.08.29]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/07/202407311509405622ccbb-b843-44e1-bc7a-5841b11a76ea.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[싱어송와이더＃3 허회경]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210192</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210192</guid>
+            <pubDate>Thu, 01 Aug 2024 18:19:45 GMT</pubDate>
+            <content:encoded><![CDATA[2024.08.30  ~<br> 2024.08.30]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/07/2024072921341081787eb1-bc63-4a6e-b35c-5550f024a3d8.png/melon/resize/90x125/strip/true" length="0" type="image/png/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[숨비 단독 콘서트 ‘이미 뱉어버린 말들엔 지우개가 없었어’]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210169</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210169</guid>
+            <pubDate>Thu, 01 Aug 2024 18:19:45 GMT</pubDate>
+            <content:encoded><![CDATA[2024.08.31  ~<br> 2024.08.31]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/07/20240722160411708c9230-99ab-4474-9ad1-fb938c36ddb8.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+    </channel>
+</rss>
