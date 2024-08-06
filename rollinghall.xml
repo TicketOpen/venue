@@ -1,75 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>멜론 티켓 ─ 롤링홀</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Tue, 06 Aug 2024 21:15:12 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[New Link 단독 콘서트 ‘WAKE UP！！’]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=210074</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=210074</guid>
-            <pubDate>Tue, 06 Aug 2024 21:13:20 GMT</pubDate>
-            <content:encoded><![CDATA[2024.08.08  ~<br> 2024.08.08]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/07/20240701182638986386e2-bb45-4f54-a3b4-8fa903575a2a.png/melon/resize/90x125/strip/true" length="0" type="image/png/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[리온 단독 콘서트：JUMP！]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=210105</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=210105</guid>
-            <pubDate>Tue, 06 Aug 2024 21:13:20 GMT</pubDate>
-            <content:encoded><![CDATA[2024.08.10  ~<br> 2024.08.10]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/07/20240709162251a657a864-4976-4194-95c0-4acbfd4f3202.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[향（HYANG）단독 공연：Take off]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=210138</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=210138</guid>
-            <pubDate>Tue, 06 Aug 2024 21:13:20 GMT</pubDate>
-            <content:encoded><![CDATA[2024.08.15  ~<br> 2024.08.15]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/07/202407121008107b6c880a-bc64-49ab-abb2-43f5373b25b4.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[HONEY BAM LIVE 1]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=210157</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=210157</guid>
-            <pubDate>Tue, 06 Aug 2024 21:13:20 GMT</pubDate>
-            <content:encoded><![CDATA[2024.08.21  ~<br> 2024.08.21]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/07/20240718162341a017886b-ae90-47a6-ae72-758810a4d8e8.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[HONEY BAM LIVE 2]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=210158</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=210158</guid>
-            <pubDate>Tue, 06 Aug 2024 21:13:20 GMT</pubDate>
-            <content:encoded><![CDATA[2024.08.22  ~<br> 2024.08.22]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/07/20240718171056e23f73e3-a488-44e6-aa6a-9761f6fe80f1.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[최정윤 단독 콘서트 ‘summer swim’]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=210153</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=210153</guid>
-            <pubDate>Tue, 06 Aug 2024 21:13:20 GMT</pubDate>
-            <content:encoded><![CDATA[2024.08.25  ~<br> 2024.08.25]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/07/2024071716562103a95ec0-798a-47ba-88e8-f9e537fbdb19.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[류수정 단독 콘서트：White Fantasy]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=210191</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=210191</guid>
-            <pubDate>Tue, 06 Aug 2024 21:13:20 GMT</pubDate>
-            <content:encoded><![CDATA[2024.09.01  ~<br> 2024.09.01]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/07/2024072920255784955b2c-7790-4644-b11c-c2c3a5736161.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[AUDIO IN PINK]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=210216</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=210216</guid>
-            <pubDate>Tue, 06 Aug 2024 21:13:20 GMT</pubDate>
-            <content:encoded><![CDATA[2024.09.06  ~<br> 2024.09.06]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/07/20240731163349f845cdb6-111d-4391-a75f-363986da473c.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://ticket.melon.com/place/index.htm?placeId=43</id>
+    <title>멜론 티켓 ─ 롤링홀</title>
+    <updated>2024-08-06T22:14:09.215Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://ticket.melon.com/place/favicon.ico</icon>
+</feed>
