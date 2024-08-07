@@ -1,7 +1,243 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://TicketOpen.github.io/venue/all.xml</id>
-    <title>Combined feed</title>
-    <updated>2024-08-07T04:18:22.086Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Combined feed</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 07 Aug 2024 05:17:24 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[New Link 단독 콘서트 ‘WAKE UP！！’ (멜론 티켓 ─ 롤링홀)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210074</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210074</guid>
+            <pubDate>Wed, 07 Aug 2024 05:15:05 GMT</pubDate>
+            <content:encoded><![CDATA[2024.08.08  ~<br> 2024.08.08]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/07/20240701182638986386e2-bb45-4f54-a3b4-8fa903575a2a.png/melon/resize/90x125/strip/true" length="0" type="image/png/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[리온 단독 콘서트：JUMP！ (멜론 티켓 ─ 롤링홀)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210105</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210105</guid>
+            <pubDate>Wed, 07 Aug 2024 05:15:05 GMT</pubDate>
+            <content:encoded><![CDATA[2024.08.10  ~<br> 2024.08.10]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/07/20240709162251a657a864-4976-4194-95c0-4acbfd4f3202.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[향（HYANG）단독 공연：Take off (멜론 티켓 ─ 롤링홀)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210138</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210138</guid>
+            <pubDate>Wed, 07 Aug 2024 05:15:05 GMT</pubDate>
+            <content:encoded><![CDATA[2024.08.15  ~<br> 2024.08.15]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/07/202407121008107b6c880a-bc64-49ab-abb2-43f5373b25b4.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[HONEY BAM LIVE 1 (멜론 티켓 ─ 롤링홀)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210157</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210157</guid>
+            <pubDate>Wed, 07 Aug 2024 05:15:05 GMT</pubDate>
+            <content:encoded><![CDATA[2024.08.21  ~<br> 2024.08.21]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/07/20240718162341a017886b-ae90-47a6-ae72-758810a4d8e8.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[HONEY BAM LIVE 2 (멜론 티켓 ─ 롤링홀)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210158</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210158</guid>
+            <pubDate>Wed, 07 Aug 2024 05:15:05 GMT</pubDate>
+            <content:encoded><![CDATA[2024.08.22  ~<br> 2024.08.22]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/07/20240718171056e23f73e3-a488-44e6-aa6a-9761f6fe80f1.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[최정윤 단독 콘서트 ‘summer swim’ (멜론 티켓 ─ 롤링홀)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210153</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210153</guid>
+            <pubDate>Wed, 07 Aug 2024 05:15:05 GMT</pubDate>
+            <content:encoded><![CDATA[2024.08.25  ~<br> 2024.08.25]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/07/2024071716562103a95ec0-798a-47ba-88e8-f9e537fbdb19.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[류수정 단독 콘서트：White Fantasy (멜론 티켓 ─ 롤링홀)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210191</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210191</guid>
+            <pubDate>Wed, 07 Aug 2024 05:15:05 GMT</pubDate>
+            <content:encoded><![CDATA[2024.09.01  ~<br> 2024.09.01]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/07/2024072920255784955b2c-7790-4644-b11c-c2c3a5736161.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[AUDIO IN PINK (멜론 티켓 ─ 롤링홀)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210216</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210216</guid>
+            <pubDate>Wed, 07 Aug 2024 05:15:05 GMT</pubDate>
+            <content:encoded><![CDATA[2024.09.06  ~<br> 2024.09.06]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/07/20240731163349f845cdb6-111d-4391-a75f-363986da473c.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[정우 단독 공연 〈누군가를 사랑한다는 것〉 (멜론 티켓 ─ 웨스트브릿지)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210170</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210170</guid>
+            <pubDate>Wed, 07 Aug 2024 05:15:16 GMT</pubDate>
+            <content:encoded><![CDATA[2024.08.14  ~<br> 2024.08.14]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/07/2024072311082995659a48-d908-400b-951d-af232974f640.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[임용훈 콘서트 Brazil With My Soul (멜론 티켓 ─ 웨스트브릿지)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210178</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210178</guid>
+            <pubDate>Wed, 07 Aug 2024 05:15:16 GMT</pubDate>
+            <content:encoded><![CDATA[2024.08.16  ~<br> 2024.08.16]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/07/202407241314483017748c-3625-4e5f-8808-4135368c2039.png/melon/resize/90x125/strip/true" length="0" type="image/png/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[아리아라이브 2024 이모션 인 서울 (멜론 티켓 ─ 웨스트브릿지)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=209982</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=209982</guid>
+            <pubDate>Wed, 07 Aug 2024 05:15:16 GMT</pubDate>
+            <content:encoded><![CDATA[2024.08.17  ~<br> 2024.08.17]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/06/202406071001336719d30d-8840-4e9b-9970-930e894b0a98.png/melon/resize/90x125/strip/true" length="0" type="image/png/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[악퉁 X 더베인 조인트콘서트 (멜론 티켓 ─ 웨스트브릿지)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=209845</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=209845</guid>
+            <pubDate>Wed, 07 Aug 2024 05:15:16 GMT</pubDate>
+            <content:encoded><![CDATA[2024.08.18  ~<br> 2024.08.18]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/05/20240513160525dfcd2f66-916b-464a-ad6c-56516c08e7fb.png/melon/resize/90x125/strip/true" length="0" type="image/png/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[이병찬 여름 소극장 공연 ‘한여름밤，그리고’ (멜론 티켓 ─ 벨로주)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210148</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210148</guid>
+            <pubDate>Wed, 07 Aug 2024 05:15:39 GMT</pubDate>
+            <content:encoded><![CDATA[2024.08.08  ~<br> 2024.08.24]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/07/202407161706350d4cd0ec-c285-4eca-a062-bcf8e907ec4e.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[먼데이프로젝트 시즌7 OUR SUMMER［길라 단독 콘서트］ (멜론 티켓 ─ 벨로주)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210146</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210146</guid>
+            <pubDate>Wed, 07 Aug 2024 05:15:39 GMT</pubDate>
+            <content:encoded><![CDATA[2024.08.12  ~<br> 2024.08.12]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/07/20240715214509c109c8fd-69ea-4fde-919c-f53408421300.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[먼데이프로젝트 시즌7 My Universe［시소（siso）단독 콘서트］ (멜론 티켓 ─ 벨로주)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210141</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210141</guid>
+            <pubDate>Wed, 07 Aug 2024 05:15:39 GMT</pubDate>
+            <content:encoded><![CDATA[2024.08.14  ~<br> 2024.08.14]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/07/20240712165316c4cf5d2f-0cf6-4415-9a5b-53a2fd63cc29.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[위아더나잇 소극장 공연 〈그리고：＆，Draw〉 (멜론 티켓 ─ 벨로주)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210231</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210231</guid>
+            <pubDate>Wed, 07 Aug 2024 05:15:39 GMT</pubDate>
+            <content:encoded><![CDATA[2024.08.31  ~<br> 2024.08.31]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/08/20240805210735302ba395-4ac4-4fb0-8c53-00dd9320a1ef.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[테종 단독 콘서트 〈METAMORPHOSIS：From Pervert To Puirty〉 (멜론 티켓 ─ 벨로주)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210232</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210232</guid>
+            <pubDate>Wed, 07 Aug 2024 05:15:39 GMT</pubDate>
+            <content:encoded><![CDATA[2024.09.07  ~<br> 2024.09.08]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/08/202408061040382c768302-04f8-40b5-9290-2db250be996e.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[Memories of you：비안 정규 5집 발매 기념공연 (멜론 티켓 ─ 벨로주)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210176</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210176</guid>
+            <pubDate>Wed, 07 Aug 2024 05:15:39 GMT</pubDate>
+            <content:encoded><![CDATA[2024.09.12  ~<br> 2024.09.12]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/07/20240724094842a8c8a834-c5ad-4790-be16-a2e08407d11a.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[킹스턴 루디스카 20주년 단독 콘서트 (멜론 티켓 ─ KT&G 상상마당 라이브홀)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210021</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210021</guid>
+            <pubDate>Wed, 07 Aug 2024 05:16:01 GMT</pubDate>
+            <content:encoded><![CDATA[2024.08.09  ~<br> 2024.08.09]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/06/2024061812051955b264a5-dd0b-4d8c-8842-37ed92c485f4.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[쿠잉 단독 콘서트［SUMMER KISS］ (멜론 티켓 ─ KT&G 상상마당 라이브홀)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210116</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210116</guid>
+            <pubDate>Wed, 07 Aug 2024 05:16:01 GMT</pubDate>
+            <content:encoded><![CDATA[2024.08.11  ~<br> 2024.08.11]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/07/20240710135730193f6602-d385-40c2-8bd9-bb44a09711a2.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[먼데이프로젝트 시즌7 OUR SUMMER［카디 단독 콘서트］ (멜론 티켓 ─ KT&G 상상마당 라이브홀)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210152</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210152</guid>
+            <pubDate>Wed, 07 Aug 2024 05:16:01 GMT</pubDate>
+            <content:encoded><![CDATA[2024.08.15  ~<br> 2024.08.15]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/07/2024071717282099fa340d-dd0f-4c97-a40a-9599ae30fe26.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[먼데이프로젝트 시즌7［유승우 앨범 발매 기념 단독 콘서트 “playlist”］ (멜론 티켓 ─ KT&G 상상마당 라이브홀)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210215</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210215</guid>
+            <pubDate>Wed, 07 Aug 2024 05:16:01 GMT</pubDate>
+            <content:encoded><![CDATA[2024.08.29  ~<br> 2024.08.29]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/07/202407311509405622ccbb-b843-44e1-bc7a-5841b11a76ea.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[싱어송와이더＃3 허회경 (멜론 티켓 ─ KT&G 상상마당 라이브홀)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210192</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210192</guid>
+            <pubDate>Wed, 07 Aug 2024 05:16:01 GMT</pubDate>
+            <content:encoded><![CDATA[2024.08.30  ~<br> 2024.08.30]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/07/2024072921341081787eb1-bc63-4a6e-b35c-5550f024a3d8.png/melon/resize/90x125/strip/true" length="0" type="image/png/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[숨비 단독 콘서트 ‘이미 뱉어버린 말들엔 지우개가 없었어’ (멜론 티켓 ─ KT&G 상상마당 라이브홀)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210169</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210169</guid>
+            <pubDate>Wed, 07 Aug 2024 05:16:01 GMT</pubDate>
+            <content:encoded><![CDATA[2024.08.31  ~<br> 2024.08.31]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/07/20240722160411708c9230-99ab-4474-9ad1-fb938c36ddb8.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[엔분의일 단독 콘서트 〈2024 HIGHTENSION〉 (멜론 티켓 ─ CJ아지트 광흥창)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210140</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210140</guid>
+            <pubDate>Wed, 07 Aug 2024 05:16:22 GMT</pubDate>
+            <content:encoded><![CDATA[2024.08.17  ~<br> 2024.08.17]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/07/20240722090841af695e90-53b9-4ba4-b8cc-3f839f4908c0.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[소년：달 단독 공연 〈여름이 꺼진 거리까지〉 (멜론 티켓 ─ CJ아지트 광흥창)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210167</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210167</guid>
+            <pubDate>Wed, 07 Aug 2024 05:16:22 GMT</pubDate>
+            <content:encoded><![CDATA[2024.08.31  ~<br> 2024.08.31]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/07/20240725090649b7dc4285-a05c-4358-a7b7-89964ec55c30.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[음율 The 1st Concert 〈환상설화（幻想說話）〉 (멜론 티켓 ─ CJ아지트 광흥창)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210217</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210217</guid>
+            <pubDate>Wed, 07 Aug 2024 05:16:22 GMT</pubDate>
+            <content:encoded><![CDATA[2024.09.07  ~<br> 2024.09.08]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/07/20240731171952adf57cfe-2a2e-4257-9c1d-806488575e61.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[앤서니 라자로 서울 공연（Anthony Lazaro in Seoul） (멜론 티켓 ─ 노들섬)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210115</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210115</guid>
+            <pubDate>Wed, 07 Aug 2024 05:16:51 GMT</pubDate>
+            <content:encoded><![CDATA[2024.09.22  ~<br> 2024.09.22]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/07/2024071013510590a23d06-533b-4b10-8e83-15a6fc4584b4.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[Rokudenashi Oneman Live「Vol．0」Live in Korea (멜론 티켓 ─ 노들섬)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210180</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210180</guid>
+            <pubDate>Wed, 07 Aug 2024 05:16:51 GMT</pubDate>
+            <content:encoded><![CDATA[2024.10.03  ~<br> 2024.10.03]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/07/202407251044468c1fb847-d316-4da0-98b8-6dfd423ff9bb.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+    </channel>
+</rss>
