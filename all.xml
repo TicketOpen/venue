@@ -4,17 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 10 Aug 2024 14:14:23 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 10 Aug 2024 15:15:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[리온 단독 콘서트：JUMP！ (멜론 티켓 ─ 롤링홀)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=210105</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=210105</guid>
-            <pubDate>Sat, 10 Aug 2024 14:12:31 GMT</pubDate>
-            <content:encoded><![CDATA[2024.08.10  ~<br> 2024.08.10]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/07/20240709162251a657a864-4976-4194-95c0-4acbfd4f3202.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
         <item>
             <title><![CDATA[향（HYANG）단독 공연：Take off (멜론 티켓 ─ 롤링홀)]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=210138</link>
