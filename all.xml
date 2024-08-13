@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Aug 2024 02:37:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Aug 2024 03:18:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -54,6 +54,14 @@
             <pubDate>Tue, 13 Aug 2024 02:35:37 GMT</pubDate>
             <content:encoded><![CDATA[2024.09.06  ~<br> 2024.09.06]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/07/20240731163349f845cdb6-111d-4391-a75f-363986da473c.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[이제 단독 콘서트 ‘찰칵！’ (멜론 티켓 ─ 롤링홀)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210253</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210253</guid>
+            <pubDate>Tue, 13 Aug 2024 03:16:25 GMT</pubDate>
+            <content:encoded><![CDATA[2024.09.22  ~<br> 2024.09.22]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/08/202408102126244d841d51-f49f-451b-a305-bb4c6c2d0295.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[정우 단독 공연 〈누군가를 사랑한다는 것〉 (멜론 티켓 ─ 웨스트브릿지)]]></title>
@@ -174,6 +182,14 @@
             <pubDate>Tue, 13 Aug 2024 02:36:21 GMT</pubDate>
             <content:encoded><![CDATA[2024.08.31  ~<br> 2024.08.31]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/07/20240722160411708c9230-99ab-4474-9ad1-fb938c36ddb8.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[Dive to garden 1st Concert ‘Flutter 24’ (멜론 티켓 ─ KT&G 상상마당 라이브홀)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210256</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210256</guid>
+            <pubDate>Tue, 13 Aug 2024 03:17:22 GMT</pubDate>
+            <content:encoded><![CDATA[2024.09.07  ~<br> 2024.09.07]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/08/202408122122505d730cb7-73ce-4d5f-a896-1d75e61f62bc.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[엔분의일 단독 콘서트 〈2024 HIGHTENSION〉 (멜론 티켓 ─ CJ아지트 광흥창)]]></title>

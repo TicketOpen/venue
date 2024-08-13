@@ -4,7 +4,7 @@
         <title>멜론 티켓 ─ KT&amp;G 상상마당 라이브홀</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Aug 2024 02:37:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Aug 2024 03:18:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,14 @@
             <pubDate>Tue, 13 Aug 2024 02:36:21 GMT</pubDate>
             <content:encoded><![CDATA[2024.08.31  ~<br> 2024.08.31]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/07/20240722160411708c9230-99ab-4474-9ad1-fb938c36ddb8.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[Dive to garden 1st Concert ‘Flutter 24’]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210256</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210256</guid>
+            <pubDate>Tue, 13 Aug 2024 03:17:22 GMT</pubDate>
+            <content:encoded><![CDATA[2024.09.07  ~<br> 2024.09.07]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/08/202408122122505d730cb7-73ce-4d5f-a896-1d75e61f62bc.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
