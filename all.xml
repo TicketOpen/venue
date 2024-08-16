@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Aug 2024 14:14:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Aug 2024 15:19:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -54,14 +54,6 @@
             <pubDate>Fri, 16 Aug 2024 13:18:49 GMT</pubDate>
             <content:encoded><![CDATA[2024.09.22  ~<br> 2024.09.22]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/08/202408102126244d841d51-f49f-451b-a305-bb4c6c2d0295.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[임용훈 콘서트 Brazil With My Soul (멜론 티켓 ─ 웨스트브릿지)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=210178</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=210178</guid>
-            <pubDate>Fri, 16 Aug 2024 13:18:59 GMT</pubDate>
-            <content:encoded><![CDATA[2024.08.16  ~<br> 2024.08.16]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/07/202407241314483017748c-3625-4e5f-8808-4135368c2039.png/melon/resize/90x125/strip/true" length="0" type="image/png/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[아리아라이브 2024 이모션 인 서울 (멜론 티켓 ─ 웨스트브릿지)]]></title>
