@@ -1,8 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://ticket.melon.com/place/index.htm?placeId=724</id>
-    <title>멜론 티켓 ─ 구름아래소극장</title>
-    <updated>2024-08-18T14:13:09.159Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://ticket.melon.com/place/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>멜론 티켓 ─ 구름아래소극장</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sun, 18 Aug 2024 15:14:58 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[전진희 10주년 기념 단독 콘서트 〈영원 속에서〉－앵콜]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210239</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210239</guid>
+            <pubDate>Sun, 18 Aug 2024 15:13:40 GMT</pubDate>
+            <content:encoded><![CDATA[2024.08.23  ~<br> 2024.08.23]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/08/2024080814285257d98a91-c58e-4228-ad54-a3f7fae91185.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2024 임지수 단독 콘서트 〈is it love〉]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210244</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210244</guid>
+            <pubDate>Sun, 18 Aug 2024 15:13:40 GMT</pubDate>
+            <content:encoded><![CDATA[2024.09.01  ~<br> 2024.09.01]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/08/202408081614168246f4c4-a844-478d-9402-72068037623d.png/melon/resize/90x125/strip/true" length="0" type="image/png/melon/resize/90x125/strip/true"/>
+        </item>
+    </channel>
+</rss>
