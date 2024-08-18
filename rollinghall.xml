@@ -1,59 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>멜론 티켓 ─ 롤링홀</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Sun, 18 Aug 2024 19:13:43 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[HONEY BAM LIVE 1]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=210157</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=210157</guid>
-            <pubDate>Sun, 18 Aug 2024 19:11:50 GMT</pubDate>
-            <content:encoded><![CDATA[2024.08.21  ~<br> 2024.08.21]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/07/20240718162341a017886b-ae90-47a6-ae72-758810a4d8e8.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[HONEY BAM LIVE 2]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=210158</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=210158</guid>
-            <pubDate>Sun, 18 Aug 2024 19:11:50 GMT</pubDate>
-            <content:encoded><![CDATA[2024.08.22  ~<br> 2024.08.22]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/07/20240718171056e23f73e3-a488-44e6-aa6a-9761f6fe80f1.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[최정윤 단독 콘서트 ‘summer swim’]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=210153</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=210153</guid>
-            <pubDate>Sun, 18 Aug 2024 19:11:50 GMT</pubDate>
-            <content:encoded><![CDATA[2024.08.25  ~<br> 2024.08.25]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/07/2024071716562103a95ec0-798a-47ba-88e8-f9e537fbdb19.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[류수정 단독 콘서트：White Fantasy]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=210191</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=210191</guid>
-            <pubDate>Sun, 18 Aug 2024 19:11:50 GMT</pubDate>
-            <content:encoded><![CDATA[2024.09.01  ~<br> 2024.09.01]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/07/2024072920255784955b2c-7790-4644-b11c-c2c3a5736161.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[AUDIO IN PINK]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=210216</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=210216</guid>
-            <pubDate>Sun, 18 Aug 2024 19:11:50 GMT</pubDate>
-            <content:encoded><![CDATA[2024.09.06  ~<br> 2024.09.06]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/07/20240731163349f845cdb6-111d-4391-a75f-363986da473c.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[이제 단독 콘서트 ‘찰칵！’]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=210253</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=210253</guid>
-            <pubDate>Sun, 18 Aug 2024 19:11:50 GMT</pubDate>
-            <content:encoded><![CDATA[2024.09.22  ~<br> 2024.09.22]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/08/202408102126244d841d51-f49f-451b-a305-bb4c6c2d0295.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://ticket.melon.com/place/index.htm?placeId=43</id>
+    <title>멜론 티켓 ─ 롤링홀</title>
+    <updated>2024-08-18T20:14:41.907Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://ticket.melon.com/place/favicon.ico</icon>
+</feed>
