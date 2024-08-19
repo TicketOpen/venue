@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Aug 2024 01:04:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Aug 2024 03:17:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -54,6 +54,14 @@
             <pubDate>Mon, 19 Aug 2024 01:02:34 GMT</pubDate>
             <content:encoded><![CDATA[2024.09.22  ~<br> 2024.09.22]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/08/202408102126244d841d51-f49f-451b-a305-bb4c6c2d0295.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[보수동쿨러：SINGALONG (멜론 티켓 ─ 롤링홀)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210281</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210281</guid>
+            <pubDate>Mon, 19 Aug 2024 03:15:38 GMT</pubDate>
+            <content:encoded><![CDATA[2024.09.27  ~<br> 2024.09.27]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/08/202408181851098d80b51e-42c9-4092-91b3-cdfab9278813.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[이병찬 여름 소극장 공연 ‘한여름밤，그리고’ (멜론 티켓 ─ 벨로주)]]></title>
