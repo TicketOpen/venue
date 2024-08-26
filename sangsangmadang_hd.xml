@@ -4,7 +4,7 @@
         <title>멜론 티켓 ─ KT&amp;G 상상마당 라이브홀</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 26 Aug 2024 02:38:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Aug 2024 03:24:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,6 +46,14 @@
             <pubDate>Mon, 26 Aug 2024 02:37:21 GMT</pubDate>
             <content:encoded><![CDATA[2024.09.12  ~<br> 2024.09.12]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/08/20240812215852f75cece2-ec50-40e2-8616-2dd28ad193de.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[After Thoughts Concert ‘CEDAR’]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210317</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210317</guid>
+            <pubDate>Mon, 26 Aug 2024 03:23:16 GMT</pubDate>
+            <content:encoded><![CDATA[2024.09.21  ~<br> 2024.09.21]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/08/2024082315003272179d77-8107-447e-8634-0c587668a50e.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[DREAM WALKER＃4：초승]]></title>
