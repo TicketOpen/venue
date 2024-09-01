@@ -4,17 +4,9 @@
         <title>멜론 티켓 ─ 구름아래소극장</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 01 Sep 2024 14:14:06 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 Sep 2024 15:16:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[2024 임지수 단독 콘서트 〈is it love〉]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=210244</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=210244</guid>
-            <pubDate>Sun, 01 Sep 2024 13:18:38 GMT</pubDate>
-            <content:encoded><![CDATA[2024.09.01  ~<br> 2024.09.01]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/08/202408081614168246f4c4-a844-478d-9402-72068037623d.png/melon/resize/90x125/strip/true" length="0" type="image/png/melon/resize/90x125/strip/true"/>
-        </item>
         <item>
             <title><![CDATA[러빔（LUVIM）1st concert 〈하나님의 열심〉]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=210300</link>
