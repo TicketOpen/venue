@@ -1,35 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>멜론 티켓 ─ 벨로주</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Tue, 03 Sep 2024 07:15:55 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[테종 단독 콘서트 〈METAMORPHOSIS：From Pervert To Purity〉]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=210232</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=210232</guid>
-            <pubDate>Tue, 03 Sep 2024 07:14:26 GMT</pubDate>
-            <content:encoded><![CDATA[2024.09.07  ~<br> 2024.09.08]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/08/202408061040382c768302-04f8-40b5-9290-2db250be996e.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[Memories of you：비안 정규 5집 발매 기념공연]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=210176</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=210176</guid>
-            <pubDate>Tue, 03 Sep 2024 07:14:26 GMT</pubDate>
-            <content:encoded><![CDATA[2024.09.12  ~<br> 2024.09.12]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/07/20240724094842a8c8a834-c5ad-4790-be16-a2e08407d11a.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[Crystal Tea Party vol．2：〈High school musical〉 발매 기념 공연]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=210287</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=210287</guid>
-            <pubDate>Tue, 03 Sep 2024 07:14:26 GMT</pubDate>
-            <content:encoded><![CDATA[2024.09.22  ~<br> 2024.09.22]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/08/20240821110504926b8b6f-5908-498b-9da0-3db28db1e899.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://ticket.melon.com/place/index.htm?placeId=12</id>
+    <title>멜론 티켓 ─ 벨로주</title>
+    <updated>2024-09-03T08:20:40.785Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://ticket.melon.com/place/favicon.ico</icon>
+</feed>
