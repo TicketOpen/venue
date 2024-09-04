@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 04 Sep 2024 02:41:30 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Sep 2024 03:17:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -126,6 +126,14 @@
             <pubDate>Wed, 04 Sep 2024 02:40:12 GMT</pubDate>
             <content:encoded><![CDATA[2024.09.28  ~<br> 2024.09.28]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/08/202408201834557060c9a2-46a7-4712-9c0a-53387fa9f344.png/melon/resize/90x125/strip/true" length="0" type="image/png/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[먼데이프로젝트 시즌7［SAAY 가을 소극장 콘서트 “CLOUD 9”］ (멜론 티켓 ─ 구름아래소극장)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210342</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210342</guid>
+            <pubDate>Wed, 04 Sep 2024 03:16:16 GMT</pubDate>
+            <content:encoded><![CDATA[2024.10.03  ~<br> 2024.10.03]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/09/202409041129120e13a4c1-874f-4b0c-9543-746bb64faf77.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[Dive to garden 1st Concert ‘Flutter 24’ (멜론 티켓 ─ KT&G 상상마당 라이브홀)]]></title>
