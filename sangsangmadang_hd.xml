@@ -1,67 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>멜론 티켓 ─ KT&amp;G 상상마당 라이브홀</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Thu, 05 Sep 2024 21:15:18 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[Dive to garden 1st Concert ‘Flutter 24’]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=210256</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=210256</guid>
-            <pubDate>Thu, 05 Sep 2024 21:14:07 GMT</pubDate>
-            <content:encoded><![CDATA[2024.09.07  ~<br> 2024.09.07]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/08/202408122122505d730cb7-73ce-4d5f-a896-1d75e61f62bc.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[먼데이프로젝트 시즌7［디어클라우드 단독 콘서트 ‘Ground zero’］]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=210257</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=210257</guid>
-            <pubDate>Thu, 05 Sep 2024 21:14:07 GMT</pubDate>
-            <content:encoded><![CDATA[2024.09.12  ~<br> 2024.09.12]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/08/20240812215852f75cece2-ec50-40e2-8616-2dd28ad193de.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[싱어송와이더 ＃4 위수]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=210294</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=210294</guid>
-            <pubDate>Thu, 05 Sep 2024 21:14:07 GMT</pubDate>
-            <content:encoded><![CDATA[2024.09.13  ~<br> 2024.09.13]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/08/2024082316430361fb3801-de29-4324-8482-f150e7821321.png/melon/resize/90x125/strip/true" length="0" type="image/png/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[After Thoughts Concert ‘CEDAR’]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=210317</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=210317</guid>
-            <pubDate>Thu, 05 Sep 2024 21:14:07 GMT</pubDate>
-            <content:encoded><![CDATA[2024.09.21  ~<br> 2024.09.21]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/08/2024082315003272179d77-8107-447e-8634-0c587668a50e.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[OFF THE MENU TOUR 2024]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=210326</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=210326</guid>
-            <pubDate>Thu, 05 Sep 2024 21:14:07 GMT</pubDate>
-            <content:encoded><![CDATA[2024.09.22  ~<br> 2024.09.22]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/08/2024082715302865649bfb-834d-4a01-8051-87031739a601.png/melon/resize/90x125/strip/true" length="0" type="image/png/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[DREAM WALKER＃4：초승]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=210308</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=210308</guid>
-            <pubDate>Thu, 05 Sep 2024 21:14:07 GMT</pubDate>
-            <content:encoded><![CDATA[2024.09.28  ~<br> 2024.09.28]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/08/20240822134856dcad5fde-550d-412e-bfc7-0edf79b43b78.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[wee＇s ＃1 LET ME KNOW X Dragon Pony]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=210335</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=210335</guid>
-            <pubDate>Thu, 05 Sep 2024 21:14:07 GMT</pubDate>
-            <content:encoded><![CDATA[2024.10.18  ~<br> 2024.10.18]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/08/202408291619276b220fd8-ecad-4400-986c-3c9c30791912.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://ticket.melon.com/place/index.htm?placeId=913</id>
+    <title>멜론 티켓 ─ KT&amp;G 상상마당 라이브홀</title>
+    <updated>2024-09-05T22:14:04.772Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://ticket.melon.com/place/favicon.ico</icon>
+</feed>
