@@ -1,8 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://ticket.melon.com/place/index.htm?placeId=329</id>
-    <title>멜론 티켓 ─ CJ아지트 광흥창</title>
-    <updated>2024-09-07T09:14:10.427Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://ticket.melon.com/place/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>멜론 티켓 ─ CJ아지트 광흥창</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sat, 07 Sep 2024 10:17:29 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[음율 The 1st Concert 〈환상설화（幻想說話）〉]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210217</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210217</guid>
+            <pubDate>Sat, 07 Sep 2024 10:16:30 GMT</pubDate>
+            <content:encoded><![CDATA[2024.09.07  ~<br> 2024.09.08]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/07/20240731171952adf57cfe-2a2e-4257-9c1d-806488575e61.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[아마도이자람밴드 단독공연 〈마무리〉]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210241</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210241</guid>
+            <pubDate>Sat, 07 Sep 2024 10:16:30 GMT</pubDate>
+            <content:encoded><![CDATA[2024.09.21  ~<br> 2024.09.21]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/08/202408132252031b953b37-64a8-46ee-956c-5e97fe3080cf.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+    </channel>
+</rss>
