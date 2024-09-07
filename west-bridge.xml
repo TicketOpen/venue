@@ -1,8 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://ticket.melon.com/place/index.htm?placeId=293</id>
-    <title>멜론 티켓 ─ 웨스트브릿지</title>
-    <updated>2024-09-07T22:13:22.764Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://ticket.melon.com/place/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>멜론 티켓 ─ 웨스트브릿지</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sat, 07 Sep 2024 23:15:59 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[네미시스 라이브 콘서트 ‘september’]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210286</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210286</guid>
+            <pubDate>Sat, 07 Sep 2024 23:13:57 GMT</pubDate>
+            <content:encoded><![CDATA[2024.09.28  ~<br> 2024.09.28]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/08/202408161613569a402d85-e99f-40cf-bdf2-f4f9dd9812cf.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[김승주 앨범 발매 쇼케이스［소년만화 完］]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210346</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210346</guid>
+            <pubDate>Sat, 07 Sep 2024 23:13:57 GMT</pubDate>
+            <content:encoded><![CDATA[2024.10.03  ~<br> 2024.10.03]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/09/202409031829313b4b1f50-6ff5-4b1b-8300-32d09df5a3b8.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[can＇t be blue 단독 공연 〈Blue Vinyl〉]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210359</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210359</guid>
+            <pubDate>Sat, 07 Sep 2024 23:13:57 GMT</pubDate>
+            <content:encoded><![CDATA[2024.10.09  ~<br> 2024.10.09]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/09/202409051826123172654e-f5c3-4552-b0a7-62186732c40b.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+    </channel>
+</rss>
