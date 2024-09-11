@@ -4,7 +4,7 @@
         <title>멜론 티켓 ─ 구름아래소극장</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 Sep 2024 07:16:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Sep 2024 08:21:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -37,7 +37,7 @@
             <guid>https://ticket.melon.com/performance/index.htm?prodId=210377</guid>
             <pubDate>Wed, 11 Sep 2024 06:21:38 GMT</pubDate>
             <content:encoded><![CDATA[2024.10.12  ~<br> 2024.10.12]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/09/20240910185805cc013830-5bb5-417a-bd5f-8312c24ddec1.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/09/202409111707494057af59-e67a-4449-9c13-e1a74938d541.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
