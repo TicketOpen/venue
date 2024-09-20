@@ -4,7 +4,7 @@
         <title>멜론 티켓 ─ 벨로주</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 20 Sep 2024 02:46:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Sep 2024 04:19:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Fri, 20 Sep 2024 01:06:39 GMT</pubDate>
             <content:encoded><![CDATA[2024.10.16  ~<br> 2024.10.16]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/09/202409122323443ccf508c-2b52-4a28-aa97-1e94c7d44cf0.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[도후 단독 콘서트［FOR YOUR NOSTALGIA］]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210400</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210400</guid>
+            <pubDate>Fri, 20 Sep 2024 04:18:07 GMT</pubDate>
+            <content:encoded><![CDATA[2024.10.19  ~<br> 2024.10.19]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/09/20240919092438a66d77ea-46fc-4cd6-9391-430fedb0414b.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[소년：달 단독 공연 〈RE：st〉]]></title>
