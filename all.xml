@@ -4,17 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 29 Sep 2024 14:15:13 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 Sep 2024 15:19:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[스킵잭 첫 정규 앨범 발매 기념 콘서트：giveusasalvation． (멜론 티켓 ─ 롤링홀)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=210303</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=210303</guid>
-            <pubDate>Sun, 29 Sep 2024 10:14:15 GMT</pubDate>
-            <content:encoded><![CDATA[2024.09.29  ~<br> 2024.09.29]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/08/2024082119083840e906a3-de1a-4d77-848a-342b3eb2d7aa.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
         <item>
             <title><![CDATA[화노 단독 콘서트：Suspense (멜론 티켓 ─ 롤링홀)]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=210327</link>
@@ -86,14 +78,6 @@
             <pubDate>Sun, 29 Sep 2024 10:14:25 GMT</pubDate>
             <content:encoded><![CDATA[2024.10.09  ~<br> 2024.10.09]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/09/202409051826123172654e-f5c3-4552-b0a7-62186732c40b.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[악퉁 ‘Electric Achtung’ (멜론 티켓 ─ 벨로주)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=210345</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=210345</guid>
-            <pubDate>Sun, 29 Sep 2024 10:14:49 GMT</pubDate>
-            <content:encoded><![CDATA[2024.09.29  ~<br> 2024.09.29]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/09/20240903171719962e0913-4dd9-4228-95e6-ababcedb067d.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[먼데이프로젝트 시즌7［프랭클리 단독 콘서트 “STOP SIGN”］ (멜론 티켓 ─ 벨로주)]]></title>
