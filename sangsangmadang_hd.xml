@@ -1,8 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://ticket.melon.com/place/index.htm?placeId=913</id>
-    <title>멜론 티켓 ─ KT&amp;G 상상마당 라이브홀</title>
-    <updated>2024-10-04T18:20:56.276Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://ticket.melon.com/place/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>멜론 티켓 ─ KT&amp;G 상상마당 라이브홀</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Fri, 04 Oct 2024 19:17:40 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[허클베리핀 20th 옐로우콘서트]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210415</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210415</guid>
+            <pubDate>Fri, 04 Oct 2024 19:16:18 GMT</pubDate>
+            <content:encoded><![CDATA[2024.10.11  ~<br> 2024.10.12]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/09/20240920130853deed762d-8478-4b05-a903-248f40e378fa.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[wee＇s ＃1 LET ME KNOW X Dragon Pony]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210335</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210335</guid>
+            <pubDate>Fri, 04 Oct 2024 19:16:18 GMT</pubDate>
+            <content:encoded><![CDATA[2024.10.18  ~<br> 2024.10.18]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/08/202408291619276b220fd8-ecad-4400-986c-3c9c30791912.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[윈디시티와 친구들：가을 맞이 조인트]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210426</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210426</guid>
+            <pubDate>Fri, 04 Oct 2024 19:16:18 GMT</pubDate>
+            <content:encoded><![CDATA[2024.10.19  ~<br> 2024.10.19]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/09/20240924184330c0428855-5d4f-4bce-86a5-19ab3d60d9bc.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[땡땡이 프로젝트 vol1．D82]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210465</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210465</guid>
+            <pubDate>Fri, 04 Oct 2024 19:16:18 GMT</pubDate>
+            <content:encoded><![CDATA[2024.11.01  ~<br> 2024.11.01]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/10/20241002192750c90198ff-c802-4eb0-ab40-734eb27f15c1.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+    </channel>
+</rss>
