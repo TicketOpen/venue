@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Oct 2024 03:25:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Oct 2024 04:20:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -62,6 +62,14 @@
             <pubDate>Tue, 08 Oct 2024 02:51:28 GMT</pubDate>
             <content:encoded><![CDATA[2024.11.03  ~<br> 2024.11.03]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/09/202409302102260e109442-62d5-4edb-9fd5-48a441ab4afa.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[Hollow jan－An Inaudible voice［싱글 발매 단독 콘서트］ (멜론 티켓 ─ 롤링홀)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210472</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210472</guid>
+            <pubDate>Tue, 08 Oct 2024 04:18:21 GMT</pubDate>
+            <content:encoded><![CDATA[2024.11.10  ~<br> 2024.11.10]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/10/202410071555301dfbbc72-cf43-4086-8111-11cd20f1aebd.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[can＇t be blue 단독 공연 〈Blue Vinyl〉 (멜론 티켓 ─ 웨스트브릿지)]]></title>
