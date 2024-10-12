@@ -1,59 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>멜론 티켓 ─ 롤링홀</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Sat, 12 Oct 2024 15:18:44 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[［Rolling hall X BØJEONG］live concert ＃kinfolks]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=210402</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=210402</guid>
-            <pubDate>Sat, 12 Oct 2024 14:12:48 GMT</pubDate>
-            <content:encoded><![CDATA[2024.10.24  ~<br> 2024.10.24]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/09/20240919090827b091a2f0-1437-471f-abd8-321cf5a55427.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[CMYK：can’t be blue ＆ HYANG]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=210409</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=210409</guid>
-            <pubDate>Sat, 12 Oct 2024 14:12:48 GMT</pubDate>
-            <content:encoded><![CDATA[2024.10.25  ~<br> 2024.10.25]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/09/202409230913503c157978-cfd5-409b-9218-e973b696a125.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[12BH 단독 콘서트：I Can’t Stop Loving You]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=210430</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=210430</guid>
-            <pubDate>Sat, 12 Oct 2024 14:12:48 GMT</pubDate>
-            <content:encoded><![CDATA[2024.10.31  ~<br> 2024.10.31]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/09/20240924182847a94be010-a9de-4afb-b834-115d051e4e71.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[이루리 단독 콘서트：당신의 멜로디]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=210453</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=210453</guid>
-            <pubDate>Sat, 12 Oct 2024 14:12:48 GMT</pubDate>
-            <content:encoded><![CDATA[2024.11.03  ~<br> 2024.11.03]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/09/202409302102260e109442-62d5-4edb-9fd5-48a441ab4afa.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[Hollow jan－An Inaudible voice［싱글 발매 단독 콘서트］]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=210472</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=210472</guid>
-            <pubDate>Sat, 12 Oct 2024 14:12:48 GMT</pubDate>
-            <content:encoded><![CDATA[2024.11.10  ~<br> 2024.11.10]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/10/202410071555301dfbbc72-cf43-4086-8111-11cd20f1aebd.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[이오늘 두 번째 미니앨범 발매 기념 공연 ‘사량’]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=210474</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=210474</guid>
-            <pubDate>Sat, 12 Oct 2024 14:12:48 GMT</pubDate>
-            <content:encoded><![CDATA[2024.11.15  ~<br> 2024.11.15]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/10/20241007205237a3ca958d-72fe-47ff-b3bf-ed006450a71e.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://ticket.melon.com/place/index.htm?placeId=43</id>
+    <title>멜론 티켓 ─ 롤링홀</title>
+    <updated>2024-10-12T16:19:11.178Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://ticket.melon.com/place/favicon.ico</icon>
+</feed>
