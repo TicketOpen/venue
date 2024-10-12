@@ -4,17 +4,9 @@
         <title>멜론 티켓 ─ 구름아래소극장</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 12 Oct 2024 14:15:01 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Oct 2024 15:18:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[박장현 첫 단독 콘서트 〈첫 장〉]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=210377</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=210377</guid>
-            <pubDate>Sat, 12 Oct 2024 14:13:29 GMT</pubDate>
-            <content:encoded><![CDATA[2024.10.12  ~<br> 2024.10.12]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/09/202409111707494057af59-e67a-4449-9c13-e1a74938d541.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
         <item>
             <title><![CDATA[수잔 단독 콘서트 ALIVE ‘Find your 알！’]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=210399</link>

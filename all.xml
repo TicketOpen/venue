@@ -4,17 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 12 Oct 2024 14:15:01 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Oct 2024 15:18:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[맥거핀 단독 콘서트：REDHOT (멜론 티켓 ─ 롤링홀)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=210352</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=210352</guid>
-            <pubDate>Sat, 12 Oct 2024 14:12:48 GMT</pubDate>
-            <content:encoded><![CDATA[2024.10.12  ~<br> 2024.10.12]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/09/2024090417042000870740-0f3e-4f66-892d-4d76484f33b3.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
         <item>
             <title><![CDATA[［Rolling hall X BØJEONG］live concert ＃kinfolks (멜론 티켓 ─ 롤링홀)]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=210402</link>
@@ -128,14 +120,6 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/10/20241007230845d7dfbaeb-5e2b-4785-9632-98407f9f9041.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
-            <title><![CDATA[박장현 첫 단독 콘서트 〈첫 장〉 (멜론 티켓 ─ 구름아래소극장)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=210377</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=210377</guid>
-            <pubDate>Sat, 12 Oct 2024 14:13:29 GMT</pubDate>
-            <content:encoded><![CDATA[2024.10.12  ~<br> 2024.10.12]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/09/202409111707494057af59-e67a-4449-9c13-e1a74938d541.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
             <title><![CDATA[수잔 단독 콘서트 ALIVE ‘Find your 알！’ (멜론 티켓 ─ 구름아래소극장)]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=210399</link>
             <guid>https://ticket.melon.com/performance/index.htm?prodId=210399</guid>
@@ -166,14 +150,6 @@
             <pubDate>Sat, 12 Oct 2024 14:13:29 GMT</pubDate>
             <content:encoded><![CDATA[2024.11.04  ~<br> 2024.11.04]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/10/20241010105548943913de-c840-4063-97b4-814130994c8f.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[허클베리핀 20th 옐로우콘서트 (멜론 티켓 ─ KT&G 상상마당 라이브홀)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=210415</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=210415</guid>
-            <pubDate>Sat, 12 Oct 2024 14:13:39 GMT</pubDate>
-            <content:encoded><![CDATA[2024.10.11  ~<br> 2024.10.12]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/09/20240920130853deed762d-8478-4b05-a903-248f40e378fa.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[wee＇s ＃1 LET ME KNOW X Dragon Pony (멜론 티켓 ─ KT&G 상상마당 라이브홀)]]></title>
