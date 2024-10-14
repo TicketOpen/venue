@@ -1,19 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>멜론 티켓 ─ 프리즘홀</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Mon, 14 Oct 2024 15:18:27 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[DRINK DANCE AND LOVE ALL：더베인X레드씨]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=210499</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=210499</guid>
-            <pubDate>Mon, 14 Oct 2024 15:16:30 GMT</pubDate>
-            <content:encoded><![CDATA[2024.10.25  ~<br> 2024.10.25]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/10/2024101017170201d7c610-52ba-4951-9f7c-3c6c5516b4c5.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://ticket.melon.com/place/index.htm?placeId=731</id>
+    <title>멜론 티켓 ─ 프리즘홀</title>
+    <updated>2024-10-14T16:19:21.204Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://ticket.melon.com/place/favicon.ico</icon>
+</feed>
