@@ -4,7 +4,7 @@
         <title>멜론 티켓 ─ 롤링홀</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Oct 2024 11:16:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Oct 2024 12:32:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -54,6 +54,14 @@
             <pubDate>Mon, 14 Oct 2024 07:17:39 GMT</pubDate>
             <content:encoded><![CDATA[2024.11.15  ~<br> 2024.11.15]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/10/20241007205237a3ca958d-72fe-47ff-b3bf-ed006450a71e.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[ChoQMay Live in Seoul]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210505</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210505</guid>
+            <pubDate>Mon, 14 Oct 2024 12:29:53 GMT</pubDate>
+            <content:encoded><![CDATA[2024.12.06  ~<br> 2024.12.06]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/10/20241010232600425eb4be-68fd-429c-8c63-1d85d16cb26e.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
