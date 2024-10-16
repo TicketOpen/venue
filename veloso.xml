@@ -1,8 +1,67 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://ticket.melon.com/place/index.htm?placeId=12</id>
-    <title>멜론 티켓 ─ 벨로주</title>
-    <updated>2024-10-16T10:17:58.863Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://ticket.melon.com/place/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>멜론 티켓 ─ 벨로주</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 16 Oct 2024 12:32:33 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[먼데이프로젝트 시즌7［프랭클리 단독 콘서트 “STOP SIGN”］]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210401</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210401</guid>
+            <pubDate>Wed, 16 Oct 2024 12:31:08 GMT</pubDate>
+            <content:encoded><![CDATA[2024.10.16  ~<br> 2024.10.16]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/09/202409122323443ccf508c-2b52-4a28-aa97-1e94c7d44cf0.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[도후 단독 콘서트［FOR YOUR NOSTALGIA］]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210400</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210400</guid>
+            <pubDate>Wed, 16 Oct 2024 12:31:08 GMT</pubDate>
+            <content:encoded><![CDATA[2024.10.19  ~<br> 2024.10.19]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/09/20240919092438a66d77ea-46fc-4cd6-9391-430fedb0414b.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[소년：달 단독 공연 〈RE：st〉]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210388</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210388</guid>
+            <pubDate>Wed, 16 Oct 2024 12:31:08 GMT</pubDate>
+            <content:encoded><![CDATA[2024.10.20  ~<br> 2024.10.20]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/09/202409121603005836cf32-4b42-49b4-bd9d-7541635725e9.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[먼데이프로젝트 시즌7 강지원 단독 콘서트［Weather］]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210431</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210431</guid>
+            <pubDate>Wed, 16 Oct 2024 12:31:08 GMT</pubDate>
+            <content:encoded><![CDATA[2024.10.21  ~<br> 2024.10.21]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/09/2024092517260755f55ecd-51ec-428b-983c-e163452086b6.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[홍선미 퀸텟 인 코리아 2024]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210442</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210442</guid>
+            <pubDate>Wed, 16 Oct 2024 12:31:08 GMT</pubDate>
+            <content:encoded><![CDATA[2024.10.22  ~<br> 2024.10.22]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/09/2024092620300158707f37-27f4-4236-b526-40251a0886a6.png/melon/resize/90x125/strip/true" length="0" type="image/png/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[〈UNITED AS ONE〉 BY WHITEUSEDSOCKS]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210433</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210433</guid>
+            <pubDate>Wed, 16 Oct 2024 12:31:08 GMT</pubDate>
+            <content:encoded><![CDATA[2024.10.26  ~<br> 2024.10.26]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/09/2024092516540848ed4c65-8804-4a13-9ad9-adfb9b83c52a.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[먼데이프로젝트 시즌7［피에타 단독 콘서트 “완벽한 타인들”］]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210478</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210478</guid>
+            <pubDate>Wed, 16 Oct 2024 12:31:08 GMT</pubDate>
+            <content:encoded><![CDATA[2024.11.04  ~<br> 2024.11.04]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/10/20241007230845d7dfbaeb-5e2b-4785-9632-98407f9f9041.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+    </channel>
+</rss>
