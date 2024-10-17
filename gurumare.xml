@@ -1,8 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://ticket.melon.com/place/index.htm?placeId=724</id>
-    <title>멜론 티켓 ─ 구름아래소극장</title>
-    <updated>2024-10-17T09:16:56.059Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://ticket.melon.com/place/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>멜론 티켓 ─ 구름아래소극장</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Thu, 17 Oct 2024 10:19:05 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이병찬 가을 소극장 공연 ‘ENCHANT’]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210463</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210463</guid>
+            <pubDate>Thu, 17 Oct 2024 10:17:38 GMT</pubDate>
+            <content:encoded><![CDATA[2024.11.01  ~<br> 2024.11.10]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/10/20241002185031a107bbbe-0f4e-4412-a25e-72d8baf0b71e.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[먼데이프로젝트 시즌7 이준형 단독콘서트［인디가수 이준형］]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210485</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210485</guid>
+            <pubDate>Thu, 17 Oct 2024 10:17:38 GMT</pubDate>
+            <content:encoded><![CDATA[2024.11.04  ~<br> 2024.11.04]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/10/20241010105548943913de-c840-4063-97b4-814130994c8f.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2024 AGAIN 한동근 콘서트]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210519</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210519</guid>
+            <pubDate>Thu, 17 Oct 2024 10:17:38 GMT</pubDate>
+            <content:encoded><![CDATA[2024.11.16  ~<br> 2024.11.17]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/10/2024101423243722a12782-dee3-4097-8629-4a2a14b676fa.png/melon/resize/90x125/strip/true" length="0" type="image/png/melon/resize/90x125/strip/true"/>
+        </item>
+    </channel>
+</rss>
