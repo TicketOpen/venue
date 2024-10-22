@@ -4,7 +4,7 @@
         <title>멜론 티켓 ─ KT&amp;G 상상마당 라이브홀</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Oct 2024 07:19:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Oct 2024 09:18:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Tue, 22 Oct 2024 07:17:50 GMT</pubDate>
             <content:encoded><![CDATA[2024.11.10  ~<br> 2024.11.10]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/10/20241017093701c3afb5ba-3087-4e76-80c3-ac18850fb768.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[MUSIC RUNWAY #5 : 맥거핀 X 아사달]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210542</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210542</guid>
+            <pubDate>Tue, 22 Oct 2024 09:17:01 GMT</pubDate>
+            <content:encoded><![CDATA[2024.11.15  ~<br> 2024.11.15]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/10/202410211554275774da87-994d-4bf7-9e97-d11b637ad4aa.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
