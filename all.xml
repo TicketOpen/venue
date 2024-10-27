@@ -4,17 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 27 Oct 2024 14:16:10 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Oct 2024 15:16:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[Gist ‘the Artist’ Concert (멜론 티켓 ─ 롤링홀)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=210503</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=210503</guid>
-            <pubDate>Sun, 27 Oct 2024 11:11:33 GMT</pubDate>
-            <content:encoded><![CDATA[2024.10.27  ~<br> 2024.10.27]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/10/202410151647558023b41b-5a34-42a0-952c-b189e7d0cddc.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
         <item>
             <title><![CDATA[12BH 단독 콘서트：I Can’t Stop Loving You (멜론 티켓 ─ 롤링홀)]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=210430</link>
