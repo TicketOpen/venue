@@ -1,43 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>멜론 티켓 ─ 노들섬</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Thu, 31 Oct 2024 05:19:23 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[〈Balming Tiger World Expo 2024〉]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=210393</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=210393</guid>
-            <pubDate>Thu, 31 Oct 2024 05:18:51 GMT</pubDate>
-            <content:encoded><![CDATA[2024.11.02  ~<br> 2024.11.03]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/09/202409191451121f67c0a4-e709-44a5-a10c-2f85e00283d3.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[2024 구름 단독공연 〈하늘，밤，풍선〉]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=210548</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=210548</guid>
-            <pubDate>Thu, 31 Oct 2024 05:18:51 GMT</pubDate>
-            <content:encoded><![CDATA[2024.11.16  ~<br> 2024.11.17]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/10/202410232130241e202b98-b6de-435c-9a85-9eae14f9625b.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[g0nny（거니）단독콘서트 “Ours”]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=210566</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=210566</guid>
-            <pubDate>Thu, 31 Oct 2024 05:18:51 GMT</pubDate>
-            <content:encoded><![CDATA[2024.11.24  ~<br> 2024.11.24]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/10/202410232245163992505c-7f45-4251-90be-658159583cd1.png/melon/resize/90x125/strip/true" length="0" type="image/png/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[KARDI 단독 콘서트［RED ZONE］2024]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=210528</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=210528</guid>
-            <pubDate>Thu, 31 Oct 2024 05:18:51 GMT</pubDate>
-            <content:encoded><![CDATA[2024.11.30  ~<br> 2024.12.01]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/10/20241015215359d257ae2c-d0c4-4310-81a0-70fb56f7e73b.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://ticket.melon.com/place/index.htm?placeId=902</id>
+    <title>멜론 티켓 ─ 노들섬</title>
+    <updated>2024-10-31T06:21:51.443Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://ticket.melon.com/place/favicon.ico</icon>
+</feed>
