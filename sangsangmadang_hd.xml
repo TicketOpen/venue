@@ -1,51 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>멜론 티켓 ─ KT&amp;G 상상마당 라이브홀</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Sat, 02 Nov 2024 15:18:12 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[김정훈 ＆ Leaveourtears ‘Pale Blue Night＃2’]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=210515</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=210515</guid>
-            <pubDate>Sat, 02 Nov 2024 12:29:42 GMT</pubDate>
-            <content:encoded><![CDATA[2024.11.09  ~<br> 2024.11.09]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/10/202410142226282e09797c-df1d-487b-b04f-cea7151fd6d0.png/melon/resize/90x125/strip/true" length="0" type="image/png/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[캐치더영 데뷔 1주년 기념 콘서트 〈DREAM IT〉]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=210533</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=210533</guid>
-            <pubDate>Sat, 02 Nov 2024 12:29:42 GMT</pubDate>
-            <content:encoded><![CDATA[2024.11.10  ~<br> 2024.11.10]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/10/20241017093701c3afb5ba-3087-4e76-80c3-ac18850fb768.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[MUSIC RUNWAY #5 : 맥거핀 X 아사달]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=210542</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=210542</guid>
-            <pubDate>Sat, 02 Nov 2024 12:29:42 GMT</pubDate>
-            <content:encoded><![CDATA[2024.11.15  ~<br> 2024.11.15]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/10/202410211554275774da87-994d-4bf7-9e97-d11b637ad4aa.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[SOUL DELIVERY 1st Concert 〈SOUL TRIP〉]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=210565</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=210565</guid>
-            <pubDate>Sat, 02 Nov 2024 12:29:42 GMT</pubDate>
-            <content:encoded><![CDATA[2024.11.22  ~<br> 2024.11.22]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/10/202410241627398f724899-e1c8-4a86-a4e6-0459a12bfbc4.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[FRANKLY...2024 : 11시 57분]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=210585</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=210585</guid>
-            <pubDate>Sat, 02 Nov 2024 12:29:42 GMT</pubDate>
-            <content:encoded><![CDATA[2024.12.06  ~<br> 2024.12.06]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/10/20241028132938900b4043-b833-4015-8406-6b75b5886736.png/melon/resize/90x125/strip/true" length="0" type="image/png/melon/resize/90x125/strip/true"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://ticket.melon.com/place/index.htm?placeId=913</id>
+    <title>멜론 티켓 ─ KT&amp;G 상상마당 라이브홀</title>
+    <updated>2024-11-02T16:19:26.271Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://ticket.melon.com/place/favicon.ico</icon>
+</feed>
