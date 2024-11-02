@@ -1,8 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://ticket.melon.com/place/index.htm?placeId=329</id>
-    <title>멜론 티켓 ─ CJ아지트 광흥창</title>
-    <updated>2024-11-02T04:19:24.219Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://ticket.melon.com/place/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>멜론 티켓 ─ CJ아지트 광흥창</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sat, 02 Nov 2024 05:20:11 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2024 CJ X BERKLEE MUSIC CONCERT－POP MOSAIC［2024 CJ X 버클리 뮤직 콘서트］]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210532</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210532</guid>
+            <pubDate>Sat, 02 Nov 2024 05:19:11 GMT</pubDate>
+            <content:encoded><![CDATA[2024.11.02  ~<br> 2024.11.02]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/10/20241016174837cc013514-6480-4aa9-95aa-65f03544c701.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[김마리 3rd EP 〈난기류에 대처하는 법〉 발매 기념 단독 콘서트]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210549</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210549</guid>
+            <pubDate>Sat, 02 Nov 2024 05:19:11 GMT</pubDate>
+            <content:encoded><![CDATA[2024.11.09  ~<br> 2024.11.10]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/10/2024101818003844f59f06-25f5-44a4-b43d-9864944ca382.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[사비나앤드론즈 단독 콘서트［Lasha］]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210484</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210484</guid>
+            <pubDate>Sat, 02 Nov 2024 05:19:11 GMT</pubDate>
+            <content:encoded><![CDATA[2024.11.16  ~<br> 2024.11.16]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/10/20241010105112200cfc4a-e102-49db-ac3e-a004520349f1.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[CRACKER’s HOME]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210608</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210608</guid>
+            <pubDate>Sat, 02 Nov 2024 05:19:11 GMT</pubDate>
+            <content:encoded><![CDATA[2024.12.07  ~<br> 2024.12.07]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/11/202411010951134d085639-492d-4642-9073-a8eea05438df.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+    </channel>
+</rss>
