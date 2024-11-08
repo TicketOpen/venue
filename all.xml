@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Nov 2024 08:21:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Nov 2024 09:17:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -110,6 +110,14 @@
             <pubDate>Fri, 08 Nov 2024 05:17:37 GMT</pubDate>
             <content:encoded><![CDATA[2024.11.22  ~<br> 2024.11.22]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/10/20241031222311a563f0d1-497e-40d4-aa13-78ebe6ad8ed8.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[팔칠댄스 (87dance) 연말 콘서트 [Chilling Everything] (멜론 티켓 ─ 웨스트브릿지)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210642</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210642</guid>
+            <pubDate>Fri, 08 Nov 2024 09:15:28 GMT</pubDate>
+            <content:encoded><![CDATA[2024.12.01  ~<br> 2024.12.01]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/11/20241107004731f96d6109-4924-4e16-b277-ac896e3adda9.png/melon/resize/90x125/strip/true" length="0" type="image/png/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[문화의 날, Only Night Only (멜론 티켓 ─ 벨로주)]]></title>
