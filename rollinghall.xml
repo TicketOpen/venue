@@ -4,7 +4,7 @@
         <title>멜론 티켓 ─ 롤링홀</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Nov 2024 02:48:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Nov 2024 03:24:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -86,6 +86,14 @@
             <pubDate>Mon, 11 Nov 2024 02:46:58 GMT</pubDate>
             <content:encoded><![CDATA[2024.12.14  ~<br> 2024.12.15]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/11/2024110708552946e8afe2-141d-4e90-9c39-668e4d2fde71.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[바닐라 유니티 컴백기념 단독 콘서트 : Out There]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210644</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210644</guid>
+            <pubDate>Mon, 11 Nov 2024 03:21:55 GMT</pubDate>
+            <content:encoded><![CDATA[2024.12.19  ~<br> 2024.12.19]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/11/20241111090225c3b69671-8758-4607-b535-d2afb7afa96c.png/melon/resize/90x125/strip/true" length="0" type="image/png/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
