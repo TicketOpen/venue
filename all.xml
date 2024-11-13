@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Nov 2024 05:17:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Nov 2024 06:23:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -118,6 +118,14 @@
             <pubDate>Wed, 13 Nov 2024 02:46:09 GMT</pubDate>
             <content:encoded><![CDATA[2024.12.01  ~<br> 2024.12.01]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/11/20241107004731f96d6109-4924-4e16-b277-ac896e3adda9.png/melon/resize/90x125/strip/true" length="0" type="image/png/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[모트 연말 단독공연 〈말해 뭐해!〉 (멜론 티켓 ─ 프리즘홀)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210671</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210671</guid>
+            <pubDate>Wed, 13 Nov 2024 06:22:14 GMT</pubDate>
+            <content:encoded><![CDATA[2024.12.06  ~<br> 2024.12.06]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/11/202411131356129ffcf29a-db74-407c-b99e-2e0ccbec25d7.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[먼데이프로젝트 시즌7［김결 단독 콘서트 ‘김결과 함께 Autumn？’］ (멜론 티켓 ─ 벨로주)]]></title>
