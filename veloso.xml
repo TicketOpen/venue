@@ -1,8 +1,67 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://ticket.melon.com/place/index.htm?placeId=12</id>
-    <title>멜론 티켓 ─ 벨로주</title>
-    <updated>2024-11-15T01:13:36.851Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://ticket.melon.com/place/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>멜론 티켓 ─ 벨로주</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Fri, 15 Nov 2024 02:57:51 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[먼데이프로젝트 시즌7［김결 단독 콘서트 ‘김결과 함께 Autumn？’］]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210561</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210561</guid>
+            <pubDate>Fri, 15 Nov 2024 02:55:59 GMT</pubDate>
+            <content:encoded><![CDATA[2024.11.18  ~<br> 2024.11.18]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/10/20241021210337da84475c-d3f2-455a-b230-61dc6db00750.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[먼데이프로젝트 시즌7［벤치위레오 단독 콘서트 ‘뱀（Slytherin）’］]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210572</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210572</guid>
+            <pubDate>Fri, 15 Nov 2024 02:55:59 GMT</pubDate>
+            <content:encoded><![CDATA[2024.11.19  ~<br> 2024.11.19]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/10/2024102323590013de4749-cf1b-4876-b33c-1933df10ff23.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[박지은 첫번째 정규앨범 Honest 릴리즈 쇼케이스]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210541</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210541</guid>
+            <pubDate>Fri, 15 Nov 2024 02:55:59 GMT</pubDate>
+            <content:encoded><![CDATA[2024.11.23  ~<br> 2024.11.23]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/10/20241018142939a6316328-84ca-4c25-ba8f-ef12e5afb883.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[마리슈 10주년 콘서트 ‘10’]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210615</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210615</guid>
+            <pubDate>Fri, 15 Nov 2024 02:55:59 GMT</pubDate>
+            <content:encoded><![CDATA[2024.11.24  ~<br> 2024.11.24]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/11/202411011722566e3cc268-ea2e-4f46-b3a8-204230376751.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[이정권 단독 콘서트 ‘그 겨울에 서서’]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210665</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210665</guid>
+            <pubDate>Fri, 15 Nov 2024 02:55:59 GMT</pubDate>
+            <content:encoded><![CDATA[2024.12.07  ~<br> 2024.12.07]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/11/202411111601389865221f-7fd2-4163-9da7-1e813a57957f.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[퍼플웨일 단독 콘서트 [우리가 만났기에]]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210604</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210604</guid>
+            <pubDate>Fri, 15 Nov 2024 02:55:59 GMT</pubDate>
+            <content:encoded><![CDATA[2024.12.08  ~<br> 2024.12.08]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/10/2024103111271168ddd0f0-fbb3-4318-bfac-ce1b0863bbe0.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[그리고 영신]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210622</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210622</guid>
+            <pubDate>Fri, 15 Nov 2024 02:55:59 GMT</pubDate>
+            <content:encoded><![CDATA[2024.12.30  ~<br> 2025.01.01]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/11/202411041914461872f461-808d-4080-a6fe-b306437e543a.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+    </channel>
+</rss>
