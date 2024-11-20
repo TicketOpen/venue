@@ -4,7 +4,7 @@
         <title>멜론 티켓 ─ CJ아지트 광흥창</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Nov 2024 04:21:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Nov 2024 06:24:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,14 @@
             <pubDate>Wed, 20 Nov 2024 02:55:18 GMT</pubDate>
             <content:encoded><![CDATA[2024.12.15  ~<br> 2024.12.15]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/11/202411061136402f03d9c9-246a-4b55-8ec5-e24f2c857b0b.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2024 박소은 연말 단독 공연 〈일기 : 이런 게 나의 매일이기를〉]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210700</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210700</guid>
+            <pubDate>Wed, 20 Nov 2024 06:23:32 GMT</pubDate>
+            <content:encoded><![CDATA[2024.12.27  ~<br> 2024.12.28]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/11/20241120103702722d20fb-0379-4bf4-82ab-322eda882fdc.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[위수의 연말 단독공연 〈2025 다짐 해!〉]]></title>
