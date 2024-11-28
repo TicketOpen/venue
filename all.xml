@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Nov 2024 01:15:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Nov 2024 03:36:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -120,6 +120,14 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/11/2024111517580013df1d99-71e6-4166-9fd2-ca432c0c4543.png/melon/resize/90x125/strip/true" length="0" type="image/png/melon/resize/90x125/strip/true"/>
         </item>
         <item>
+            <title><![CDATA[로맨틱펀치 단독공연 106번째 로맨틱파티 (멜론 티켓 ─ 웨스트브릿지)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210748</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210748</guid>
+            <pubDate>Thu, 28 Nov 2024 03:34:27 GMT</pubDate>
+            <content:encoded><![CDATA[2024.12.25  ~<br> 2024.12.25]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/11/2024112709083501c83b5e-e319-46b2-801f-fa42a97e89a5.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
             <title><![CDATA[모트 연말 단독공연 〈말해 뭐해!〉 (멜론 티켓 ─ 프리즘홀)]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=210671</link>
             <guid>https://ticket.melon.com/performance/index.htm?prodId=210671</guid>
@@ -158,6 +166,14 @@
             <pubDate>Wed, 27 Nov 2024 22:15:33 GMT</pubDate>
             <content:encoded><![CDATA[2024.12.22  ~<br> 2024.12.22]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/11/20241122174743129fa4fd-96ce-48b3-9d57-1b933da6e791.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[뷰렛 단독 콘서트 ‘Biuret is my favorite song’ (멜론 티켓 ─ 벨로주)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210743</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210743</guid>
+            <pubDate>Thu, 28 Nov 2024 03:34:45 GMT</pubDate>
+            <content:encoded><![CDATA[2024.12.27  ~<br> 2024.12.27]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/11/20241125163143339a6ab9-4467-4340-93ca-410778a624dd.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[그리고 영신 (멜론 티켓 ─ 벨로주)]]></title>
