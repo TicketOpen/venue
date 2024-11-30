@@ -4,17 +4,9 @@
         <title>멜론 티켓 ─ 롤링홀</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 30 Nov 2024 14:14:55 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Nov 2024 16:21:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[초승 단독 콘서트 : Winter Vacation]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=210590</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=210590</guid>
-            <pubDate>Sat, 30 Nov 2024 14:13:06 GMT</pubDate>
-            <content:encoded><![CDATA[2024.11.30  ~<br> 2024.11.30]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/10/20241028212156bc3421ec-9449-4f5f-8677-983b387384cc.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
         <item>
             <title><![CDATA[맥거핀 단독 콘서트 : Mr. Education 2]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=210603</link>
