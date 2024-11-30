@@ -1,19 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>멜론 티켓 ─ 예스24 라이브홀</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Sat, 30 Nov 2024 20:18:32 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[2024 ONEWE 4th Live Concert ‘O! NEW E!volution Ⅳ’]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=210579</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=210579</guid>
-            <pubDate>Sat, 30 Nov 2024 20:17:44 GMT</pubDate>
-            <content:encoded><![CDATA[2024.11.30  ~<br> 2024.12.01]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/10/202410241927522900bce3-44da-4a30-94e1-718a28030bb8.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://ticket.melon.com/place/index.htm?placeId=11</id>
+    <title>멜론 티켓 ─ 예스24 라이브홀</title>
+    <updated>2024-11-30T21:15:04.416Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://ticket.melon.com/place/favicon.ico</icon>
+</feed>
