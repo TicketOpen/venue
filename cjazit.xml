@@ -1,8 +1,51 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://ticket.melon.com/place/index.htm?placeId=329</id>
-    <title>멜론 티켓 ─ CJ아지트 광흥창</title>
-    <updated>2024-12-04T16:21:22.057Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://ticket.melon.com/place/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>멜론 티켓 ─ CJ아지트 광흥창</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 04 Dec 2024 17:18:33 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[CRACKER’s HOME]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210608</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210608</guid>
+            <pubDate>Wed, 04 Dec 2024 17:17:36 GMT</pubDate>
+            <content:encoded><![CDATA[2024.12.07  ~<br> 2024.12.07]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/11/202411010951134d085639-492d-4642-9073-a8eea05438df.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[먼데이프로젝트 시즌7 My Universe [테종 단독 콘서트]]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210667</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210667</guid>
+            <pubDate>Wed, 04 Dec 2024 17:17:36 GMT</pubDate>
+            <content:encoded><![CDATA[2024.12.10  ~<br> 2024.12.10]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/11/20241113102737bcd69e33-dbb3-4d7d-b5ab-4ac290196f36.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[연정(YEONJEONG) 첫번째 단독콘서트 [눈에 보이지 않는 노래는]]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210635</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210635</guid>
+            <pubDate>Wed, 04 Dec 2024 17:17:36 GMT</pubDate>
+            <content:encoded><![CDATA[2024.12.15  ~<br> 2024.12.15]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/11/202411061136402f03d9c9-246a-4b55-8ec5-e24f2c857b0b.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2024 박소은 연말 단독 공연 〈일기 : 이런 게 나의 매일이기를〉]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210700</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210700</guid>
+            <pubDate>Wed, 04 Dec 2024 17:17:36 GMT</pubDate>
+            <content:encoded><![CDATA[2024.12.27  ~<br> 2024.12.28]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/11/20241120103702722d20fb-0379-4bf4-82ab-322eda882fdc.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[위수의 연말 단독공연 〈2025 다짐 해!〉]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210602</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210602</guid>
+            <pubDate>Wed, 04 Dec 2024 17:17:36 GMT</pubDate>
+            <content:encoded><![CDATA[2024.12.29  ~<br> 2024.12.30]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/10/2024103015401266804c0a-79da-4374-98a5-c435b1647f39.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+    </channel>
+</rss>
