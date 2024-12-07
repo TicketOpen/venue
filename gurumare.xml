@@ -1,67 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>멜론 티켓 ─ 구름아래소극장</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Sat, 07 Dec 2024 14:15:43 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[밍기뉴 단독 콘서트 〈All About ZEZE〉]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=210688</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=210688</guid>
-            <pubDate>Sat, 07 Dec 2024 13:22:21 GMT</pubDate>
-            <content:encoded><![CDATA[2024.12.14  ~<br> 2024.12.14]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/11/2024111510544782f9eadf-bb7a-4dec-b28b-08402107e26a.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[위아더나잇 겨울 콘서트 〈good NIGHT 2024〉]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=210677</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=210677</guid>
-            <pubDate>Sat, 07 Dec 2024 13:22:21 GMT</pubDate>
-            <content:encoded><![CDATA[2024.12.15  ~<br> 2024.12.15]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/11/202411141028002c5a429b-50a9-4a32-9635-ad5b96fb93d9.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[랑데부르스 2024년 겨울 크리스마스 공연 〈캐롤타임레전드 : Carol Time Legend〉]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=210707</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=210707</guid>
-            <pubDate>Sat, 07 Dec 2024 13:22:21 GMT</pubDate>
-            <content:encoded><![CDATA[2024.12.20  ~<br> 2024.12.20]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/11/2024111913482357cf3ec2-8c56-4025-8c6a-56be1d05d01a.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[박준하 (JUNHA PARK) 연말 단독 콘서트 〈Christmas Town〉]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=210678</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=210678</guid>
-            <pubDate>Sat, 07 Dec 2024 13:22:21 GMT</pubDate>
-            <content:encoded><![CDATA[2024.12.21  ~<br> 2024.12.21]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/11/202411141109100955357a-2e75-4f94-a319-2123c8519728.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[PL 연말 콘서트 ‘Come to Rest’]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=210654</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=210654</guid>
-            <pubDate>Sat, 07 Dec 2024 13:22:21 GMT</pubDate>
-            <content:encoded><![CDATA[2024.12.22  ~<br> 2024.12.22]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/11/2024110815190318a57f52-b50f-4afd-9254-4956941bed90.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[김동현 & 이병찬 겨울 콘서트 ‘Will be a Happy Christmas’]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=210735</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=210735</guid>
-            <pubDate>Sat, 07 Dec 2024 13:22:21 GMT</pubDate>
-            <content:encoded><![CDATA[2024.12.24  ~<br> 2024.12.25]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/11/20241122154341f4180481-41a4-4031-a37c-cfff7ee0219b.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[9와 숫자들 2024 연말 콘서트 “목적도 없고 주제도 없어요”]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=210744</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=210744</guid>
-            <pubDate>Sat, 07 Dec 2024 13:22:21 GMT</pubDate>
-            <content:encoded><![CDATA[2024.12.28  ~<br> 2024.12.28]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/11/2024112516414071d8a6e1-5145-46e5-8cd0-922681aadff5.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://ticket.melon.com/place/index.htm?placeId=724</id>
+    <title>멜론 티켓 ─ 구름아래소극장</title>
+    <updated>2024-12-07T15:15:24.575Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://ticket.melon.com/place/favicon.ico</icon>
+</feed>
