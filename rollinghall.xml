@@ -4,7 +4,7 @@
         <title>멜론 티켓 ─ 롤링홀</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 13 Dec 2024 01:19:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Dec 2024 03:04:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -118,6 +118,14 @@
             <pubDate>Fri, 13 Dec 2024 01:17:08 GMT</pubDate>
             <content:encoded><![CDATA[2025.01.17  ~<br> 2025.01.17]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/12/20241209110930df77a60a-f0f3-4be0-bccc-6c702f70e70f.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[허클베리피 단독 콘서트 ‘Storyteller: Page 18’ : 롤링 30주년 기념 공연]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210807</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210807</guid>
+            <pubDate>Fri, 13 Dec 2024 03:01:58 GMT</pubDate>
+            <content:encoded><![CDATA[2025.01.18  ~<br> 2025.01.18]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/12/202412111629067cf68634-f73a-4c61-bb83-68a461d42cc3.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
