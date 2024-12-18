@@ -1,43 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>멜론 티켓 ─ KT&amp;G 상상마당 라이브홀</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Tue, 17 Dec 2024 22:17:01 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[극동아시아타이거즈 다큐상영회 〈호랑이, 여름 그리고〉]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=210775</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=210775</guid>
-            <pubDate>Tue, 17 Dec 2024 21:13:37 GMT</pubDate>
-            <content:encoded><![CDATA[2024.12.21  ~<br> 2024.12.21]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/12/2024120314384634b04f31-daa6-463a-bb13-b29347b9e1cf.png/melon/resize/90x125/strip/true" length="0" type="image/png/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[전기뱀장어 단독 콘서트 [엣큥, 지각이다...! 콘서트]]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=210712</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=210712</guid>
-            <pubDate>Tue, 17 Dec 2024 21:13:37 GMT</pubDate>
-            <content:encoded><![CDATA[2024.12.26  ~<br> 2024.12.26]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/11/202411221423375aa18fe1-ed60-4008-9313-eff78d657b54.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[2024 까치산 연말 단독 공연 〈까치까치 연말은〉]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=210704</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=210704</guid>
-            <pubDate>Tue, 17 Dec 2024 21:13:37 GMT</pubDate>
-            <content:encoded><![CDATA[2024.12.29  ~<br> 2024.12.29]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/11/20241119110350a7a68465-e4fd-424b-9563-a1aeb7c8cea3.png/melon/resize/90x125/strip/true" length="0" type="image/png/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[2025 Rolling Quartz 〈Stand up tour in SEOUL〉]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=210803</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=210803</guid>
-            <pubDate>Tue, 17 Dec 2024 21:13:37 GMT</pubDate>
-            <content:encoded><![CDATA[2025.01.04  ~<br> 2025.01.05]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/12/20241210160513bd5c90a9-0925-425f-acf2-400662b63d2c.png/melon/resize/90x125/strip/true" length="0" type="image/png/melon/resize/90x125/strip/true"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://ticket.melon.com/place/index.htm?placeId=913</id>
+    <title>멜론 티켓 ─ KT&amp;G 상상마당 라이브홀</title>
+    <updated>2024-12-18T01:12:47.920Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://ticket.melon.com/place/favicon.ico</icon>
+</feed>
