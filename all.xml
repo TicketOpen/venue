@@ -4,17 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 21 Dec 2024 14:14:23 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Dec 2024 15:15:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[스킵잭 단독 콘서트 : Daydream (멜론 티켓 ─ 롤링홀)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=210660</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=210660</guid>
-            <pubDate>Sat, 21 Dec 2024 13:17:39 GMT</pubDate>
-            <content:encoded><![CDATA[2024.12.21  ~<br> 2024.12.21]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/11/202411131346195816e4d3-84f5-4e50-a01c-4ce10848d5fd.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
         <item>
             <title><![CDATA[범진의 범클 (BUMKLE：Love & Rudolph, 크리스마스의 비밀을 찾아라!) (멜론 티켓 ─ 롤링홀)]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=210661</link>
@@ -208,14 +200,6 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/12/20241218131840748d8987-acc0-4b78-96ee-31e5c9f38360.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
-            <title><![CDATA[박준하 (JUNHA PARK) 연말 단독 콘서트 〈Christmas Town〉 (멜론 티켓 ─ 구름아래소극장)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=210678</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=210678</guid>
-            <pubDate>Sat, 21 Dec 2024 13:18:12 GMT</pubDate>
-            <content:encoded><![CDATA[2024.12.21  ~<br> 2024.12.21]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/11/202411141109100955357a-2e75-4f94-a319-2123c8519728.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
             <title><![CDATA[PL 연말 콘서트 ‘Come to Rest’ (멜론 티켓 ─ 구름아래소극장)]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=210654</link>
             <guid>https://ticket.melon.com/performance/index.htm?prodId=210654</guid>
@@ -238,14 +222,6 @@
             <pubDate>Sat, 21 Dec 2024 13:18:12 GMT</pubDate>
             <content:encoded><![CDATA[2024.12.28  ~<br> 2024.12.28]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/11/2024112516414071d8a6e1-5145-46e5-8cd0-922681aadff5.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[극동아시아타이거즈 다큐상영회 〈호랑이, 여름 그리고〉 (멜론 티켓 ─ KT&G 상상마당 라이브홀)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=210775</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=210775</guid>
-            <pubDate>Sat, 21 Dec 2024 13:18:20 GMT</pubDate>
-            <content:encoded><![CDATA[2024.12.21  ~<br> 2024.12.21]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/12/2024120314384634b04f31-daa6-463a-bb13-b29347b9e1cf.png/melon/resize/90x125/strip/true" length="0" type="image/png/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[전기뱀장어 단독 콘서트 [엣큥, 지각이다...! 콘서트] (멜론 티켓 ─ KT&G 상상마당 라이브홀)]]></title>
