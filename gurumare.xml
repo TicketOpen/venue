@@ -4,7 +4,7 @@
         <title>멜론 티켓 ─ 구름아래소극장</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 23 Dec 2024 08:22:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Dec 2024 09:21:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Mon, 23 Dec 2024 07:15:38 GMT</pubDate>
             <content:encoded><![CDATA[2024.12.28  ~<br> 2024.12.28]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/11/2024112516414071d8a6e1-5145-46e5-8cd0-922681aadff5.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[장재훈 1st EP [THE COLORS] 발매 기념 공연]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210835</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210835</guid>
+            <pubDate>Mon, 23 Dec 2024 09:20:13 GMT</pubDate>
+            <content:encoded><![CDATA[2025.01.18  ~<br> 2025.01.18]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/12/202412191747000d23f75e-dde3-463e-9962-cb94620334e3.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
