@@ -1,8 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://ticket.melon.com/place/index.htm?placeId=902</id>
-    <title>멜론 티켓 ─ 노들섬</title>
-    <updated>2024-12-24T19:12:07.748Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://ticket.melon.com/place/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>멜론 티켓 ─ 노들섬</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Tue, 24 Dec 2024 20:17:58 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[정우 단독 콘서트 〈Ding!〉]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210662</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210662</guid>
+            <pubDate>Tue, 24 Dec 2024 20:17:22 GMT</pubDate>
+            <content:encoded><![CDATA[2024.12.28  ~<br> 2024.12.29]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/11/2024111313091970d5223b-4f58-4cf1-b7a3-d7acc428c94a.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2025 CREZL CONCERT ‘BACKSTAGE : Logline’]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210802</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210802</guid>
+            <pubDate>Tue, 24 Dec 2024 20:17:22 GMT</pubDate>
+            <content:encoded><![CDATA[2025.01.18  ~<br> 2025.01.19]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/12/20241211085259dd707ff2-d40d-4eca-b767-d763978ce034.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2025 케이시 콘서트 〈아홉번째 겨울: 사랑의 편린〉]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210825</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210825</guid>
+            <pubDate>Tue, 24 Dec 2024 20:17:22 GMT</pubDate>
+            <content:encoded><![CDATA[2025.01.25  ~<br> 2025.01.26]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/12/20241217181526391733c7-892f-4abe-960a-b7ae53705409.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+    </channel>
+</rss>
