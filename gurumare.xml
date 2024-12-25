@@ -4,17 +4,9 @@
         <title>멜론 티켓 ─ 구름아래소극장</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 Dec 2024 14:15:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Dec 2024 15:16:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[김동현 & 이병찬 겨울 콘서트 ‘Will be a Happy Christmas’]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=210735</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=210735</guid>
-            <pubDate>Wed, 25 Dec 2024 13:20:30 GMT</pubDate>
-            <content:encoded><![CDATA[2024.12.24  ~<br> 2024.12.25]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/11/20241122154341f4180481-41a4-4031-a37c-cfff7ee0219b.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
         <item>
             <title><![CDATA[9와 숫자들 2024 연말 콘서트 “목적도 없고 주제도 없어요”]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=210744</link>

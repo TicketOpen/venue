@@ -4,17 +4,9 @@
         <title>멜론 티켓 ─ 웨스트브릿지</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 Dec 2024 14:15:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Dec 2024 15:16:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[로맨틱펀치 단독공연 106번째 로맨틱파티]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=210748</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=210748</guid>
-            <pubDate>Wed, 25 Dec 2024 13:20:00 GMT</pubDate>
-            <content:encoded><![CDATA[2024.12.25  ~<br> 2024.12.25]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/11/2024112709083501c83b5e-e319-46b2-801f-fa42a97e89a5.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
         <item>
             <title><![CDATA[Coaltar of the Deepers Live in Seoul]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=210823</link>
