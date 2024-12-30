@@ -1,7 +1,235 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://TicketOpen.github.io/venue/all.xml</id>
-    <title>Combined feed</title>
-    <updated>2024-12-30T07:16:16.754Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Combined feed</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Mon, 30 Dec 2024 08:22:16 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2024 송하예 콘서트 〈white Song〉 (멜론 티켓 ─ 롤링홀)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210772</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210772</guid>
+            <pubDate>Mon, 30 Dec 2024 08:20:25 GMT</pubDate>
+            <content:encoded><![CDATA[2024.12.31  ~<br> 2024.12.31]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/12/20241202145323d7b69ccd-28bf-4e8b-b2db-37c45bc79a1e.PNG/melon/resize/90x125/strip/true" length="0" type="image/PNG/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[〈손을모아 단독 콘서트 ‘Pray For Me’ : 롤링 30주년 기념 공연〉 (멜론 티켓 ─ 롤링홀)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210773</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210773</guid>
+            <pubDate>Mon, 30 Dec 2024 08:20:25 GMT</pubDate>
+            <content:encoded><![CDATA[2025.01.02  ~<br> 2025.01.02]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/12/202412021505581bb29687-3980-4095-a541-b829dfbb257a.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[〈공중그늘 단독 콘서트 ‘파수꾼’ : 롤링 30주년 기념 공연〉 (멜론 티켓 ─ 롤링홀)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210776</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210776</guid>
+            <pubDate>Mon, 30 Dec 2024 08:20:25 GMT</pubDate>
+            <content:encoded><![CDATA[2025.01.03  ~<br> 2025.01.03]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/12/20241203111544549c6800-997f-470a-8166-dd134370877f.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[크랙샷 단독 콘서트 ‘CRACKSHOT’: 롤링 30주년 기념 공연 (멜론 티켓 ─ 롤링홀)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210781</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210781</guid>
+            <pubDate>Mon, 30 Dec 2024 08:20:25 GMT</pubDate>
+            <content:encoded><![CDATA[2025.01.05  ~<br> 2025.01.05]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/12/202412041015598bf3acbc-1bd9-4166-8b51-3fabe148cc91.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[블루디 단독 콘서트 ‘Merry Blue Dream’：롤링 30주년 기념 공연 (멜론 티켓 ─ 롤링홀)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210780</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210780</guid>
+            <pubDate>Mon, 30 Dec 2024 08:20:25 GMT</pubDate>
+            <content:encoded><![CDATA[2025.01.09  ~<br> 2025.01.09]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/12/20241204095143badb38c9-d77c-4ba6-9cfb-491299faa259.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[W24 단독 콘서트 ‘Rooftop’ : 롤링 30주년 기념 공연 (멜론 티켓 ─ 롤링홀)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210794</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210794</guid>
+            <pubDate>Mon, 30 Dec 2024 08:20:25 GMT</pubDate>
+            <content:encoded><![CDATA[2025.01.10  ~<br> 2025.01.10]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/12/20241206154803c5754f71-f638-498c-b893-aab7640140f9.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[극동아시아타이거즈  단독 콘서트 ‘몽유호원’ : 롤링 30주년 기념 공연 (멜론 티켓 ─ 롤링홀)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210796</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210796</guid>
+            <pubDate>Mon, 30 Dec 2024 08:20:25 GMT</pubDate>
+            <content:encoded><![CDATA[2025.01.16  ~<br> 2025.01.16]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/12/202412091055523e6ea9ab-ff9c-4e7d-9cb7-4bb655b72d6b.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[캐치더영 단독 콘서트 ‘Loud And Proud’ : 롤링 30주년 기념 공연 (멜론 티켓 ─ 롤링홀)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210797</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210797</guid>
+            <pubDate>Mon, 30 Dec 2024 08:20:25 GMT</pubDate>
+            <content:encoded><![CDATA[2025.01.17  ~<br> 2025.01.17]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/12/20241209110930df77a60a-f0f3-4be0-bccc-6c702f70e70f.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[허클베리피 단독 콘서트 ‘Storyteller: Page 18’ : 롤링 30주년 기념 공연 (멜론 티켓 ─ 롤링홀)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210807</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210807</guid>
+            <pubDate>Mon, 30 Dec 2024 08:20:25 GMT</pubDate>
+            <content:encoded><![CDATA[2025.01.18  ~<br> 2025.01.18]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/12/202412111629067cf68634-f73a-4c61-bb83-68a461d42cc3.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[잠비나이 콘서트 ‘flowers and trees’ (+ support act ANDOR) :  롤링 30주년 기념 공연 (멜론 티켓 ─ 롤링홀)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210815</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210815</guid>
+            <pubDate>Mon, 30 Dec 2024 08:20:25 GMT</pubDate>
+            <content:encoded><![CDATA[2025.01.19  ~<br> 2025.01.19]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/12/202412160857486cbc08c5-524f-47f6-a5b3-3feb8db94c2e.png/melon/resize/90x125/strip/true" length="0" type="image/png/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[적란운 단독 콘서트 ‘달의 방향’ : 롤링 30주년 기념 공연 (멜론 티켓 ─ 롤링홀)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210820</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210820</guid>
+            <pubDate>Mon, 30 Dec 2024 08:20:25 GMT</pubDate>
+            <content:encoded><![CDATA[2025.01.23  ~<br> 2025.01.23]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/12/20241216103744377de8c2-373c-428b-b052-0e3634749214.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[행로난 콘서트 ‘심장의 언어’：롤링 30주년 기념 공연 (멜론 티켓 ─ 롤링홀)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210821</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210821</guid>
+            <pubDate>Mon, 30 Dec 2024 08:20:25 GMT</pubDate>
+            <content:encoded><![CDATA[2025.01.24  ~<br> 2025.01.24]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/12/2024121718530863044441-792c-47d9-a3bf-e3e75eea7c29.png/melon/resize/90x125/strip/true" length="0" type="image/png/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[노브레인 단독 콘서트 ‘노래부인Ⅱ’ : 롤링 30주년 기념 공연 (멜론 티켓 ─ 롤링홀)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210832</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210832</guid>
+            <pubDate>Mon, 30 Dec 2024 08:20:25 GMT</pubDate>
+            <content:encoded><![CDATA[2025.01.25  ~<br> 2025.01.25]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/12/2024121915161260b154be-bae1-4152-b3d4-b345b01f2969.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[피에타 단독 콘서트 ‘나선의 형태’ : 롤링 30주년 기념 공연 (멜론 티켓 ─ 롤링홀)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210836</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210836</guid>
+            <pubDate>Mon, 30 Dec 2024 08:20:25 GMT</pubDate>
+            <content:encoded><![CDATA[2025.02.01  ~<br> 2025.02.01]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/12/202412261507416efdeea6-fd44-4404-ac17-49822698ba9d.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[중식이밴드 단독 콘서트 ‘회식’ : 롤링 30주년 기념 공연 (멜론 티켓 ─ 롤링홀)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210844</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210844</guid>
+            <pubDate>Mon, 30 Dec 2024 08:20:25 GMT</pubDate>
+            <content:encoded><![CDATA[2025.02.02  ~<br> 2025.02.02]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/12/20241224141953081642fc-404b-47a5-8517-dcfefdfa1e93.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[Coaltar of the Deepers Live in Seoul (멜론 티켓 ─ 웨스트브릿지)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210823</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210823</guid>
+            <pubDate>Mon, 30 Dec 2024 08:20:34 GMT</pubDate>
+            <content:encoded><![CDATA[2025.02.02  ~<br> 2025.02.02]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/12/20241218153053887d9d41-5c9a-4e94-9145-2053bcc40e7b.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[그리고 영신 (멜론 티켓 ─ 벨로주)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210622</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210622</guid>
+            <pubDate>Mon, 30 Dec 2024 08:20:51 GMT</pubDate>
+            <content:encoded><![CDATA[2024.12.30  ~<br> 2025.01.01]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/11/202411041914461872f461-808d-4080-a6fe-b306437e543a.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[이글루베이 단독 콘서트 : Met Neverland (멜론 티켓 ─ 벨로주)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210786</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210786</guid>
+            <pubDate>Mon, 30 Dec 2024 08:20:51 GMT</pubDate>
+            <content:encoded><![CDATA[2025.01.11  ~<br> 2025.01.11]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/12/202412110903412f6b0127-65fd-431c-ba3c-30a5fc9abfb6.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[먼데이프로젝트 시즌8 [심아일랜드 단독 콘서트 ‘Our Universe Party’] (멜론 티켓 ─ 벨로주)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210828</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210828</guid>
+            <pubDate>Mon, 30 Dec 2024 08:20:51 GMT</pubDate>
+            <content:encoded><![CDATA[2025.01.16  ~<br> 2025.01.16]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/12/20241218131840748d8987-acc0-4b78-96ee-31e5c9f38360.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[겸(GYE0M) ‘우리, 빛으로’ (멜론 티켓 ─ 벨로주)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210839</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210839</guid>
+            <pubDate>Mon, 30 Dec 2024 08:20:51 GMT</pubDate>
+            <content:encoded><![CDATA[2025.02.09  ~<br> 2025.02.09]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/12/20241220155551de8e28f1-d271-45bd-b4fe-f176f855dfa8.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[장재훈 1st EP [THE COLORS] 발매 기념 공연 (멜론 티켓 ─ 구름아래소극장)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210835</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210835</guid>
+            <pubDate>Mon, 30 Dec 2024 08:20:59 GMT</pubDate>
+            <content:encoded><![CDATA[2025.01.18  ~<br> 2025.01.18]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/12/202412191747000d23f75e-dde3-463e-9962-cb94620334e3.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2025 Rolling Quartz 〈Stand up tour in SEOUL〉 (멜론 티켓 ─ KT&G 상상마당 라이브홀)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210803</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210803</guid>
+            <pubDate>Mon, 30 Dec 2024 08:21:08 GMT</pubDate>
+            <content:encoded><![CDATA[2025.01.04  ~<br> 2025.01.05]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/12/20241210160513bd5c90a9-0925-425f-acf2-400662b63d2c.png/melon/resize/90x125/strip/true" length="0" type="image/png/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[위수의 연말 단독공연 〈2025 다짐 해!〉 (멜론 티켓 ─ CJ아지트 광흥창)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210602</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210602</guid>
+            <pubDate>Mon, 30 Dec 2024 08:21:24 GMT</pubDate>
+            <content:encoded><![CDATA[2024.12.29  ~<br> 2024.12.30]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/10/2024103015401266804c0a-79da-4374-98a5-c435b1647f39.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[ON (멜론 티켓 ─ CJ아지트 광흥창)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210799</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210799</guid>
+            <pubDate>Mon, 30 Dec 2024 08:21:24 GMT</pubDate>
+            <content:encoded><![CDATA[2025.01.04  ~<br> 2025.01.04]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/12/20241209142451f35e79aa-427f-4ff6-96e6-255a74db4c96.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[TUNE UP STAGE : blah(블라) 첫 단독 콘서트 〈한 번 더 안녕〉 (멜론 티켓 ─ CJ아지트 광흥창)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210810</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210810</guid>
+            <pubDate>Mon, 30 Dec 2024 08:21:24 GMT</pubDate>
+            <content:encoded><![CDATA[2025.01.11  ~<br> 2025.01.11]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/12/2024121211023790128580-37e0-4c51-880d-00a80a05fefc.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[B, The Second letter | Budung 2nd Full Length Album Showcase (멜론 티켓 ─ CJ아지트 광흥창)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210841</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210841</guid>
+            <pubDate>Mon, 30 Dec 2024 08:21:24 GMT</pubDate>
+            <content:encoded><![CDATA[2025.01.24  ~<br> 2025.01.25]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/12/20241226100426092e42a8-60ab-4d61-8429-db1532eb3f6d.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2025 CREZL CONCERT ‘BACKSTAGE : Logline’ (멜론 티켓 ─ 노들섬)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210802</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210802</guid>
+            <pubDate>Mon, 30 Dec 2024 08:21:47 GMT</pubDate>
+            <content:encoded><![CDATA[2025.01.18  ~<br> 2025.01.19]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/12/20241211085259dd707ff2-d40d-4eca-b767-d763978ce034.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2025 케이시 콘서트 〈아홉번째 겨울: 사랑의 편린〉 (멜론 티켓 ─ 노들섬)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210825</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210825</guid>
+            <pubDate>Mon, 30 Dec 2024 08:21:47 GMT</pubDate>
+            <content:encoded><![CDATA[2025.01.25  ~<br> 2025.01.26]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/12/20241217181526391733c7-892f-4abe-960a-b7ae53705409.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+    </channel>
+</rss>
