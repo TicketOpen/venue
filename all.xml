@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 04 Jan 2025 14:15:01 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Jan 2025 15:17:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -150,14 +150,6 @@
             <pubDate>Sat, 04 Jan 2025 14:13:49 GMT</pubDate>
             <content:encoded><![CDATA[2025.01.04  ~<br> 2025.01.05]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/12/20241210160513bd5c90a9-0925-425f-acf2-400662b63d2c.png/melon/resize/90x125/strip/true" length="0" type="image/png/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[ON (멜론 티켓 ─ CJ아지트 광흥창)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=210799</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=210799</guid>
-            <pubDate>Sat, 04 Jan 2025 14:14:05 GMT</pubDate>
-            <content:encoded><![CDATA[2025.01.04  ~<br> 2025.01.04]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/12/20241209142451f35e79aa-427f-4ff6-96e6-255a74db4c96.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[TUNE UP STAGE : blah(블라) 첫 단독 콘서트 〈한 번 더 안녕〉 (멜론 티켓 ─ CJ아지트 광흥창)]]></title>
