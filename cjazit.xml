@@ -1,35 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>멜론 티켓 ─ CJ아지트 광흥창</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Thu, 09 Jan 2025 07:18:06 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[TUNE UP STAGE : blah(블라) 첫 단독 콘서트 〈한 번 더 안녕〉]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=210810</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=210810</guid>
-            <pubDate>Thu, 09 Jan 2025 04:19:53 GMT</pubDate>
-            <content:encoded><![CDATA[2025.01.11  ~<br> 2025.01.11]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/12/2024121211023790128580-37e0-4c51-880d-00a80a05fefc.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[B, The Second letter | Budung 2nd Full Length Album Showcase]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=210841</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=210841</guid>
-            <pubDate>Thu, 09 Jan 2025 04:19:53 GMT</pubDate>
-            <content:encoded><![CDATA[2025.01.24  ~<br> 2025.01.25]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/12/20241226100426092e42a8-60ab-4d61-8429-db1532eb3f6d.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[더블 이펙트 - 김승주 x 심아일랜드]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=210863</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=210863</guid>
-            <pubDate>Thu, 09 Jan 2025 04:19:53 GMT</pubDate>
-            <content:encoded><![CDATA[2025.01.31  ~<br> 2025.01.31]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2025/01/202501031035596aa6b480-1077-4755-8f02-63b5d207adc3.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://ticket.melon.com/place/index.htm?placeId=329</id>
+    <title>멜론 티켓 ─ CJ아지트 광흥창</title>
+    <updated>2025-01-09T08:20:02.874Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://ticket.melon.com/place/favicon.ico</icon>
+</feed>
