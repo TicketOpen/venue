@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Jan 2025 02:54:39 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Jan 2025 03:24:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -120,6 +120,14 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2025/01/20250106182040e109ca1e-20e2-47b5-bb24-6063be9714a9.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
+            <title><![CDATA[9와숫자들 단독 콘서트 ‘로큰롤파티, 바위를 굴려라’ : 롤링 30주년 기념 공연 (멜론 티켓 ─ 롤링홀)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210872</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210872</guid>
+            <pubDate>Fri, 10 Jan 2025 03:22:19 GMT</pubDate>
+            <content:encoded><![CDATA[2025.02.15  ~<br> 2025.02.15]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2025/01/20250109171308ee5cc9ca-61d3-4968-b218-323482a3cd6b.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
             <title><![CDATA[Coaltar of the Deepers Live in Seoul (멜론 티켓 ─ 웨스트브릿지)]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=210823</link>
             <guid>https://ticket.melon.com/performance/index.htm?prodId=210823</guid>
@@ -182,6 +190,14 @@
             <pubDate>Fri, 10 Jan 2025 02:52:40 GMT</pubDate>
             <content:encoded><![CDATA[2025.01.31  ~<br> 2025.01.31]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2025/01/202501031035596aa6b480-1077-4755-8f02-63b5d207adc3.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[먼데이프로젝트 시즌8 : 전기뱀장어 단독 콘서트 [나의 섬을 찾아서] (멜론 티켓 ─ CJ아지트 광흥창)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210878</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210878</guid>
+            <pubDate>Fri, 10 Jan 2025 03:23:26 GMT</pubDate>
+            <content:encoded><![CDATA[2025.02.06  ~<br> 2025.02.06]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2025/01/202501101058090ab82fe3-f075-432f-95cd-35f7f2c21ec5.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[2025 CREZL CONCERT ‘BACKSTAGE : Logline’ (멜론 티켓 ─ 노들섬)]]></title>
