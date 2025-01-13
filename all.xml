@@ -1,7 +1,195 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://TicketOpen.github.io/venue/all.xml</id>
-    <title>Combined feed</title>
-    <updated>2025-01-12T23:14:31.144Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Combined feed</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Mon, 13 Jan 2025 01:16:21 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[극동아시아타이거즈  단독 콘서트 ‘몽유호원’ : 롤링 30주년 기념 공연 (멜론 티켓 ─ 롤링홀)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210796</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210796</guid>
+            <pubDate>Mon, 13 Jan 2025 01:14:14 GMT</pubDate>
+            <content:encoded><![CDATA[2025.01.16  ~<br> 2025.01.16]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/12/202412091055523e6ea9ab-ff9c-4e7d-9cb7-4bb655b72d6b.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[캐치더영 단독 콘서트 ‘Loud And Proud’ : 롤링 30주년 기념 공연 (멜론 티켓 ─ 롤링홀)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210797</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210797</guid>
+            <pubDate>Mon, 13 Jan 2025 01:14:14 GMT</pubDate>
+            <content:encoded><![CDATA[2025.01.17  ~<br> 2025.01.17]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/12/20241209110930df77a60a-f0f3-4be0-bccc-6c702f70e70f.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[허클베리피 단독 콘서트 ‘Storyteller: Page 18’ : 롤링 30주년 기념 공연 (멜론 티켓 ─ 롤링홀)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210807</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210807</guid>
+            <pubDate>Mon, 13 Jan 2025 01:14:14 GMT</pubDate>
+            <content:encoded><![CDATA[2025.01.18  ~<br> 2025.01.18]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/12/202412111629067cf68634-f73a-4c61-bb83-68a461d42cc3.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[잠비나이 콘서트 ‘flowers and trees’ (+ support act ANDOR) :  롤링 30주년 기념 공연 (멜론 티켓 ─ 롤링홀)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210815</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210815</guid>
+            <pubDate>Mon, 13 Jan 2025 01:14:14 GMT</pubDate>
+            <content:encoded><![CDATA[2025.01.19  ~<br> 2025.01.19]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/12/202412160857486cbc08c5-524f-47f6-a5b3-3feb8db94c2e.png/melon/resize/90x125/strip/true" length="0" type="image/png/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[적란운 단독 콘서트 ‘달의 방향’ : 롤링 30주년 기념 공연 (멜론 티켓 ─ 롤링홀)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210820</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210820</guid>
+            <pubDate>Mon, 13 Jan 2025 01:14:14 GMT</pubDate>
+            <content:encoded><![CDATA[2025.01.23  ~<br> 2025.01.23]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/12/20241216103744377de8c2-373c-428b-b052-0e3634749214.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[행로난 콘서트 ‘심장의 언어’：롤링 30주년 기념 공연 (멜론 티켓 ─ 롤링홀)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210821</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210821</guid>
+            <pubDate>Mon, 13 Jan 2025 01:14:14 GMT</pubDate>
+            <content:encoded><![CDATA[2025.01.24  ~<br> 2025.01.24]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/12/2024121718530863044441-792c-47d9-a3bf-e3e75eea7c29.png/melon/resize/90x125/strip/true" length="0" type="image/png/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[노브레인 단독 콘서트 ‘노래부인Ⅱ’ : 롤링 30주년 기념 공연 (멜론 티켓 ─ 롤링홀)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210832</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210832</guid>
+            <pubDate>Mon, 13 Jan 2025 01:14:14 GMT</pubDate>
+            <content:encoded><![CDATA[2025.01.25  ~<br> 2025.01.25]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/12/2024121915161260b154be-bae1-4152-b3d4-b345b01f2969.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[피에타 단독 콘서트 ‘나선의 형태’ : 롤링 30주년 기념 공연 (멜론 티켓 ─ 롤링홀)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210836</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210836</guid>
+            <pubDate>Mon, 13 Jan 2025 01:14:14 GMT</pubDate>
+            <content:encoded><![CDATA[2025.02.01  ~<br> 2025.02.01]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/12/202412261507416efdeea6-fd44-4404-ac17-49822698ba9d.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[중식이밴드 단독 콘서트 ‘회식’ : 롤링 30주년 기념 공연 (멜론 티켓 ─ 롤링홀)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210844</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210844</guid>
+            <pubDate>Mon, 13 Jan 2025 01:14:14 GMT</pubDate>
+            <content:encoded><![CDATA[2025.02.02  ~<br> 2025.02.02]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/12/202412310845284b377f56-7742-4ad1-baf7-36ddd8a68e38.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[벤치위레오(BWL) 단독 콘서트 ‘난류(亂流)’：롤링 30주년 기념 공연 (멜론 티켓 ─ 롤링홀)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210853</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210853</guid>
+            <pubDate>Mon, 13 Jan 2025 01:14:14 GMT</pubDate>
+            <content:encoded><![CDATA[2025.02.06  ~<br> 2025.02.06]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/12/2024123115312340406302-535e-4f48-a038-0a6a776807dd.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[Hathaw9y PURE LOVE After-party : 롤링 30주년 기념 공연 (멜론 티켓 ─ 롤링홀)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210855</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210855</guid>
+            <pubDate>Mon, 13 Jan 2025 01:14:14 GMT</pubDate>
+            <content:encoded><![CDATA[2025.02.08  ~<br> 2025.02.08]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/12/20241231153546214fe3dd-5301-4816-87f3-49ebaee495f8.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[안병웅 콘서트 ‘MPBOY in Rollinghall’ : 롤링 30주년 기념 공연 (멜론 티켓 ─ 롤링홀)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210869</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210869</guid>
+            <pubDate>Mon, 13 Jan 2025 01:14:14 GMT</pubDate>
+            <content:encoded><![CDATA[2025.02.09  ~<br> 2025.02.09]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2025/01/202501061628330e05dce9-5cc0-4d15-bde1-c600cbeb8d87.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[찬민 단독콘서트 ‘잃어버린 시간을 찾아서’：롤링 30주년 기념 공연 (멜론 티켓 ─ 롤링홀)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210870</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210870</guid>
+            <pubDate>Mon, 13 Jan 2025 01:14:14 GMT</pubDate>
+            <content:encoded><![CDATA[2025.02.13  ~<br> 2025.02.13]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2025/01/20250106182040e109ca1e-20e2-47b5-bb24-6063be9714a9.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[9와숫자들 단독 콘서트 ‘로큰롤파티, 바위를 굴려라’ : 롤링 30주년 기념 공연 (멜론 티켓 ─ 롤링홀)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210872</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210872</guid>
+            <pubDate>Mon, 13 Jan 2025 01:14:14 GMT</pubDate>
+            <content:encoded><![CDATA[2025.02.15  ~<br> 2025.02.15]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2025/01/20250109171308ee5cc9ca-61d3-4968-b218-323482a3cd6b.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[Coaltar of the Deepers Live in Seoul (멜론 티켓 ─ 웨스트브릿지)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210823</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210823</guid>
+            <pubDate>Mon, 13 Jan 2025 01:14:24 GMT</pubDate>
+            <content:encoded><![CDATA[2025.02.02  ~<br> 2025.02.02]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/12/20241218153053887d9d41-5c9a-4e94-9145-2053bcc40e7b.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[먼데이프로젝트 시즌8 [심아일랜드 단독 콘서트 ‘Our Universe Party’] (멜론 티켓 ─ 벨로주)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210828</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210828</guid>
+            <pubDate>Mon, 13 Jan 2025 01:14:44 GMT</pubDate>
+            <content:encoded><![CDATA[2025.01.16  ~<br> 2025.01.16]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/12/20241218131840748d8987-acc0-4b78-96ee-31e5c9f38360.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[겸(GYE0M) ‘우리, 빛으로’ (멜론 티켓 ─ 벨로주)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210839</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210839</guid>
+            <pubDate>Mon, 13 Jan 2025 01:14:44 GMT</pubDate>
+            <content:encoded><![CDATA[2025.02.09  ~<br> 2025.02.09]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/12/20241220155551de8e28f1-d271-45bd-b4fe-f176f855dfa8.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[장재훈 1st EP [THE COLORS] 발매 기념 공연 「The Colors : LIVE CANVAS」 (멜론 티켓 ─ 구름아래소극장)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210835</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210835</guid>
+            <pubDate>Mon, 13 Jan 2025 01:14:53 GMT</pubDate>
+            <content:encoded><![CDATA[2025.01.18  ~<br> 2025.01.18]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/12/202412191747000d23f75e-dde3-463e-9962-cb94620334e3.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[B, The Second letter | Budung 2nd Full Length Album Showcase (멜론 티켓 ─ CJ아지트 광흥창)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210841</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210841</guid>
+            <pubDate>Mon, 13 Jan 2025 01:15:22 GMT</pubDate>
+            <content:encoded><![CDATA[2025.01.24  ~<br> 2025.01.25]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/12/20241226100426092e42a8-60ab-4d61-8429-db1532eb3f6d.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[더블 이펙트 - 김승주 x 심아일랜드 (멜론 티켓 ─ CJ아지트 광흥창)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210863</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210863</guid>
+            <pubDate>Mon, 13 Jan 2025 01:15:22 GMT</pubDate>
+            <content:encoded><![CDATA[2025.01.31  ~<br> 2025.01.31]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2025/01/202501031035596aa6b480-1077-4755-8f02-63b5d207adc3.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[먼데이프로젝트 시즌8 : 전기뱀장어 단독 콘서트 [나의 섬을 찾아서] (멜론 티켓 ─ CJ아지트 광흥창)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210878</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210878</guid>
+            <pubDate>Mon, 13 Jan 2025 01:15:22 GMT</pubDate>
+            <content:encoded><![CDATA[2025.02.06  ~<br> 2025.02.06]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2025/01/202501101058090ab82fe3-f075-432f-95cd-35f7f2c21ec5.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2025 CREZL CONCERT ‘BACKSTAGE : Logline’ (멜론 티켓 ─ 노들섬)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210802</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210802</guid>
+            <pubDate>Mon, 13 Jan 2025 01:15:49 GMT</pubDate>
+            <content:encoded><![CDATA[2025.01.18  ~<br> 2025.01.19]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/12/20241211085259dd707ff2-d40d-4eca-b767-d763978ce034.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2025 케이시 콘서트 〈아홉번째 겨울: 사랑의 편린〉 (멜론 티켓 ─ 노들섬)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210825</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210825</guid>
+            <pubDate>Mon, 13 Jan 2025 01:15:49 GMT</pubDate>
+            <content:encoded><![CDATA[2025.01.25  ~<br> 2025.01.26]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/12/20241217181526391733c7-892f-4abe-960a-b7ae53705409.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+    </channel>
+</rss>
