@@ -4,17 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Jan 2025 14:16:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jan 2025 15:19:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[극동아시아타이거즈  단독 콘서트 ‘몽유호원’ : 롤링 30주년 기념 공연 (멜론 티켓 ─ 롤링홀)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=210796</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=210796</guid>
-            <pubDate>Thu, 16 Jan 2025 13:20:18 GMT</pubDate>
-            <content:encoded><![CDATA[2025.01.16  ~<br> 2025.01.16]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/12/202412091055523e6ea9ab-ff9c-4e7d-9cb7-4bb655b72d6b.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
         <item>
             <title><![CDATA[캐치더영 단독 콘서트 ‘Loud And Proud’ : 롤링 30주년 기념 공연 (멜론 티켓 ─ 롤링홀)]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=210797</link>
@@ -158,14 +150,6 @@
             <pubDate>Thu, 16 Jan 2025 13:20:27 GMT</pubDate>
             <content:encoded><![CDATA[2025.02.02  ~<br> 2025.02.02]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/12/20241218153053887d9d41-5c9a-4e94-9145-2053bcc40e7b.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[먼데이프로젝트 시즌8 [심아일랜드 단독 콘서트 ‘Our Universe Party’] (멜론 티켓 ─ 벨로주)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=210828</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=210828</guid>
-            <pubDate>Thu, 16 Jan 2025 13:20:46 GMT</pubDate>
-            <content:encoded><![CDATA[2025.01.16  ~<br> 2025.01.16]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/12/20241218131840748d8987-acc0-4b78-96ee-31e5c9f38360.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[조은세 단독 콘서트 - Garden is You (멜론 티켓 ─ 벨로주)]]></title>
