@@ -4,17 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Jan 2025 14:15:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jan 2025 15:16:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[캐치더영 단독 콘서트 ‘Loud And Proud’ : 롤링 30주년 기념 공연 (멜론 티켓 ─ 롤링홀)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=210797</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=210797</guid>
-            <pubDate>Fri, 17 Jan 2025 13:19:20 GMT</pubDate>
-            <content:encoded><![CDATA[2025.01.17  ~<br> 2025.01.17]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/12/20241209110930df77a60a-f0f3-4be0-bccc-6c702f70e70f.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
         <item>
             <title><![CDATA[허클베리피 단독 콘서트 ‘Storyteller: Page 18’ : 롤링 30주년 기념 공연 (멜론 티켓 ─ 롤링홀)]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=210807</link>
