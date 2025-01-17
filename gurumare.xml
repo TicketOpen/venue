@@ -1,8 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://ticket.melon.com/place/index.htm?placeId=724</id>
-    <title>멜론 티켓 ─ 구름아래소극장</title>
-    <updated>2025-01-17T12:28:54.930Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://ticket.melon.com/place/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>멜론 티켓 ─ 구름아래소극장</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Fri, 17 Jan 2025 13:21:25 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[장재훈 1st EP [THE COLORS] 발매 기념 공연 「The Colors : LIVE CANVAS」]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210835</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210835</guid>
+            <pubDate>Fri, 17 Jan 2025 13:19:58 GMT</pubDate>
+            <content:encoded><![CDATA[2025.01.18  ~<br> 2025.01.18]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/12/202412191747000d23f75e-dde3-463e-9962-cb94620334e3.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[한올, 새봄 첫 번째 콘서트 ‘마음 둘 곳’]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210900</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210900</guid>
+            <pubDate>Fri, 17 Jan 2025 13:19:58 GMT</pubDate>
+            <content:encoded><![CDATA[2025.02.16  ~<br> 2025.02.16]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2025/01/202501151046036ed7c0a2-4c69-43d5-9fbb-8bcd0ac85ddf.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+    </channel>
+</rss>
