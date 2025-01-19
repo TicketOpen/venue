@@ -4,17 +4,9 @@
         <title>멜론 티켓 ─ 롤링홀</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 Jan 2025 14:15:49 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Jan 2025 15:16:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[잠비나이 콘서트 ‘flowers and trees’ (+ support act ANDOR) :  롤링 30주년 기념 공연]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=210815</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=210815</guid>
-            <pubDate>Sun, 19 Jan 2025 14:13:56 GMT</pubDate>
-            <content:encoded><![CDATA[2025.01.19  ~<br> 2025.01.19]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2024/12/202412160857486cbc08c5-524f-47f6-a5b3-3feb8db94c2e.png/melon/resize/90x125/strip/true" length="0" type="image/png/melon/resize/90x125/strip/true"/>
-        </item>
         <item>
             <title><![CDATA[적란운 단독 콘서트 ‘달의 방향’ : 롤링 30주년 기념 공연]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=210820</link>
