@@ -4,7 +4,7 @@
         <title>멜론 티켓 ─ 구름아래소극장</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Feb 2025 08:21:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Feb 2025 09:19:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Tue, 04 Feb 2025 08:19:53 GMT</pubDate>
             <content:encoded><![CDATA[2025.03.01  ~<br> 2025.03.03]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2025/01/202501241425439c52e278-c47f-4ed0-8ced-6f2f55d61bc0.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2025 보라미유 단독콘서트 ‘CLOVER’]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210996</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210996</guid>
+            <pubDate>Tue, 04 Feb 2025 09:17:49 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.16  ~<br> 2025.03.16]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2025/02/20250204161711480c00a1-b02a-4628-8857-ca76fbfd6ec6.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
