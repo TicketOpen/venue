@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Feb 2025 02:45:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Feb 2025 04:21:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -120,6 +120,14 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2025/02/202502050916192f5c2d62-5950-4805-8817-e22156d8a6c4.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
+            <title><![CDATA[심아일랜드 단독 콘서트 ‘알록달록’ : 롤링 30주년 기념 공연 (멜론 티켓 ─ 롤링홀)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=211012</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=211012</guid>
+            <pubDate>Thu, 06 Feb 2025 04:19:42 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.13  ~<br> 2025.03.13]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2025/02/20250205093438e492c0e5-26cc-4900-a9dd-340a3e201d8c.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
             <title><![CDATA[와글와글: 잭킹콩X심아일랜드 (멜론 티켓 ─ 웨스트브릿지)]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=210929</link>
             <guid>https://ticket.melon.com/performance/index.htm?prodId=210929</guid>
@@ -134,6 +142,14 @@
             <pubDate>Thu, 06 Feb 2025 02:43:56 GMT</pubDate>
             <content:encoded><![CDATA[2025.02.21  ~<br> 2025.02.23]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2025/01/20250116140514a2a5cf0c-e14b-4ca2-820c-0e95151c252e.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[DOYOUKA LIVE 2025 (멜론 티켓 ─ 웨스트브릿지)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=211019</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=211019</guid>
+            <pubDate>Thu, 06 Feb 2025 04:19:52 GMT</pubDate>
+            <content:encoded><![CDATA[2025.02.28  ~<br> 2025.02.28]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2025/02/20250206105749cd67bad7-4e5d-4fc6-8863-08658751655c.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[키라라의 키라라 미리듣기 음감회(키라라 5집 발매 기념) (멜론 티켓 ─ 프리즘홀)]]></title>
