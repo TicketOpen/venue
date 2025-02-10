@@ -4,7 +4,7 @@
         <title>멜론 티켓 ─ 롤링홀</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Feb 2025 01:14:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Feb 2025 03:22:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -94,6 +94,14 @@
             <pubDate>Sun, 09 Feb 2025 20:15:49 GMT</pubDate>
             <content:encoded><![CDATA[2025.03.13  ~<br> 2025.03.13]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2025/02/20250205093438e492c0e5-26cc-4900-a9dd-340a3e201d8c.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[SKIPJACK 단독 콘서트 ‘펑!’ : 롤링 30주년 기념 공연]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=211034</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=211034</guid>
+            <pubDate>Mon, 10 Feb 2025 03:20:18 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.16  ~<br> 2025.03.16]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2025/02/20250207211220b9adb8b4-9f6e-4e72-84c4-320c003dfba5.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>

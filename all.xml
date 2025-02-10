@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Feb 2025 01:14:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Feb 2025 03:22:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -96,6 +96,14 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2025/02/20250205093438e492c0e5-26cc-4900-a9dd-340a3e201d8c.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
+            <title><![CDATA[SKIPJACK 단독 콘서트 ‘펑!’ : 롤링 30주년 기념 공연 (멜론 티켓 ─ 롤링홀)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=211034</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=211034</guid>
+            <pubDate>Mon, 10 Feb 2025 03:20:18 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.16  ~<br> 2025.03.16]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2025/02/20250207211220b9adb8b4-9f6e-4e72-84c4-320c003dfba5.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
             <title><![CDATA[와글와글: 잭킹콩X심아일랜드 (멜론 티켓 ─ 웨스트브릿지)]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=210929</link>
             <guid>https://ticket.melon.com/performance/index.htm?prodId=210929</guid>
@@ -126,6 +134,14 @@
             <pubDate>Sun, 09 Feb 2025 20:16:08 GMT</pubDate>
             <content:encoded><![CDATA[2025.02.21  ~<br> 2025.02.21]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2025/02/2025020314422077ad373b-ddce-418f-86cb-45856a3b5e3c.png/melon/resize/90x125/strip/true" length="0" type="image/png/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[기프트 전국 클럽투어 [Get, Set, Ready and Go!] - 서울 (멜론 티켓 ─ 프리즘홀)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=211029</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=211029</guid>
+            <pubDate>Mon, 10 Feb 2025 03:20:39 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.08  ~<br> 2025.03.08]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2025/02/2025020715570832a1b318-920c-42a0-a690-f9bc408cb501.png/melon/resize/90x125/strip/true" length="0" type="image/png/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[먼데이프로젝트 시즌8 : Olltii X LONE 2nd Album Concert [ollone at allone] (멜론 티켓 ─ 벨로주)]]></title>
