@@ -1,8 +1,59 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://ticket.melon.com/place/index.htm?placeId=12</id>
-    <title>멜론 티켓 ─ 벨로주</title>
-    <updated>2025-02-13T14:15:16.227Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://ticket.melon.com/place/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>멜론 티켓 ─ 벨로주</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Thu, 13 Feb 2025 15:18:46 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[THE JOYFOOLS [HOMECOMING]]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210918</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210918</guid>
+            <pubDate>Thu, 13 Feb 2025 15:17:17 GMT</pubDate>
+            <content:encoded><![CDATA[2025.02.14  ~<br> 2025.02.14]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2025/01/202501201009151a2013f3-f91f-499b-93ed-2fb381564e22.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[Biuret is my favorite song]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210979</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210979</guid>
+            <pubDate>Thu, 13 Feb 2025 15:17:17 GMT</pubDate>
+            <content:encoded><![CDATA[2025.02.21  ~<br> 2025.02.21]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2025/02/20250203102056e837f7b9-32f3-4da7-a4d7-2c7a5b4cf829.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[컬러풀 스테이지 #8 심아일랜드, 벤치위레오, 스킵잭]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210914</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210914</guid>
+            <pubDate>Thu, 13 Feb 2025 15:17:17 GMT</pubDate>
+            <content:encoded><![CDATA[2025.02.22  ~<br> 2025.02.22]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2025/01/20250117094628b774f874-a001-42c8-96b1-a6cc36d9db6d.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[컬러풀 스테이지 #9 레드씨 & 품바21]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210919</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210919</guid>
+            <pubDate>Thu, 13 Feb 2025 15:17:17 GMT</pubDate>
+            <content:encoded><![CDATA[2025.02.23  ~<br> 2025.02.23]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2025/01/20250120102730738d77cf-3d92-4e5a-a2b2-3f1839662a6a.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[위아더나잇 단독 공연 ‘Love Means Everything’]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=211055</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=211055</guid>
+            <pubDate>Thu, 13 Feb 2025 15:17:17 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.14  ~<br> 2025.03.14]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2025/02/20250213112213da2b56c4-c101-40fa-b866-d0e264c407b0.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[Ruru 3rd Oneman Live : 보고싶었어, 근데 이름이 뭐더라]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210970</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210970</guid>
+            <pubDate>Thu, 13 Feb 2025 15:17:17 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.15  ~<br> 2025.03.15]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2025/01/2025012414381509a3a874-e131-47fb-9602-f81727f68ba6.png/melon/resize/90x125/strip/true" length="0" type="image/png/melon/resize/90x125/strip/true"/>
+        </item>
+    </channel>
+</rss>
