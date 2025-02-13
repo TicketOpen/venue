@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Feb 2025 02:47:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Feb 2025 03:22:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -110,6 +110,14 @@
             <pubDate>Thu, 13 Feb 2025 01:10:02 GMT</pubDate>
             <content:encoded><![CDATA[2025.03.20  ~<br> 2025.03.20]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2025/02/20250210153354c890069b-6a6d-48f2-876a-bb0dfc9cdc31.png/melon/resize/90x125/strip/true" length="0" type="image/png/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[〈전기뱀장어 단독 콘서트 ‘행운을 드려요’ : 롤링 30주년 기념 공연〉 (멜론 티켓 ─ 롤링홀)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=211045</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=211045</guid>
+            <pubDate>Thu, 13 Feb 2025 03:20:23 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.21  ~<br> 2025.03.21]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2025/02/2025021213420886393eef-05e6-45cf-80f5-eb20bdb9283b.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[와글와글: 잭킹콩X심아일랜드 (멜론 티켓 ─ 웨스트브릿지)]]></title>
