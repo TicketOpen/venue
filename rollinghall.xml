@@ -4,17 +4,9 @@
         <title>멜론 티켓 ─ 롤링홀</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Feb 2025 14:19:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Feb 2025 15:18:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[이병찬 : Valentine Concert]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=210955</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=210955</guid>
-            <pubDate>Fri, 14 Feb 2025 13:23:35 GMT</pubDate>
-            <content:encoded><![CDATA[2025.02.14  ~<br> 2025.02.14]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2025/01/20250123102544e2ac2d1a-29a1-4ff6-b47f-a163d6a35b72.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
         <item>
             <title><![CDATA[9와숫자들 단독 콘서트 ‘로큰롤파티, 바위를 굴려라’ : 롤링 30주년 기념 공연]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=210872</link>

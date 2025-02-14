@@ -4,17 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Feb 2025 14:19:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Feb 2025 15:18:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[이병찬 : Valentine Concert (멜론 티켓 ─ 롤링홀)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=210955</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=210955</guid>
-            <pubDate>Fri, 14 Feb 2025 13:23:35 GMT</pubDate>
-            <content:encoded><![CDATA[2025.02.14  ~<br> 2025.02.14]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2025/01/20250123102544e2ac2d1a-29a1-4ff6-b47f-a163d6a35b72.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
         <item>
             <title><![CDATA[9와숫자들 단독 콘서트 ‘로큰롤파티, 바위를 굴려라’ : 롤링 30주년 기념 공연 (멜론 티켓 ─ 롤링홀)]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=210872</link>
@@ -120,14 +112,6 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2025/02/20250212105254975b715e-b27f-4e03-920b-92e9c6416512.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
-            <title><![CDATA[와글와글: 잭킹콩X심아일랜드 (멜론 티켓 ─ 웨스트브릿지)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=210929</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=210929</guid>
-            <pubDate>Fri, 14 Feb 2025 13:23:46 GMT</pubDate>
-            <content:encoded><![CDATA[2025.02.14  ~<br> 2025.02.14]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2025/01/20250120165928f4f15764-d490-44a6-b9e5-855d5e2f4baa.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
             <title><![CDATA[신해경 ‘이상한 경치’ 단독 공연 (멜론 티켓 ─ 웨스트브릿지)]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=210907</link>
             <guid>https://ticket.melon.com/performance/index.htm?prodId=210907</guid>
@@ -158,14 +142,6 @@
             <pubDate>Fri, 14 Feb 2025 13:23:56 GMT</pubDate>
             <content:encoded><![CDATA[2025.03.08  ~<br> 2025.03.08]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2025/02/2025021013342886c47583-bcc5-4616-a819-45831b05e89b.png/melon/resize/90x125/strip/true" length="0" type="image/png/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[THE JOYFOOLS [HOMECOMING] (멜론 티켓 ─ 벨로주)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=210918</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=210918</guid>
-            <pubDate>Fri, 14 Feb 2025 13:24:07 GMT</pubDate>
-            <content:encoded><![CDATA[2025.02.14  ~<br> 2025.02.14]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2025/01/202501201009151a2013f3-f91f-499b-93ed-2fb381564e22.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[Biuret is my favorite song (멜론 티켓 ─ 벨로주)]]></title>
