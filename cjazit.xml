@@ -1,8 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://ticket.melon.com/place/index.htm?placeId=329</id>
-    <title>멜론 티켓 ─ CJ아지트 광흥창</title>
-    <updated>2025-02-16T13:18:03.391Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://ticket.melon.com/place/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>멜론 티켓 ─ CJ아지트 광흥창</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sun, 16 Feb 2025 14:15:17 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[구원찬 단독 콘서트 〈konart9〉]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210980</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210980</guid>
+            <pubDate>Sun, 16 Feb 2025 14:14:21 GMT</pubDate>
+            <content:encoded><![CDATA[2025.02.23  ~<br> 2025.02.23]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2025/01/202501311822410fc30203-176d-490a-b4ef-c6901d3b9fb7.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[안녕하세요 깅지원입니다]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=211046</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=211046</guid>
+            <pubDate>Sun, 16 Feb 2025 14:14:21 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.07  ~<br> 2025.03.07]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2025/02/20250212190846d37af13f-dbb0-4e20-bf99-fa7450211826.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+    </channel>
+</rss>
