@@ -4,17 +4,9 @@
         <title>멜론 티켓 ─ 구름아래소극장</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 16 Feb 2025 14:15:17 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Feb 2025 15:16:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[한올, 새봄 첫 번째 콘서트 ‘마음 둘 곳’]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=210900</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=210900</guid>
-            <pubDate>Sun, 16 Feb 2025 14:13:53 GMT</pubDate>
-            <content:encoded><![CDATA[2025.02.16  ~<br> 2025.02.16]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2025/01/202501151046036ed7c0a2-4c69-43d5-9fbb-8bcd0ac85ddf.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
         <item>
             <title><![CDATA[윤딴딴 정규2집 ‘반칠십’ 쇼케이스 콘서트]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=210969</link>
