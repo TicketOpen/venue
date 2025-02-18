@@ -1,35 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>멜론 티켓 ─ 구름아래소극장</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Tue, 18 Feb 2025 13:23:32 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[윤딴딴 정규2집 ‘반칠십’ 쇼케이스 콘서트]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=210969</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=210969</guid>
-            <pubDate>Tue, 18 Feb 2025 11:14:51 GMT</pubDate>
-            <content:encoded><![CDATA[2025.03.01  ~<br> 2025.03.03]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2025/01/202501241425439c52e278-c47f-4ed0-8ced-6f2f55d61bc0.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[W24 단독콘서트 ‘Seize The Day’]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=211011</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=211011</guid>
-            <pubDate>Tue, 18 Feb 2025 11:14:51 GMT</pubDate>
-            <content:encoded><![CDATA[2025.03.08  ~<br> 2025.03.08]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2025/02/202502051514066279bee7-0628-430e-aade-9095d12d43b9.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[2025 보라미유 단독콘서트 ‘CLOVER’]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=210996</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=210996</guid>
-            <pubDate>Tue, 18 Feb 2025 11:14:51 GMT</pubDate>
-            <content:encoded><![CDATA[2025.03.16  ~<br> 2025.03.16]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2025/02/202502051454589011d83b-37a8-4383-b870-c636f7cd0071.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://ticket.melon.com/place/index.htm?placeId=724</id>
+    <title>멜론 티켓 ─ 구름아래소극장</title>
+    <updated>2025-02-18T14:15:20.924Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://ticket.melon.com/place/favicon.ico</icon>
+</feed>
