@@ -1,27 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>멜론 티켓 ─ 웨스트브릿지</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Thu, 20 Feb 2025 17:15:43 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[신해경 ‘이상한 경치’ 단독 공연]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=210907</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=210907</guid>
-            <pubDate>Thu, 20 Feb 2025 13:23:19 GMT</pubDate>
-            <content:encoded><![CDATA[2025.02.21  ~<br> 2025.02.23]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2025/01/20250116140514a2a5cf0c-e14b-4ca2-820c-0e95151c252e.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[DOYOUKA LIVE 2025]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=211019</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=211019</guid>
-            <pubDate>Thu, 20 Feb 2025 13:23:19 GMT</pubDate>
-            <content:encoded><![CDATA[2025.02.28  ~<br> 2025.02.28]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2025/02/20250206105749cd67bad7-4e5d-4fc6-8863-08658751655c.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://ticket.melon.com/place/index.htm?placeId=293</id>
+    <title>멜론 티켓 ─ 웨스트브릿지</title>
+    <updated>2025-02-20T18:35:46.074Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://ticket.melon.com/place/favicon.ico</icon>
+</feed>
