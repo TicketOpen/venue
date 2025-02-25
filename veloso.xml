@@ -1,8 +1,51 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://ticket.melon.com/place/index.htm?placeId=12</id>
-    <title>멜론 티켓 ─ 벨로주</title>
-    <updated>2025-02-25T22:15:40.495Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://ticket.melon.com/place/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>멜론 티켓 ─ 벨로주</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Tue, 25 Feb 2025 23:17:57 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[CIKI 단독 공연 ‘Love is destructive.’]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=211084</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=211084</guid>
+            <pubDate>Tue, 25 Feb 2025 23:16:22 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.09  ~<br> 2025.03.09]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2025/02/20250220103413dea84135-675a-4bc7-a409-ab68afa8b5dc.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[먼데이프로젝트 시즌8 [DIVE INTO 소울딜리버리 X 잭킹콩]]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=211054</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=211054</guid>
+            <pubDate>Tue, 25 Feb 2025 23:16:22 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.10  ~<br> 2025.03.10]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2025/02/202502171117333f6465e2-c8ed-48e7-8d76-ed2928307d63.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[위아더나잇 단독 공연 ‘Love Means Everything’]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=211055</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=211055</guid>
+            <pubDate>Tue, 25 Feb 2025 23:16:22 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.14  ~<br> 2025.03.14]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2025/02/20250213112213da2b56c4-c101-40fa-b866-d0e264c407b0.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[Ruru 3rd Oneman Live : 보고싶었어, 근데 이름이 뭐더라]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210970</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210970</guid>
+            <pubDate>Tue, 25 Feb 2025 23:16:22 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.15  ~<br> 2025.03.15]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2025/01/2025012414381509a3a874-e131-47fb-9602-f81727f68ba6.png/melon/resize/90x125/strip/true" length="0" type="image/png/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2025 김수영 소극장 단독공연 〈Bloom〉]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=211076</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=211076</guid>
+            <pubDate>Tue, 25 Feb 2025 23:16:22 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.21  ~<br> 2025.03.30]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2025/02/202502191040503ed6d9c4-33ce-486b-ae97-3a745a0fd1a3.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+    </channel>
+</rss>
