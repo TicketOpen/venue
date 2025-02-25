@@ -1,8 +1,115 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://ticket.melon.com/place/index.htm?placeId=43</id>
-    <title>멜론 티켓 ─ 롤링홀</title>
-    <updated>2025-02-25T18:22:03.668Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://ticket.melon.com/place/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>멜론 티켓 ─ 롤링홀</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Tue, 25 Feb 2025 19:15:23 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[YB : Metalogic : 롤링 30주년 기념 공연]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210946</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210946</guid>
+            <pubDate>Tue, 25 Feb 2025 19:13:18 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.01  ~<br> 2025.03.02]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2025/01/20250122182036b386420f-267e-42ae-9e6b-1f79827ec32b.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[이글루베이 단독 콘서트 ‘영혼상점’ : 롤링 30주년 기념 공연]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210982</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210982</guid>
+            <pubDate>Tue, 25 Feb 2025 19:13:18 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.06  ~<br> 2025.03.06]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2025/02/202502030858353d4810db-656b-475a-ae4d-1f7f176be904.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[서울전자음악단 단독 콘서트 ‘사이키델릭 평행 세계(psychedelic parallel universe)’ : 롤링 30주년 기념 공연]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=210992</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=210992</guid>
+            <pubDate>Tue, 25 Feb 2025 19:13:18 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.07  ~<br> 2025.03.07]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2025/02/2025020310571635054c00-9862-4439-8f5e-4dc41c22beda.png/melon/resize/90x125/strip/true" length="0" type="image/png/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[암호 단독 콘서트 ‘ONE TAKE’ : 롤링 30주년 기념 공연]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=211006</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=211006</guid>
+            <pubDate>Tue, 25 Feb 2025 19:13:18 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.08  ~<br> 2025.03.09]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2025/02/202502050916192f5c2d62-5950-4805-8817-e22156d8a6c4.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[심아일랜드 단독 콘서트 ‘알록달록’ : 롤링 30주년 기념 공연]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=211012</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=211012</guid>
+            <pubDate>Tue, 25 Feb 2025 19:13:18 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.13  ~<br> 2025.03.13]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2025/02/20250205093438e492c0e5-26cc-4900-a9dd-340a3e201d8c.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[SKIPJACK 단독 콘서트 ‘펑!’ : 롤링 30주년 기념 공연]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=211034</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=211034</guid>
+            <pubDate>Tue, 25 Feb 2025 19:13:18 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.16  ~<br> 2025.03.16]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2025/02/20250207211220b9adb8b4-9f6e-4e72-84c4-320c003dfba5.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[아사달 단독 콘서트 ‘우리만의 이름으로’ : 롤링 30주년 기념 공연]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=211041</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=211041</guid>
+            <pubDate>Tue, 25 Feb 2025 19:13:18 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.20  ~<br> 2025.03.20]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2025/02/20250210153354c890069b-6a6d-48f2-876a-bb0dfc9cdc31.png/melon/resize/90x125/strip/true" length="0" type="image/png/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[〈전기뱀장어 단독 콘서트 ‘행운을 드려요’ : 롤링 30주년 기념 공연〉]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=211045</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=211045</guid>
+            <pubDate>Tue, 25 Feb 2025 19:13:18 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.21  ~<br> 2025.03.21]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2025/02/2025021213420886393eef-05e6-45cf-80f5-eb20bdb9283b.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[주니엘 단독 콘서트 ‘Time Trip’ : 롤링 30주년 기념 공연]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=211049</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=211049</guid>
+            <pubDate>Tue, 25 Feb 2025 19:13:18 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.22  ~<br> 2025.03.22]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2025/02/20250212105254975b715e-b27f-4e03-920b-92e9c6416512.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[윈디시티 단독 콘서트 ‘Love, Power and Unity’ : 롤링 30주년 기념 공연]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=211060</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=211060</guid>
+            <pubDate>Tue, 25 Feb 2025 19:13:18 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.23  ~<br> 2025.03.23]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2025/02/20250217085214f24eaabe-c21d-4592-9fea-2bf87efca8bb.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[체인리액션 10주년 기념 단독 콘서트 ‘A Love Supreme’ : 롤링 30주년 기념 공연]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=211050</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=211050</guid>
+            <pubDate>Tue, 25 Feb 2025 19:13:18 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.27  ~<br> 2025.03.27]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2025/02/202502171415355fb7668f-817d-48b9-9a47-03608b38e051.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[2025 음율 FANCON ‘첫 장’ : 롤링 30주년 기념 공연]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=211071</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=211071</guid>
+            <pubDate>Tue, 25 Feb 2025 19:13:18 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.29  ~<br> 2025.03.29]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2025/02/20250218105352c83fcf70-92bf-4189-b6ac-e851409d399a.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[박소은 단독 콘서트 ‘매일’ : 롤링 30주년 기념 공연]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=211075</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=211075</guid>
+            <pubDate>Tue, 25 Feb 2025 19:13:18 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.30  ~<br> 2025.03.30]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2025/02/202502201553501d6802f1-a02f-43a4-a67a-e5624cd61194.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+    </channel>
+</rss>
