@@ -1,27 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>멜론 티켓 ─ 프리즘홀</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Sun, 02 Mar 2025 09:16:43 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[기프트 전국 클럽투어 [Get, Set, Ready and Go!] - 서울]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=211029</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=211029</guid>
-            <pubDate>Sun, 02 Mar 2025 07:16:41 GMT</pubDate>
-            <content:encoded><![CDATA[2025.03.08  ~<br> 2025.03.08]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2025/02/2025021013342886c47583-bcc5-4616-a819-45831b05e89b.png/melon/resize/90x125/strip/true" length="0" type="image/png/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[THE VANE MONSTER ON THE ROAD Ep1. SEOUL]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=211124</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=211124</guid>
-            <pubDate>Sun, 02 Mar 2025 07:16:41 GMT</pubDate>
-            <content:encoded><![CDATA[2025.03.28  ~<br> 2025.03.28]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2025/02/20250226152559ecaa0114-85ab-40ff-ac65-9f9950ea76c8.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://ticket.melon.com/place/index.htm?placeId=731</id>
+    <title>멜론 티켓 ─ 프리즘홀</title>
+    <updated>2025-03-02T10:17:00.535Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://ticket.melon.com/place/favicon.ico</icon>
+</feed>
