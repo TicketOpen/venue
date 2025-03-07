@@ -4,7 +4,7 @@
         <title>멜론 티켓 ─ 구름아래소극장</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Mar 2025 04:22:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Mar 2025 06:24:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Fri, 07 Mar 2025 04:20:57 GMT</pubDate>
             <content:encoded><![CDATA[2025.03.22  ~<br> 2025.03.23]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2025/02/20250217143348c6efeef0-e016-4587-a51f-ab9eec55d174.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[먼데이프로젝트 시즌8 [올리비아 마쉬 EP 발매 기념 Listening Party ‘Meanwhile’] Encore]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=211148</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=211148</guid>
+            <pubDate>Fri, 07 Mar 2025 06:22:40 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.26  ~<br> 2025.03.26]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2025/03/2025030709022898774885-39ec-47e5-8506-ccdbd37a3040.png/melon/resize/90x125/strip/true" length="0" type="image/png/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[CHARLOTTE : 테종 1st EP 앨범 발매 기념 콘서트]]></title>
