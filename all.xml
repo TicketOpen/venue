@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Mar 2025 14:18:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Mar 2025 15:21:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -150,14 +150,6 @@
             <pubDate>Mon, 10 Mar 2025 10:15:47 GMT</pubDate>
             <content:encoded><![CDATA[2025.03.28  ~<br> 2025.03.28]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2025/02/20250226152559ecaa0114-85ab-40ff-ac65-9f9950ea76c8.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[먼데이프로젝트 시즌8 [DIVE INTO 소울딜리버리 X 잭킹콩] (멜론 티켓 ─ 벨로주)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=211054</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=211054</guid>
-            <pubDate>Mon, 10 Mar 2025 10:15:57 GMT</pubDate>
-            <content:encoded><![CDATA[2025.03.10  ~<br> 2025.03.10]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2025/02/202502171117333f6465e2-c8ed-48e7-8d76-ed2928307d63.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[위아더나잇 단독 공연 ‘Love Means Everything’ (멜론 티켓 ─ 벨로주)]]></title>
