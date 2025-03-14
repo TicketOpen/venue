@@ -1,35 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>멜론 티켓 ─ CJ아지트 광흥창</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Fri, 14 Mar 2025 12:32:24 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[Oui Oui We!]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=211077</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=211077</guid>
-            <pubDate>Fri, 14 Mar 2025 11:15:49 GMT</pubDate>
-            <content:encoded><![CDATA[2025.03.16  ~<br> 2025.03.16]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2025/02/2025021816425228467813-b324-468a-b712-a578104da27d.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[먼데이프로젝트 시즌8 [벤치위레오 단독 콘서트 ‘Set Me Freeeee!!’]]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=211115</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=211115</guid>
-            <pubDate>Fri, 14 Mar 2025 11:15:49 GMT</pubDate>
-            <content:encoded><![CDATA[2025.03.27  ~<br> 2025.03.27]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2025/02/202502251421148bc71f77-2e02-4eec-9475-0a73dd142ad5.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[Woshi(우시) 정규 앨범 쇼케이스 콘서트 : Lost & Found]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=211170</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=211170</guid>
-            <pubDate>Fri, 14 Mar 2025 11:15:49 GMT</pubDate>
-            <content:encoded><![CDATA[2025.04.06  ~<br> 2025.04.06]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2025/03/202503130933379332a789-18ff-4e2a-ac39-9759ff5aff89.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://ticket.melon.com/place/index.htm?placeId=329</id>
+    <title>멜론 티켓 ─ CJ아지트 광흥창</title>
+    <updated>2025-03-14T13:23:24.030Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://ticket.melon.com/place/favicon.ico</icon>
+</feed>
