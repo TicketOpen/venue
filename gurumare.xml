@@ -1,43 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>멜론 티켓 ─ 구름아래소극장</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Mon, 17 Mar 2025 22:20:25 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[홍대광 단독 콘서트 ‘Spring Light’]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=211063</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=211063</guid>
-            <pubDate>Mon, 17 Mar 2025 22:18:52 GMT</pubDate>
-            <content:encoded><![CDATA[2025.03.22  ~<br> 2025.03.23]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2025/02/20250217143348c6efeef0-e016-4587-a51f-ab9eec55d174.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[먼데이프로젝트 시즌8 [올리비아 마쉬 EP 발매 기념 Listening Party ‘Meanwhile’] Encore]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=211148</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=211148</guid>
-            <pubDate>Mon, 17 Mar 2025 22:18:52 GMT</pubDate>
-            <content:encoded><![CDATA[2025.03.26  ~<br> 2025.03.26]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2025/03/2025030709022898774885-39ec-47e5-8506-ccdbd37a3040.png/melon/resize/90x125/strip/true" length="0" type="image/png/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[CHARLOTTE : 테종 1st EP 앨범 발매 기념 콘서트]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=211116</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=211116</guid>
-            <pubDate>Mon, 17 Mar 2025 22:18:52 GMT</pubDate>
-            <content:encoded><![CDATA[2025.03.30  ~<br> 2025.03.30]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2025/02/202502281148177e7c2720-bcd5-4f67-94bb-5b63d9881ea9.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[zunhozoon (2016-2018) 추가공연]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=211168</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=211168</guid>
-            <pubDate>Mon, 17 Mar 2025 22:18:52 GMT</pubDate>
-            <content:encoded><![CDATA[2025.05.23  ~<br> 2025.05.24]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2025/03/20250312103359d8efa548-aa35-47f5-972b-a18ff0f583e6.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://ticket.melon.com/place/index.htm?placeId=724</id>
+    <title>멜론 티켓 ─ 구름아래소극장</title>
+    <updated>2025-03-17T23:16:01.343Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://ticket.melon.com/place/favicon.ico</icon>
+</feed>
