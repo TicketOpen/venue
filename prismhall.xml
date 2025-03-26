@@ -1,8 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://ticket.melon.com/place/index.htm?placeId=731</id>
-    <title>멜론 티켓 ─ 프리즘홀</title>
-    <updated>2025-03-26T13:26:53.202Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://ticket.melon.com/place/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>멜론 티켓 ─ 프리즘홀</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 26 Mar 2025 14:19:06 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[THE VANE MONSTER ON THE ROAD Ep1. SEOUL]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=211124</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=211124</guid>
+            <pubDate>Wed, 26 Mar 2025 14:17:31 GMT</pubDate>
+            <content:encoded><![CDATA[2025.03.28  ~<br> 2025.03.28]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2025/02/20250226152559ecaa0114-85ab-40ff-ac65-9f9950ea76c8.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[빅타임 (BIG TIME) : 생일파티]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=211203</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=211203</guid>
+            <pubDate>Wed, 26 Mar 2025 14:17:31 GMT</pubDate>
+            <content:encoded><![CDATA[2025.04.04  ~<br> 2025.04.04]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2025/03/20250319094939f2dfaa68-9e80-4428-ad3b-9720e6ec8017.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+    </channel>
+</rss>
