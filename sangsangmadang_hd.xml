@@ -1,51 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>멜론 티켓 ─ KT&amp;G 상상마당 라이브홀</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Sat, 29 Mar 2025 04:25:42 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[2025 서도밴드 클럽투어 〈새 집〉 - 서울]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=211094</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=211094</guid>
-            <pubDate>Sat, 29 Mar 2025 04:24:18 GMT</pubDate>
-            <content:encoded><![CDATA[2025.04.13  ~<br> 2025.04.13]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2025/02/202502211336288ce9405a-c4cc-47a8-ad31-2881377b6f9b.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[먼데이프로젝트 시즌8 Try Again [안다영 단독 콘서트]]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=211228</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=211228</guid>
-            <pubDate>Sat, 29 Mar 2025 04:24:18 GMT</pubDate>
-            <content:encoded><![CDATA[2025.04.21  ~<br> 2025.04.21]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2025/03/20250326174643fcdeea47-caf4-4640-bc45-14cbf722dce7.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[2025 보라미유 단독콘서트 ‘있잖아’]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=211224</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=211224</guid>
-            <pubDate>Sat, 29 Mar 2025 04:24:18 GMT</pubDate>
-            <content:encoded><![CDATA[2025.04.26  ~<br> 2025.04.26]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2025/03/202503271037231d9acc2e-a91f-40f1-9835-4e61e59d8b72.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[2025 Bye Bye Badman 단독 공연 ‘Bad Timing’]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=211137</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=211137</guid>
-            <pubDate>Sat, 29 Mar 2025 04:24:18 GMT</pubDate>
-            <content:encoded><![CDATA[2025.05.10  ~<br> 2025.05.11]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2025/03/202503181648352b485e12-07aa-49cc-9f41-2083aadd6d75.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[Hi-Fi Un!corn 1st ASIA Tour “Beat it Beat it” IN SEOUL]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=211128</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=211128</guid>
-            <pubDate>Sat, 29 Mar 2025 04:24:18 GMT</pubDate>
-            <content:encoded><![CDATA[2025.05.23  ~<br> 2025.05.23]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2025/02/20250227141352a15fcaae-b0a3-4a4c-b3f9-a7c4ead7aa6c.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://ticket.melon.com/place/index.htm?placeId=913</id>
+    <title>멜론 티켓 ─ KT&amp;G 상상마당 라이브홀</title>
+    <updated>2025-03-29T05:15:18.712Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://ticket.melon.com/place/favicon.ico</icon>
+</feed>
