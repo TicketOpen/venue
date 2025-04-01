@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://ticket.melon.com/place/index.htm?placeId=731</id>
-    <title>멜론 티켓 ─ 프리즘홀</title>
-    <updated>2025-04-01T12:34:27.961Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://ticket.melon.com/place/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>멜론 티켓 ─ 프리즘홀</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Tue, 01 Apr 2025 13:30:15 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[빅타임 (BIG TIME) : 생일파티]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=211203</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=211203</guid>
+            <pubDate>Tue, 01 Apr 2025 13:28:27 GMT</pubDate>
+            <content:encoded><![CDATA[2025.04.04  ~<br> 2025.04.04]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2025/03/20250319094939f2dfaa68-9e80-4428-ad3b-9720e6ec8017.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+    </channel>
+</rss>
