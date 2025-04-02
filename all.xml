@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Apr 2025 01:18:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Apr 2025 03:02:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -112,6 +112,14 @@
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2025/03/2025033115355720d6363c-445c-4586-ad76-fb0a2e58988b.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
+            <title><![CDATA[김마리 생일콘서트 ‘해피마리데이’ : 롤링 30주년 기념 공연 (멜론 티켓 ─ 롤링홀)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=211239</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=211239</guid>
+            <pubDate>Wed, 02 Apr 2025 03:00:23 GMT</pubDate>
+            <content:encoded><![CDATA[2025.05.06  ~<br> 2025.05.06]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2025/03/202503311739385c6e4cae-634e-42f8-9dc4-c9a0d00c785e.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
             <title><![CDATA[이브&로맨틱펀치 조인트 콘서트 (멜론 티켓 ─ 웨스트브릿지)]]></title>
             <link>https://ticket.melon.com/performance/index.htm?prodId=211130</link>
             <guid>https://ticket.melon.com/performance/index.htm?prodId=211130</guid>
@@ -174,6 +182,14 @@
             <pubDate>Tue, 01 Apr 2025 23:16:54 GMT</pubDate>
             <content:encoded><![CDATA[2025.04.21  ~<br> 2025.04.21]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2025/03/20250326161006bc084569-e706-4134-8708-e6ed3f15e4c8.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[KIM GYEOL 3rd Solo Concert “ANOTHER I” (멜론 티켓 ─ 구름아래소극장)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=211240</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=211240</guid>
+            <pubDate>Wed, 02 Apr 2025 03:01:02 GMT</pubDate>
+            <content:encoded><![CDATA[2025.04.26  ~<br> 2025.04.27]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2025/04/20250401103119c85f56c8-388d-4896-a3c2-11ff94267daf.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[zunhozoon (2016-2018) 추가공연 (멜론 티켓 ─ 구름아래소극장)]]></title>
