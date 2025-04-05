@@ -1,8 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://ticket.melon.com/place/index.htm?placeId=329</id>
-    <title>멜론 티켓 ─ CJ아지트 광흥창</title>
-    <updated>2025-04-05T15:15:34.493Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://ticket.melon.com/place/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>멜론 티켓 ─ CJ아지트 광흥창</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sat, 05 Apr 2025 17:15:05 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Woshi(우시) 정규 앨범 쇼케이스 콘서트 : Lost & Found]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=211170</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=211170</guid>
+            <pubDate>Sat, 05 Apr 2025 17:14:02 GMT</pubDate>
+            <content:encoded><![CDATA[2025.04.06  ~<br> 2025.04.06]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2025/03/202503130933379332a789-18ff-4e2a-ac39-9759ff5aff89.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[ADAMANT]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=211229</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=211229</guid>
+            <pubDate>Sat, 05 Apr 2025 17:14:02 GMT</pubDate>
+            <content:encoded><![CDATA[2025.04.18  ~<br> 2025.04.18]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2025/03/2025032711103425a72caf-fe81-462f-a31d-93fb89bf3c78.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[시인을 위하여 정규 일집 발매 기념 쇼케이스]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=211218</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=211218</guid>
+            <pubDate>Sat, 05 Apr 2025 17:14:02 GMT</pubDate>
+            <content:encoded><![CDATA[2025.04.20  ~<br> 2025.04.20]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2025/03/202503271734536b84ca38-6b2c-4d84-9354-1bd1d9885bd1.png/melon/resize/90x125/strip/true" length="0" type="image/png/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[ASH AHN(안성현) 단독 콘서트 〈TO MY JOYFUL WORLD〉]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=211243</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=211243</guid>
+            <pubDate>Sat, 05 Apr 2025 17:14:02 GMT</pubDate>
+            <content:encoded><![CDATA[2025.04.26  ~<br> 2025.04.26]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2025/04/202504011402505898e8e8-0ffc-4022-a312-b64c6b88efbf.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+    </channel>
+</rss>
