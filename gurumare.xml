@@ -1,35 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>멜론 티켓 ─ 구름아래소극장</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Sun, 06 Apr 2025 11:17:14 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[먼데이프로젝트 시즌8 [안녕하신가영 단독 콘서트 “월요일에도 봄이 떠오르면 좋겠어요”]]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=211227</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=211227</guid>
-            <pubDate>Sun, 06 Apr 2025 11:15:41 GMT</pubDate>
-            <content:encoded><![CDATA[2025.04.21  ~<br> 2025.04.21]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2025/03/20250326161006bc084569-e706-4134-8708-e6ed3f15e4c8.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[KIM GYEOL 3rd Solo Concert “ANOTHER I”]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=211240</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=211240</guid>
-            <pubDate>Sun, 06 Apr 2025 11:15:41 GMT</pubDate>
-            <content:encoded><![CDATA[2025.04.26  ~<br> 2025.04.27]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2025/04/20250401103119c85f56c8-388d-4896-a3c2-11ff94267daf.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[zunhozoon (2016-2018) 추가공연]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=211168</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=211168</guid>
-            <pubDate>Sun, 06 Apr 2025 11:15:41 GMT</pubDate>
-            <content:encoded><![CDATA[2025.05.23  ~<br> 2025.05.24]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2025/03/20250312103359d8efa548-aa35-47f5-972b-a18ff0f583e6.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://ticket.melon.com/place/index.htm?placeId=724</id>
+    <title>멜론 티켓 ─ 구름아래소극장</title>
+    <updated>2025-04-06T13:22:25.195Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://ticket.melon.com/place/favicon.ico</icon>
+</feed>
