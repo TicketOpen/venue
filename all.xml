@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Apr 2025 08:25:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Apr 2025 09:21:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -294,6 +294,14 @@
             <pubDate>Tue, 08 Apr 2025 07:18:08 GMT</pubDate>
             <content:encoded><![CDATA[2025.04.19  ~<br> 2025.04.19]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2025/03/202503141345439684749c-9715-4588-9c3f-7e936c7b2960.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[Shinsei Kamattechan Live in Seoul (멜론 티켓 ─ 노들섬)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=211259</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=211259</guid>
+            <pubDate>Tue, 08 Apr 2025 09:21:03 GMT</pubDate>
+            <content:encoded><![CDATA[2025.06.18  ~<br> 2025.06.18]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2025/04/2025040417443149593488-5939-4e86-9473-9df00222d2b6.png/melon/resize/90x125/strip/true" length="0" type="image/png/melon/resize/90x125/strip/true"/>
         </item>
     </channel>
 </rss>
