@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Apr 2025 01:18:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Apr 2025 03:01:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -262,6 +262,14 @@
             <pubDate>Wed, 09 Apr 2025 01:17:25 GMT</pubDate>
             <content:encoded><![CDATA[2025.04.26  ~<br> 2025.04.26]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2025/04/202504011402505898e8e8-0ffc-4022-a312-b64c6b88efbf.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
+        </item>
+        <item>
+            <title><![CDATA[먼데이프로젝트 시즌8 [찬민 단독 콘서트 ‘여명’] (멜론 티켓 ─ CJ아지트 광흥창)]]></title>
+            <link>https://ticket.melon.com/performance/index.htm?prodId=211270</link>
+            <guid>https://ticket.melon.com/performance/index.htm?prodId=211270</guid>
+            <pubDate>Wed, 09 Apr 2025 03:00:50 GMT</pubDate>
+            <content:encoded><![CDATA[2025.05.07  ~<br> 2025.05.07]]></content:encoded>
+            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2025/04/20250408184331b6de503a-d0b6-4e76-b267-886dc6b118d7.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[Rokudenashi 1st Oneman Live「Not Just A Memory」Live In Korea (멜론 티켓 ─ 예스24 라이브홀)]]></title>
