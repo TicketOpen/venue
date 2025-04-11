@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Apr 2025 05:20:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Apr 2025 07:19:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -94,14 +94,6 @@
             <pubDate>Fri, 11 Apr 2025 05:17:52 GMT</pubDate>
             <content:encoded><![CDATA[2025.05.06  ~<br> 2025.05.06]]></content:encoded>
             <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2025/03/202503311739385c6e4cae-634e-42f8-9dc4-c9a0d00c785e.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[소란하는 밤 단독콘서트 ‘소란하는 유니버스 : 첫 호출’ : 롤링 30주년 기념 공연 (멜론 티켓 ─ 롤링홀)]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=211246</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=211246</guid>
-            <pubDate>Fri, 11 Apr 2025 05:17:52 GMT</pubDate>
-            <content:encoded><![CDATA[2025.05.08  ~<br> 2025.05.08]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2025/04/20250403090831ecd61df7-4ee7-416a-b7c3-49c9624b1221.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
         </item>
         <item>
             <title><![CDATA[O.O.O 단독콘서트 ‘Ó- RAÑGE’ : 롤링 30주년 기념 공연 (멜론 티켓 ─ 롤링홀)]]></title>
