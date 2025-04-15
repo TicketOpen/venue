@@ -1,59 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>멜론 티켓 ─ 벨로주</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Tue, 15 Apr 2025 05:20:03 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[맥거핀 8주년 기념 단독 콘서트 [MR. Celebration]]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=211197</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=211197</guid>
-            <pubDate>Tue, 15 Apr 2025 05:18:26 GMT</pubDate>
-            <content:encoded><![CDATA[2025.04.20  ~<br> 2025.04.20]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2025/03/20250319183115a5330194-8fab-4ba4-9a14-1222573f0ab3.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[NAZCA RECORDS CONCERT [나즈카 레코드 콘서트]]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=211225</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=211225</guid>
-            <pubDate>Tue, 15 Apr 2025 05:18:26 GMT</pubDate>
-            <content:encoded><![CDATA[2025.04.26  ~<br> 2025.04.26]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2025/03/2025032615002591fd69b0-903d-4a3c-bb1e-c5ae69b48964.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[Get Together - 희망씨 나눔콘서트]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=211230</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=211230</guid>
-            <pubDate>Tue, 15 Apr 2025 05:18:26 GMT</pubDate>
-            <content:encoded><![CDATA[2025.04.27  ~<br> 2025.04.27]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2025/03/2025032714021351440085-16b4-47f9-9668-6f0a3aef7d26.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[먼데이프로젝트 시즌8 Our Universe [손을모아 단독 콘서트]]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=211249</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=211249</guid>
-            <pubDate>Tue, 15 Apr 2025 05:18:26 GMT</pubDate>
-            <content:encoded><![CDATA[2025.05.01  ~<br> 2025.05.01]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2025/04/20250401172054f73061f6-7919-4635-86b6-2e5a0a3876ce.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[MEANING OF GLOW]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=211292</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=211292</guid>
-            <pubDate>Tue, 15 Apr 2025 05:18:26 GMT</pubDate>
-            <content:encoded><![CDATA[2025.05.03  ~<br> 2025.05.03]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2025/04/20250414104817e620cc48-512c-4d2f-81b6-4276814146aa.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-        <item>
-            <title><![CDATA[서자영 [Naro] 3번째 EP 발매기념 단독 콘서트]]></title>
-            <link>https://ticket.melon.com/performance/index.htm?prodId=211286</link>
-            <guid>https://ticket.melon.com/performance/index.htm?prodId=211286</guid>
-            <pubDate>Tue, 15 Apr 2025 05:18:26 GMT</pubDate>
-            <content:encoded><![CDATA[2025.05.10  ~<br> 2025.05.10]]></content:encoded>
-            <enclosure url="https://cdnticket.melon.co.kr/resource/image/upload/product/2025/04/202504110935168d7c8420-a44a-4d68-9940-6ef791318871.jpg/melon/resize/90x125/strip/true" length="0" type="image/jpg/melon/resize/90x125/strip/true"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://ticket.melon.com/place/index.htm?placeId=12</id>
+    <title>멜론 티켓 ─ 벨로주</title>
+    <updated>2025-04-15T06:24:35.315Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://ticket.melon.com/place/favicon.ico</icon>
+</feed>
